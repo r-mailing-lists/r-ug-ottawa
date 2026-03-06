@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-10",
+  "messages": [
+    {
+      "id": "msg-4551fbe70f74",
+      "message_id": "<4AE898A0.1020105@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-10-28T15:16:48-04:00",
+      "subject": "[OGRUG] Group meeting Nov 6",
+      "subject_clean": "[OGRUG] Group meeting Nov 6",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Ottawa Gatineau R User Group (OGRUG)\n(mailing list R-UG-Ottawa)\n\nDate: November 6, 2009 (Friday)\nTime: 15:00\nLocation: 601 Booth St. (Geological Survey of Canada building)\n          Room 177 (Harrison Hall)\n\n          Note: You will need to sign in with building security. To\n          make this easier, please let Bob Garrett\n                 (Robert.Garrett at NRCan-RNCan.gc.ca)\n          know you plan to come so he can provide a list to the desk.\n\n          Bus Service: Routes 101 and 102 along Booth Street (Daniel\n          McCann stop), and routes 6 and 85 along Carling Avenue\n          (Booth Street stop and walk towards the Queensway).\n\nTopic: Where are we going with R?\n\nThis meeting is intended to bring together existing and new members of\nOGRUG and to explore the types of work they are doing with R, such as,\n- graphical tools, e.g., lattice\n- high performance or parallel R\n- specialized user interfaces\n\nWe had hoped to have Bryan Lewis join us, but recent changes at\nRevolution Computing have put this in doubt. These developments may also\nserve to prompt discussion over support for R and specialized tools for R.\n\nUseR2010 has been announced. It will be in the Washington DC area late\nJuly 2010. Some members of the group have been to UseR in the past and\ncan provide background information.\n\nFeel free to pass this to colleagues who might be interested. There is\nno charge for this event.",
+      "body_snippet": "Ottawa Gatineau R User Group (OGRUG)\n(mailing list R-UG-Ottawa)\n\nDate: November 6, 2009 (Friday)\nTime: 15:00\nLocation: 601 Booth St. (Geological Survey of Canada building)\n          Room 177 (Harrison",
+      "thread_id": "thread-4551fbe70f74",
+      "thread_depth": 0,
+      "month": "2009-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-4551fbe70f74",
+      "subject": "[OGRUG] Group meeting Nov 6",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-10-28T15:16:48-04:00",
+      "last_reply": "2009-10-28T15:16:48-04:00",
+      "root_message_id": "msg-4551fbe70f74"
+    }
+  ]
+}

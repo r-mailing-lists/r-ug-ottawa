@@ -1,0 +1,295 @@
+From chunyun_m@ @ending from c@rleton@c@  Fri Oct  5 22:02:58 2018
+From: chunyun_m@ @ending from c@rleton@c@ (Chunyun Ma)
+Date: Fri, 5 Oct 2018 16:02:58 -0400
+Subject: [OGRUG] seek advice/collaboration on how to promote R in our city
+Message-ID: <CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg@mail.gmail.com>
+
+Hi dear fellow R users!
+
+My name is Chunyun and I have been using R for the past three years, most
+recently completed my PhD thesis using R. Long story short, I am writing to
+you today to seek advice/collaboration on how to promote R in our city. I
+recently designed and delivered a series of workshops on introduction to R.
+My audience consisted of a professor from Carleton University and her lab
+members. The experience really inspired me to consider repeating it again,
+perhaps even on a larger scale. I looked up examples from other communities
+and found a couple prominent ones such as the coding club
+<https://ourcodingclub.github.io/> at University of Edinburgh and data
+carpentry <https://datacarpentry.org/>.
+
+If you are also excited by this short introduction and would like to chat
+more, let's meet in person! I am currently working as a postdoc at Carleton
+University and can meet you in the evenings on weekdays or during weekends.
+
+Best wishes,  Chunyun
+
+	[[alternative HTML version deleted]]
+
+
+From profjcn@@h @ending from gm@il@com  Sat Oct  6 14:53:36 2018
+From: profjcn@@h @ending from gm@il@com (J C Nash)
+Date: Sat, 6 Oct 2018 08:53:36 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1
+In-Reply-To: <mailman.180.3.1538820002.52939.r-ug-ottawa@r-project.org>
+References: <mailman.180.3.1538820002.52939.r-ug-ottawa@r-project.org>
+Message-ID: <9d225a2f-0709-9cc2-808b-66a11f8ab469@gmail.com>
+
+Paul Gilbert and I set up R-UG-Ottawa list and took over OGRUG from
+Joseph Potvin a few years ago, intending to pass off to someone younger
+and more active. So far that hasn't happened. Maybe it's time to think
+of some meetup to try to kickstart the transition?
+
+John Nash
+
+
+On 2018-10-06 06:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+> 
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+> 
+> 
+> Today's Topics:
+> 
+>    1. seek advice/collaboration on how to promote R in our city
+>       (Chunyun Ma)
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Fri, 5 Oct 2018 16:02:58 -0400
+> From: Chunyun Ma <chunyun_ma at carleton.ca>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] seek advice/collaboration on how to promote R in our
+> 	city
+> Message-ID:
+> 	<CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> Hi dear fellow R users!
+> 
+> My name is Chunyun and I have been using R for the past three years, most
+> recently completed my PhD thesis using R. Long story short, I am writing to
+> you today to seek advice/collaboration on how to promote R in our city. I
+> recently designed and delivered a series of workshops on introduction to R.
+> My audience consisted of a professor from Carleton University and her lab
+> members. The experience really inspired me to consider repeating it again,
+> perhaps even on a larger scale. I looked up examples from other communities
+> and found a couple prominent ones such as the coding club
+> <https://ourcodingclub.github.io/> at University of Edinburgh and data
+> carpentry <https://datacarpentry.org/>.
+> 
+> If you are also excited by this short introduction and would like to chat
+> more, let's meet in person! I am currently working as a postdoc at Carleton
+> University and can meet you in the evenings on weekdays or during weekends.
+> 
+> Best wishes,  Chunyun
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> 
+> 
+> 
+> ------------------------------
+> 
+> Subject: Digest Footer
+> 
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> 
+> 
+> ------------------------------
+> 
+> End of R-UG-Ottawa Digest, Vol 44, Issue 1
+> ******************************************
+>
+
+
+From jpotvin @ending from opm@n@c@  Sat Oct  6 15:03:07 2018
+From: jpotvin @ending from opm@n@c@ (Joseph Potvin)
+Date: Sat, 6 Oct 2018 09:03:07 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1
+In-Reply-To: <9d225a2f-0709-9cc2-808b-66a11f8ab469@gmail.com>
+References: <mailman.180.3.1538820002.52939.r-ug-ottawa@r-project.org>
+ <9d225a2f-0709-9cc2-808b-66a11f8ab469@gmail.com>
+Message-ID: <CAKcXiSoU_8h91JrZ_p_OJCTywtoo3snWpsnyEF46GvbMqHoptg@mail.gmail.com>
+
+I'll be happy to assist in some way. I'm not currently implementing R, but
+I am coordinating work that expresses algorithms with control tables and
+decision tables.
+
+Joseph Potvin
+Mobile: 819-593-5983
+
+
+On Sat, Oct 6, 2018 at 8:53 AM J C Nash <profjcnash at gmail.com> wrote:
+
+> Paul Gilbert and I set up R-UG-Ottawa list and took over OGRUG from
+> Joseph Potvin a few years ago, intending to pass off to someone younger
+> and more active. So far that hasn't happened. Maybe it's time to think
+> of some meetup to try to kickstart the transition?
+>
+> John Nash
+>
+>
+> On 2018-10-06 06:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> > Send R-UG-Ottawa mailing list submissions to
+> >       r-ug-ottawa at r-project.org
+> >
+> > To subscribe or unsubscribe via the World Wide Web, visit
+> >       https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> > or, via email, send a message with subject or body 'help' to
+> >       r-ug-ottawa-request at r-project.org
+> >
+> > You can reach the person managing the list at
+> >       r-ug-ottawa-owner at r-project.org
+> >
+> > When replying, please edit your Subject line so it is more specific
+> > than "Re: Contents of R-UG-Ottawa digest..."
+> >
+> >
+> > Today's Topics:
+> >
+> >    1. seek advice/collaboration on how to promote R in our city
+> >       (Chunyun Ma)
+> >
+> > ----------------------------------------------------------------------
+> >
+> > Message: 1
+> > Date: Fri, 5 Oct 2018 16:02:58 -0400
+> > From: Chunyun Ma <chunyun_ma at carleton.ca>
+> > To: r-ug-ottawa at r-project.org
+> > Subject: [OGRUG] seek advice/collaboration on how to promote R in our
+> >       city
+> > Message-ID:
+> >       <
+> CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg at mail.gmail.com>
+> > Content-Type: text/plain; charset="utf-8"
+> >
+> > Hi dear fellow R users!
+> >
+> > My name is Chunyun and I have been using R for the past three years, most
+> > recently completed my PhD thesis using R. Long story short, I am writing
+> to
+> > you today to seek advice/collaboration on how to promote R in our city. I
+> > recently designed and delivered a series of workshops on introduction to
+> R.
+> > My audience consisted of a professor from Carleton University and her lab
+> > members. The experience really inspired me to consider repeating it
+> again,
+> > perhaps even on a larger scale. I looked up examples from other
+> communities
+> > and found a couple prominent ones such as the coding club
+> > <https://ourcodingclub.github.io/> at University of Edinburgh and data
+> > carpentry <https://datacarpentry.org/>.
+> >
+> > If you are also excited by this short introduction and would like to chat
+> > more, let's meet in person! I am currently working as a postdoc at
+> Carleton
+> > University and can meet you in the evenings on weekdays or during
+> weekends.
+> >
+> > Best wishes,  Chunyun
+> >
+> >       [[alternative HTML version deleted]]
+> >
+> >
+> >
+> >
+> > ------------------------------
+> >
+> > Subject: Digest Footer
+> >
+> > _______________________________________________
+> > R-UG-Ottawa mailing list
+> > R-UG-Ottawa at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> >
+> >
+> > ------------------------------
+> >
+> > End of R-UG-Ottawa Digest, Vol 44, Issue 1
+> > ******************************************
+> >
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From chunyun_m@ @ending from c@rleton@c@  Sat Oct  6 22:25:53 2018
+From: chunyun_m@ @ending from c@rleton@c@ (Chunyun Ma)
+Date: Sat, 6 Oct 2018 16:25:53 -0400
+Subject: [OGRUG] 
+ seek advice/collaboration on how to promote R in our city
+In-Reply-To: <CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg@mail.gmail.com>
+References: <CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg@mail.gmail.com>
+Message-ID: <CAFS3taSiWYevrfw6GkS4FHDif95cxpHzyP77FSu=pbzD3_H8KQ@mail.gmail.com>
+
+Hi John and Joseph,
+
+Thank you for the quick response!  I'd be happy to help organize the meetup
+and/or discuss the transition.
+
+Best wishes,  Chunyun
+
+On Fri, Oct 5, 2018 at 4:02 PM Chunyun Ma <chunyun_ma at carleton.ca> wrote:
+
+> Hi dear fellow R users!
+>
+> My name is Chunyun and I have been using R for the past three years, most
+> recently completed my PhD thesis using R. Long story short, I am writing to
+> you today to seek advice/collaboration on how to promote R in our city. I
+> recently designed and delivered a series of workshops on introduction to R.
+> My audience consisted of a professor from Carleton University and her lab
+> members. The experience really inspired me to consider repeating it again,
+> perhaps even on a larger scale. I looked up examples from other communities
+> and found a couple prominent ones such as the coding club
+> <https://ourcodingclub.github.io/> at University of Edinburgh and data
+> carpentry <https://datacarpentry.org/>.
+>
+> If you are also excited by this short introduction and would like to chat
+> more, let's meet in person! I am currently working as a postdoc at Carleton
+> University and can meet you in the evenings on weekdays or during weekends.
+>
+> Best wishes,  Chunyun
+>
+
+	[[alternative HTML version deleted]]
+
+
+From ChunyunM@ @ending from cm@il@c@rleton@c@  Wed Oct 24 02:50:50 2018
+From: ChunyunM@ @ending from cm@il@c@rleton@c@ (Chunyun Ma)
+Date: Wed, 24 Oct 2018 00:50:50 +0000
+Subject: [OGRUG] seek advice/collaboration on how to promote R in our city
+ (follow up)
+Message-ID: <CAFS3taSj04ttSO7_JDy4kXEPaLAzqjcRg4FO_TiOJaffPZr0PQ@mail.gmail.com>
+
+Hi dear fellow R users!
+
+My name is Chunyun. About three weeks ago, I sent an email to this group seeking advice/collaboration on how to promote R in our city. I am resending this email just in case my last email didn't reach some of you.
+
+I have been using R for the past three years, most recently completed my PhD thesis using R. This past summer, I designed and delivered a series of workshops on introduction to R. My audience consisted of a professor from Carleton University and her lab members. Most recently, I started a weekly R workshop with a small group of students at Carleton. These experiences really inspired me to wanting to connect with other people who are also interested in promoting R.
+
+If you have experience with this subject and wouldn't mind sharing, let's meet in person! I am currently working as a postdoc at Carleton University and can meet you in the evenings on weekdays or during weekends.
+
+Best wishes,  Chunyun
+
+	[[alternative HTML version deleted]]
+
+

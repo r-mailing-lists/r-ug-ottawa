@@ -1,0 +1,92 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2011-12",
+  "messages": [
+    {
+      "id": "msg-160c5fbb84d2",
+      "message_id": "<1322826277.25386.YahooMailNeo@web161701.mail.bf1.yahoo.com>",
+      "from_name": "shyam basnet",
+      "from_email_hash": "2397a9dcb715c266981e885e70fe262e15ec79f59a2d590f89db594282f55b31",
+      "date": "2011-12-02T03:44:37-08:00",
+      "subject": "[OGRUG] Problem in GenMatch",
+      "subject_clean": "[OGRUG] Problem in GenMatch",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl>",
+      "thread_id": "thread-160c5fbb84d2",
+      "thread_depth": 0,
+      "month": "2011-12"
+    },
+    {
+      "id": "msg-4a537ca2f087",
+      "message_id": "<1322826660.68824.YahooMailNeo@web161702.mail.bf1.yahoo.com>",
+      "from_name": "shyam basnet",
+      "from_email_hash": "2397a9dcb715c266981e885e70fe262e15ec79f59a2d590f89db594282f55b31",
+      "date": "2011-12-02T03:51:00-08:00",
+      "subject": "[OGRUG] Error in GenMatch",
+      "subject_clean": "[OGRUG] Error in GenMatch",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl>",
+      "thread_id": "thread-4a537ca2f087",
+      "thread_depth": 0,
+      "month": "2011-12"
+    },
+    {
+      "id": "msg-5d25543c8d48",
+      "message_id": "<4EDA2789.9050004@uottawa.ca>",
+      "from_name": "John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-12-03T08:43:37-05:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1",
+      "in_reply_to": "<mailman.11.1322910002.6751.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.11.1322910002.6751.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "The posts below are inappropriate to a local geographic list and as admin I have\nunsubscribed the poster.\n\nJN\n\n\nOn 12/03/2011 06:00 AM, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n> \n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n> \n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n> \n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n> \n> \n> Today's Topics:\n> \n>    1. Problem in GenMatch (shyam basnet)\n>    2. Error in GenMatch (shyam basnet)\n> \n> \n> ----------------------------------------------------------------------\n> \n> Message: 1\n> Date: Fri, 2 Dec 2011 03:44:37 -0800 (PST)\n> From: shyam basnet <shyamabc2002 at yahoo.com>\n> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n> Subject: [OGRUG] Problem in GenMatch\n> Message-ID:\n> \t<1322826277.25386.YahooMailNeo at web161701.mail.bf1.yahoo.com>\n> Content-Type: text/plain\n> \n> Dear R Users,\n> \n> I am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n> \n> Error in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : \n>   GenMatch(): input includes NAs\n> \n> Could you please suggest me correcting the above problem?\n> \n> My GenMatch command is,\n> \n>> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)\n> \n> Thanking you,\n> \n> Sincerely Yours,\n> \n> Shyam Kumar Basnet\n> SLU, Uppsala\n> Sweden\n> \t[[alternative HTML version deleted]]\n> \n> \n> \n> ------------------------------\n> \n> Message: 2\n> Date: Fri, 2 Dec 2011 03:51:00 -0800 (PST)\n> From: shyam basnet <shyamabc2002 at yahoo.com>\n> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n> Subject: [OGRUG] Error in GenMatch\n> Message-ID:\n> \t<1322826660.68824.YahooMailNeo at web161702.mail.bf1.yahoo.com>\n> Content-Type: text/plain\n> \n> Dear R Users,\n> \n> I am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n> \n> Error in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : \n>   GenMatch(): input includes NAs\n> \n> Could you please suggest me correcting the above problem?\n> \n> My GenMatch command is,\n> \n>> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)\n> \n> Thanking you,\n> \n> Sincerely Yours,\n> \n> Shyam Kumar Basnet\n> SLU, Uppsala\n> Sweden \n> \n> \t[[alternative HTML version deleted]]\n> \n> \n> \n> ------------------------------\n> \n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> \n> \n> End of R-UG-Ottawa Digest, Vol 18, Issue 1\n> ******************************************",
+      "body_snippet": "The posts below are inappropriate to a local geographic list and as admin I have\nunsubscribed the poster.\n\nJN\n\n\nOn 12/03/2011 06:00 AM, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa m",
+      "thread_id": "thread-5d25543c8d48",
+      "thread_depth": 0,
+      "month": "2011-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-160c5fbb84d2",
+      "subject": "[OGRUG] Problem in GenMatch",
+      "message_count": 1,
+      "participants": [
+        "shyam basnet"
+      ],
+      "started": "2011-12-02T03:44:37-08:00",
+      "last_reply": "2011-12-02T03:44:37-08:00",
+      "root_message_id": "msg-160c5fbb84d2"
+    },
+    {
+      "id": "thread-4a537ca2f087",
+      "subject": "[OGRUG] Error in GenMatch",
+      "message_count": 1,
+      "participants": [
+        "shyam basnet"
+      ],
+      "started": "2011-12-02T03:51:00-08:00",
+      "last_reply": "2011-12-02T03:51:00-08:00",
+      "root_message_id": "msg-4a537ca2f087"
+    },
+    {
+      "id": "thread-5d25543c8d48",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "John C Nash"
+      ],
+      "started": "2011-12-03T08:43:37-05:00",
+      "last_reply": "2011-12-03T08:43:37-05:00",
+      "root_message_id": "msg-5d25543c8d48"
+    }
+  ]
+}

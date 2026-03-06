@@ -1,0 +1,588 @@
+From youngcsong at gmail.com  Tue Jul 20 00:28:56 2010
+From: youngcsong at gmail.com (Young Song)
+Date: Mon, 19 Jul 2010 15:28:56 -0700
+Subject: [OGRUG] Putting two figures together in R
+Message-ID: <AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>
+
+Hello,
+
+   I have two scripts that are used to generate heatmap and bar graph
+
+*A. Heatmap script:*
+
+library(RColorBrewer)
+library(gplots)
+
+par(mfrow=c(2,1))
+
+Totaltax<-read.table("heatmap_data.txt",header=TRUE)
+Totaltax_log<-log(Totaltax+1)
+Totaltax_mat<-data.matrix(Totaltax_log)
+Totaltax_column<-t(Totaltax_mat)
+cdendro<-as.dendrogram(hclust(dist(Totaltax_column,
+method="manhattan")),method="complete")
+heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,
+trace="none", margins=c(5,13), col=brewer.pal(9,"BuPu"))
+
+
+*B. Bar graph script:*
+
+histo <- read.table("histo_data.txt", header=T)
+
+barplot(histo$Value)
+
+
+Usually, I would run each script separately, and put the two resulting
+diagrams together using Adobe Illustrator.  I was wondering if there is a
+way to put these two diagrams together in R, instead of going through the
+manual procedures.  I am currently using R version 2.11.1 on Mac OS X 10.6.
+The actual data used to generate the diagrams are attached in this message.
+Thank you very much in advance.
+
+ Sincerely,
+
+   Young
+-- 
+Young C. Song
+Masters Student
+University of British Columbia Graduate Program in Bioinformatics
+Vancouver, BC V6T 1Z4, Canada
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100719/0f8150f9/attachment.html>
+-------------- next part --------------
+	SP_1.8m	SP_2.2m	SP_2.9m	SP_3.1m	SP_3.4m	SP_3.7m
+GSB_01	22	65	3181	3627	4165	3786
+GSB_02	2	13	812	1040	1107	991
+GSB_03	0	5	347	399	392	353
+GSB_04	0	1	64	73	87	92
+GSB_05	0	2	48	91	60	69
+GSB_06	0	0	39	52	64	63
+GSB_07	2	2	39	49	61	63
+GSB_08	0	0	31	50	69	55
+GSB_09	1	0	20	34	37	85
+GSB_10	0	1	41	46	49	34
+GSB_11	0	1	26	39	31	28
+GSB_12	1	0	17	27	25	27
+GSB_13	0	0	16	29	24	27
+-------------- next part --------------
+Index	Value
+1	14846
+2	3965
+3	1496
+4	317
+5	270
+6	218
+7	216
+8	205
+9	177
+10	171
+11	125
+12	97
+13	96
+14	47
+15	42
+16	33
+17	30
+18	29
+19	28
+20	28
+21	25
+22	22
+23	22
+24	21
+25	18
+26	17
+27	17
+28	17
+29	16
+30	16
+31	15
+32	15
+33	14
+34	13
+35	13
+36	13
+37	13
+38	12
+39	12
+40	12
+41	11
+42	11
+43	10
+44	10
+45	10
+46	10
+47	8
+48	8
+49	8
+50	8
+51	8
+52	8
+53	7
+54	7
+55	7
+56	7
+57	7
+58	7
+59	6
+60	6
+61	6
+62	6
+63	6
+64	6
+65	6
+66	6
+67	5
+68	5
+69	5
+70	5
+71	5
+72	5
+73	5
+74	5
+75	5
+
+From nashjc at uottawa.ca  Tue Jul 20 15:20:46 2010
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Tue, 20 Jul 2010 09:20:46 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1
+In-Reply-To: <mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>
+References: <mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>
+Message-ID: <4C45A2AE.80408@uottawa.ca>
+
+Very quick (and possibly tangential) idea is to use Sweave. However, I can say right away 
+that the outcome may not be entirely what you need, but would be quick if you know how to 
+use Sweave.
+
+JN
+
+On 07/20/2010 06:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+>
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+>
+>
+> Today's Topics:
+>
+>     1. Putting two figures together in R (Young Song)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Mon, 19 Jul 2010 15:28:56 -0700
+> From: Young Song<youngcsong at gmail.com>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] Putting two figures together in R
+> Message-ID:
+> 	<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> Hello,
+>
+>     I have two scripts that are used to generate heatmap and bar graph
+>
+> *A. Heatmap script:*
+>
+> library(RColorBrewer)
+> library(gplots)
+>
+> par(mfrow=c(2,1))
+>
+> Totaltax<-read.table("heatmap_data.txt",header=TRUE)
+> Totaltax_log<-log(Totaltax+1)
+> Totaltax_mat<-data.matrix(Totaltax_log)
+> Totaltax_column<-t(Totaltax_mat)
+> cdendro<-as.dendrogram(hclust(dist(Totaltax_column,
+> method="manhattan")),method="complete")
+> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,
+> trace="none", margins=c(5,13), col=brewer.pal(9,"BuPu"))
+>
+>
+> *B. Bar graph script:*
+>
+> histo<- read.table("histo_data.txt", header=T)
+>
+> barplot(histo$Value)
+>
+>
+> Usually, I would run each script separately, and put the two resulting
+> diagrams together using Adobe Illustrator.  I was wondering if there is a
+> way to put these two diagrams together in R, instead of going through the
+> manual procedures.  I am currently using R version 2.11.1 on Mac OS X 10.6.
+> The actual data used to generate the diagrams are attached in this message.
+> Thank you very much in advance.
+>
+>   Sincerely,
+>
+>     Young
+
+
+From nashjc at uottawa.ca  Tue Jul 20 15:30:30 2010
+From: nashjc at uottawa.ca (nashjc at uottawa.ca)
+Date: Tue, 20 Jul 2010 09:30:30 -0400 (EDT)
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1
+In-Reply-To: <mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>
+References: <mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>
+Message-ID: <47011.129.6.253.2.1279632630.squirrel@webmail02.uottawa.ca>
+
+I clicked SEND in Thunderbird and msg seemed to be transmitted, but I am
+not at home so am resending from webmail (normally T'bird only sends
+through my home ISP). Ignore if duplicated.
+JN
+
+Very quick (and possibly tangential) idea is to use Sweave. However, I can
+say right away
+that the outcome may not be entirely what you need, but would be quick if
+you know how to
+use Sweave.
+
+JN
+
+On 07/20/2010 06:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+> When replying, please edit your Subject line so it is more specific than
+"Re: Contents of R-UG-Ottawa digest..."
+> Today's Topics:
+>     1. Putting two figures together in R (Young Song)
+> ----------------------------------------------------------------------
+Message: 1
+> Date: Mon, 19 Jul 2010 15:28:56 -0700
+> From: Young Song<youngcsong at gmail.com>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] Putting two figures together in R
+> Message-ID:
+> 	<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ at mail.gmail.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+> Hello,
+>     I have two scripts that are used to generate heatmap and bar graph
+> *A. Heatmap script:*
+> library(RColorBrewer)
+> library(gplots)
+> par(mfrow=c(2,1))
+> Totaltax<-read.table("heatmap_data.txt",header=TRUE)
+> Totaltax_log<-log(Totaltax+1)
+> Totaltax_mat<-data.matrix(Totaltax_log)
+> Totaltax_column<-t(Totaltax_mat)
+> cdendro<-as.dendrogram(hclust(dist(Totaltax_column,
+> method="manhattan")),method="complete")
+> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,
+trace="none", margins=c(5,13), col=brewer.pal(9,"BuPu"))
+> *B. Bar graph script:*
+> histo<- read.table("histo_data.txt", header=T)
+> barplot(histo$Value)
+> Usually, I would run each script separately, and put the two resulting
+diagrams together using Adobe Illustrator.  I was wondering if there is
+a
+> way to put these two diagrams together in R, instead of going through
+the
+> manual procedures.  I am currently using R version 2.11.1 on Mac OS X
+10.6.
+> The actual data used to generate the diagrams are attached in this
+message.
+> Thank you very much in advance.
+>   Sincerely,
+>     Young
+
+
+From robtbiddle at gmail.com  Tue Jul 20 15:58:18 2010
+From: robtbiddle at gmail.com (Robert Biddle)
+Date: Tue, 20 Jul 2010 09:58:18 -0400
+Subject: [OGRUG] Putting two figures together in R
+In-Reply-To: <AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>
+References: <AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>
+Message-ID: <4C45AB7A.1090004@gmail.com>
+
+I'm not 100% sure I know what you want, but if it's just to have
+two plots in the same image side by side, I do this all the time using 
+par and mfrow.
+A simple example would go like this:
+
+ > par(mfrow=c(1,2))
+ > hist(runif(100))
+ > boxplot(runif(100))
+ > par(mfrow=c(1,1))
+
+That gives an image with a histogram on the left and a boxplot on the right.
+You can vary the mfrow numbers as you wish to have them in a row, a 
+column, or a grid.
+The c(1,1) setting at the end is just to change back to a single plot.
+
+Anyway, when it looks right, then you can just save the window to a file.
+For data and graphs I tinker with a lot, I normally embed this kind of 
+thing within a call to pdf or png to
+both display the images and save them to a file.
+
+Anyway, I hope this helps.
+Cheers
+Robert Biddle
+
+On 10-07-19 6:28 PM, Young Song wrote:
+> Hello,
+>
+>    I have two scripts that are used to generate heatmap and bar graph
+>
+> *A. Heatmap script:*
+>
+> library(RColorBrewer)
+> library(gplots)
+>
+> par(mfrow=c(2,1))
+>
+> Totaltax<-read.table("heatmap_data.txt",header=TRUE)
+> Totaltax_log<-log(Totaltax+1)
+> Totaltax_mat<-data.matrix(Totaltax_log)
+> Totaltax_column<-t(Totaltax_mat)
+> cdendro<-as.dendrogram(hclust(dist(Totaltax_column, 
+> method="manhattan")),method="complete")
+> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, 
+> keysize=1, trace="none", margins=c(5,13), col=brewer.pal(9,"BuPu"))
+>
+>
+> *B. Bar graph script:*
+>
+> histo <- read.table("histo_data.txt", header=T)
+>
+> barplot(histo$Value)
+>
+>
+> Usually, I would run each script separately, and put the two resulting 
+> diagrams together using Adobe Illustrator.  I was wondering if there 
+> is a way to put these two diagrams together in R, instead of going 
+> through the manual procedures.  I am currently using R version 2.11.1 
+> on Mac OS X 10.6.  The actual data used to generate the diagrams are 
+> attached in this message.  Thank you very much in advance.
+>
+>  Sincerely,
+>
+>    Young
+> -- 
+> Young C. Song
+> Masters Student
+> University of British Columbia Graduate Program in Bioinformatics
+> Vancouver, BC V6T 1Z4, Canada
+>
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+
+From shameemrahman at hotmail.com  Wed Jul 21 18:07:23 2010
+From: shameemrahman at hotmail.com (Shameem Rahman)
+Date: Wed, 21 Jul 2010 12:07:23 -0400
+Subject: [OGRUG] Job Post: Statistical Modeler/Data Mining Consultant
+	(Immediate Hire)
+Message-ID: <BLU0-SMTP216C7D281194A8B7F10AA8ACA10@phx.gbl>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl>
+
+From CCollins at cheo.on.ca  Thu Jul 29 21:35:26 2010
+From: CCollins at cheo.on.ca (Collins, Catherine)
+Date: Thu, 29 Jul 2010 15:35:26 -0400
+Subject: [OGRUG] Inference for R
+Message-ID: <C4BAB6839AD1CB4DB328610AAD0A910F01E76AC7@exchsrv1.cheo.int>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl>
+
+From nashjc at uottawa.ca  Fri Aug  6 22:57:12 2010
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 06 Aug 2010 16:57:12 -0400
+Subject: [OGRUG] Proposal for September meeting of OGRUG
+Message-ID: <4C5C7728.2040900@uottawa.ca>
+
+R-UG-Ottawa, also known as the Ottawa Gatineau R User Group, has not had a meeting for a 
+while.
+
+We have a proposal to have a joint meeting with the Ottawa Canada Linux User Group where R 
+will be discussed at the September meeting. At the moment OCLUG is waiting for room 
+confirmation from Algonquin College, who kindly give space. Due to start of term, we are 
+waiting to here if we will have a room on Thurs. Sept 2 or Tues Sept 7. Watch 
+http://oclug.on.ca for time and place.
+
+I will be presenting an Intro to R. This may be of interest to students at local 
+universities and they will be most welcome. OCLUG meetings are free (a hat is passed to 
+help cover some of the equipment and promotional expenses of the group) and public.
+
+I'm hoping that Paul Gilbert can give some comments on ideas presented at UseR! 2010 that 
+took place in late July at NIST in Gaithersburg Md. I was there too, but should not wear 
+out my welcome.
+
+We also hope to get some lively exchange between two groups with strong interests in open 
+source software.
+
+Cheers,
+
+John Nash
+
+
+From etiennebr at gmail.com  Wed Aug 18 14:56:53 2010
+From: etiennebr at gmail.com (Etienne Bellemare Racine)
+Date: Wed, 18 Aug 2010 08:56:53 -0400
+Subject: [OGRUG] Inference for R
+Message-ID: <4C6BD895.90601@gmail.com>
+
+  Hi Catherine,
+
+Have you taken a look at statconn [1] ? Maybe it could be a good (free) 
+compromise between Inference and Sweave especially, I think, if you want 
+to treat R data, but not necessarily have an integrated process.
+
+Cheers,
+Etienne
+
+[1] http://www.statconn.com/
+> Hello R users,
+>
+> I am currently taking "Inference for R" for a test drive. This is an
+> add-on for Excel that allows you to pull R code into an Excel
+> spreadsheet, treating Excel data tables as R dataframes. It then spits
+> out the results to an Excel worksheet.  Very slick, with a shorter
+> learning curve than Sweave or ODFweave.
+>
+> The only problem is that it markets itself through an annual license
+> fee. The fee itself is not high for what you get -- the ability to turn
+> a piece of office furniture into a stats package -- but before I pitch
+> this to my manager, I would like some reassurance that Blue Reference
+> (the company that writes the software) is likely to stick around for a
+> while.
+>
+> Does anyone have any experience with "Inference for R"?
+>
+> Thanks,
+>
+> Catherine Collins, PhD
+> CHEO
+
+
+From nashjc at uottawa.ca  Sat Aug 21 04:29:18 2010
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 20 Aug 2010 22:29:18 -0400
+Subject: [OGRUG] Meeting September 7, 2010
+In-Reply-To: <mailman.11.1282212004.1964.r-ug-ottawa@r-project.org>
+References: <mailman.11.1282212004.1964.r-ug-ottawa@r-project.org>
+Message-ID: <4C6F39FE.1030309@uottawa.ca>
+
+There will be a joint meeting with the Ottawa Canada Linux Users Group in DMS 7170 on 
+September 7 2010 (TUES) at 1900. For directions and more details go to http://oclug.on.ca.
+
+DMS 7170 is in 55 Laurier E, right by the transitway.
+
+Paul Gilbert and I will present a brief overview of R, mainly for non-users/beginners, and 
+a review of UseR! 2010 contributions. This should be a good chance to meet other R users 
+as well as other open-source enthusiasts. The meeting is open to all, and would be a very 
+useful occasion for new statistics students to get an introduction to R, so pass the word.
+
+Cheers,
+
+John Nash
+
+
+From david.gattrell at gmail.com  Sun Aug 22 04:25:29 2010
+From: david.gattrell at gmail.com (David Gattrell)
+Date: Sat, 21 Aug 2010 22:25:29 -0400
+Subject: [OGRUG] Is anyone running R on a Mac, and if so,
+ can they let me know what the Sys.info() command returns?
+Message-ID: <AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl>
+
+From robtbiddle at gmail.com  Mon Aug 23 14:10:37 2010
+From: robtbiddle at gmail.com (Robert Biddle)
+Date: Mon, 23 Aug 2010 08:10:37 -0400
+Subject: [OGRUG] Is anyone running R on a Mac, and if so,
+ can they let me know what the Sys.info() command returns?
+In-Reply-To: <AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>
+References: <AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>
+Message-ID: <4C72653D.5000703@gmail.com>
+
+  > Sys.info()["sysname"]
+  sysname
+"Darwin"
+
+Is that what you need?
+Robert
+
+On 10-08-21 10:25 PM, David Gattrell wrote:
+> I'm sending a command to open a PDF file from within an R script.  The
+> actual command
+> is system dependent, and I'm trying to figure out how I determine the script
+> is running on
+> a Mac, so that the correct command is used.  I don't have a Mac available to
+> verify this
+> section of the code.
+>
+>      help_button<- tkbutton(my_main_win,
+>                          text="PDF Manual",
+>                          anchor="w",
+>                          command=function() {
+>                              my_dir = getwd()
+>                              src_dir<-
+> paste(tclObj(Source_dir),sep="",collapse=" ")
+>                              setwd(src_dir)
+>                              # "RADAR_documentation_0v6p5.pdf"
+>                              if
+> (as.character(Sys.info()["sysname"])=="Windows") {
+>                                  command_str = "cmd /c start
+> RADAR_documentation_0v6p5.pdf"
+>                              } else if
+> (as.character(Sys.info()["sysname"])=="Mac") {
+>                                  command_str = "open
+> RADAR_documentation_0v6p5.pdf"
+>                              } else { # linux
+>                                  command_str = "xdg-open
+> RADAR_documentation_0v6p5.pdf"
+>                              }
+>                              system(command_str)
+>                              setwd(my_dir)
+>                          })
+>      tkpack(help_button,side="top",padx="10m",fill="x")
+>
+>
+> Hopefully I'm sending this to the appropriate email address.
+>
+> Thanks,
+>
+> DaveG
+>
+>
+> PS
+>
+> If you are curious as to what RADAR is in the above code...
+> http://sites.google.com/site/stdfradar/
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+

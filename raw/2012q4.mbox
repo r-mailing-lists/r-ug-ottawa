@@ -1,0 +1,146 @@
+From stephane.gagnon at uqo.ca  Thu Oct 18 17:46:11 2012
+From: stephane.gagnon at uqo.ca (Stephane Gagnon)
+Date: Thu, 18 Oct 2012 11:46:11 -0400
+Subject: [OGRUG] GPU Acceleration in R
+Message-ID: <006101cdad47$b3078470$19168d50$@uqo.ca>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl>
+
+From nashjc at uottawa.ca  Mon Nov  5 15:04:01 2012
+From: nashjc at uottawa.ca (U30A J C Nash)
+Date: Mon, 05 Nov 2012 09:04:01 -0500
+Subject: [OGRUG] OGRUG meeting Nov 29
+In-Reply-To: <5097C2ED.2060503@ncf.ca>
+References: <5097C2ED.2060503@ncf.ca>
+Message-ID: <5097C751.2040105@uottawa.ca>
+
+An Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up
+for 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Ottawa:
+
+?cole de gestion TELFER / Telfer School of Management
+Pavillon DESMARAIS Building
+DMS 4165
+55 Laurier Avenue E., Ottawa
+
+The featured talk will be
+
+      Spatial Statistics and R
+
+            John Lewis
+        Professor (retired)
+         McGill University
+
+The talk will be followed by an opportunity for discussion and questions 
+about other aspects of R as well.
+
+Please pass this information along to anyone that you think may be
+interested. For those who do not yet use R, but are interested in
+learning about it, the group is happy to respond to general questions.
+
+Anyone interested in giving a presentation at a future meeting is
+encouraged to contact  John Nash (nashjc at uottawa.ca) or Paul Gilbert
+(pgilbert902 at gmail.com)
+
+Note: There is limited (and very expensive!) parking under the Desmarais 
+building. The entrance is on Nicholas Street NORTHBOUND only.
+While there is other paid parking on Campus, the Rideau Centre is likely 
+more convenient.
+
+The Laurier Station of the Transitway is next to the building 
+(South/East bound) or across the street (North/West bound).
+
+There are bicycle racks around the building.
+
+
+From nashjc at uottawa.ca  Mon Nov 19 15:14:06 2012
+From: nashjc at uottawa.ca (Prof J C Nash (U30A))
+Date: Mon, 19 Nov 2012 09:14:06 -0500
+Subject: [OGRUG] Fwd: INVITATION - Research Challenges Seminar Series
+ presents John Nash on Friday, November 23, 2012
+In-Reply-To: <c90fbe473afd45d893f60a116200c931@CMS-P02.uottawa.o.univ>
+References: <c90fbe473afd45d893f60a116200c931@CMS-P02.uottawa.o.univ>
+Message-ID: <50AA3EAE.4000809@uottawa.ca>
+
+R-UG members may find this interesting, since it uses 
+Sweave/knitr/odfWeave. Email Caroline if you'd like to attend.
+
+JN
+
+INVITATION - Research Challenges Seminar Series presents John Nash on 
+Friday, November 23, 2012
+
+Location: DMS 6160
+
+When: Fri 23 Nov 2012 11:00 AM ? 12:00 PM
+
+Organizer: Faucher, Caroline <Faucher at telfer.uottawa.ca>
+
+  The Research Challenges Seminar Series invites you to a presentation 
+given by John Nash, Assistant Professor at the Telfer School of 
+Management. His presentation entitled Open-Source Tools for Sensible 
+Report Updates will be held on: Friday, November 23, 2012 11:00 to 12:00 
+Telfer School of Management Desmarais Building DMS 6160 RSVP by 
+Thursday, November 22, 2012 to Caroline Faucher 
+(faucher at telfer.uOttawa.ca<mailto:faucher at telfer.uOttawa.ca> or 
+613-562-5800 extension 2986). Please note that there is limited seating 
+available. The objective of the Research Challenges Seminar Series is to 
+assist researchers in dealing with obstacles and questions that have 
+arisen over the course of their research by offering a supportive, 
+constructive environment to discuss their ?work in progress?. These 
+presentations will allow researchers to benefit from the input and 
+experience of their colleagues, while sharing their ongoing work with 
+the seminar participants.
+
+Abstract
+
+This talk will introduce tools for automatically generating reports and 
+graphs that need updating, such as quarterly
+budget/accounts, annual reports, or evolving graphs of measurements or 
+statistics. The need to reduce onerous mouse or
+pointer operations and to avoid cut?and?past errors has been part of the 
+motivation of the Microsoft OLE framework and
+similar ventures, but these approaches are complex and only work on one 
+platform, so work is difficult to share. As a way
+to counter this, several tools have been developed, originally so 
+important studies (clinical trials of drugs, for example)
+could be sure the report contained exactly the results it should, and 
+could be revised properly as new patient data arrived.
+These relatively new tools, which come out of the ?Reproducible 
+Research? effort of the R Project for Statistical
+Computing, are cross?platform, very powerful, and can be used 
+collaboratively. They have evolved to have utility far
+beyond the scope of R. During the session, Dr. Nash will demonstrate how 
+these tools can be used to prepare
+collaborative academic papers and books and show how they can do a 
+better job of getting calculations and graphs
+updated in a way that vastly reduces the ?busy work? leading to the 
+final product.
+
+
+From nashjc at uottawa.ca  Tue Nov 27 15:35:28 2012
+From: nashjc at uottawa.ca (Prof J C Nash (U30A))
+Date: Tue, 27 Nov 2012 09:35:28 -0500
+Subject: [OGRUG] Thursday Group meeting
+Message-ID: <50B4CFB0.4020403@uottawa.ca>
+
+Just a reminder of our upcoming R-UG-Ottawa meeting Thursday
+
+An Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up
+for 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Ottawa:
+
+?cole de gestion TELFER / Telfer School of Management
+Pavillon DESMARAIS Building
+DMS 4165
+55 Laurier Avenue E., Ottawa
+
+The featured talk will be
+
+       Spatial Statistics and R
+
+             John Lewis
+         Professor (retired)
+          McGill University
+
+

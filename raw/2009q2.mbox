@@ -1,0 +1,81 @@
+From pgilbert at bank-banque-canada.ca  Tue Jun 23 15:57:51 2009
+From: pgilbert at bank-banque-canada.ca (Paul Gilbert)
+Date: Tue, 23 Jun 2009 09:57:51 -0400
+Subject: [OGRUG] [Fwd: [R-sig-hpc] R user survey]
+Message-ID: <4A40DF5F.5000706@bank-banque-canada.ca>
+
+This just circulated on  R-sig-hpc, but may be of interest to several 
+OCRUG members.
+
+Paul Gilbert
+
+-------- Original Message --------
+
+Dear R user,
+
+The Division of Pathway Medicine and Edinburgh Parallel Computing Centre
+at the University of Edinburgh are currently working on a joint project
+to design a framework for using R in parallel called SPRINT.
+
+SPRINT is a Simple Parallel R INTerface and aims to allow researchers
+to easily access High Performance Computing to perform statistical
+analysis on post genomic data using R.
+
+We are now gathering input from R users on what specific functions
+create bottlenecks in their analysis. This information will be used to
+direct the developments of SPRINT, to ensure that key routines are
+optimised and that the functionality is immediately relevant to R users.
+
+It is your chance to tell us what R functions are specific bottleneck
+for your work. I encourage you to take part in our SPRINT online user
+requirements survey at https://www.survey.ed.ac.uk/sprint/.
+
+Taking part in the survey should only take around 15 minutes.
+
+Thank you for your valuable input.
+
+Please don't hesitate to contact me if you have any questions regarding
+SPRINT by emailing sprint at lists.ed.ac.uk.
+
+Kind regards,
+
+Muriel Mewissen
+
+Division of Pathway Medicine
+University of Edinburgh Medical School
+The Chancellor's building
+49 Little France Crescent
+Edinburgh, EH16 4SB
+
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+_______________________________________________
+R-sig-hpc mailing list
+R-sig-hpc at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-sig-hpc
+====================================================================================
+
+La version fran?aise suit le texte anglais.
+
+------------------------------------------------------------------------------------
+
+This email may contain privileged and/or confidential information, and the Bank of
+Canada does not waive any related rights. Any distribution, use, or copying of this
+email or the information it contains by other than the intended recipient is
+unauthorized. If you received this email in error please delete it immediately from
+your system and notify the sender promptly by email that you have done so. 
+
+------------------------------------------------------------------------------------
+
+Le pr?sent courriel peut contenir de l'information privil?gi?e ou confidentielle.
+La Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,
+utilisation ou copie de ce courriel ou des renseignements qu'il contient par une
+personne autre que le ou les destinataires d?sign?s est interdite. Si vous recevez
+ce courriel par erreur, veuillez le supprimer imm?diatement et envoyer sans d?lai ?
+l'exp?diteur un message ?lectronique pour l'aviser que vous avez ?limin? de votre
+ordinateur toute copie du courriel re?u.
+

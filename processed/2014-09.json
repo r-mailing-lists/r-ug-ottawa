@@ -1,0 +1,85 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2014-09",
+  "messages": [
+    {
+      "id": "msg-12563b181b94",
+      "message_id": "<CAPjrKxbC80hv6zioiFJeA6iLk74q2+KkbFnHJ89o--3=eRp4UA@mail.gmail.com>",
+      "from_name": "John Lewis",
+      "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
+      "date": "2014-09-10T16:04:22-04:00",
+      "subject": "[OGRUG] meeting",
+      "subject_clean": "[OGRUG] meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Is there any activity on the scheduling of meetings this fall?\nJohn Lewis\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Is there any activity on the scheduling of meetings this fall?\nJohn Lewis\n\n\t[[alternative HTML version deleted]]",
+      "thread_id": "thread-12563b181b94",
+      "thread_depth": 0,
+      "month": "2014-09"
+    },
+    {
+      "id": "msg-11c0db485833",
+      "message_id": "<54119B95.2060205@gmail.com>",
+      "from_name": "Pierre Tourigny",
+      "from_email_hash": "68305feb34eb9459fbc609c5002924a6ad65a05b8bcf28fcd95ed15206749bc0",
+      "date": "2014-09-11T08:54:45-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1",
+      "in_reply_to": "<mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Hi\nI'm a new member of the Ottawa R User Group.\n\nI started  a course on R at EdX <https://www.edx.org/>. It's a free \n5-week online course that started on September 9. It's not too late to \nregister because the deadline to turn in the first week's graded \nquestions is September 22. Check it out here: Explore Statistics With R \n<https://www.edx.org/course/kix/kix-kiexplorx-explore-statistics-r-1524#.VBGaz5K3Kx4> \n.\n\nI think R-UG-Ottawa should create a group in Meetup \n<http://www.meetup.com/>. That's the first place I looked for other R \nusers in Ottawa.\n\nThanks,\nPierre Tourigny\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi\nI'm a new member of the Ottawa R User Group.\n\nI started  a course on R at EdX <https://www.edx.org/>. It's a free \n5-week online course that started on September 9. It's not too late to \nregister b",
+      "thread_id": "thread-11c0db485833",
+      "thread_depth": 0,
+      "month": "2014-09"
+    },
+    {
+      "id": "msg-6243401d4bcb",
+      "message_id": "<54134371.4040107@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2014-09-12T15:03:13-04:00",
+      "subject": "[OGRUG] R meetups and OCRUG",
+      "subject_clean": "[OGRUG] R meetups and OCRUG",
+      "in_reply_to": "<54119B95.2060205@gmail.com>",
+      "references": [
+        "<mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>",
+        "<54119B95.2060205@gmail.com>"
+      ],
+      "body_plain": "On 09/11/2014 08:54 AM, Pierre Tourigny wrote:\n> Hi\n> I'm a new member of the Ottawa R User Group.\n>\n> I started  a course on R at EdX <https://www.edx.org/>. It's a free\n> 5-week online course that started on September 9. It's not too late to\n> register because the deadline to turn in the first week's graded\n> questions is September 22. Check it out here: Explore Statistics With R\n> <https://www.edx.org/course/kix/kix-kiexplorx-explore-statistics-r-1524#.VBGaz5K3Kx4>\n> .\n>\n> I think R-UG-Ottawa should create a group in Meetup\n> <http://www.meetup.com/>. That's the first place I looked for other R\n> users in Ottawa.\n\nThere already is a Meetup group, although I think there haven't been any \nmeetings in awhile. It is always a bit difficult to decide whether the \nOCRUG style meetings with a presentation work better, or the more casual \nmeetups. Probably a mix is useful. But if there are too many meetings \nthen none are well attended.\n\nPaul\n\n>\n> Thanks,\n> Pierre Tourigny\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "On 09/11/2014 08:54 AM, Pierre Tourigny wrote:\n> Hi\n> I'm a new member of the Ottawa R User Group.\n>\n> I started  a course on R at EdX <https://www.edx.org/>. It's a free\n> 5-week online course that s",
+      "thread_id": "thread-11c0db485833",
+      "thread_depth": 1,
+      "month": "2014-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-12563b181b94",
+      "subject": "[OGRUG] meeting",
+      "message_count": 1,
+      "participants": [
+        "John Lewis"
+      ],
+      "started": "2014-09-10T16:04:22-04:00",
+      "last_reply": "2014-09-10T16:04:22-04:00",
+      "root_message_id": "msg-12563b181b94"
+    },
+    {
+      "id": "thread-11c0db485833",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1",
+      "message_count": 2,
+      "participants": [
+        "Paul Gilbert",
+        "Pierre Tourigny"
+      ],
+      "started": "2014-09-11T08:54:45-04:00",
+      "last_reply": "2014-09-12T15:03:13-04:00",
+      "root_message_id": "msg-11c0db485833"
+    }
+  ]
+}

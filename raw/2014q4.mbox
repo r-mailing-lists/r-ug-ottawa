@@ -1,0 +1,300 @@
+From ali.portsudan at gmail.com  Mon Oct  6 05:29:31 2014
+From: ali.portsudan at gmail.com (ali eissa)
+Date: Sun, 5 Oct 2014 23:29:31 -0400
+Subject: [OGRUG] Ottawa Canopy Project
+Message-ID: <CAOu7ywe2FqxOXRdHa5GGbq--OyAcvvSvH0PmnMGzxtq_mDVDiw@mail.gmail.com>
+
+Hello All,
+
+I just want to know what happened to the Ottawa Canopy Project. I am doing
+an M.A.  in economics with specialization in data science, so I would like
+to use that project as a vehicle to improve my R skills.
+
+My professional experience is in the tech industry and I have used R before
+so I can be of help.
+
+Cheers,
+Ali Eissa
+
+	[[alternative HTML version deleted]]
+
+
+From dbuijs at gmail.com  Mon Oct 27 16:11:53 2014
+From: dbuijs at gmail.com (Daniel Buijs)
+Date: Mon, 27 Oct 2014 11:11:53 -0400
+Subject: [OGRUG] What R packages/vocabulary do I need to search for Spatial
+	Distance ranking?
+Message-ID: <CAFVA2r+ro0GN=rCqnkJ2UxJZ-CChTNMfRSR_-c9n5ofR5ZRVZw@mail.gmail.com>
+
+Hello,
+
+I'm trying to do something that I'm pretty sure can be done in R and
+probably has been done in R, but I'm having trouble finding the right
+search vocabulary to find appropriate packages.
+
+Briefly, I'm working with various spatial datasets available from
+data.ottawa.ca. I can import them into R with the rgdal package and I've
+gained some comfort with basic plotting and geometry operations with ggmap,
+sp and rgeos packages. What I'm after is the following:
+
+>From a set of Spatial features (including SpatialPoints, SpatialLines, and
+SpatialPolygons), I would like to assign arbitrary weights to features
+based on categorical variables in the data (i.e. 1 for schools, 2 for
+parks, -1 for highways, etc.) and then estimate an intensity/density
+surface at defined points (like road intersections). I think that this will
+let me answer questions like "what are the top 10 intersections that are
+closest to schools, parks (weight 2 because I care more about parks than
+schools) and furthest form highways?"
+
+I don't really care about the actual value, I'm just using it as a ranking
+score.
+
+I think some flavour of 2D kernel density estimation will do this. This
+particular problem seems to differ from the more simple examples given in
+the various package vignettes in the following ways:
+
+To deal with roads in the form of SpatialLines, I either need to sample
+them into points with a fixed absolute frequently that results in a
+steady-state maximum equivalent to the maximum of a weight=1 point source,
+or find a package that has some reasonable treatment of edge effects.
+
+SpatialPolygons (i.e. large areas like parks) should have a uniform
+weighting of 1 within the polygon and behave like a SpatialLine at the
+edges. Weighted points within the polygon should combine constructively
+with the base weight of the polygon. If I have to do this with sampling, as
+with the SpatialLines, ok. Using the centroid is a temporary solution for
+smallish areas, but for bigger or irregular shapes, would prefer to deal
+with the SpatialPolygon as is and/or with somewhat automatic sampling to
+points.
+
+To estimate the intensity/density function at arbitrary points (i.e.
+intersections), I probably need to estimate the whole surface function with
+regular spacing and then interpolate from the estimated surface (somewhat
+concerned about double-sampling error in this case). Would prefer an
+algorithm that could calculate estimates directly from the points I care
+about for ranking.
+
+I haven't seen any packages yet that look like they would be comfortable
+with negative weights (i.e. things I don't want to be close to).
+
+I need to have some global control/parameter that allows me to adjust
+either the bandwidth of the smoothing and/or the extinction coefficient of
+the kernel function so I can empirically dictate and experiment with
+distance effects (i.e. objects more than x km away shouldn't influence the
+value function at my point of interest).
+
+Any thoughts on recommended reading/R packages that either already provide
+this functionality or could be extended to do this kind of thing?
+
+Dan Buijs
+
+	[[alternative HTML version deleted]]
+
+
+From jelewis02 at gmail.com  Tue Oct 28 16:03:22 2014
+From: jelewis02 at gmail.com (John Lewis)
+Date: Tue, 28 Oct 2014 11:03:22 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2
+In-Reply-To: <mailman.7.1414494002.30795.r-ug-ottawa@r-project.org>
+References: <mailman.7.1414494002.30795.r-ug-ottawa@r-project.org>
+Message-ID: <CAPjrKxbMXNa72hyUjre+Z3QmVkOxOO3K6HCtWrkmD2TzMr5uFA@mail.gmail.com>
+
+Hi,
+After quickly reading your email it appears to me that you have three or
+four separate problems to solve with the need in each  for different
+spatial algorithms. In some ways you might be better off looking at GRASS
+or Qgis to do this job.
+I am travelling now so when I get settled on Thursday I'll look at what you
+have written more carefully and see if I can help.
+Maybe in the meantime someone else might come up with a workable solution
+for you.
+Cheers,
+John Lewis
+
+On Tue, Oct 28, 2014 at 7:00 AM, <r-ug-ottawa-request at r-project.org> wrote:
+
+> Send R-UG-Ottawa mailing list submissions to
+>         r-ug-ottawa at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+>         r-ug-ottawa-request at r-project.org
+>
+> You can reach the person managing the list at
+>         r-ug-ottawa-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+>
+>
+> Today's Topics:
+>
+>    1. What R packages/vocabulary do I need to search for Spatial
+>       Distance ranking? (Daniel Buijs)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Mon, 27 Oct 2014 11:11:53 -0400
+> From: Daniel Buijs <dbuijs at gmail.com>
+> To: "r-ug-ottawa at r-project.org" <r-ug-ottawa at r-project.org>
+> Subject: [OGRUG] What R packages/vocabulary do I need to search for
+>         Spatial Distance ranking?
+> Message-ID:
+>         <CAFVA2r+ro0GN=
+> rCqnkJ2UxJZ-CChTNMfRSR_-c9n5ofR5ZRVZw at mail.gmail.com>
+> Content-Type: text/plain; charset="UTF-8"
+>
+> Hello,
+>
+> I'm trying to do something that I'm pretty sure can be done in R and
+> probably has been done in R, but I'm having trouble finding the right
+> search vocabulary to find appropriate packages.
+>
+> Briefly, I'm working with various spatial datasets available from
+> data.ottawa.ca. I can import them into R with the rgdal package and I've
+> gained some comfort with basic plotting and geometry operations with ggmap,
+> sp and rgeos packages. What I'm after is the following:
+>
+> >From a set of Spatial features (including SpatialPoints, SpatialLines, and
+> SpatialPolygons), I would like to assign arbitrary weights to features
+> based on categorical variables in the data (i.e. 1 for schools, 2 for
+> parks, -1 for highways, etc.) and then estimate an intensity/density
+> surface at defined points (like road intersections). I think that this will
+> let me answer questions like "what are the top 10 intersections that are
+> closest to schools, parks (weight 2 because I care more about parks than
+> schools) and furthest form highways?"
+>
+> I don't really care about the actual value, I'm just using it as a ranking
+> score.
+>
+> I think some flavour of 2D kernel density estimation will do this. This
+> particular problem seems to differ from the more simple examples given in
+> the various package vignettes in the following ways:
+>
+> To deal with roads in the form of SpatialLines, I either need to sample
+> them into points with a fixed absolute frequently that results in a
+> steady-state maximum equivalent to the maximum of a weight=1 point source,
+> or find a package that has some reasonable treatment of edge effects.
+>
+> SpatialPolygons (i.e. large areas like parks) should have a uniform
+> weighting of 1 within the polygon and behave like a SpatialLine at the
+> edges. Weighted points within the polygon should combine constructively
+> with the base weight of the polygon. If I have to do this with sampling, as
+> with the SpatialLines, ok. Using the centroid is a temporary solution for
+> smallish areas, but for bigger or irregular shapes, would prefer to deal
+> with the SpatialPolygon as is and/or with somewhat automatic sampling to
+> points.
+>
+> To estimate the intensity/density function at arbitrary points (i.e.
+> intersections), I probably need to estimate the whole surface function with
+> regular spacing and then interpolate from the estimated surface (somewhat
+> concerned about double-sampling error in this case). Would prefer an
+> algorithm that could calculate estimates directly from the points I care
+> about for ranking.
+>
+> I haven't seen any packages yet that look like they would be comfortable
+> with negative weights (i.e. things I don't want to be close to).
+>
+> I need to have some global control/parameter that allows me to adjust
+> either the bandwidth of the smoothing and/or the extinction coefficient of
+> the kernel function so I can empirically dictate and experiment with
+> distance effects (i.e. objects more than x km away shouldn't influence the
+> value function at my point of interest).
+>
+> Any thoughts on recommended reading/R packages that either already provide
+> this functionality or could be extended to do this kind of thing?
+>
+> Dan Buijs
+>
+>         [[alternative HTML version deleted]]
+>
+>
+>
+> ------------------------------
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+>
+> End of R-UG-Ottawa Digest, Vol 35, Issue 2
+> ******************************************
+>
+
+	[[alternative HTML version deleted]]
+
+
+From rameshjfernando at gmail.com  Wed Oct 29 16:29:02 2014
+From: rameshjfernando at gmail.com (Ramesh Fernando)
+Date: Wed, 29 Oct 2014 11:29:02 -0400
+Subject: [OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon
+In-Reply-To: <1495c7e25e1.5b85.378404@ismtpd-001.sjc1.sendgrid.net>
+References: <1495c7e25e1.5b85.378404@ismtpd-001.sjc1.sendgrid.net>
+Message-ID: <CAPnsgj48OjYVYjptOD4YCJOHF9jn_tBravHmJvjN6ut6GT6Umg@mail.gmail.com>
+
+Though this might be of interest
+---------- Forwarded message ----------
+From: Koding, Inc. <announce at koding.com>
+Date: Wed, Oct 29, 2014 at 11:20 AM
+Subject: Announcing: The World's First Global Virtual Hackathon
+To: rameshjfernando at gmail.com
+
+
+  To celebrate our 500,000 developer milestone...
+ANNOUNCING THE WORLD?S FIRST GLOBAL VIRTUAL #HACKATHON
+Let's hack together, wherever we are!
+Win cash prizes worth $10,000 and much more.
+ JOIN NOW
+
+<http://email.koding.com/wf/click?upn=DFUEbfIZdkgTCy3jlQaLlmVAe1okdTwht89Gn1qIPOlOSFi6MvqWjltq1ykZ9plipBug-2B02dNlytEvjIGcYRX-2FyXCCdGlEGFHAk6cH1ZZrVaKYRsrk-2FPFFu1nmFiX1p-2BBWXwWm42LSmYc-2FJyXCeh1oRPl-2BW8yuKJyGdhCc0c5edzbo2I3epOuuP927XGmqig_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDITjwEf-2FQuZQu6ol0XQFdIueJLlMDM32-2FxFe-2FHnS8ZaoOzwvczJaTdGRXQdSCK4Vyr01oLW7OUIj0DEx5Un1VnLmRUsXspddFvsXOWPdFCY-2Fkm0Rqakll-2FQSLAuFQmhKQCTDXKQzDjB1GKHj7izc06WdwCLDk5sKYyR81yNT5MsGW4zhhYNjt0ChDKbzw5sllxs0D-2FtrzpQOoohkBUKxObaXK5-2FBkMQyg-2FlvNl2dXjP14caAaWcaJjykXwdnXxiCbcs-2B265kuUVYaPmfS95abC8X13SBX3S1fpoZ71he5io8tUMEL-2BrZ39bhiNe7W-2FKL0bn95mhMJBwoAx4Z92YbwBgQ-3D>
+DEVELOPERS OF THE WORLD, LET'S HACK TOGETHER!
+
+Today we break the link between hackathons and their location requirements.
+The new location for our Hackathon is your fav spot to code!
+Announcing the World's First Global Virtual #Hackathon. WIN AWESOME PRIZES
+
+   1. $10,000 cash prize from Koding, split amongst the top 3 teams ($5k,
+   $3k, $2k each).
+   2. Winners will be offered credits for services like DigitalOcean, Tutum
+   and many more!
+   3. Winners will be offered interviews with investors on our judging
+   panel.
+
+Spots are limited so apply today
+<http://email.koding.com/wf/click?upn=DFUEbfIZdkgTCy3jlQaLlmVAe1okdTwht89Gn1qIPOlOSFi6MvqWjltq1ykZ9plipBug-2B02dNlytEvjIGcYRX-2FyXCCdGlEGFHAk6cH1ZZrVaKYRsrk-2FPFFu1nmFiX1p-2BBWXwWm42LSmYc-2FJyXCeh1oRPl-2BW8yuKJyGdhCc0c5edzbo2I3epOuuP927XGmqig_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIT7zGYFstT1Hjy3NubClNilvNw3fiXy3x4D1WNThZinnCy83oyfhqrzIe8Emiw5WoRgbgJmuHwuyaNwJvjXe2GcaKxDGVwcQEg3M7cTOYZSKXseQ9n3XK3398YHnrbcoxeK4iJr5Vh4H59aAy-2BDvNsffuAU0qvwpVI1iZ7nzb9f5L6TMsLXdH05ZAkPZPts0y6VQkz7RM-2Fgx56jg0ytx2zke1AykViMtsGCMpdAxKmN79-2FxQQ-2FYlumgQINURj-2BtLBwu1BdXqlf9jvF-2F5k2m3EsqcTPkZJ3WnN-2Bpa7JtANVZqSq98dKi-2B59DFzUcNmRlDxx2dkyWxnKY0NdK1f6z39t4-3D>
+and also help us spread the word
+<http://email.koding.com/wf/click?upn=oakdn-2Fbm9i4TMl42MXduOESemZl6unv3vpGyCRBVo5Nu7r4D7IvA5J72erj3ChBRk4hRA5nkvNgNYIMUExZpnjq26WOF9-2F1KmgvW7TK-2Fm1dGHYwtAVeUoXYQHumE1aEGAA8B1X0cHTgWtZjS70mxvP8S4kJIsEEcWAxKI1fHPPhVtf95PpSjGKKcq16FJcnC-2Fxp6v2jdfGqFqFcMYeDGW7m0euj2k9DGA89Jw66oed1KlG9sk2Ej4robnHMAWwXnAkXt86yUIEwv7M2UVSCiJsZDvnmL7hM3dXBx6ioJzJUqmTeTZYSttPLenCscrYvBjpxGfvE7myRt0oMAGOMj6tRkOoPE-2BCjO6Fcgh-2FWvmyQ4FELr2I63QEDTN5u48S5W7-2BiFYtImgBN7-2BtBwAoGQOxYSv9wmNfApf6OvG-2B0F73U-3D_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIUXWckO1bvAwnXXre3QE26FBa-2BwXI7mMvr4Q22k3zSOSaYHQGcmu89ORdE0xP-2BQXvtf-2BQ0a5qXkm6p0fgiU0-2Bo7qGfYAbqS9x90atuXsS90EbDIiYMeBwcW7fMxhVjEE7rjhQX2-2F1DJMFn4ez9DB8NeGpanvvH5FynoDgMDjGrtaQcArHabAJtJ5-2BgN050ev9C22Rq5tF4f3jxB94AzMP2Nhxfow3C-2B296NGRyX9ZjJPaXGeLyLry-2B-2Bm7plitrbCgM31ifg-2F5wh6El3r-2BQHI8Jg2Tiv7Zf1WdZov6XMqFAnbiLNpTNQK0vfcW0-2Fjm0GMbsFfM1U-2FUrJCC7dgeTTx4YU-3D>
+!
+JUDGES  Hadi Partovi Code.org - CEO/Co-Founder
+Hiten Shah KISSMetrics - Co-Founder
+Jermaine O'Neal NBA Player and Entrepreneur
+Robert Scoble Rackspace - Startup Liaison Officer
+Ben Huh Cheezburger - CEO
+Kirill Sheynkman RTP Ventures - General Partner
+Charlotte Genevier Socialengine / TheCotery - CEO
+Eren Bali Udemy - Chairman/Co-Founder
+Nikolaos Bonatsos General Catalyst - Early Stage VC
+Salil Deshpande Bain Capital - Managing Director
+Mitch Wainer Digital Ocean - CMO/Co-Founder
+Bradford Stephens Kloth - CTO
+Jason Yeh Greycroft Partners - Investment Professional
+Brett Welch Facebook - Product Manager
+Daniel Brusilovsky Golden State Warriors - Digital Initiatives Lead
+Meagan Lopez Adaptly - Client Services Director
+Nihal Mehta ENIAC Ventures - Founding General Partner
+Andrew McCann deviantART - CTO
+Borja Burgos Tutum - CEO
+Devrim Yasar Koding - CEO/Co-Founder
+   You are receiving this email because you are registered on koding.com.
+Unsubscribe
+<http://email.koding.com/wf/unsubscribe?upn=kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIVA3B0IwgEb0Pta6ql8viVRPamKsSFqKZYeIq3Ayq9K1AJOq0t-2BotVRKgDxgbb2UQJwjWPNdbQPHGj8a1c4FiRg60oUGvR4V932EL-2BZ-2F4DNpOgNIDsKv1MhtsH-2Ft22z-2BinP5S1-2F4-2BA1hvvgY7EIr0steGRd7F1lN5uFNsIds8nB4QY9sAjTop3TKQ0bt8dwbiU012SfhGoYasXzbMbHyYw5nBIVyhB0armd5RqPpqnGydp2WyYifbyPDzwupILh5fykgcUoODjUMY6Q9LRekw1XLrZbYxpU27Fc63TjozCnA0oRuv8aj-2B94WZojSQFPv1aiyjRn6wFR0JfetlIWP-2FzQ-3D>
+if you do not want to receive further announcements from us.
+Koding, Inc. 358 Brannan Street, San Francisco, CA 94107
+
+	[[alternative HTML version deleted]]
+
+

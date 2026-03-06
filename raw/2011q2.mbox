@@ -1,0 +1,170 @@
+From profjcnash at gmail.com  Thu Apr 14 14:49:36 2011
+From: profjcnash at gmail.com (profjcnash at gmail.com)
+Date: Thu, 14 Apr 2011 08:49:36 -0400
+Subject: [OGRUG] Google Summer of Code - R successes
+Message-ID: <4DA6ED60.1050601@gmail.com>
+
+Some of you may know that I am co-admin of this year's Google Summer of Code activities in R.
+
+Last year we had (as I recall) 9 serious proposals and got 5 funded. This year 50 and 15.
+
+So as admins, Claudia Beleites (Trieste and Jena) and I (Ottawa) are very busy.
+
+One thing that we are trying to do is build depth in our mentoring "staff". If any of you
+would be interested in helping to
+mentor one of the GSoC students, please let me know (off-list please), and ASAP so we can
+get you up to speed.
+
+This year might just be a familiarization for you, but it is clear R is well-regarded by
+Google, and we are going to have
+to become more organized to cope with our own success.
+
+Best,
+
+John Nash
+
+
+From nashjc at uottawa.ca  Fri May 13 21:47:33 2011
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 13 May 2011 15:47:33 -0400
+Subject: [OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting
+Message-ID: <4DCD8AD5.3060107@uottawa.ca>
+
+
+WHERE: FTX 135,  University of Ottawa
+
+http://www.uottawa.ca/maps/
+
+will show you where this is.
+
+WHEN: 3:30-5:30, Tuesda May 24, 2011
+
+WHY: To allow R users in Ottawa/Gatineau to get reacquainted. Please be willing to
+introduce yourself and tell what you do and your interest in R.
+
+There will be a "How do I .... in R" session. At least 2 such queries have been suggested.
+If you have one, or an interesting issue/solution, send email to me or the R-UG-Ottawa
+list. I will aim to post them before the meeting.
+
+Also I will give a short account of the explosion in activity in the Google Summer of Code
+effort by R this year.
+
+Time permitting, we may wish to discuss how the R-UG could assist local R users more.
+
+Please pass this along to anyone you believe should be interested.
+
+There is no charge for this event.
+
+Best, JN
+
+
+From nashjc at uottawa.ca  Fri May 20 16:08:14 2011
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 20 May 2011 10:08:14 -0400
+Subject: [OGRUG] Two R queries for Tuesday's meeting
+Message-ID: <4DD675CE.5080304@uottawa.ca>
+
+
+A reminder of time and place below.
+
+Query 1: to create a frequency matrix of 32 cells (5 binary variables), and then export
+that matrix into a text file that can be read by a package e.g. as a .dat file.
+
+
+Query 2: If I create a new.env(), how do I find the right objects. In particular, if I am
+running a process such as integration, optimization or ODE solution, can I have an
+environment to keep a table of the evaluated functions separately. THat is
+
+    Calling program  --->    optimizer  ----> objective function
+     parameters/data         parameters/data     parameters/data
+    sepearate env.                              function results matrix in separate env.
+
+where the separate env. is not seen by the optimizer code?
+
+Other queries. Post to the list before Tues afternoon.
+
+
+Reminder:
+WHERE: FTX 135,  University of Ottawa
+
+http://www.uottawa.ca/maps/
+
+will show you where this is.
+
+WHEN: 3:30-5:30, Tuesda May 24, 2011
+
+WHY: To allow R users in Ottawa/Gatineau to get reacquainted. Please be willing to
+introduce yourself and tell what you do and your interest in R.
+
+There will be a "How do I .... in R" session. At least 2 such queries have been suggested.
+If you have one, or an interesting issue/solution, send email to me or the R-UG-Ottawa
+list. I will aim to post them before the meeting.
+
+Also I will give a short account of the explosion in activity in the Google Summer of Code
+effort by R this year.
+
+Time permitting, we may wish to discuss how the R-UG could assist local R users more.
+
+Please pass this along to anyone you believe should be interested.
+
+There is no charge for this event.
+
+Best, JN
+
+
+From nashjc at uottawa.ca  Thu May 26 00:23:45 2011
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Wed, 25 May 2011 18:23:45 -0400
+Subject: [OGRUG] Report on May 24 meeting
+Message-ID: <4DDD8171.8050007@uottawa.ca>
+
+While we had only a small group (8) at the meeting, discussion was lively and some minor
+problems were resolved.
+
+There was quite a lot of interest in the projects R is mentoring for the Google Summer of
+Code. This year we have 15. There is a brief outline of the projects linked directly from
+the main www.r-project.org page.
+
+There were two pre-announced R coding questions.
+
+David Joubert had an SPSS data file that he wanted to bring into R to either use in
+creating a 5 dimensional frequency array or else convert to a numerical (rather than
+character) raw data file of binary information on 5 symptom variables for 500 cases.
+
+The foreign package can read the data into a data frame, but the binary variables are of
+class factor. After the meeting a bit of playing showed that as.numeric() will convert
+these to numbers (1, 2) and write.csv will write them in a form that is easily changed in
+a spreadsheet to the form needed by some specialized software. It should in fact be
+possible to avoid the last step by appropriate parameters to write.csv.
+
+John Nash illustrated a concern for those working on optimization, differential equations
+or quadrature when it is desired to record every function evaluation of a multivariate
+function e.g., the objective in optimization. The issue is to avoid passing such
+information through the optimizer, which may be compiled code and difficult to access.
+While it should be possible to use environments, there seemed to be a general view that
+this tended to be more tricky than anyone liked. However, we were able in a small example
+to set a global object f.save to NULL, then use rbind inside the function to append the
+vector c(f, x_vector). It was agreed this was NOT a good idea for inclusion in a package,
+but likely the most straightforward tool for experimentation.
+
+This lead to a discussion of the merits of using return() to end R functions, and a brief
+attempt to test the speed of use of return(x) versus just ending with the evaluation of x
+using the microbenchmark package. This was inconclusive for the simple example tried.
+
+We hope to have a similar event in the Autumn with more problems pre-announced.
+
+John Nash
+
+
+From jelewis02 at gmail.com  Fri May 27 19:02:41 2011
+From: jelewis02 at gmail.com (john lewis)
+Date: Fri, 27 May 2011 13:02:41 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3
+In-Reply-To: <mailman.7.1306404003.8686.r-ug-ottawa@r-project.org>
+References: <mailman.7.1306404003.8686.r-ug-ottawa@r-project.org>
+Message-ID: <BANLkTimWr5YZ+xFF4mv7Qiap5PBgNjyG0w@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110527/7bd7aa92/attachment.pl>
+

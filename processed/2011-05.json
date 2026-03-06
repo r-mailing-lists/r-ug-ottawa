@@ -1,0 +1,119 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2011-05",
+  "messages": [
+    {
+      "id": "msg-a7694761e456",
+      "message_id": "<4DCD8AD5.3060107@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-05-13T15:47:33-04:00",
+      "subject": "[OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting",
+      "subject_clean": "[OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "WHERE: FTX 135,  University of Ottawa\n\nhttp://www.uottawa.ca/maps/\n\nwill show you where this is.\n\nWHEN: 3:30-5:30, Tuesda May 24, 2011\n\nWHY: To allow R users in Ottawa/Gatineau to get reacquainted. Please be willing to\nintroduce yourself and tell what you do and your interest in R.\n\nThere will be a \"How do I .... in R\" session. At least 2 such queries have been suggested.\nIf you have one, or an interesting issue/solution, send email to me or the R-UG-Ottawa\nlist. I will aim to post them before the meeting.\n\nAlso I will give a short account of the explosion in activity in the Google Summer of Code\neffort by R this year.\n\nTime permitting, we may wish to discuss how the R-UG could assist local R users more.\n\nPlease pass this along to anyone you believe should be interested.\n\nThere is no charge for this event.\n\nBest, JN",
+      "body_snippet": "WHERE: FTX 135,  University of Ottawa\n\nhttp://www.uottawa.ca/maps/\n\nwill show you where this is.\n\nWHEN: 3:30-5:30, Tuesda May 24, 2011\n\nWHY: To allow R users in Ottawa/Gatineau to get reacquainted. Pl",
+      "thread_id": "thread-a7694761e456",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-5c2f1e69d925",
+      "message_id": "<4DD675CE.5080304@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-05-20T10:08:14-04:00",
+      "subject": "[OGRUG] Two R queries for Tuesday's meeting",
+      "subject_clean": "[OGRUG] Two R queries for Tuesday's meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "A reminder of time and place below.\n\nQuery 1: to create a frequency matrix of 32 cells (5 binary variables), and then export\nthat matrix into a text file that can be read by a package e.g. as a .dat file.\n\n\nQuery 2: If I create a new.env(), how do I find the right objects. In particular, if I am\nrunning a process such as integration, optimization or ODE solution, can I have an\nenvironment to keep a table of the evaluated functions separately. THat is\n\n    Calling program  --->    optimizer  ----> objective function\n     parameters/data         parameters/data     parameters/data\n    sepearate env.                              function results matrix in separate env.\n\nwhere the separate env. is not seen by the optimizer code?\n\nOther queries. Post to the list before Tues afternoon.\n\n\nReminder:\nWHERE: FTX 135,  University of Ottawa\n\nhttp://www.uottawa.ca/maps/\n\nwill show you where this is.\n\nWHEN: 3:30-5:30, Tuesda May 24, 2011\n\nWHY: To allow R users in Ottawa/Gatineau to get reacquainted. Please be willing to\nintroduce yourself and tell what you do and your interest in R.\n\nThere will be a \"How do I .... in R\" session. At least 2 such queries have been suggested.\nIf you have one, or an interesting issue/solution, send email to me or the R-UG-Ottawa\nlist. I will aim to post them before the meeting.\n\nAlso I will give a short account of the explosion in activity in the Google Summer of Code\neffort by R this year.\n\nTime permitting, we may wish to discuss how the R-UG could assist local R users more.\n\nPlease pass this along to anyone you believe should be interested.\n\nThere is no charge for this event.\n\nBest, JN",
+      "body_snippet": "A reminder of time and place below.\n\nQuery 1: to create a frequency matrix of 32 cells (5 binary variables), and then export\nthat matrix into a text file that can be read by a package e.g. as a .dat f",
+      "thread_id": "thread-5c2f1e69d925",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-15b4508fb322",
+      "message_id": "<4DDD8171.8050007@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-05-25T18:23:45-04:00",
+      "subject": "[OGRUG] Report on May 24 meeting",
+      "subject_clean": "[OGRUG] Report on May 24 meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "While we had only a small group (8) at the meeting, discussion was lively and some minor\nproblems were resolved.\n\nThere was quite a lot of interest in the projects R is mentoring for the Google Summer of\nCode. This year we have 15. There is a brief outline of the projects linked directly from\nthe main www.r-project.org page.\n\nThere were two pre-announced R coding questions.\n\nDavid Joubert had an SPSS data file that he wanted to bring into R to either use in\ncreating a 5 dimensional frequency array or else convert to a numerical (rather than\ncharacter) raw data file of binary information on 5 symptom variables for 500 cases.\n\nThe foreign package can read the data into a data frame, but the binary variables are of\nclass factor. After the meeting a bit of playing showed that as.numeric() will convert\nthese to numbers (1, 2) and write.csv will write them in a form that is easily changed in\na spreadsheet to the form needed by some specialized software. It should in fact be\npossible to avoid the last step by appropriate parameters to write.csv.\n\nJohn Nash illustrated a concern for those working on optimization, differential equations\nor quadrature when it is desired to record every function evaluation of a multivariate\nfunction e.g., the objective in optimization. The issue is to avoid passing such\ninformation through the optimizer, which may be compiled code and difficult to access.\nWhile it should be possible to use environments, there seemed to be a general view that\nthis tended to be more tricky than anyone liked. However, we were able in a small example\nto set a global object f.save to NULL, then use rbind inside the function to append the\nvector c(f, x_vector). It was agreed this was NOT a good idea for inclusion in a package,\nbut likely the most straightforward tool for experimentation.\n\nThis lead to a discussion of the merits of using return() to end R functions, and a brief\nattempt to test the speed of use of return(x) versus just ending with the evaluation of x\nusing the microbenchmark package. This was inconclusive for the simple example tried.\n\nWe hope to have a similar event in the Autumn with more problems pre-announced.\n\nJohn Nash",
+      "body_snippet": "While we had only a small group (8) at the meeting, discussion was lively and some minor\nproblems were resolved.\n\nThere was quite a lot of interest in the projects R is mentoring for the Google Summer",
+      "thread_id": "thread-15b4508fb322",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-94159867fe87",
+      "message_id": "<BANLkTimWr5YZ+xFF4mv7Qiap5PBgNjyG0w@mail.gmail.com>",
+      "from_name": "john lewis",
+      "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
+      "date": "2011-05-27T13:02:41-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3",
+      "in_reply_to": "<mailman.7.1306404003.8686.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.7.1306404003.8686.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110527/7bd7aa92/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110527/7bd7aa92/attachment.pl>",
+      "thread_id": "thread-94159867fe87",
+      "thread_depth": 0,
+      "month": "2011-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-a7694761e456",
+      "subject": "[OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2011-05-13T15:47:33-04:00",
+      "last_reply": "2011-05-13T15:47:33-04:00",
+      "root_message_id": "msg-a7694761e456"
+    },
+    {
+      "id": "thread-5c2f1e69d925",
+      "subject": "[OGRUG] Two R queries for Tuesday's meeting",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2011-05-20T10:08:14-04:00",
+      "last_reply": "2011-05-20T10:08:14-04:00",
+      "root_message_id": "msg-5c2f1e69d925"
+    },
+    {
+      "id": "thread-15b4508fb322",
+      "subject": "[OGRUG] Report on May 24 meeting",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2011-05-25T18:23:45-04:00",
+      "last_reply": "2011-05-25T18:23:45-04:00",
+      "root_message_id": "msg-15b4508fb322"
+    },
+    {
+      "id": "thread-94159867fe87",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3",
+      "message_count": 1,
+      "participants": [
+        "john lewis"
+      ],
+      "started": "2011-05-27T13:02:41-04:00",
+      "last_reply": "2011-05-27T13:02:41-04:00",
+      "root_message_id": "msg-94159867fe87"
+    }
+  ]
+}

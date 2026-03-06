@@ -1,0 +1,101 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2010-06",
+  "messages": [
+    {
+      "id": "msg-c65f9015a60c",
+      "message_id": "<4C1B8B60.1030308@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-06-18T11:06:08-04:00",
+      "subject": "[OGRUG] UseR! 2010",
+      "subject_clean": "[OGRUG] UseR! 2010",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is seeing what he can\narrange.)\n\nJN",
+      "body_snippet": "Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is seeing what he can\narrange.)\n\nJN",
+      "thread_id": "thread-c65f9015a60c",
+      "thread_depth": 0,
+      "month": "2010-06"
+    },
+    {
+      "id": "msg-9073a5e9c62f",
+      "message_id": "<4C1B8FC3.4070201@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-06-18T11:24:51-04:00",
+      "subject": "[OGRUG] software@software-carpentry.org",
+      "subject_clean": "[OGRUG] software@software-carpentry.org",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "On reading Greg Wilson's SIAM News item, I looked at the software-carpentry.org site and\nparticularly the survey report. I was quite surprised nobody responding identified as\nstatistician (the categories are non-exclusive, of course).\n\nMy own experience of nearly 45 years in scientific software has led me to an acute\nawareness that there are islands of important work with stormy waters between. Thus the\nSciPy etc. focus of software-carpentry is great for those choosing that route, but there\nis also a Matlab island and, where I'm currently working, the R island, plus others. Given\nthe approximately 2500 add-in packages to R, it's an important focus of work, as are the\nothers. The big issue is that one can have a very good tool on one platform, but using it\neasily on another can be very, very time-consuming and present all kinds of awkwardness.\nThe interface and glue software is many times the length of the core computational stuff.\nI note, for example, that the course on s-c site doesn't have a graphics chapter (I see\nimage processing), nor does it have documentation. R has done quite a bit on making both\nof these a lot easier, in particular, the Sweave tools for creating vignettes that build\ndocumentation with code in-line. Modify the code or the data and the documentation and\ngraphics are updated automatically (direct to pdf). Examples and tests are part of the\nframework for package building, but there is still a lot of work to do to get true unit\ntests vs. test examples that are meant to show humans how to use the package.\n\nThe consequence of the islands is that we've lots of duplication and near-duplication. In\nmy own area of optimization (function minimization), even within R, perceived \"failure\" of\none package on one problem will lead people to say \"you ought to use XXXX instead\", when\nXXXX will \"fail\" on many other problems. In these cases \"failure\" can be akin to using a\nchain-saw for neurosurgery -- that is, misapplication of tools. This is a human nature\nproblem, and it takes a huge effort to keep the noise down to a tolerable level.\n\nThe \"carpentry\" metaphor is a good one. It can and should be extended to include metaphors\nlike the issues of interfacing different construction materials and methods and\nmeasurement standards (metric bolts vs Imperial vs SAE).\n\nKeep at it.\n\nBest,\n\nJohn Nash",
+      "body_snippet": "On reading Greg Wilson's SIAM News item, I looked at the software-carpentry.org site and\nparticularly the survey report. I was quite surprised nobody responding identified as\nstatistician (the categor",
+      "thread_id": "thread-9073a5e9c62f",
+      "thread_depth": 0,
+      "month": "2010-06"
+    },
+    {
+      "id": "msg-b77fc972aeb9",
+      "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A02A365B8@EXMAIL2.bocad.bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2010-06-18T11:59:07-04:00",
+      "subject": "[OGRUG] UseR! 2010",
+      "subject_clean": "[OGRUG] UseR! 2010",
+      "in_reply_to": "<4C1B8B60.1030308@uottawa.ca>",
+      "references": [
+        "<4C1B8B60.1030308@uottawa.ca>"
+      ],
+      "body_plain": "Reminder to all who leave things to the last minute like me: The last\nday to register is Sunday, and the form requires your passport number,\nwhich you might not have handy in your pocket.\n\nPaul\n\n>-----Original Message-----\n>From: r-ug-ottawa-bounces at r-project.org [mailto:r-ug-ottawa-bounces at r-\n>project.org] On Behalf Of Prof. John C Nash\n>Sent: June 18, 2010 11:06 AM\n>To: r-ug-ottawa at r-project.org\n>Subject: [OGRUG] UseR! 2010\n>\n>Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is\n>seeing what he can\n>arrange.)\n>\n>JN\n>\n>_______________________________________________\n>R-UG-Ottawa mailing list\n>R-UG-Ottawa at r-project.org\n>https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n====================================================================================\n\nLa version fran?aise suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential information, and the Bank of\nCanada does not waive any related rights. Any distribution, use, or copying of this\nemail or the information it contains by other than the intended recipient is\nunauthorized. If you received this email in error please delete it immediately from\nyour system and notify the sender promptly by email that you have done so. \n\n------------------------------------------------------------------------------------\n\nLe pr?sent courriel peut contenir de l'information privil?gi?e ou confidentielle.\nLa Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,\nutilisation ou copie de ce courriel ou des renseignements qu'il contient par une\npersonne autre que le ou les destinataires d?sign?s est interdite. Si vous recevez\nce courriel par erreur, veuillez le supprimer imm?diatement et envoyer sans d?lai ?\nl'exp?diteur un message ?lectronique pour l'aviser que vous avez ?limin? de votre\nordinateur toute copie du courriel re?u.",
+      "body_snippet": "Reminder to all who leave things to the last minute like me: The last\nday to register is Sunday, and the form requires your passport number,\nwhich you might not have handy in your pocket.\n\nPaul\n\n>----",
+      "thread_id": "thread-c65f9015a60c",
+      "thread_depth": 1,
+      "month": "2010-06"
+    },
+    {
+      "id": "msg-4ee2e0d4737a",
+      "message_id": "<4C1CBCB3.3040704@gmail.com>",
+      "from_name": "Robert Biddle",
+      "from_email_hash": "f3217d116df31a627a900e2c43d6a840947d733b78a80db1e82735880e5b17d6",
+      "date": "2010-06-19T08:48:51-04:00",
+      "subject": "[OGRUG] UseR! 2010",
+      "subject_clean": "[OGRUG] UseR! 2010",
+      "in_reply_to": "<4C1B8B60.1030308@uottawa.ca>",
+      "references": [
+        "<4C1B8B60.1030308@uottawa.ca>"
+      ],
+      "body_plain": "I'm not going, but I'll be interested in hearing later from people who do.\n\nAlthough I use R in all my stats work and generally love it, I have \nlately been finding the data scope model\nfrustrating. So I  have been wondering whether the Python-R approach is \nworth looking\nat more closely. I'd be interested in knowing how RPy (or RPy2 or \nwhatever) is regarded at UseR.\nCheers\nRobert\n\n-- \nRobert Biddle, PhD, Professor of Human Computer Interaction School of \nComputer Science, Office of the Dean of Arts and Social Sciences, \nCarleton University, Ottawa, ON K1S 5B6, CANADA; Tel. +1 613 520-2600 \next. 6317; Fax. +1 613 520-3667; Email. robert_biddle at carleton.ca\n\nOn 10-06-18 11:06 AM, Prof. John C Nash wrote:\n> Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is seeing what he can\n> arrange.)\n>\n> JN\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n>",
+      "body_snippet": "I'm not going, but I'll be interested in hearing later from people who do.\n\nAlthough I use R in all my stats work and generally love it, I have \nlately been finding the data scope model\nfrustrating. S",
+      "thread_id": "thread-c65f9015a60c",
+      "thread_depth": 1,
+      "month": "2010-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c65f9015a60c",
+      "subject": "[OGRUG] UseR! 2010",
+      "message_count": 3,
+      "participants": [
+        "Paul Gilbert",
+        "Prof. John C Nash",
+        "Robert Biddle"
+      ],
+      "started": "2010-06-18T11:06:08-04:00",
+      "last_reply": "2010-06-19T08:48:51-04:00",
+      "root_message_id": "msg-c65f9015a60c"
+    },
+    {
+      "id": "thread-9073a5e9c62f",
+      "subject": "[OGRUG] software@software-carpentry.org",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2010-06-18T11:24:51-04:00",
+      "last_reply": "2010-06-18T11:24:51-04:00",
+      "root_message_id": "msg-9073a5e9c62f"
+    }
+  ]
+}

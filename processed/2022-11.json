@@ -1,0 +1,81 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2022-11",
+  "messages": [
+    {
+      "id": "msg-f5bb7e11722e",
+      "message_id": "<1249058895.3643579.1669121291321@mail.yahoo.com>",
+      "from_name": "Francis Djamba",
+      "from_email_hash": "ab5e7932ef39efb6e62effd3a2b50a7824b70c38d54fb31bc545077e381cb50f",
+      "date": "2022-11-22T12:48:11Z",
+      "subject": "[OGRUG] Requeste of Assistance",
+      "subject_clean": "[OGRUG] Requeste of Assistance",
+      "in_reply_to": "<2105425168.2781029.1669119633526@mail.yahoo.com>",
+      "references": [
+        "<2105425168.2781029.1669119633526.ref@mail.yahoo.com>",
+        "<2105425168.2781029.1669119633526@mail.yahoo.com>"
+      ],
+      "body_plain": "Dears Colleagues;\n\nI thank this message fund you well.\nI would like to request your assistance to have an R script that will allow me to import data via a web link below and transpose the imported data and finally save the transposed data to a csv or xlsx file on my hard drive.\n\nthe Link:?https://unstats.un.org/sdgapi/v1/sdg/Series/Data?seriesCode=SL_DOM_TSPD\nThank you for your help.\nFrancis D.  \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dears Colleagues;\n\nI thank this message fund you well.\nI would like to request your assistance to have an R script that will allow me to import data via a web link below and transpose the imported dat",
+      "thread_id": "thread-f5bb7e11722e",
+      "thread_depth": 0,
+      "month": "2022-11"
+    },
+    {
+      "id": "msg-2896a411d892",
+      "message_id": "<YT3PR01MB6178D777499A97BC422D49609E0C9@YT3PR01MB6178.CANPRD01.PROD.OUTLOOK.COM>",
+      "from_name": "Machado, Tony (he, him | il, lui) (ISED/ISDE)",
+      "from_email_hash": "083e3ab40323558e5ddf46c0b6f127351f1cdd4b78020f94f862916489a192ae",
+      "date": "2022-11-23T14:02:22Z",
+      "subject": "[OGRUG] Requeste of Assistance",
+      "subject_clean": "[OGRUG] Requeste of Assistance",
+      "in_reply_to": "<1249058895.3643579.1669121291321@mail.yahoo.com>",
+      "references": [
+        "<2105425168.2781029.1669119633526.ref@mail.yahoo.com>",
+        "<2105425168.2781029.1669119633526@mail.yahoo.com>",
+        "<1249058895.3643579.1669121291321@mail.yahoo.com>"
+      ],
+      "body_plain": "Hi Francis,\n\n\n\nThere's many ways to achieve this but here's one that seems to get the job done.\n\n\n\n[cid:image002.png at 01D8FF1A.4A7984A0]\n\n\n\nCheers,\n\n\n\nTony Machado\n\n(he; him | il;lui)\n\n\n\nDeputy Director ? Data and Client Services, Measurement Canada\n\nInnovation, Science and Economic Development Canada / Government of Canada\n\ntony.machado at canada.ca / Tel: 613-290-7204 / TTY: 1-866-694-8389\n\n\n\nDirecteur adjoint - Donn?es et services ? la client?le, Mesures Canada\n\nInnovation, Sciences et D?veloppement ?conomique Canada / Gouvernement du Canada\n\ntony.machado at canada.ca / T?l. : 613-290-7204 / ATS : 1-866-694-8389\n\n\n\n\n\n\n\n-----Original Message-----\nFrom: R-UG-Ottawa <r-ug-ottawa-bounces at r-project.org> On Behalf Of Francis Djamba\nSent: November 22, 2022 7:48 AM\nTo: CRAN-submissions at R-project.org; r-ug-ottawa at r-project.org\nSubject: Re: [OGRUG] Requeste of Assistance\n\n\n\nDears Colleagues;\n\n\n\nI thank this message fund you well.\n\nI would like to request your assistance to have an R script that will allow me to import data via a web link below and transpose the imported data and finally save the transposed data to a csv or xlsx file on my hard drive.\n\n\n\nthe Link: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Funstats.un.org%2Fsdgapi%2Fv1%2Fsdg%2FSeries%2FData%3FseriesCode%3DSL_DOM_TSPD&amp;data=05%7C01%7Ctony.machado%40ised-isde.gc.ca%7C05b91dc2cf894f81eeeb08dacc87e2ba%7Cb72ac62f06d54cd5824eee92319a4676%7C0%7C0%7C638047653395171033%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=0hZESaPUc8CXoLFPjUuWKQlFhd0DE0Fg%2Bv1py%2FjyW6I%3D&amp;reserved=0\n\nThank you for your help.\n\nFrancis D.\n\n                [[alternative HTML version deleted]]\n\n\n\n_______________________________________________\n\nR-UG-Ottawa mailing list\n\nR-UG-Ottawa at r-project.org<mailto:R-UG-Ottawa at r-project.org>\n\nhttps://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstat.ethz.ch%2Fmailman%2Flistinfo%2Fr-ug-ottawa&amp;data=05%7C01%7Ctony.machado%40ised-isde.gc.ca%7C05b91dc2cf894f81eeeb08dacc87e2ba%7Cb72ac62f06d54cd5824eee92319a4676%7C0%7C0%7C638047653395171033%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=FKGEvrnGcTEOHUBe77e4BQRmBEX33XAS0F%2BzUs02T8I%3D&amp;reserved=0\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20221123/5b7f2e5d/attachment-0001.html>\n\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: image002.png\nType: image/png\nSize: 104918 bytes\nDesc: image002.png\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20221123/5b7f2e5d/attachment-0001.png>",
+      "body_snippet": "Hi Francis,\n\n\n\nThere's many ways to achieve this but here's one that seems to get the job done.\n\n\n\n[cid:image002.png at 01D8FF1A.4A7984A0]\n\n\n\nCheers,\n\n\n\nTony Machado\n\n(he; him | il;lui)\n\n\n\nDeputy Dire",
+      "thread_id": "thread-f5bb7e11722e",
+      "thread_depth": 1,
+      "month": "2022-11"
+    },
+    {
+      "id": "msg-670f92eb8282",
+      "message_id": "<638037157.6538581.1669212373391@mail.yahoo.com>",
+      "from_name": "Francis Djamba",
+      "from_email_hash": "ab5e7932ef39efb6e62effd3a2b50a7824b70c38d54fb31bc545077e381cb50f",
+      "date": "2022-11-23T14:06:13Z",
+      "subject": "[OGRUG] Requeste of Assistance",
+      "subject_clean": "[OGRUG] Requeste of Assistance",
+      "in_reply_to": "<YT3PR01MB6178D777499A97BC422D49609E0C9@YT3PR01MB6178.CANPRD01.PROD.OUTLOOK.COM>",
+      "references": [
+        "<2105425168.2781029.1669119633526.ref@mail.yahoo.com>",
+        "<2105425168.2781029.1669119633526@mail.yahoo.com>",
+        "<1249058895.3643579.1669121291321@mail.yahoo.com>",
+        "<YT3PR01MB6178D777499A97BC422D49609E0C9@YT3PR01MB6178.CANPRD01.PROD.OUTLOOK.COM>"
+      ],
+      "body_plain": "Dear Machado,\nThank you so much for your support !\nCould you share with me your WhatsApp number.\nThanks advance\nFrancis D.\n    Le mercredi 23 novembre 2022 ? 15:02:27 UTC+1, Machado, Tony (he, him | il, lui) (ISED/ISDE) <tony.machado at ised-isde.gc.ca> a ?crit :  \n \n #yiv8742831442 filtered {}#yiv8742831442 filtered {}#yiv8742831442 p.yiv8742831442MsoPlainText, #yiv8742831442 li.yiv8742831442MsoPlainText, #yiv8742831442 div.yiv8742831442MsoPlainText {margin:0cm;font-size:11.0pt;font-family:sans-serif;}#yiv8742831442 span.yiv8742831442PlainTextChar {font-family:sans-serif;}#yiv8742831442 .yiv8742831442MsoChpDefault {font-family:sans-serif;}#yiv8742831442 filtered {}#yiv8742831442 div.yiv8742831442WordSection1 {}\nHi Francis,\n \n ?\n \nThere's many ways to achieve this but here's one that seems to get the job done.\n \n ?\n \n\n \n ?\n \nCheers,\n \n ?\n \nTony Machado\n \n(he; him | il;lui)\n \n ?\n \nDeputy Director ? Data and Client Services, Measurement Canada\n \nInnovation, Science and Economic Development Canada / Government of Canada\n \ntony.machado at canada.ca / Tel: 613-290-7204 / TTY: 1-866-694-8389\n \n ?\n \nDirecteur adjoint - Donn?es et services ? la client?le, Mesures Canada\n \nInnovation, Sciences et D?veloppement ?conomique Canada / Gouvernement du Canada\n \ntony.machado at canada.ca / T?l. : 613-290-7204 / ATS : 1-866-694-8389\n \n ?\n \n ?\n \n ?\n \n-----Original Message-----\nFrom: R-UG-Ottawa <r-ug-ottawa-bounces at r-project.org> On Behalf Of Francis Djamba\nSent: November 22, 2022 7:48 AM\nTo: CRAN-submissions at R-project.org; r-ug-ottawa at r-project.org\nSubject: Re: [OGRUG] Requeste of Assistance\n\n ?\n \nDears Colleagues;\n \n ?\n \nI thank this message fund you well.\n \nI would like to request your assistance to have an R script that will allow me to import data via a web link below and transpose the imported data and finally save the transposed data to a csv or xlsx file on my hard drive.\n \n ?\n \nthe Link:?https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Funstats.un.org%2Fsdgapi%2Fv1%2Fsdg%2FSeries%2FData%3FseriesCode%3DSL_DOM_TSPD&amp;data=05%7C01%7Ctony.machado%40ised-isde.gc.ca%7C05b91dc2cf894f81eeeb08dacc87e2ba%7Cb72ac62f06d54cd5824eee92319a4676%7C0%7C0%7C638047653395171033%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=0hZESaPUc8CXoLFPjUuWKQlFhd0DE0Fg%2Bv1py%2FjyW6I%3D&amp;reserved=0\n\nThank you for your help.\n \n\nFrancis D.?  \n??????????????? [[alternative HTML version deleted]]\n \n ?\n \n_______________________________________________\n\nR-UG-Ottawa mailing list\n\nR-UG-Ottawa at r-project.org\n\nhttps://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fstat.ethz.ch%2Fmailman%2Flistinfo%2Fr-ug-ottawa&amp;data=05%7C01%7Ctony.machado%40ised-isde.gc.ca%7C05b91dc2cf894f81eeeb08dacc87e2ba%7Cb72ac62f06d54cd5824eee92319a4676%7C0%7C0%7C638047653395171033%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=FKGEvrnGcTEOHUBe77e4BQRmBEX33XAS0F%2BzUs02T8I%3D&amp;reserved=0\n  \n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20221123/0246587a/attachment-0001.html>\n\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: image002.png\nType: image/png\nSize: 104918 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20221123/0246587a/attachment-0001.png>",
+      "body_snippet": "Dear Machado,\nThank you so much for your support !\nCould you share with me your WhatsApp number.\nThanks advance\nFrancis D.\n    Le mercredi 23 novembre 2022 ? 15:02:27 UTC+1, Machado, Tony (he, him | i",
+      "thread_id": "thread-f5bb7e11722e",
+      "thread_depth": 2,
+      "month": "2022-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-f5bb7e11722e",
+      "subject": "[OGRUG] Requeste of Assistance",
+      "message_count": 3,
+      "participants": [
+        "Francis Djamba",
+        "Machado, Tony (he, him | il, lui) (ISED/ISDE)"
+      ],
+      "started": "2022-11-22T12:48:11+00:00",
+      "last_reply": "2022-11-23T14:06:13+00:00",
+      "root_message_id": "msg-f5bb7e11722e"
+    }
+  ]
+}

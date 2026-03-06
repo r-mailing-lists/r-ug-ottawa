@@ -1,0 +1,1543 @@
+From alexdemarsh at gmail.com  Mon Aug  8 20:05:48 2016
+From: alexdemarsh at gmail.com (Alex Demarsh)
+Date: Mon, 08 Aug 2016 18:05:48 +0000
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+Message-ID: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+
+Hey folks -
+
+Not sure if this is on-topic for this list, but I've become curious about
+the prevalence of R use in the Government of Canada (GOC) - particularly
+how many analytic teams are using R as their primary language.
+
+So, if you're a member of (or just know of) such an "R Shop", could you let
+me know? Any information on specific tasks or level of expertise would be a
+helpful addition.
+
+Many thanks in advance,
+
+Alex Demarsh
+Epidemiologist/Biostatistician, Public Health Agency of Canada
+
+	[[alternative HTML version deleted]]
+
+
+From felipe.e.barletta at gmail.com  Tue Aug  9 03:15:31 2016
+From: felipe.e.barletta at gmail.com (Felipe)
+Date: Mon, 8 Aug 2016 22:15:31 -0300
+Subject: [OGRUG] Likelihood Ratio Test
+Message-ID: <57A92EB3.90506@gmail.com>
+
+Hi dear R users!
+
+I have a dubt about how to calculate the Likelihood Ratio Test:
+
+I have below a density function:
+
+
+##### Density Gompertz
+dG <- function(x,a,b, log=FALSE){
+d2 <- numeric(length(x))
+d2 <- b*exp(a*x)*exp(-b/a*(exp(a*x) - 1))
+dens <- if(log) log(d2) else d2
+return (dens)
+}
+
+#### log-likelihood
+ldG <- function(par, x)
+{
+sum( dG(x, a = par[1], b = par[2], log = TRUE))
+}
+
+emv.dG <- optim(par = c(.15, .01), fn = ldG, x = d1, hessian=TRUE
+,control=list("fnscale"=-1))
+
+emv.dG$value # likelihood
+
+How do I calculate the Likelihood Ratio Test without a some package.
+LRT = -2*(emv.dG$value - ?????)
+
+-- 
+Atenciosamente
+Felipe E. Barletta Mendes
+Estat?stico(UFPR) - Conre3 9766-A
+Mestrando em Bioestat?stica(UEM)
++55 (41)-92077191
++55 (41)-33287216
+
+
+From clark.richards at gmail.com  Tue Aug  9 04:09:22 2016
+From: clark.richards at gmail.com (clark richards)
+Date: Mon, 8 Aug 2016 22:09:22 -0400
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+In-Reply-To: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+References: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+Message-ID: <CAJx09Ak8Ch_Hzf=FTk53U=Dj4QY7hwNb30sdwu3Euz_ufUdQrQ@mail.gmail.com>
+
+Hi Alex,
+
+Not sure if this is useful for you or not, but I'm a physical oceanographer
+that uses R for data analysis. Maybe not the kind of analytics you're
+referring to?
+
+While I'm not currently a GOC employee, I will be in a few weeks after I
+start a position as a research scientist at the Bedford Institute of
+Oceanography (BIO) in Halifax (in the middle of packing boxes right now!).
+I don't know of any specific "analytic teams" at BIO, but I do know that
+they are migrating much of their in-house data processing and archiving
+facilities from Matlab to R (and possibly some python). Physical
+oceanography has been (and continues to be) mostly dominated by Matlab, but
+I think that tide is turning, especially for government where the licenses
+are getting harder to justify.
+
+I am also the co-author of the R package `oce` which is aimed at
+oceanographers who work with data. I don't know what the usage of oce is
+like across the government, but I do think it's increasing across academia
+generally, as more students come up through the system with some exposure
+to R from their undergraduate degrees.
+
+Cheers,
+Clark
+
+On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com> wrote:
+
+> Hey folks -
+>
+> Not sure if this is on-topic for this list, but I've become curious about
+> the prevalence of R use in the Government of Canada (GOC) - particularly
+> how many analytic teams are using R as their primary language.
+>
+> So, if you're a member of (or just know of) such an "R Shop", could you let
+> me know? Any information on specific tasks or level of expertise would be a
+> helpful addition.
+>
+> Many thanks in advance,
+>
+> Alex Demarsh
+> Epidemiologist/Biostatistician, Public Health Agency of Canada
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From tyler at plantarum.ca  Tue Aug  9 15:36:12 2016
+From: tyler at plantarum.ca (Tyler Smith)
+Date: Tue, 09 Aug 2016 09:36:12 -0400
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+In-Reply-To: <CAJx09Ak8Ch_Hzf=FTk53U=Dj4QY7hwNb30sdwu3Euz_ufUdQrQ@mail.gmail.com>
+References: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+	<CAJx09Ak8Ch_Hzf=FTk53U=Dj4QY7hwNb30sdwu3Euz_ufUdQrQ@mail.gmail.com>
+Message-ID: <1470749772.1099378.690247081.2C0FD5AC@webmail.messagingengine.com>
+
+Hi Alex,
+
+At AAFC we use R extensively, at least in the biodiversity group. Tasks
+we use it for include:
+
+- univariate and bivariate statistical analysis
+- multivariate analysis of ecological and morphometric data
+- population genetics
+- phylogenetics
+- (meta)genomics
+- flow cytometry histogram analysis (ploidy and genome size assessment
+in plants)
+
+We have varying levels of expertise, from beginners up to workshop
+instructors and at least one package developer. My sense is that R use
+is increasing, and gradually replacing other general-purpose stats
+packages.
+
+Best,
+
+Tyler
+
+-- 
+plantarum.ca
+
+----- Original message -----
+From: clark richards <clark.richards at gmail.com>
+To: Alex Demarsh <alexdemarsh at gmail.com>
+Cc: r-ug-ottawa at r-project.org
+Subject: Re: [OGRUG] Centres of ExpeRtise within GOC?
+Date: Mon, 8 Aug 2016 22:09:22 -0400
+
+Hi Alex,
+
+Not sure if this is useful for you or not, but I'm a physical
+oceanographer
+that uses R for data analysis. Maybe not the kind of analytics you're
+referring to?
+
+While I'm not currently a GOC employee, I will be in a few weeks after I
+start a position as a research scientist at the Bedford Institute of
+Oceanography (BIO) in Halifax (in the middle of packing boxes right
+now!).
+I don't know of any specific "analytic teams" at BIO, but I do know that
+they are migrating much of their in-house data processing and archiving
+facilities from Matlab to R (and possibly some python). Physical
+oceanography has been (and continues to be) mostly dominated by Matlab,
+but
+I think that tide is turning, especially for government where the
+licenses
+are getting harder to justify.
+
+I am also the co-author of the R package `oce` which is aimed at
+oceanographers who work with data. I don't know what the usage of oce is
+like across the government, but I do think it's increasing across
+academia
+generally, as more students come up through the system with some
+exposure
+to R from their undergraduate degrees.
+
+Cheers,
+Clark
+
+On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+wrote:
+
+> Hey folks -
+>
+> Not sure if this is on-topic for this list, but I've become curious about
+> the prevalence of R use in the Government of Canada (GOC) - particularly
+> how many analytic teams are using R as their primary language.
+>
+> So, if you're a member of (or just know of) such an "R Shop", could you let
+> me know? Any information on specific tasks or level of expertise would be a
+> helpful addition.
+>
+> Many thanks in advance,
+>
+> Alex Demarsh
+> Epidemiologist/Biostatistician, Public Health Agency of Canada
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+_______________________________________________
+R-UG-Ottawa mailing list
+R-UG-Ottawa at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+
+From jim201105 at gmail.com  Tue Aug  9 17:27:00 2016
+From: jim201105 at gmail.com (jianmin duan)
+Date: Tue, 9 Aug 2016 11:27:00 -0400
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+In-Reply-To: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+References: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+Message-ID: <CAPxNBFVnL5sFaR4qiFgsFsPrBfX10yedYRA3ONm-6U7HPKP6Xg@mail.gmail.com>
+
+Dear Alex:
+
+At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+analysis, PK/PD data analysis and power tests etc.
+
+Best regards,
+
+Jianmin
+
+On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com> wrote:
+
+> Hey folks -
+>
+> Not sure if this is on-topic for this list, but I've become curious about
+> the prevalence of R use in the Government of Canada (GOC) - particularly
+> how many analytic teams are using R as their primary language.
+>
+> So, if you're a member of (or just know of) such an "R Shop", could you let
+> me know? Any information on specific tasks or level of expertise would be a
+> helpful addition.
+>
+> Many thanks in advance,
+>
+> Alex Demarsh
+> Epidemiologist/Biostatistician, Public Health Agency of Canada
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From dbuijs at gmail.com  Tue Aug  9 17:41:52 2016
+From: dbuijs at gmail.com (Daniel Buijs)
+Date: Tue, 9 Aug 2016 09:41:52 -0600
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 40, Issue 1
+In-Reply-To: <mailman.11.1470736803.6135.r-ug-ottawa@r-project.org>
+References: <mailman.11.1470736803.6135.r-ug-ottawa@r-project.org>
+Message-ID: <CAFVA2rL_6Zfh29=_gNtogoB44mHipB2ER+U5CUizi9HHuax2Vg@mail.gmail.com>
+
+Alex:
+
+I work with R here at Health Canada. Still building expertise, but here's
+some initial stuff:
+
+http://github.com/dbuijs/HealthCanadaOpenData/
+
+Would love to hear what you're up to.
+
+Dan Buijs
+
+On Aug 9, 2016 6:01 AM, <r-ug-ottawa-request at r-project.org> wrote:
+
+> Send R-UG-Ottawa mailing list submissions to
+>         r-ug-ottawa at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+>         r-ug-ottawa-request at r-project.org
+>
+> You can reach the person managing the list at
+>         r-ug-ottawa-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+>
+>
+> Today's Topics:
+>
+>    1. Centres of ExpeRtise within GOC? (Alex Demarsh)
+>    2. Likelihood Ratio Test (Felipe)
+>    3. Re: Centres of ExpeRtise within GOC? (clark richards)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Mon, 08 Aug 2016 18:05:48 +0000
+> From: Alex Demarsh <alexdemarsh at gmail.com>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] Centres of ExpeRtise within GOC?
+> Message-ID:
+>         <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg at mail.
+> gmail.com>
+> Content-Type: text/plain; charset="UTF-8"
+>
+> Hey folks -
+>
+> Not sure if this is on-topic for this list, but I've become curious about
+> the prevalence of R use in the Government of Canada (GOC) - particularly
+> how many analytic teams are using R as their primary language.
+>
+> So, if you're a member of (or just know of) such an "R Shop", could you let
+> me know? Any information on specific tasks or level of expertise would be a
+> helpful addition.
+>
+> Many thanks in advance,
+>
+> Alex Demarsh
+> Epidemiologist/Biostatistician, Public Health Agency of Canada
+>
+>         [[alternative HTML version deleted]]
+>
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Mon, 8 Aug 2016 22:15:31 -0300
+> From: Felipe <felipe.e.barletta at gmail.com>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] Likelihood Ratio Test
+> Message-ID: <57A92EB3.90506 at gmail.com>
+> Content-Type: text/plain; charset=windows-1252; format=flowed
+>
+> Hi dear R users!
+>
+> I have a dubt about how to calculate the Likelihood Ratio Test:
+>
+> I have below a density function:
+>
+>
+> ##### Density Gompertz
+> dG <- function(x,a,b, log=FALSE){
+> d2 <- numeric(length(x))
+> d2 <- b*exp(a*x)*exp(-b/a*(exp(a*x) - 1))
+> dens <- if(log) log(d2) else d2
+> return (dens)
+> }
+>
+> #### log-likelihood
+> ldG <- function(par, x)
+> {
+> sum( dG(x, a = par[1], b = par[2], log = TRUE))
+> }
+>
+> emv.dG <- optim(par = c(.15, .01), fn = ldG, x = d1, hessian=TRUE
+> ,control=list("fnscale"=-1))
+>
+> emv.dG$value # likelihood
+>
+> How do I calculate the Likelihood Ratio Test without a some package.
+> LRT = -2*(emv.dG$value - ?????)
+>
+> --
+> Atenciosamente
+> Felipe E. Barletta Mendes
+> Estat?stico(UFPR) - Conre3 9766-A
+> Mestrando em Bioestat?stica(UEM)
+> +55 (41)-92077191
+> +55 (41)-33287216
+>
+>
+>
+> ------------------------------
+>
+> Message: 3
+> Date: Mon, 8 Aug 2016 22:09:22 -0400
+> From: clark richards <clark.richards at gmail.com>
+> To: Alex Demarsh <alexdemarsh at gmail.com>
+> Cc: r-ug-ottawa at r-project.org
+> Subject: Re: [OGRUG] Centres of ExpeRtise within GOC?
+> Message-ID:
+>         <CAJx09Ak8Ch_Hzf=FTk53U=Dj4QY7hwNb30sdwu3Euz_ufUdQrQ at mail.
+> gmail.com>
+> Content-Type: text/plain; charset="UTF-8"
+>
+> Hi Alex,
+>
+> Not sure if this is useful for you or not, but I'm a physical oceanographer
+> that uses R for data analysis. Maybe not the kind of analytics you're
+> referring to?
+>
+> While I'm not currently a GOC employee, I will be in a few weeks after I
+> start a position as a research scientist at the Bedford Institute of
+> Oceanography (BIO) in Halifax (in the middle of packing boxes right now!).
+> I don't know of any specific "analytic teams" at BIO, but I do know that
+> they are migrating much of their in-house data processing and archiving
+> facilities from Matlab to R (and possibly some python). Physical
+> oceanography has been (and continues to be) mostly dominated by Matlab, but
+> I think that tide is turning, especially for government where the licenses
+> are getting harder to justify.
+>
+> I am also the co-author of the R package `oce` which is aimed at
+> oceanographers who work with data. I don't know what the usage of oce is
+> like across the government, but I do think it's increasing across academia
+> generally, as more students come up through the system with some exposure
+> to R from their undergraduate degrees.
+>
+> Cheers,
+> Clark
+>
+> On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+> wrote:
+>
+> > Hey folks -
+> >
+> > Not sure if this is on-topic for this list, but I've become curious about
+> > the prevalence of R use in the Government of Canada (GOC) - particularly
+> > how many analytic teams are using R as their primary language.
+> >
+> > So, if you're a member of (or just know of) such an "R Shop", could you
+> let
+> > me know? Any information on specific tasks or level of expertise would
+> be a
+> > helpful addition.
+> >
+> > Many thanks in advance,
+> >
+> > Alex Demarsh
+> > Epidemiologist/Biostatistician, Public Health Agency of Canada
+> >
+> >         [[alternative HTML version deleted]]
+> >
+> > _______________________________________________
+> > R-UG-Ottawa mailing list
+> > R-UG-Ottawa at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> >
+>
+>         [[alternative HTML version deleted]]
+>
+>
+>
+> ------------------------------
+>
+> Subject: Digest Footer
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+> ------------------------------
+>
+> End of R-UG-Ottawa Digest, Vol 40, Issue 1
+> ******************************************
+>
+
+	[[alternative HTML version deleted]]
+
+
+From abdool.yasseen at gmail.com  Tue Aug  9 21:43:12 2016
+From: abdool.yasseen at gmail.com (Abdool Yasseen)
+Date: Tue, 9 Aug 2016 15:43:12 -0400
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+In-Reply-To: <CAPxNBFVnL5sFaR4qiFgsFsPrBfX10yedYRA3ONm-6U7HPKP6Xg@mail.gmail.com>
+References: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+	<CAPxNBFVnL5sFaR4qiFgsFsPrBfX10yedYRA3ONm-6U7HPKP6Xg@mail.gmail.com>
+Message-ID: <CAB0XbddysDzS8RQ=vm_6XaX31jt7_UhdvFzPtdDVybOdDdXukA@mail.gmail.com>
+
+Hay Alex,
+
+Re: the use of R in government.
+
+I know some departments are concerned about security, and are hesitant to
+make the shift. Also, the current knowledge base for R varies from place to
+place, like Tyler said. This will definitely be changing in the future,
+because R is the dominant paradigm in most analytic based university shops,
+of which their alumni will be future government employees.
+
+The only analogy I can think about is at the Institute for Clinical
+Evaluative Sciences (ICES) which didn't have R available, up till a few
+years back. They were really concerned about data access and only support
+an internally contained html-version of R (importing packages and the like
+need to be monitored). In light of the ever increasing need for web based
+security, I think the use of R in the government should follow suit.
+
+Just a point to note when thinking about applying freeware in institution
+settings,
+
+Abdool
+
+
+
+On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+
+> Dear Alex:
+>
+> At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+> analysis, PK/PD data analysis and power tests etc.
+>
+> Best regards,
+>
+> Jianmin
+>
+> On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+> wrote:
+>
+> > Hey folks -
+> >
+> > Not sure if this is on-topic for this list, but I've become curious about
+> > the prevalence of R use in the Government of Canada (GOC) - particularly
+> > how many analytic teams are using R as their primary language.
+> >
+> > So, if you're a member of (or just know of) such an "R Shop", could you
+> let
+> > me know? Any information on specific tasks or level of expertise would
+> be a
+> > helpful addition.
+> >
+> > Many thanks in advance,
+> >
+> > Alex Demarsh
+> > Epidemiologist/Biostatistician, Public Health Agency of Canada
+> >
+> >         [[alternative HTML version deleted]]
+> >
+> > _______________________________________________
+> > R-UG-Ottawa mailing list
+> > R-UG-Ottawa at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> >
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+
+
+-- 
+*Abdool S. Yasseen III PhD(c)*
+Dalla Lana School of Public Health, University of Toronto
+__________________________________________________________________
+"A powerful will can cure, where doubt will end in failure" :  Franz Anton
+Mesmer
+"It's tough to make predictions, especially about the future" : Yogi Berra
+
+	[[alternative HTML version deleted]]
+
+
+From jpotvin at xalgorithms.org  Tue Aug  9 22:19:55 2016
+From: jpotvin at xalgorithms.org (Joseph Potvin)
+Date: Tue, 9 Aug 2016 16:19:55 -0400
+Subject: [OGRUG] " departments are concerned about security" [Forked
+ from: "Centres of ExpeRtise within GOC"]
+Message-ID: <CAAuWHC+MHXcS52V-kkGoAQQiDu9DCOxxR+c2DyeY+6aiZVXz1Q@mail.gmail.com>
+
+Abdool,
+
+See: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy
+
+(Co-authors of that summary are listed at the bottom of the entry.)
+
+Joseph Potvin
+Executive Director, Xalgorithms Foundation
+Mobile: 819-593-5983
+jpotvin at xalgorithms.org
+https://www.xalgorithms.org
+
+On Tue, Aug 9, 2016 at 3:43 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+wrote:
+
+> Hay Alex,
+>
+> Re: the use of R in government.
+>
+> I know some departments are concerned about security, and are hesitant to
+> make the shift. Also, the current knowledge base for R varies from place to
+> place, like Tyler said. This will definitely be changing in the future,
+> because R is the dominant paradigm in most analytic based university shops,
+> of which their alumni will be future government employees.
+>
+> The only analogy I can think about is at the Institute for Clinical
+> Evaluative Sciences (ICES) which didn't have R available, up till a few
+> years back. They were really concerned about data access and only support
+> an internally contained html-version of R (importing packages and the like
+> need to be monitored). In light of the ever increasing need for web based
+> security, I think the use of R in the government should follow suit.
+>
+> Just a point to note when thinking about applying freeware in institution
+> settings,
+>
+> Abdool
+>
+>
+>
+> On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+>
+> > Dear Alex:
+> >
+> > At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+> > analysis, PK/PD data analysis and power tests etc.
+> >
+> > Best regards,
+> >
+> > Jianmin
+> >
+> > On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+> > wrote:
+> >
+> > > Hey folks -
+> > >
+> > > Not sure if this is on-topic for this list, but I've become curious
+> about
+> > > the prevalence of R use in the Government of Canada (GOC) -
+> particularly
+> > > how many analytic teams are using R as their primary language.
+> > >
+> > > So, if you're a member of (or just know of) such an "R Shop", could you
+> > let
+> > > me know? Any information on specific tasks or level of expertise would
+> > be a
+> > > helpful addition.
+> > >
+> > > Many thanks in advance,
+> > >
+> > > Alex Demarsh
+> > > Epidemiologist/Biostatistician, Public Health Agency of Canada
+> > >
+> > >         [[alternative HTML version deleted]]
+> > >
+> > > _______________________________________________
+> > > R-UG-Ottawa mailing list
+> > > R-UG-Ottawa at r-project.org
+> > > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> > >
+> >
+> >         [[alternative HTML version deleted]]
+> >
+> > _______________________________________________
+> > R-UG-Ottawa mailing list
+> > R-UG-Ottawa at r-project.org
+> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> >
+>
+>
+>
+> --
+> *Abdool S. Yasseen III PhD(c)*
+> Dalla Lana School of Public Health, University of Toronto
+> __________________________________________________________________
+> "A powerful will can cure, where doubt will end in failure" :  Franz Anton
+> Mesmer
+> "It's tough to make predictions, especially about the future" : Yogi Berra
+>
+>         [[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From abdool.yasseen at gmail.com  Tue Aug  9 22:28:42 2016
+From: abdool.yasseen at gmail.com (Abdool Yasseen)
+Date: Tue, 9 Aug 2016 16:28:42 -0400
+Subject: [OGRUG] " departments are concerned about security" [Forked
+ from: "Centres of ExpeRtise within GOC"]
+In-Reply-To: <CAAuWHC+MHXcS52V-kkGoAQQiDu9DCOxxR+c2DyeY+6aiZVXz1Q@mail.gmail.com>
+References: <CAAuWHC+MHXcS52V-kkGoAQQiDu9DCOxxR+c2DyeY+6aiZVXz1Q@mail.gmail.com>
+Message-ID: <CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw@mail.gmail.com>
+
+Good to know, and glad others have looked into this further, and developed
+documentation.
+Still, I can imagine how this issue may make a few directors nervous.
+
+
+Abdool
+
+On 9 August 2016 at 16:19, Joseph Potvin <jpotvin at xalgorithms.org> wrote:
+
+> Abdool,
+>
+> See: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy
+>
+> (Co-authors of that summary are listed at the bottom of the entry.)
+>
+> Joseph Potvin
+> Executive Director, Xalgorithms Foundation
+> Mobile: 819-593-5983
+> jpotvin at xalgorithms.org
+> https://www.xalgorithms.org
+>
+> On Tue, Aug 9, 2016 at 3:43 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+> wrote:
+>
+>> Hay Alex,
+>>
+>> Re: the use of R in government.
+>>
+>> I know some departments are concerned about security, and are hesitant to
+>> make the shift. Also, the current knowledge base for R varies from place
+>> to
+>> place, like Tyler said. This will definitely be changing in the future,
+>> because R is the dominant paradigm in most analytic based university
+>> shops,
+>> of which their alumni will be future government employees.
+>>
+>> The only analogy I can think about is at the Institute for Clinical
+>> Evaluative Sciences (ICES) which didn't have R available, up till a few
+>> years back. They were really concerned about data access and only support
+>> an internally contained html-version of R (importing packages and the like
+>> need to be monitored). In light of the ever increasing need for web based
+>> security, I think the use of R in the government should follow suit.
+>>
+>> Just a point to note when thinking about applying freeware in institution
+>> settings,
+>>
+>> Abdool
+>>
+>>
+>>
+>> On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+>>
+>> > Dear Alex:
+>> >
+>> > At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+>> > analysis, PK/PD data analysis and power tests etc.
+>> >
+>> > Best regards,
+>> >
+>> > Jianmin
+>> >
+>> > On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+>> > wrote:
+>> >
+>> > > Hey folks -
+>> > >
+>> > > Not sure if this is on-topic for this list, but I've become curious
+>> about
+>> > > the prevalence of R use in the Government of Canada (GOC) -
+>> particularly
+>> > > how many analytic teams are using R as their primary language.
+>> > >
+>> > > So, if you're a member of (or just know of) such an "R Shop", could
+>> you
+>> > let
+>> > > me know? Any information on specific tasks or level of expertise would
+>> > be a
+>> > > helpful addition.
+>> > >
+>> > > Many thanks in advance,
+>> > >
+>> > > Alex Demarsh
+>> > > Epidemiologist/Biostatistician, Public Health Agency of Canada
+>> > >
+>> > >         [[alternative HTML version deleted]]
+>> > >
+>> > > _______________________________________________
+>> > > R-UG-Ottawa mailing list
+>> > > R-UG-Ottawa at r-project.org
+>> > > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> > >
+>> >
+>> >         [[alternative HTML version deleted]]
+>> >
+>> > _______________________________________________
+>> > R-UG-Ottawa mailing list
+>> > R-UG-Ottawa at r-project.org
+>> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> >
+>>
+>>
+>>
+>> --
+>> *Abdool S. Yasseen III PhD(c)*
+>> Dalla Lana School of Public Health, University of Toronto
+>> __________________________________________________________________
+>> "A powerful will can cure, where doubt will end in failure" :  Franz Anton
+>> Mesmer
+>> "It's tough to make predictions, especially about the future" : Yogi Berra
+>>
+>>         [[alternative HTML version deleted]]
+>>
+>> _______________________________________________
+>> R-UG-Ottawa mailing list
+>> R-UG-Ottawa at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>
+>
+>
+
+
+-- 
+*Abdool S. Yasseen III PhD(c)*
+Dalla Lana School of Public Health, University of Toronto
+__________________________________________________________________
+"A powerful will can cure, where doubt will end in failure" :  Franz Anton
+Mesmer
+"It's tough to make predictions, especially about the future" : Yogi Berra
+
+	[[alternative HTML version deleted]]
+
+
+From jpotvin at xalgorithms.org  Tue Aug  9 22:45:54 2016
+From: jpotvin at xalgorithms.org (Joseph Potvin)
+Date: Tue, 9 Aug 2016 16:45:54 -0400
+Subject: [OGRUG] " departments are concerned about security" [Forked
+ from: "Centres of ExpeRtise within GOC"]
+In-Reply-To: <CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw@mail.gmail.com>
+References: <CAAuWHC+MHXcS52V-kkGoAQQiDu9DCOxxR+c2DyeY+6aiZVXz1Q@mail.gmail.com>
+	<CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw@mail.gmail.com>
+Message-ID: <CAAuWHCJUT==NvHrJbpS83OJhYxLJdTwnjh1ZD391cK--dtQdcQ@mail.gmail.com>
+
+RE: "this issue may make a few directors nervous"
+
+Yup. And they should be much more nervous when they are not allowed to
+independently validate the integrity of software that GC and Canadians
+depend upon. (Unfortunately, many rely on supplier marketing materials,
+confident proposal text, and f2f meetings with suppliers.)
+
+Here's another "oldie" (from 1999): this one is an explanation for a
+Washington State Dept of Transportation office about why bridge engineering
+software ought to be fre/libre/open:
+http://www.wsdot.wa.gov/eesc/bridge/alternateroute/about.htm
+
+
+Joseph Potvin
+Executive Director, Xalgorithms Foundation
+Mobile: 819-593-5983
+jpotvin at xalgorithms.org
+https://www.xalgorithms.org
+
+On Tue, Aug 9, 2016 at 4:28 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+wrote:
+
+> Good to know, and glad others have looked into this further, and developed
+> documentation.
+> Still, I can imagine how this issue may make a few directors nervous.
+>
+>
+> Abdool
+>
+> On 9 August 2016 at 16:19, Joseph Potvin <jpotvin at xalgorithms.org> wrote:
+>
+>> Abdool,
+>>
+>> See: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy
+>>
+>> (Co-authors of that summary are listed at the bottom of the entry.)
+>>
+>> Joseph Potvin
+>> Executive Director, Xalgorithms Foundation
+>> Mobile: 819-593-5983
+>> jpotvin at xalgorithms.org
+>> https://www.xalgorithms.org
+>>
+>> On Tue, Aug 9, 2016 at 3:43 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+>> wrote:
+>>
+>>> Hay Alex,
+>>>
+>>> Re: the use of R in government.
+>>>
+>>> I know some departments are concerned about security, and are hesitant to
+>>> make the shift. Also, the current knowledge base for R varies from place
+>>> to
+>>> place, like Tyler said. This will definitely be changing in the future,
+>>> because R is the dominant paradigm in most analytic based university
+>>> shops,
+>>> of which their alumni will be future government employees.
+>>>
+>>> The only analogy I can think about is at the Institute for Clinical
+>>> Evaluative Sciences (ICES) which didn't have R available, up till a few
+>>> years back. They were really concerned about data access and only support
+>>> an internally contained html-version of R (importing packages and the
+>>> like
+>>> need to be monitored). In light of the ever increasing need for web based
+>>> security, I think the use of R in the government should follow suit.
+>>>
+>>> Just a point to note when thinking about applying freeware in institution
+>>> settings,
+>>>
+>>> Abdool
+>>>
+>>>
+>>>
+>>> On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+>>>
+>>> > Dear Alex:
+>>> >
+>>> > At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+>>> > analysis, PK/PD data analysis and power tests etc.
+>>> >
+>>> > Best regards,
+>>> >
+>>> > Jianmin
+>>> >
+>>> > On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+>>> > wrote:
+>>> >
+>>> > > Hey folks -
+>>> > >
+>>> > > Not sure if this is on-topic for this list, but I've become curious
+>>> about
+>>> > > the prevalence of R use in the Government of Canada (GOC) -
+>>> particularly
+>>> > > how many analytic teams are using R as their primary language.
+>>> > >
+>>> > > So, if you're a member of (or just know of) such an "R Shop", could
+>>> you
+>>> > let
+>>> > > me know? Any information on specific tasks or level of expertise
+>>> would
+>>> > be a
+>>> > > helpful addition.
+>>> > >
+>>> > > Many thanks in advance,
+>>> > >
+>>> > > Alex Demarsh
+>>> > > Epidemiologist/Biostatistician, Public Health Agency of Canada
+>>> > >
+>>> > >         [[alternative HTML version deleted]]
+>>> > >
+>>> > > _______________________________________________
+>>> > > R-UG-Ottawa mailing list
+>>> > > R-UG-Ottawa at r-project.org
+>>> > > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> > >
+>>> >
+>>> >         [[alternative HTML version deleted]]
+>>> >
+>>> > _______________________________________________
+>>> > R-UG-Ottawa mailing list
+>>> > R-UG-Ottawa at r-project.org
+>>> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> >
+>>>
+>>>
+>>>
+>>> --
+>>> *Abdool S. Yasseen III PhD(c)*
+>>> Dalla Lana School of Public Health, University of Toronto
+>>> __________________________________________________________________
+>>> "A powerful will can cure, where doubt will end in failure" :  Franz
+>>> Anton
+>>> Mesmer
+>>> "It's tough to make predictions, especially about the future" : Yogi
+>>> Berra
+>>>
+>>>         [[alternative HTML version deleted]]
+>>>
+>>> _______________________________________________
+>>> R-UG-Ottawa mailing list
+>>> R-UG-Ottawa at r-project.org
+>>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>>
+>>
+>>
+>
+>
+> --
+> *Abdool S. Yasseen III PhD(c)*
+> Dalla Lana School of Public Health, University of Toronto
+> __________________________________________________________________
+> "A powerful will can cure, where doubt will end in failure" :  Franz Anton
+> Mesmer
+> "It's tough to make predictions, especially about the future" : Yogi Berra
+>
+
+	[[alternative HTML version deleted]]
+
+
+From tyler at plantarum.ca  Tue Aug  9 23:08:02 2016
+From: tyler at plantarum.ca (Tyler Smith)
+Date: Tue, 09 Aug 2016 17:08:02 -0400
+Subject: [OGRUG] " departments are concerned about security"
+In-Reply-To: <CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw@mail.gmail.com>
+References: <CAAuWHC+MHXcS52V-kkGoAQQiDu9DCOxxR+c2DyeY+6aiZVXz1Q@mail.gmail.com>
+	<CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw@mail.gmail.com>
+Message-ID: <1470776882.1198746.690699377.12CD4E4D@webmail.messagingengine.com>
+
+On Tue, Aug 9, 2016, Abdool Yasseen wrote:
+> >> Just a point to note when thinking about applying freeware in institution
+> >> settings,
+>
+> Still, I can imagine how this issue may make a few directors nervous.
+
+They may be nervous, but this is due in large part to conflating the
+concepts of freeware and Free Software.
+
+Freeware is typically a binary executable of unknown provenance, and
+frequently contains malware. The developers are unknown, and there is
+little risk to them if their program does bad things to the users'
+computers.
+
+Free Software is software for which the source code is available, and
+typically is developed in an open and transparent way. In many cases
+(including R), the developers are well-known and respected domain
+experts. While it's unlikely an average R user has the time or expertise
+to validate the security of the code they use, there are many expert
+users that do. Furthermore, the domain experts behind it would risk
+their reputations and careers should they engage in anything nefarious. 
+
+It would be possible to use R as an infection vector, but the effort
+required to entice a naive user into running malicious R code would be
+far greater, and the target group far smaller, than a standard phishing
+email scam. On the other hand, there are many serious benefits to using
+Free Software, some of which are detailed in the links Joseph provided.
+
+Best,
+
+Tyler
+
+
+From dbuijs at gmail.com  Wed Aug 10 13:12:55 2016
+From: dbuijs at gmail.com (Daniel Buijs)
+Date: Wed, 10 Aug 2016 05:12:55 -0600
+Subject: [OGRUG] Security considerations for R
+In-Reply-To: <CAFVA2r+Y4pKa=EdCecHpM2gFPWytGCC-RK5qzNmomFEPBkbrcQ@mail.gmail.com>
+References: <CAFVA2rJO7_LRwoR=ZnP=zCxQDt2CR-oHudVeMO3dnyfGXSsZ4A@mail.gmail.com>
+	<CAFVA2rLfuH9zeqHYBwUj84BgpeMUn+cuJ-T4hKjjwD+r+-r2jw@mail.gmail.com>
+	<CAFVA2r+pW9T0g9O1HcQ_6KH3XT9q3MjKwREkpeDWn+yPFZ4LzQ@mail.gmail.com>
+	<CAFVA2rJFpOf9qQN2_AYTP7y9NYX3ShLnC7OkiK3PGG+co=ASqg@mail.gmail.com>
+	<CAFVA2rLh5ppE3UxriK=OgYWjjPuHVnLTavMcy+pA0fmUiq1bnQ@mail.gmail.com>
+	<CAFVA2rK8cEH_1F-i0kui1D3S4dGzVa2u9jztigBUB+eyzgvNrA@mail.gmail.com>
+	<CAFVA2r+Y4pKa=EdCecHpM2gFPWytGCC-RK5qzNmomFEPBkbrcQ@mail.gmail.com>
+Message-ID: <CAFVA2rKJTjunL04PTnLcy_MFQwuABEoaZ+COLu1NtDBTHnmFOw@mail.gmail.com>
+
+Abdool,
+
+I would be very happy to chat a bit more about some of the security
+considerations we went through in getting set up directly if you are
+interested in discussing further.
+
+With respect to the government context, we followed and are following all
+relevant policies and procedures and feel that the risk is manageable, as
+does the US FDA : https://www.r-project.org/doc/R-FDA.pdf
+https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Using-R-in-a-regulatory-environment-FDA-experiences
+
+Daniel Buijs
+
+On Aug 10, 2016 6:01 AM, <r-ug-ottawa-request at r-project.org> wrote:
+
+Send R-UG-Ottawa mailing list submissions to
+        r-ug-ottawa at r-project.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+or, via email, send a message with subject or body 'help' to
+        r-ug-ottawa-request at r-project.org
+
+You can reach the person managing the list at
+        r-ug-ottawa-owner at r-project.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of R-UG-Ottawa digest..."
+
+
+Today's Topics:
+
+   1. Re: " departments are concerned about security" [Forked from:
+      "Centres of ExpeRtise within GOC"] (Abdool Yasseen)
+   2. Re: " departments are concerned about security" [Forked from:
+      "Centres of ExpeRtise within GOC"] (Joseph Potvin)
+   3. Re: " departments are concerned about security" (Tyler Smith)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 9 Aug 2016 16:28:42 -0400
+From: Abdool Yasseen <abdool.yasseen at gmail.com>
+To: Joseph Potvin <jpotvin at xalgorithms.org>
+Cc: r-ug-ottawa at r-project.org
+Subject: Re: [OGRUG] " departments are concerned about security"
+        [Forked from: "Centres of ExpeRtise within GOC"]
+Message-ID:
+        <CAB0Xbde=BOHx-VHP7jx30o76eyE6V7t+Wd-OAFtwEwS39PngOw at mail.gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+
+Good to know, and glad others have looked into this further, and developed
+documentation.
+Still, I can imagine how this issue may make a few directors nervous.
+
+
+Abdool
+
+On 9 August 2016 at 16:19, Joseph Potvin <jpotvin at xalgorithms.org> wrote:
+
+> Abdool,
+>
+> See: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy
+>
+> (Co-authors of that summary are listed at the bottom of the entry.)
+>
+> Joseph Potvin
+> Executive Director, Xalgorithms Foundation
+> Mobile: 819-593-5983
+> jpotvin at xalgorithms.org
+> https://www.xalgorithms.org
+>
+> On Tue, Aug 9, 2016 at 3:43 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+> wrote:
+>
+>> Hay Alex,
+>>
+>> Re: the use of R in government.
+>>
+>> I know some departments are concerned about security, and are hesitant to
+>> make the shift. Also, the current knowledge base for R varies from place
+>> to
+>> place, like Tyler said. This will definitely be changing in the future,
+>> because R is the dominant paradigm in most analytic based university
+>> shops,
+>> of which their alumni will be future government employees.
+>>
+>> The only analogy I can think about is at the Institute for Clinical
+>> Evaluative Sciences (ICES) which didn't have R available, up till a few
+>> years back. They were really concerned about data access and only support
+>> an internally contained html-version of R (importing packages and the
+like
+>> need to be monitored). In light of the ever increasing need for web based
+>> security, I think the use of R in the government should follow suit.
+>>
+>> Just a point to note when thinking about applying freeware in institution
+>> settings,
+>>
+>> Abdool
+>>
+>>
+>>
+>> On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+>>
+>> > Dear Alex:
+>> >
+>> > At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+>> > analysis, PK/PD data analysis and power tests etc.
+>> >
+>> > Best regards,
+>> >
+>> > Jianmin
+>> >
+>> > On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+>> > wrote:
+>> >
+>> > > Hey folks -
+>> > >
+>> > > Not sure if this is on-topic for this list, but I've become curious
+>> about
+>> > > the prevalence of R use in the Government of Canada (GOC) -
+>> particularly
+>> > > how many analytic teams are using R as their primary language.
+>> > >
+>> > > So, if you're a member of (or just know of) such an "R Shop", could
+>> you
+>> > let
+>> > > me know? Any information on specific tasks or level of expertise
+would
+>> > be a
+>> > > helpful addition.
+>> > >
+>> > > Many thanks in advance,
+>> > >
+>> > > Alex Demarsh
+>> > > Epidemiologist/Biostatistician, Public Health Agency of Canada
+>> > >
+>> > >         [[alternative HTML version deleted]]
+>> > >
+>> > > _______________________________________________
+>> > > R-UG-Ottawa mailing list
+>> > > R-UG-Ottawa at r-project.org
+>> > > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> > >
+>> >
+>> >         [[alternative HTML version deleted]]
+>> >
+>> > _______________________________________________
+>> > R-UG-Ottawa mailing list
+>> > R-UG-Ottawa at r-project.org
+>> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> >
+>>
+>>
+>>
+>> --
+>> *Abdool S. Yasseen III PhD(c)*
+>> Dalla Lana School of Public Health, University of Toronto
+>> __________________________________________________________________
+>> "A powerful will can cure, where doubt will end in failure" :  Franz
+Anton
+>> Mesmer
+>> "It's tough to make predictions, especially about the future" : Yogi
+Berra
+>>
+>>         [[alternative HTML version deleted]]
+>>
+>> _______________________________________________
+>> R-UG-Ottawa mailing list
+>> R-UG-Ottawa at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>
+>
+>
+
+
+--
+*Abdool S. Yasseen III PhD(c)*
+Dalla Lana School of Public Health, University of Toronto
+__________________________________________________________________
+"A powerful will can cure, where doubt will end in failure" :  Franz Anton
+Mesmer
+"It's tough to make predictions, especially about the future" : Yogi Berra
+
+        [[alternative HTML version deleted]]
+
+
+
+------------------------------
+
+Message: 2
+Date: Tue, 9 Aug 2016 16:45:54 -0400
+From: Joseph Potvin <jpotvin at xalgorithms.org>
+To: Abdool Yasseen <abdool.yasseen at gmail.com>
+Cc: r-ug-ottawa at r-project.org
+Subject: Re: [OGRUG] " departments are concerned about security"
+        [Forked from: "Centres of ExpeRtise within GOC"]
+Message-ID:
+        <CAAuWHCJUT==NvHrJbpS83OJhYxLJdTwnjh1ZD391cK--dtQdcQ at mail.gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+
+RE: "this issue may make a few directors nervous"
+
+Yup. And they should be much more nervous when they are not allowed to
+independently validate the integrity of software that GC and Canadians
+depend upon. (Unfortunately, many rely on supplier marketing materials,
+confident proposal text, and f2f meetings with suppliers.)
+
+Here's another "oldie" (from 1999): this one is an explanation for a
+Washington State Dept of Transportation office about why bridge engineering
+software ought to be fre/libre/open:
+http://www.wsdot.wa.gov/eesc/bridge/alternateroute/about.htm
+
+
+Joseph Potvin
+Executive Director, Xalgorithms Foundation
+Mobile: 819-593-5983
+jpotvin at xalgorithms.org
+https://www.xalgorithms.org
+
+On Tue, Aug 9, 2016 at 4:28 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+wrote:
+
+> Good to know, and glad others have looked into this further, and developed
+> documentation.
+> Still, I can imagine how this issue may make a few directors nervous.
+>
+>
+> Abdool
+>
+> On 9 August 2016 at 16:19, Joseph Potvin <jpotvin at xalgorithms.org> wrote:
+>
+>> Abdool,
+>>
+>> See: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy
+>>
+>> (Co-authors of that summary are listed at the bottom of the entry.)
+>>
+>> Joseph Potvin
+>> Executive Director, Xalgorithms Foundation
+>> Mobile: 819-593-5983
+>> jpotvin at xalgorithms.org
+>> https://www.xalgorithms.org
+>>
+>> On Tue, Aug 9, 2016 at 3:43 PM, Abdool Yasseen <abdool.yasseen at gmail.com>
+>> wrote:
+>>
+>>> Hay Alex,
+>>>
+>>> Re: the use of R in government.
+>>>
+>>> I know some departments are concerned about security, and are hesitant
+to
+>>> make the shift. Also, the current knowledge base for R varies from place
+>>> to
+>>> place, like Tyler said. This will definitely be changing in the future,
+>>> because R is the dominant paradigm in most analytic based university
+>>> shops,
+>>> of which their alumni will be future government employees.
+>>>
+>>> The only analogy I can think about is at the Institute for Clinical
+>>> Evaluative Sciences (ICES) which didn't have R available, up till a few
+>>> years back. They were really concerned about data access and only
+support
+>>> an internally contained html-version of R (importing packages and the
+>>> like
+>>> need to be monitored). In light of the ever increasing need for web
+based
+>>> security, I think the use of R in the government should follow suit.
+>>>
+>>> Just a point to note when thinking about applying freeware in
+institution
+>>> settings,
+>>>
+>>> Abdool
+>>>
+>>>
+>>>
+>>> On 9 August 2016 at 11:27, jianmin duan <jim201105 at gmail.com> wrote:
+>>>
+>>> > Dear Alex:
+>>> >
+>>> > At Duan Pharmaceutical Consulting Inc., we use R for biostatistical
+>>> > analysis, PK/PD data analysis and power tests etc.
+>>> >
+>>> > Best regards,
+>>> >
+>>> > Jianmin
+>>> >
+>>> > On Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh <alexdemarsh at gmail.com>
+>>> > wrote:
+>>> >
+>>> > > Hey folks -
+>>> > >
+>>> > > Not sure if this is on-topic for this list, but I've become curious
+>>> about
+>>> > > the prevalence of R use in the Government of Canada (GOC) -
+>>> particularly
+>>> > > how many analytic teams are using R as their primary language.
+>>> > >
+>>> > > So, if you're a member of (or just know of) such an "R Shop", could
+>>> you
+>>> > let
+>>> > > me know? Any information on specific tasks or level of expertise
+>>> would
+>>> > be a
+>>> > > helpful addition.
+>>> > >
+>>> > > Many thanks in advance,
+>>> > >
+>>> > > Alex Demarsh
+>>> > > Epidemiologist/Biostatistician, Public Health Agency of Canada
+>>> > >
+>>> > >         [[alternative HTML version deleted]]
+>>> > >
+>>> > > _______________________________________________
+>>> > > R-UG-Ottawa mailing list
+>>> > > R-UG-Ottawa at r-project.org
+>>> > > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> > >
+>>> >
+>>> >         [[alternative HTML version deleted]]
+>>> >
+>>> > _______________________________________________
+>>> > R-UG-Ottawa mailing list
+>>> > R-UG-Ottawa at r-project.org
+>>> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> >
+>>>
+>>>
+>>>
+>>> --
+>>> *Abdool S. Yasseen III PhD(c)*
+>>> Dalla Lana School of Public Health, University of Toronto
+>>> __________________________________________________________________
+>>> "A powerful will can cure, where doubt will end in failure" :  Franz
+>>> Anton
+>>> Mesmer
+>>> "It's tough to make predictions, especially about the future" : Yogi
+>>> Berra
+>>>
+>>>         [[alternative HTML version deleted]]
+>>>
+>>> _______________________________________________
+>>> R-UG-Ottawa mailing list
+>>> R-UG-Ottawa at r-project.org
+>>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>>
+>>
+>>
+>
+>
+> --
+> *Abdool S. Yasseen III PhD(c)*
+> Dalla Lana School of Public Health, University of Toronto
+> __________________________________________________________________
+> "A powerful will can cure, where doubt will end in failure" :  Franz Anton
+> Mesmer
+> "It's tough to make predictions, especially about the future" : Yogi Berra
+>
+
+        [[alternative HTML version deleted]]
+
+
+
+------------------------------
+
+Message: 3
+Date: Tue, 09 Aug 2016 17:08:02 -0400
+From: Tyler Smith <tyler at plantarum.ca>
+To: r-ug-ottawa at r-project.org
+Subject: Re: [OGRUG] " departments are concerned about security"
+Message-ID:
+        <1470776882.1198746.690699377.12CD4E4D at webmail.messagingengine.com>
+Content-Type: text/plain
+
+On Tue, Aug 9, 2016, Abdool Yasseen wrote:
+> >> Just a point to note when thinking about applying freeware in
+institution
+> >> settings,
+>
+> Still, I can imagine how this issue may make a few directors nervous.
+
+They may be nervous, but this is due in large part to conflating the
+concepts of freeware and Free Software.
+
+Freeware is typically a binary executable of unknown provenance, and
+frequently contains malware. The developers are unknown, and there is
+little risk to them if their program does bad things to the users'
+computers.
+
+Free Software is software for which the source code is available, and
+typically is developed in an open and transparent way. In many cases
+(including R), the developers are well-known and respected domain
+experts. While it's unlikely an average R user has the time or expertise
+to validate the security of the code they use, there are many expert
+users that do. Furthermore, the domain experts behind it would risk
+their reputations and careers should they engage in anything nefarious.
+
+It would be possible to use R as an infection vector, but the effort
+required to entice a naive user into running malicious R code would be
+far greater, and the target group far smaller, than a standard phishing
+email scam. On the other hand, there are many serious benefits to using
+Free Software, some of which are detailed in the links Joseph provided.
+
+Best,
+
+Tyler
+
+
+
+------------------------------
+
+Subject: Digest Footer
+
+_______________________________________________
+R-UG-Ottawa mailing list
+R-UG-Ottawa at r-project.org
+https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+------------------------------
+
+End of R-UG-Ottawa Digest, Vol 40, Issue 3
+******************************************
+
+	[[alternative HTML version deleted]]
+
+
+From pgilbert902 at gmail.com  Wed Aug 10 22:35:21 2016
+From: pgilbert902 at gmail.com (Paul Gilbert)
+Date: Wed, 10 Aug 2016 16:35:21 -0400
+Subject: [OGRUG] Centres of ExpeRtise within GOC?
+In-Reply-To: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+References: <CAPJGrdfZ97DbUH8vXuUoO8Eb6UW=g_UpFuy=qir85Xw3qiCpOg@mail.gmail.com>
+Message-ID: <3b6b384a-4757-1ae5-f2cc-6a515edc2c4a@gmail.com>
+
+Alex
+
+I'm retired now but am pretty sure R is still used at the Bank of 
+Canada, and has been since circa 1997. (I find it hard to believe that 
+some of the arguments against open source still seem to be as uninformed 
+as they were in the early 1990s.)
+
+You can also add OSFI and CDIC to your inventory, as I know through 
+contacts that it is used there.
+
+Also, for those that missed it, the US government has a new policy on 
+open source:  https://sourcecode.cio.gov/
+
+Paul Gilbert
+
+On 08/08/2016 02:05 PM, Alex Demarsh wrote:
+> Hey folks -
+>
+> Not sure if this is on-topic for this list, but I've become curious about
+> the prevalence of R use in the Government of Canada (GOC) - particularly
+> how many analytic teams are using R as their primary language.
+>
+> So, if you're a member of (or just know of) such an "R Shop", could you let
+> me know? Any information on specific tasks or level of expertise would be a
+> helpful addition.
+>
+> Many thanks in advance,
+>
+> Alex Demarsh
+> Epidemiologist/Biostatistician, Public Health Agency of Canada
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+

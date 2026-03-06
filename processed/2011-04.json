@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2011-04",
+  "messages": [
+    {
+      "id": "msg-fb159bdca384",
+      "message_id": "<4DA6ED60.1050601@gmail.com>",
+      "from_name": "profjcnash at gmail.com",
+      "from_email_hash": "b69dc597287b01916fb57d8dc5f5adaf4198f715a2781a3ac147feb2511e85bd",
+      "date": "2011-04-14T08:49:36-04:00",
+      "subject": "[OGRUG] Google Summer of Code - R successes",
+      "subject_clean": "[OGRUG] Google Summer of Code - R successes",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Some of you may know that I am co-admin of this year's Google Summer of Code activities in R.\n\nLast year we had (as I recall) 9 serious proposals and got 5 funded. This year 50 and 15.\n\nSo as admins, Claudia Beleites (Trieste and Jena) and I (Ottawa) are very busy.\n\nOne thing that we are trying to do is build depth in our mentoring \"staff\". If any of you\nwould be interested in helping to\nmentor one of the GSoC students, please let me know (off-list please), and ASAP so we can\nget you up to speed.\n\nThis year might just be a familiarization for you, but it is clear R is well-regarded by\nGoogle, and we are going to have\nto become more organized to cope with our own success.\n\nBest,\n\nJohn Nash",
+      "body_snippet": "Some of you may know that I am co-admin of this year's Google Summer of Code activities in R.\n\nLast year we had (as I recall) 9 serious proposals and got 5 funded. This year 50 and 15.\n\nSo as admins, ",
+      "thread_id": "thread-fb159bdca384",
+      "thread_depth": 0,
+      "month": "2011-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-fb159bdca384",
+      "subject": "[OGRUG] Google Summer of Code - R successes",
+      "message_count": 1,
+      "participants": [
+        "profjcnash at gmail.com"
+      ],
+      "started": "2011-04-14T08:49:36-04:00",
+      "last_reply": "2011-04-14T08:49:36-04:00",
+      "root_message_id": "msg-fb159bdca384"
+    }
+  ]
+}

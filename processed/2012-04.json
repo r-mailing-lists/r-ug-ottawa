@@ -1,0 +1,85 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2012-04",
+  "messages": [
+    {
+      "id": "msg-7bde570725c5",
+      "message_id": "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>",
+      "from_name": "Helder Mendes",
+      "from_email_hash": "de0e694aecaf84544029bafeffd37622206b0111216cab91ee323b934077c210",
+      "date": "2012-04-23T18:14:02+01:00",
+      "subject": "[OGRUG] R plot() Line numbers?",
+      "subject_clean": "[OGRUG] R plot() Line numbers?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n\nI'm new in R and in this list and I need help on the plot() function.\n\nIs there any way that in the following command in R:\n\n> plot(Matrix)\n\n(Matrix with dim = nx2)\n\nThe graphic has the Matrix line number instead of the symbol \"o\"?\nAlternativelly how can I label, so that the line number appears next\nto the symbol?\n\n\nThanks for any help.\nLX",
+      "body_snippet": "Hi all,\n\nI'm new in R and in this list and I need help on the plot() function.\n\nIs there any way that in the following command in R:\n\n> plot(Matrix)\n\n(Matrix with dim = nx2)\n\nThe graphic has the Matri",
+      "thread_id": "thread-7bde570725c5",
+      "thread_depth": 0,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-d933e071cbc5",
+      "message_id": "<CAM6svt6wWxB9MM-kV8ugax_Wfa8RQiy4qQBhXyPq4DbhpRmPKQ@mail.gmail.com>",
+      "from_name": "David Gattrell",
+      "from_email_hash": "74ee2a882ae6612a0cc150510e573aa5ed21edb4116717f4d70c02e74d9b9855",
+      "date": "2012-04-23T21:14:23-04:00",
+      "subject": "[OGRUG] R plot() Line numbers?",
+      "subject_clean": "[OGRUG] R plot() Line numbers?",
+      "in_reply_to": "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>",
+      "references": [
+        "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20120423/a6ba9fb7/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20120423/a6ba9fb7/attachment.pl>",
+      "thread_id": "thread-7bde570725c5",
+      "thread_depth": 1,
+      "month": "2012-04"
+    },
+    {
+      "id": "msg-5a94764c4f9f",
+      "message_id": "<CADkt+ZvQuF7NxnEzjh4_Y8RfmkKUx3TyvPixRGTt7yBYjAHzmQ@mail.gmail.com>",
+      "from_name": "Tyler Smith",
+      "from_email_hash": "5175000895736522a94b46846e1b695cdc12921b61083ab626f75efaaf595f24",
+      "date": "2012-04-25T09:02:42-04:00",
+      "subject": "[OGRUG] R plot() Line numbers?",
+      "subject_clean": "[OGRUG] R plot() Line numbers?",
+      "in_reply_to": "<26381_1335230082_4F95FE82_26381_99_1_76e8d13d67e64629bc7fe7310b50990f@EXHUB2010-1.campus.MCGILL.CA>",
+      "references": [
+        "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>",
+        "<26381_1335230082_4F95FE82_26381_99_1_76e8d13d67e64629bc7fe7310b50990f@EXHUB2010-1.campus.MCGILL.CA>"
+      ],
+      "body_plain": "To plot the row numbers instead of the symbols, you can also do this:\n\nplot(ick, type = 'n')\ntext(ick, labels = 1:nrow(ick))\n\nOn Mon, Apr 23, 2012 at 9:14 PM, David Gattrell\n<david.gattrell at gmail.com> wrote:\n> You can use the text() command to place labels next to each symbol...\n>\n> silly example:\n>> ick=c(1:5,2:6)\n>> ick=matrix(ick,5,2)\n>> ick\n> ? ? [,1] [,2]\n> [1,] ? ?1 ? ?2\n> [2,] ? ?2 ? ?3\n> [3,] ? ?3 ? ?4\n> [4,] ? ?4 ? ?5\n> [5,] ? ?5 ? ?6\n>> plot(ick)\n>> text(ick[,1],ick[,2],ick[,2],pos=4,col=\"blue\",offset=0.45)\n>> text(ick[,1],ick[,2],ick[,1],pos=3,col=\"blue\",offset=0.45)\n>>\n>\n>\n> On Mon, Apr 23, 2012 at 1:14 PM, Helder Mendes <hmendes.lx at gmail.com> wrote:\n>\n>> Hi all,\n>>\n>> I'm new in R and in this list and I need help on the plot() function.\n>>\n>> Is there any way that in the following command in R:\n>>\n>> > plot(Matrix)\n>>\n>> (Matrix with dim = nx2)\n>>\n>> The graphic has the Matrix line number instead of the symbol \"o\"?\n>> Alternativelly how can I label, so that the line number appears next\n>> to the symbol?\n>>\n>>\n>> Thanks for any help.\n>> LX\n>>\n>> _______________________________________________\n>> R-UG-Ottawa mailing list\n>> R-UG-Ottawa at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>\n>\n> ? ? ? ?[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa",
+      "body_snippet": "To plot the row numbers instead of the symbols, you can also do this:\n\nplot(ick, type = 'n')\ntext(ick, labels = 1:nrow(ick))\n\nOn Mon, Apr 23, 2012 at 9:14 PM, David Gattrell\n<david.gattrell at gmail.c",
+      "thread_id": "thread-5a94764c4f9f",
+      "thread_depth": 0,
+      "month": "2012-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-7bde570725c5",
+      "subject": "[OGRUG] R plot() Line numbers?",
+      "message_count": 2,
+      "participants": [
+        "David Gattrell",
+        "Helder Mendes"
+      ],
+      "started": "2012-04-23T18:14:02+01:00",
+      "last_reply": "2012-04-23T21:14:23-04:00",
+      "root_message_id": "msg-7bde570725c5"
+    },
+    {
+      "id": "thread-5a94764c4f9f",
+      "subject": "[OGRUG] R plot() Line numbers?",
+      "message_count": 1,
+      "participants": [
+        "Tyler Smith"
+      ],
+      "started": "2012-04-25T09:02:42-04:00",
+      "last_reply": "2012-04-25T09:02:42-04:00",
+      "root_message_id": "msg-5a94764c4f9f"
+    }
+  ]
+}

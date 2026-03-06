@@ -1,0 +1,192 @@
+From robert@g@rrett @end|ng |rom c@n@d@@c@  Fri May  1 14:41:17 2020
+From: robert@g@rrett @end|ng |rom c@n@d@@c@ (Garrett, Robert (NRCan/RNCan))
+Date: Fri, 1 May 2020 12:41:17 +0000
+Subject: [OGRUG] Accessing pdf files in inst/
+Message-ID: <mailman.185.10.1588337511.2263.r-ug-ottawa@r-project.org>
+
+Good day,
+
+I trust all readers are well and coping with the Covid difficulties.
+
+I have a package that I have developed and maintained since 2002, 'rgr'.  When first built there were three pdf documents that were stored in inst/docs.  In earlier versions of R these could be accessed via the package index for the Help files, not so anymore.
+
+I understand that inst/docs is no longer an acceptable folder name, and I propose to place the files in a folder inst/pdf.  I am still faced with the problem of providing access to display these files.  My preferred solution would be access or instructions through the Help files so the user could read the files from within an R session.
+
+Any suggestions would be gratefully accepted.
+
+Thank you,
+
+Stay safe and well,
+
+          Bob
+
+Robert G. Garrett
+
+Emeritus Scientist, Geological Survey of Canada
+Natural Resources Canada / Government of Canada
+robert.garrett at canada.ca / Tel: 613-995-4517
+
+scientique ?m?rite, commission g?ologique
+Ressources naturelles Canada / Gouvernement du Canada
+robert.garrett at canada.ca / T?l: 613-995-4517
+
+
+	[[alternative HTML version deleted]]
+
+
+From ty|er @end|ng |rom p|@nt@rum@c@  Fri May  1 16:21:39 2020
+From: ty|er @end|ng |rom p|@nt@rum@c@ (Tyler Smith)
+Date: Fri, 01 May 2020 10:21:39 -0400
+Subject: [OGRUG] Accessing pdf files in inst/
+In-Reply-To: <20200501124151.DA0BE394@hypatia.math.ethz.ch>
+References: <20200501124151.DA0BE394@hypatia.math.ethz.ch>
+Message-ID: <87lfmb68i4.fsf@plantarum.ca>
+
+Hi Robert,
+
+Are you familiar with vignettes? I think this is exactly the 
+use-case they are designed for.
+
+https://cran.r-project.org/doc/manuals/R-exts.html#Writing-package-vignettes
+
+```
+Vignettes are documents in PDF or HTML format obtained from 
+plain-text literate source files from which R knows how to extract 
+R code and create output (in PDF/HTML or intermediate LaTeX). 
+Vignette engines do this work, using ?tangle? and ?weave? 
+functions respectively. [...]
+
+Package vignettes have their sources in subdirectory vignettes of 
+the package sources. 
+```
+
+I notice that the page I linked to indicates that `inst/doc` is 
+still the preferred location for additional documentation, though, 
+has that changed?
+
+
+`system.files` is a lower-level way to access files in your 
+package. With the latest version of your package installed from 
+CRAN, I can retrieve the path to the files via:
+
+R 3.6.3:
+system.file(package = "rgr", "rgr_Overview_1-1-15.pdf")
+[1] 
+"/home/tws/R/x86_64-pc-linux-gnu-library/3.6/rgr/rgr_Overview_1-1-15.pdf"
+
+R version 4.0.0 beta (2020-04-14 r78227) -- "Arbor Day"
+system.file(package = "rgr", "rgr_Overview_1-1-15.pdf")
+[1] 
+"/home/tws/hacking/r-devel/build40/library/rgr/rgr_Overview_1-1-15.pdf"
+
+I'm not sure how best to open the files, I suspect that would be 
+platform-dependent?
+
+Good luck,
+
+Tyler
+
+Garrett, Robert (NRCan/RNCan) writes:
+
+> Good day,
+>
+> I trust all readers are well and coping with the Covid 
+> difficulties.
+>
+> I have a package that I have developed and maintained since 
+> 2002, 'rgr'.  When first built there were three pdf documents 
+> that were stored in inst/docs.  In earlier versions of R these 
+> could be accessed via the package index for the Help files, not 
+> so anymore.
+>
+> I understand that inst/docs is no longer an acceptable folder 
+> name, and I propose to place the files in a folder inst/pdf.  I 
+> am still faced with the problem of providing access to display 
+> these files.  My preferred solution would be access or 
+> instructions through the Help files so the user could read the 
+> files from within an R session.
+>
+> Any suggestions would be gratefully accepted.
+>
+> Thank you,
+>
+> Stay safe and well,
+>
+>           Bob
+>
+> Robert G. Garrett
+>
+> Emeritus Scientist, Geological Survey of Canada
+> Natural Resources Canada / Government of Canada
+> robert.garrett at canada.ca / Tel: 613-995-4517
+>
+> scientique ?m?rite, commission g?ologique
+> Ressources naturelles Canada / Gouvernement du Canada
+> robert.garrett at canada.ca / T?l: 613-995-4517
+>
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+
+-- 
+Tyler Smith
+plantarum.ca
+
+
+From pg||bert902 @end|ng |rom gm@||@com  Fri May  1 18:07:48 2020
+From: pg||bert902 @end|ng |rom gm@||@com (Paul Gilbert)
+Date: Fri, 1 May 2020 12:07:48 -0400
+Subject: [OGRUG] Accessing pdf files in inst/
+In-Reply-To: <20200501124151.DFE8F2B86@hypatia.math.ethz.ch>
+References: <20200501124151.DFE8F2B86@hypatia.math.ethz.ch>
+Message-ID: <e7836b21-af53-efde-7ae5-55906da7c884@gmail.com>
+
+Do you mean inst/docs or inst/doc? If inst/doc is no longer allowed then 
+many of us are going to have trouble. If you are actually using 
+inst/docs then I suggest trying inst/doc.
+
+Paul
+
+On 2020-05-01 8:41 a.m., Garrett, Robert (NRCan/RNCan) wrote:
+> Good day,
+> 
+> I trust all readers are well and coping with the Covid difficulties.
+> 
+> I have a package that I have developed and maintained since 2002, 'rgr'.  When first built there were three pdf documents that were stored in inst/docs.  In earlier versions of R these could be accessed via the package index for the Help files, not so anymore.
+> 
+> I understand that inst/docs is no longer an acceptable folder name, and I propose to place the files in a folder inst/pdf.  I am still faced with the problem of providing access to display these files.  My preferred solution would be access or instructions through the Help files so the user could read the files from within an R session.
+> 
+> Any suggestions would be gratefully accepted.
+> 
+> Thank you,
+> 
+> Stay safe and well,
+> 
+>            Bob
+> 
+> Robert G. Garrett
+> 
+> Emeritus Scientist, Geological Survey of Canada
+> Natural Resources Canada / Government of Canada
+> robert.garrett at canada.ca / Tel: 613-995-4517
+> 
+> scientique ?m?rite, commission g?ologique
+> Ressources naturelles Canada / Gouvernement du Canada
+> robert.garrett at canada.ca / T?l: 613-995-4517
+> 
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> 
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+

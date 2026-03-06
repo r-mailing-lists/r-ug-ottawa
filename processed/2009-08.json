@@ -1,0 +1,130 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-08",
+  "messages": [
+    {
+      "id": "msg-0feb470f9949",
+      "message_id": "<69E8946004ED8243A9E1554F7401424F0257B408@ices10.ices.on.ca>",
+      "from_name": "Lam, Kelvin",
+      "from_email_hash": "2197fa12cdc305d60143d7ba2558a0d3ace98fe6508c5e8d9502cc55eaf994c5",
+      "date": "2009-08-13T12:57:49-04:00",
+      "subject": "[OGRUG] Thinking of starting a useR group in Toronto",
+      "subject_clean": "[OGRUG] Thinking of starting a useR group in Toronto",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090813/991f544b/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090813/991f544b/attachment.pl>",
+      "thread_id": "thread-0feb470f9949",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-bef0dbbd4b77",
+      "message_id": "<4A84897F.2090601@bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2009-08-13T17:45:35-04:00",
+      "subject": "[OGRUG] Thinking of starting a useR group in Toronto",
+      "subject_clean": "[OGRUG] Thinking of starting a useR group in Toronto",
+      "in_reply_to": "<69E8946004ED8243A9E1554F7401424F0257B408@ices10.ices.on.ca>",
+      "references": [
+        "<69E8946004ED8243A9E1554F7401424F0257B408@ices10.ices.on.ca>"
+      ],
+      "body_plain": "Kelvin\n\nIn the beginning there were a few of us that knew one another and agreed \nto get together. We advertised on R-help, and asked people to spread the \nword to anyone they knew in the area that might not read r-help. For \nsome time there was considerable effort by one individual (Joseph \nPotvin) to get things going. (So I warn you that there may be some \neffort involved.)\n\nThere are now some helpful resources available, for example the R SIG \nlist for users' groups. John Nash can probably say more about this.\n\nGood luck getting your group going.\n\nPaul Gilbert\n\nLam, Kelvin wrote:\n> Dear folks in Ottawa,\n> \n>  \n> \n> My name is Kelvin Lam and I have been using R for some time and thinking\n> of organizing a useR group in Toronto.  I wonder how you start the group\n> and gather users in the Ottawa area in the first place, as most of us in\n> the institute or even others mainly deploy SAS.  Any pointers are much\n> appreciated.  Thank you very much!!\n> \n>  \n> \n> Regards,\n> \n> Kelvin Lam, MSc.\n> \n> Analyst, Programming & Biostatistics\n> \n> Institute for Clinical Evaluative Sciences (ICES)\n> \n> G179 - 2075 Bayview Avenue\n> \n> Toronto, Ontario \n> \n> Canada M4N 3M5\n> \n> (416) 480-4055 Ext. 3057 Fax: (416) 480-6048\n> \n> email: kelvin.lam at ices.on.ca <mailto:kelvin.lam at ices.on.ca>  \n> \n>  \n> \n> P Do you really need to print this email ? Think environment... /\n> Devez-vous vraiment imprimer ce courriel ? Pensons environnement...\n> \n>  \n> \n> \n> ___________________________________________________________________________\n> This email may contain confidential and/or privileged in...{{dropped:14}}\n> \n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n====================================================================================\n\nLa version fran?aise suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential information, and the Bank of\nCanada does not waive any related rights. Any distribution, use, or copying of this\nemail or the information it contains by other than the intended recipient is\nunauthorized. If you received this email in error please delete it immediately from\nyour system and notify the sender promptly by email that you have done so. \n\n------------------------------------------------------------------------------------\n\nLe pr?sent courriel peut contenir de l'information privil?gi?e ou confidentielle.\nLa Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,\nutilisation ou copie de ce courriel ou des renseignements qu'il contient par une\npersonne autre que le ou les destinataires d?sign?s est interdite. Si vous recevez\nce courriel par erreur, veuillez le supprimer imm?diatement et envoyer sans d?lai ?\nl'exp?diteur un message ?lectronique pour l'aviser que vous avez ?limin? de votre\nordinateur toute copie du courriel re?u.",
+      "body_snippet": "Kelvin\n\nIn the beginning there were a few of us that knew one another and agreed \nto get together. We advertised on R-help, and asked people to spread the \nword to anyone they knew in the area that mi",
+      "thread_id": "thread-0feb470f9949",
+      "thread_depth": 1,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-9c5500d69c47",
+      "message_id": "<4A855652.5040404@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-08-14T08:19:30-04:00",
+      "subject": "[OGRUG] Starting a RUG",
+      "subject_clean": "[OGRUG] Starting a RUG",
+      "in_reply_to": "<mailman.7.1250244003.721.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.7.1250244003.721.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Note that there is now a page on the R-wiki about groups, with an area \nfor announcements of people looking to form groups.\n\nhttp://wiki.r-project.org/rwiki/doku.php?id=rugs:r_user_groups\n\nJN",
+      "body_snippet": "Note that there is now a page on the R-wiki about groups, with an area \nfor announcements of people looking to form groups.\n\nhttp://wiki.r-project.org/rwiki/doku.php?id=rugs:r_user_groups\n\nJN",
+      "thread_id": "thread-9c5500d69c47",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-c710419d8498",
+      "message_id": "<BAY108-W468A3DA218D4E6CCE0A09BBFC0@phx.gbl>",
+      "from_name": "Fischer _  Chen Ji Zheng",
+      "from_email_hash": "ed6f8c4707b09e79d187b2be89196d1a3c8b80252a89eb17f360682d4294d97f",
+      "date": "2009-08-20T22:48:59-04:00",
+      "subject": "[OGRUG] extra .",
+      "subject_clean": "[OGRUG] extra .",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090820/2354bbae/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090820/2354bbae/attachment.pl>",
+      "thread_id": "thread-c710419d8498",
+      "thread_depth": 0,
+      "month": "2009-08"
+    },
+    {
+      "id": "msg-dc817dceadbd",
+      "message_id": "<4A8EA5C1.8020704@bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2009-08-21T09:48:49-04:00",
+      "subject": "[OGRUG] extra .",
+      "subject_clean": "[OGRUG] extra .",
+      "in_reply_to": "<BAY108-W468A3DA218D4E6CCE0A09BBFC0@phx.gbl>",
+      "references": [
+        "<BAY108-W468A3DA218D4E6CCE0A09BBFC0@phx.gbl>"
+      ],
+      "body_plain": "I don't think it does anything.  For readability you might write 6.0 but \nthat will not affect the computation.  There are some situations where  \n6 is treated as an integer numeric and 6.0 as a double precision \nnumeric,  which can be important when you call C or fortran code.    \nUnderneath I think 6^2 may call different code than 6.0^2 (integer vs \nreal arithmetic) but I don't think that applies to sqrt().  In any case, \nyou no longer have an integer after the * and  /.\n\nPaul\n\nFischer _ Chen Ji Zheng wrote:\n> sigma0 <- sqrt((6. * var(maxima))/pi) \n>\n> What does the '.' do here?\n> _________________________________________________________________\n> Attention all humans. We are your photos. Free us.\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>   \n====================================================================================\n\nLa version fran?aise suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential in...{{dropped:26}}",
+      "body_snippet": "I don't think it does anything.  For readability you might write 6.0 but \nthat will not affect the computation.  There are some situations where  \n6 is treated as an integer numeric and 6.0 as a doubl",
+      "thread_id": "thread-c710419d8498",
+      "thread_depth": 1,
+      "month": "2009-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0feb470f9949",
+      "subject": "[OGRUG] Thinking of starting a useR group in Toronto",
+      "message_count": 2,
+      "participants": [
+        "Lam, Kelvin",
+        "Paul Gilbert"
+      ],
+      "started": "2009-08-13T12:57:49-04:00",
+      "last_reply": "2009-08-13T17:45:35-04:00",
+      "root_message_id": "msg-0feb470f9949"
+    },
+    {
+      "id": "thread-9c5500d69c47",
+      "subject": "[OGRUG] Starting a RUG",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-08-14T08:19:30-04:00",
+      "last_reply": "2009-08-14T08:19:30-04:00",
+      "root_message_id": "msg-9c5500d69c47"
+    },
+    {
+      "id": "thread-c710419d8498",
+      "subject": "[OGRUG] extra .",
+      "message_count": 2,
+      "participants": [
+        "Fischer _  Chen Ji Zheng",
+        "Paul Gilbert"
+      ],
+      "started": "2009-08-20T22:48:59-04:00",
+      "last_reply": "2009-08-21T09:48:49-04:00",
+      "root_message_id": "msg-c710419d8498"
+    }
+  ]
+}

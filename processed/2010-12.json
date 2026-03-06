@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2010-12",
+  "messages": [
+    {
+      "id": "msg-101caa60c8f7",
+      "message_id": "<SNT109-W164E8CB11A19EFF6D21447F61E0@phx.gbl>",
+      "from_name": "Orin Richards",
+      "from_email_hash": "684b207f0f3900ffa22174e1728c427fdda998b4fba8707258ae882c77a5cad1",
+      "date": "2010-12-25T12:21:49Z",
+      "subject": "[OGRUG] GCD",
+      "subject_clean": "[OGRUG] GCD",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20101225/b1797324/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20101225/b1797324/attachment.pl>",
+      "thread_id": "thread-101caa60c8f7",
+      "thread_depth": 0,
+      "month": "2010-12"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-101caa60c8f7",
+      "subject": "[OGRUG] GCD",
+      "message_count": 1,
+      "participants": [
+        "Orin Richards"
+      ],
+      "started": "2010-12-25T12:21:49+00:00",
+      "last_reply": "2010-12-25T12:21:49+00:00",
+      "root_message_id": "msg-101caa60c8f7"
+    }
+  ]
+}

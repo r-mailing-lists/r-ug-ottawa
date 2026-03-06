@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-06",
+  "messages": [
+    {
+      "id": "msg-ee1b5fb0164a",
+      "message_id": "<4A40DF5F.5000706@bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2009-06-23T09:57:51-04:00",
+      "subject": "[OGRUG] [Fwd: [R-sig-hpc] R user survey]",
+      "subject_clean": "[OGRUG] [Fwd: [R-sig-hpc] R user survey]",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "This just circulated on  R-sig-hpc, but may be of interest to several \nOCRUG members.\n\nPaul Gilbert\n\n-------- Original Message --------\n\nDear R user,\n\nThe Division of Pathway Medicine and Edinburgh Parallel Computing Centre\nat the University of Edinburgh are currently working on a joint project\nto design a framework for using R in parallel called SPRINT.\n\nSPRINT is a Simple Parallel R INTerface and aims to allow researchers\nto easily access High Performance Computing to perform statistical\nanalysis on post genomic data using R.\n\nWe are now gathering input from R users on what specific functions\ncreate bottlenecks in their analysis. This information will be used to\ndirect the developments of SPRINT, to ensure that key routines are\noptimised and that the functionality is immediately relevant to R users.\n\nIt is your chance to tell us what R functions are specific bottleneck\nfor your work. I encourage you to take part in our SPRINT online user\nrequirements survey at https://www.survey.ed.ac.uk/sprint/.\n\nTaking part in the survey should only take around 15 minutes.\n\nThank you for your valuable input.\n\nPlease don't hesitate to contact me if you have any questions regarding\nSPRINT by emailing sprint at lists.ed.ac.uk.\n\nKind regards,\n\nMuriel Mewissen\n\nDivision of Pathway Medicine\nUniversity of Edinburgh Medical School\nThe Chancellor's building\n49 Little France Crescent\nEdinburgh, EH16 4SB\n\n\n\n-- \nThe University of Edinburgh is a charitable body, registered in\nScotland, with registration number SC005336.\n\n_______________________________________________\nR-sig-hpc mailing list\nR-sig-hpc at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-sig-hpc\n====================================================================================\n\nLa version fran?aise suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential information, and the Bank of\nCanada does not waive any related rights. Any distribution, use, or copying of this\nemail or the information it contains by other than the intended recipient is\nunauthorized. If you received this email in error please delete it immediately from\nyour system and notify the sender promptly by email that you have done so. \n\n------------------------------------------------------------------------------------\n\nLe pr?sent courriel peut contenir de l'information privil?gi?e ou confidentielle.\nLa Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,\nutilisation ou copie de ce courriel ou des renseignements qu'il contient par une\npersonne autre que le ou les destinataires d?sign?s est interdite. Si vous recevez\nce courriel par erreur, veuillez le supprimer imm?diatement et envoyer sans d?lai ?\nl'exp?diteur un message ?lectronique pour l'aviser que vous avez ?limin? de votre\nordinateur toute copie du courriel re?u.",
+      "body_snippet": "This just circulated on  R-sig-hpc, but may be of interest to several \nOCRUG members.\n\nPaul Gilbert\n\n-------- Original Message --------\n\nDear R user,\n\nThe Division of Pathway Medicine and Edinburgh Pa",
+      "thread_id": "thread-ee1b5fb0164a",
+      "thread_depth": 0,
+      "month": "2009-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ee1b5fb0164a",
+      "subject": "[OGRUG] [Fwd: [R-sig-hpc] R user survey]",
+      "message_count": 1,
+      "participants": [
+        "Paul Gilbert"
+      ],
+      "started": "2009-06-23T09:57:51-04:00",
+      "last_reply": "2009-06-23T09:57:51-04:00",
+      "root_message_id": "msg-ee1b5fb0164a"
+    }
+  ]
+}

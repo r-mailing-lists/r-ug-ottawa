@@ -1,0 +1,55 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2020-09",
+  "messages": [
+    {
+      "id": "msg-2b29910a60d0",
+      "message_id": "<da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>",
+      "from_name": "Martin Potter",
+      "from_email_hash": "6635fe8e895fc19058b80a967a38cd86b4f57bb99a8119bb1b4fb7a7570e98e7",
+      "date": "2020-09-14T20:03:47-04:00",
+      "subject": "[OGRUG] Newbie needs help with plot",
+      "subject_clean": "[OGRUG] Newbie needs help with plot",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nNewbie here with a newbie question.\n\nI have a time series of voltage measurements, two independent \nvariables (DoM and HoD) and one dependent (VAC) variable.? My csv file \nwas imported into R and now the 3-column table of values appears in \nthe upper left panel of RStudio.? Good so far.\n\nI succeeded in getting the expected matrix of plots using the 'pairs' \nfunction :\n\npairs(Voltage_202004, cex=1, pch=16, cex.labels = 2)\n\nso that works fine.\n\nBut I have not been able to get any plots using 'plot', or variants of \nit, and get only errors, usually of the \"object 'HoD' not found\" variety.\n\nI suspect I need to declare my variable names somehow so that R will \nknow what I am asking it to do, but have not been able to figure out \nhow to do that.? There might be other things I need to do as well!\n\nCould someone show me an example of (1) how to declare my variables \nand (2) exactly what an xy plot command should look like, using my \nvariable names (DoM, HoD, and VAC), plotting VAC against either DoM or \nHoD?\n\nThanks for any help with this!? All of my Help material seems very \nabstract at this point, and so far has not be of much help to me. Many \nyears ago I cut my teeth on FORTRAN and soon graduated to assembler \nlanguage on a DEC PDP-8 in a small data acquisition and processing \nlab, before moving on to other jobs.? Since then the vocabulary seems \nto have changed considerably and this now almost-80-year-old gets \neasily confused.\n\n... Martin Potter",
+      "body_snippet": "Hello,\n\nNewbie here with a newbie question.\n\nI have a time series of voltage measurements, two independent \nvariables (DoM and HoD) and one dependent (VAC) variable.? My csv file \nwas imported into R ",
+      "thread_id": "thread-2b29910a60d0",
+      "thread_depth": 0,
+      "month": "2020-09"
+    },
+    {
+      "id": "msg-850defd4aee6",
+      "message_id": "<CAJx09AnNL4cQeG2Vy7MTnQLj54OdETfN_t4P0AszvBQ4sbxh4A@mail.gmail.com>",
+      "from_name": "clark richards",
+      "from_email_hash": "3a31536235be1a099759c01372e337a048f05846b0dd12d4673b609f9ac5dbe2",
+      "date": "2020-09-14T21:19:38-03:00",
+      "subject": "[OGRUG] Newbie needs help with plot",
+      "subject_clean": "[OGRUG] Newbie needs help with plot",
+      "in_reply_to": "<da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>",
+      "references": [
+        "<da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>"
+      ],
+      "body_plain": "Hi Martin,\n\nIt helps if you show us what it was you tried to do, and exactly what\nyour errors were. The closer you can make your code sample to being\nreproducible, the easier it is for others to see where you went wrong.\nYou can even attach your data file if that might be related to your\nproblem.\n\n>From reading your email however, it sounds like the issue you are\nhaving is how to reference the variables (i.e. columns) inside the\ndata.frame object that you imported (I'm assuming you used\n`read.csv()` or something similar). If your columns were imported with\nthe names from the file (here is where seeing your code and having\nyour data file would help with the answer) you can reference the\nindividual field use the \"$\" notation, like:\n\n> Voltage_202004$DoM\n\nand you could then make a plot by doing, e.g.\n\n> plot(Voltage_202004$DoM, Voltage_202004$VAC)\n\nThe `with()` function can be handy if you are plotting columns all\nfrom the same data.frame object, and would be used like:\n\n> with(Voltage_202004, plot(DoM, VAC))\n\nIf your columns aren't named, the best thing to do is name them in the\nobject and then proceed as above. To name columns you can do\n\n> names(Voltage_202004) <- c('DoM', 'HoD', 'VAC')\n\nOtherwise you can use the \"numeric\" approach to specifying which\ncolumns you want to plot, e.g.\n\n> plot(Voltage_202004[[1]], Voltage_202004[[3]]) # plots the first and 3 columns against each other.\n\nHope that helps!\n\nCheers,\nClark\n\n\nOn Mon, Sep 14, 2020 at 9:04 PM Martin Potter <mpotter at storm.ca> wrote:\n>\n> Hello,\n>\n> Newbie here with a newbie question.\n>\n> I have a time series of voltage measurements, two independent\n> variables (DoM and HoD) and one dependent (VAC) variable.  My csv file\n> was imported into R and now the 3-column table of values appears in\n> the upper left panel of RStudio.  Good so far.\n>\n> I succeeded in getting the expected matrix of plots using the 'pairs'\n> function :\n>\n> pairs(Voltage_202004, cex=1, pch=16, cex.labels = 2)\n>\n> so that works fine.\n>\n> But I have not been able to get any plots using 'plot', or variants of\n> it, and get only errors, usually of the \"object 'HoD' not found\" variety.\n>\n> I suspect I need to declare my variable names somehow so that R will\n> know what I am asking it to do, but have not been able to figure out\n> how to do that.  There might be other things I need to do as well!\n>\n> Could someone show me an example of (1) how to declare my variables\n> and (2) exactly what an xy plot command should look like, using my\n> variable names (DoM, HoD, and VAC), plotting VAC against either DoM or\n> HoD?\n>\n> Thanks for any help with this!  All of my Help material seems very\n> abstract at this point, and so far has not be of much help to me. Many\n> years ago I cut my teeth on FORTRAN and soon graduated to assembler\n> language on a DEC PDP-8 in a small data acquisition and processing\n> lab, before moving on to other jobs.  Since then the vocabulary seems\n> to have changed considerably and this now almost-80-year-old gets\n> easily confused.\n>\n> ... Martin Potter\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa",
+      "body_snippet": "Hi Martin,\n\nIt helps if you show us what it was you tried to do, and exactly what\nyour errors were. The closer you can make your code sample to being\nreproducible, the easier it is for others to see w",
+      "thread_id": "thread-2b29910a60d0",
+      "thread_depth": 1,
+      "month": "2020-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-2b29910a60d0",
+      "subject": "[OGRUG] Newbie needs help with plot",
+      "message_count": 2,
+      "participants": [
+        "Martin Potter",
+        "clark richards"
+      ],
+      "started": "2020-09-14T20:03:47-04:00",
+      "last_reply": "2020-09-14T21:19:38-03:00",
+      "root_message_id": "msg-2b29910a60d0"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-05",
+  "messages": [
+    {
+      "id": "msg-42a24aa5cdd0",
+      "message_id": "<2013051623360057228419@gmail.com>",
+      "from_name": "Qiang Yue",
+      "from_email_hash": "843341d24d610999ae3cb296b9641a5fd056394a6a5078a0495f649a043598a0",
+      "date": "2013-05-16T23:36:01-05:00",
+      "subject": "[OGRUG] using metafor to do meta-analysis for pre-post study",
+      "subject_clean": "[OGRUG] using metafor to do meta-analysis for pre-post study",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130516/b04abb52/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130516/b04abb52/attachment.pl>",
+      "thread_id": "thread-42a24aa5cdd0",
+      "thread_depth": 0,
+      "month": "2013-05"
+    },
+    {
+      "id": "msg-71297561d848",
+      "message_id": "<201305171014365628730@gmail.com>",
+      "from_name": "Qiang Yue",
+      "from_email_hash": "843341d24d610999ae3cb296b9641a5fd056394a6a5078a0495f649a043598a0",
+      "date": "2013-05-17T10:14:37-04:00",
+      "subject": "[OGRUG] using metafor for meta-analysis of before-after studies (escalc, SMCC)",
+      "subject_clean": "[OGRUG] using metafor for meta-analysis of before-after studies (escalc, SMCC)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello.\nI am trying to perform meta-analysis on some before-after studies. These studies are designed to clarify if there is any significant metabolic change before and after an intervention. There is only one group in these studies, i.e., no control group. I followed the e-mail communication of R-help (https://stat.ethz.ch/pipermail/r-help/2012-April/308946.html ) and the Metafor Manual (version 1.8-0, released 2013-04-11, relevant contents can be found on pages of 59-61 under 'Outcome Measures for Individual Groups '). I made a trial analysis and attached the output here, I wonder if anyone can look through it and give me some comments. \n\nI have three questions about the analysis:\n\n1) Most studies  reported the before-and-after raw change  as Mean+/-SD, but few of them have reported the values of before-intervention (mean_r and sd_r) and the values of after-intervention (mean_s and sd_s), and none of them reported the r value (correlation for the before- and after- intervention measurements).  Based on the guideline of the Metafor manual, I set the raw mean change as m1i (i.e., raw mean change=mean_s=m1i), and set the standard deviation of raw change as sd1i (i.e., the standard deviation of raw change =sd_s=sd1i), and set all other arguments including m2i, sd2i, ri as 0, and then calculated the standardized mean change using change score (SMCC). I am not sure if all these settings are correct.\n\n2) A few studies have specified individual values of  m1i, m2i, sd1i, sd2i , but did not report the change score or its sd. So can I set r=0 and use these values to calculate SMCC? Since SMCC is not calculated in the same way like 1), will this be a problem?\n\n3) some studies reported the percentage mean changes instead of raw mean change (percentage change=(value of after-intervention - value of before intervention) / value of before intervention), I think it may not be the right way to simply substitute the raw mean change with  the percentage mean changes. Is there any method to deal with this problem?\n\nAny comments are welcome.\n\nWith best regards.\n\n\n\n\nQiang Yue\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130517/dd9a7097/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: Meata-analyis of pre-post studies.pdf\nType: application/octet-stream\nSize: 55081 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130517/dd9a7097/attachment-0001.obj>",
+      "body_snippet": "Hello.\nI am trying to perform meta-analysis on some before-after studies. These studies are designed to clarify if there is any significant metabolic change before and after an intervention. There is ",
+      "thread_id": "thread-71297561d848",
+      "thread_depth": 0,
+      "month": "2013-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-42a24aa5cdd0",
+      "subject": "[OGRUG] using metafor to do meta-analysis for pre-post study",
+      "message_count": 1,
+      "participants": [
+        "Qiang Yue"
+      ],
+      "started": "2013-05-16T23:36:01-05:00",
+      "last_reply": "2013-05-16T23:36:01-05:00",
+      "root_message_id": "msg-42a24aa5cdd0"
+    },
+    {
+      "id": "thread-71297561d848",
+      "subject": "[OGRUG] using metafor for meta-analysis of before-after studies (escalc, SMCC)",
+      "message_count": 1,
+      "participants": [
+        "Qiang Yue"
+      ],
+      "started": "2013-05-17T10:14:37-04:00",
+      "last_reply": "2013-05-17T10:14:37-04:00",
+      "root_message_id": "msg-71297561d848"
+    }
+  ]
+}

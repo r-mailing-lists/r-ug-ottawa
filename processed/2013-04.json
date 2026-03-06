@@ -1,0 +1,144 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-04",
+  "messages": [
+    {
+      "id": "msg-ad4afa8fbf63",
+      "message_id": "<CAKcXiSoTh+yFTSNG1wipDPC4UyWoT=DCb6cLjYf63GWz71dw8g@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2013-04-09T18:29:18-04:00",
+      "subject": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "subject_clean": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130409/01810815/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130409/01810815/attachment.pl>",
+      "thread_id": "thread-ad4afa8fbf63",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-90dfd0d64100",
+      "message_id": "<CAKcXiSq_jWBC-CUomt_fasMMNWGNgD-_TjZ16_JgmDvLwO=aSg@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2013-04-09T21:15:57-04:00",
+      "subject": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "subject_clean": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "in_reply_to": "<CAKcXiSoTh+yFTSNG1wipDPC4UyWoT=DCb6cLjYf63GWz71dw8g@mail.gmail.com>",
+      "references": [
+        "<CAKcXiSoTh+yFTSNG1wipDPC4UyWoT=DCb6cLjYf63GWz71dw8g@mail.gmail.com>"
+      ],
+      "body_plain": "Hello, My previous email might have had *asterisks* inadvertently\ninserted around the URL of the survey, about which I was not aware of.\nPlease use this link for the survey if sharing with anyone else.\nhttp://freeonlinesurveys.com/s.asp?sid=6pjtq7tro6rrq8y239996\n\nSorry for the inconvenience.\n\nJoseph Potvin\n\nOn Tue, Apr 9, 2013 at 6:29 PM, Joseph Potvin <jpotvin at opman.ca> wrote:\n> OGRUG colleagues, Recently I've been contracted by a global firm which is\n> very active in the free/libre/open source world, to develop a course on\n> minimizing business risk and maximizing business value through\n> free/libre/open source licensing and contracting. While the topic itself is\n> tangenial to this list, nevertheless I've long considered the R community to\n> be amongst the most effective free/libre/open communities. I refer to it\n> fairly often as providing something close to an archetype for distributed\n> free/libre/open quality control methodology.\n>\n> My client agrees that the generic contents of the training course we are\n> creating should itself be dual-licensed under the GNU-FDL and CC-BY\n> licenses.\n>\n> Responses to this short questionnaire will help us to ensure that the\n> generic course meets the needs and preferences of diverse teams and\n> individual professionals. This requires 5-to-10 minutes to complete.\n>\n> http://freeonlinesurveys.com/s.asp?sid=6pjtq7tro6rrq8y239996\n> (Note: Some have reported *asterisks* showing up on each end of this URL on\n> the receiving end. Please take the URL without them.)\n>\n> Please suggest improvements to the scope of this work, directly within the\n> questionnaire. Report any glitches or typos directly to my email.\n>\n> The results of this survey will be shared back with recipients (minus the\n> list of respondent names and emails) from this location:\n> http://www.projectmanagementhotel.com/projects/optimization-free-libre-open\n>\n> We'll be grateful for any collaboration. Please forward to individuals you\n> think would have a direct interest in this.\n>\n> --\n> Joseph Potvin\n> Operations Manager | Gestionnaire des operations\n> The Opman Company | La compagnie Opman\n> http://www.projectmanagementhotel.com/projects/opman-portfolio\n> jpotvin at opman.ca\n> Mobile: 819-593-5983\n> LinkedIn (Google short URL): http://goo.gl/Ssp56\n>\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des operations\nThe Opman Company | La compagnie Opman\nhttp://www.projectmanagementhotel.com/projects/opman-portfolio\njpotvin at opman.ca\nMobile: 819-593-5983\nLinkedIn (Google short URL): http://goo.gl/Ssp56",
+      "body_snippet": "Hello, My previous email might have had *asterisks* inadvertently\ninserted around the URL of the survey, about which I was not aware of.\nPlease use this link for the survey if sharing with anyone else",
+      "thread_id": "thread-ad4afa8fbf63",
+      "thread_depth": 1,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-20f05488b606",
+      "message_id": "<5168A95F.1010908@uottawa.ca>",
+      "from_name": "Prof J C Nash (U30A)",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2013-04-12T20:39:59-04:00",
+      "subject": "[OGRUG] Files mentioned at R meetup April 8",
+      "subject_clean": "[OGRUG] Files mentioned at R meetup April 8",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "At the meetup there was some interest in some work I'd done to present \nSweave, KnitR and odfWeave, as well as Latex -> Epub.\n\nI've put the slides on my server at\n\nhttp://macnash.telfer.uottawa.ca/~nashjc/visible/\n\nnash-oclug130307.odp -- lightning talk about Latex -> epub.\n\nUOpsych130311.odp -- latest version of a talk about updateable reports \n(including graphics) using Sweave, KnitR or odfWeave.\n\nBest,\n\nJohn Nash",
+      "body_snippet": "At the meetup there was some interest in some work I'd done to present \nSweave, KnitR and odfWeave, as well as Latex -> Epub.\n\nI've put the slides on my server at\n\nhttp://macnash.telfer.uottawa.ca/~na",
+      "thread_id": "thread-20f05488b606",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-af80bed90289",
+      "message_id": "<CAKcXiSohWFVgxLr+KN8F16_CbZGcT23OXrEiRi8O-+a_O-VkQA@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2013-04-14T13:56:11-04:00",
+      "subject": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "subject_clean": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "in_reply_to": "<CAKcXiSoTh+yFTSNG1wipDPC4UyWoT=DCb6cLjYf63GWz71dw8g@mail.gmail.com>",
+      "references": [
+        "<CAKcXiSoTh+yFTSNG1wipDPC4UyWoT=DCb6cLjYf63GWz71dw8g@mail.gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130414/62e918a4/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130414/62e918a4/attachment.pl>",
+      "thread_id": "thread-ad4afa8fbf63",
+      "thread_depth": 1,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-97a44c752bc0",
+      "message_id": "<CAKcXiSpA+-HMhtO0wqusgyTKoLUZT9PiqyJQvF7kEeub7BnWag@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2013-04-18T20:47:01-04:00",
+      "subject": "[OGRUG] Big honk'n spreadsheet error",
+      "subject_clean": "[OGRUG] Big honk'n spreadsheet error",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/600979c6/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/600979c6/attachment.pl>",
+      "thread_id": "thread-97a44c752bc0",
+      "thread_depth": 0,
+      "month": "2013-04"
+    },
+    {
+      "id": "msg-a43abae07084",
+      "message_id": "<CAKcXiSqWXAs+EMdVDTCRHvs=-_KfB-WaMPJx5t2oXAybdx_0cA@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2013-04-18T22:10:23-04:00",
+      "subject": "[OGRUG] Big honk'n spreadsheet error",
+      "subject_clean": "[OGRUG] Big honk'n spreadsheet error",
+      "in_reply_to": "<CAKcXiSpA+-HMhtO0wqusgyTKoLUZT9PiqyJQvF7kEeub7BnWag@mail.gmail.com>",
+      "references": [
+        "<CAKcXiSpA+-HMhtO0wqusgyTKoLUZT9PiqyJQvF7kEeub7BnWag@mail.gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/84b0f957/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/84b0f957/attachment.pl>",
+      "thread_id": "thread-97a44c752bc0",
+      "thread_depth": 1,
+      "month": "2013-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ad4afa8fbf63",
+      "subject": "[OGRUG] Quick Survey Until 11 April 2013: Towards a Training Course in Free/Libre/Open Source Licensing and Contracting",
+      "message_count": 3,
+      "participants": [
+        "Joseph Potvin"
+      ],
+      "started": "2013-04-09T18:29:18-04:00",
+      "last_reply": "2013-04-14T13:56:11-04:00",
+      "root_message_id": "msg-ad4afa8fbf63"
+    },
+    {
+      "id": "thread-20f05488b606",
+      "subject": "[OGRUG] Files mentioned at R meetup April 8",
+      "message_count": 1,
+      "participants": [
+        "Prof J C Nash (U30A)"
+      ],
+      "started": "2013-04-12T20:39:59-04:00",
+      "last_reply": "2013-04-12T20:39:59-04:00",
+      "root_message_id": "msg-20f05488b606"
+    },
+    {
+      "id": "thread-97a44c752bc0",
+      "subject": "[OGRUG] Big honk'n spreadsheet error",
+      "message_count": 2,
+      "participants": [
+        "Joseph Potvin"
+      ],
+      "started": "2013-04-18T20:47:01-04:00",
+      "last_reply": "2013-04-18T22:10:23-04:00",
+      "root_message_id": "msg-97a44c752bc0"
+    }
+  ]
+}

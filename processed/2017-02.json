@@ -1,0 +1,116 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2017-02",
+  "messages": [
+    {
+      "id": "msg-ee4c9995ddfd",
+      "message_id": "<CAKcXiSpFaFr8ertHKt+k8jw=Suazw4Xsf8=0z70W=WatCVqZkA@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2017-02-14T11:23:57-05:00",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
+      "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
+      "in_reply_to": "<CANL2-4N7g8YHXw_qJ-WZeNciGkAU5He6mRDgn7EoFzXh5m8PYQ@mail.gmail.com>",
+      "references": [
+        "<CANL2-4N7g8YHXw_qJ-WZeNciGkAU5He6mRDgn7EoFzXh5m8PYQ@mail.gmail.com>"
+      ],
+      "body_plain": "(Is this list still operational?)\n\nForwarding a question from a fellow at a certain science-based federal dept.\n\nJoseph Potvin\n\n---------- Forwarded message ----------\nFrom: Glen Newton <glen.newton at gmail.com>\nDate: Tue, Feb 14, 2017 at 11:16 AM\nSubject: [OTT-GOSLING] SAS to R migration\nTo: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\n\n\nDoes anyone on this list know of an example of any GoC or western\ngovernment organization migrating their users/base from SAS to R?\n\nMore specifically, when the organization was a science-based organization\nand the majority of the users being on the science side of things?\n\nJust a theoretical question of course...\n\nI found some useful resources but no concrete examples as per above:\n- SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/\n- A Saga Of Migrating From SAS To R\nhttp://www.mbtmag.com/article/2015/03/saga-migrating-sas-r\n- Helping Your Organization Migrate to R\nhttp://r4stats.com/2015/03/16/migrating-to-r/\n- SAS to R Migration - LondonR http://www.londonr.org/download/?id=87\n\nI am particularly interested where perhaps 90% of the use cases were\naddressed by R, and perhaps 10% still had to be in SAS, but at least\nreducing the SAS costs by 90%......\n\nThanks,\nGlen\n_______________________________________________\nOttawa-gosling mailing list\nOttawa-gosling at list.goslingcommunity.org\nhttp://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "(Is this list still operational?)\n\nForwarding a question from a fellow at a certain science-based federal dept.\n\nJoseph Potvin\n\n---------- Forwarded message ----------\nFrom: Glen Newton <glen.newton a",
+      "thread_id": "thread-ee4c9995ddfd",
+      "thread_depth": 0,
+      "month": "2017-02"
+    },
+    {
+      "id": "msg-c65910eacad3",
+      "message_id": "<c28307b2-aa0f-6e7f-d219-3cf66329fb5e@gmail.com>",
+      "from_name": "J C Nash",
+      "from_email_hash": "b69dc597287b01916fb57d8dc5f5adaf4198f715a2781a3ac147feb2511e85bd",
+      "date": "2017-02-15T08:22:07-05:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "in_reply_to": "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "List still operational, but irregular. We've been hoping to get someone to coordinate the OGRUG group, as Paul and I are \naway a fair bit and not as active as before, at least not in meetings.\n\nBest, JN\n\nOn 2017-02-15 06:00 AM, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n>\n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n>\n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n>\n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n>\n>\n> Today's Topics:\n>\n>    1. Fwd: [OTT-GOSLING] SAS to R migration (Joseph Potvin)\n>\n>\n> ----------------------------------------------------------------------\n>\n> Message: 1\n> Date: Tue, 14 Feb 2017 11:23:57 -0500\n> From: Joseph Potvin <jpotvin at opman.ca>\n> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n> Subject: [OGRUG] Fwd: [OTT-GOSLING] SAS to R migration\n> Message-ID:\n> \t<CAKcXiSpFaFr8ertHKt+k8jw=Suazw4Xsf8=0z70W=WatCVqZkA at mail.gmail.com>\n> Content-Type: text/plain; charset=\"UTF-8\"\n>\n> (Is this list still operational?)\n>\n> Forwarding a question from a fellow at a certain science-based federal dept.\n>\n> Joseph Potvin\n>\n> ---------- Forwarded message ----------\n> From: Glen Newton <glen.newton at gmail.com>\n> Date: Tue, Feb 14, 2017 at 11:16 AM\n> Subject: [OTT-GOSLING] SAS to R migration\n> To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\n>\n>\n> Does anyone on this list know of an example of any GoC or western\n> government organization migrating their users/base from SAS to R?\n>\n> More specifically, when the organization was a science-based organization\n> and the majority of the users being on the science side of things?\n>\n> Just a theoretical question of course...\n>\n> I found some useful resources but no concrete examples as per above:\n> - SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/\n> - A Saga Of Migrating From SAS To R\n> http://www.mbtmag.com/article/2015/03/saga-migrating-sas-r\n> - Helping Your Organization Migrate to R\n> http://r4stats.com/2015/03/16/migrating-to-r/\n> - SAS to R Migration - LondonR http://www.londonr.org/download/?id=87\n>\n> I am particularly interested where perhaps 90% of the use cases were\n> addressed by R, and perhaps 10% still had to be in SAS, but at least\n> reducing the SAS costs by 90%......\n>\n> Thanks,\n> Glen\n> _______________________________________________\n> Ottawa-gosling mailing list\n> Ottawa-gosling at list.goslingcommunity.org\n> http://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling\n>\n> \t[[alternative HTML version deleted]]\n>\n>\n>\n> ------------------------------\n>\n> Subject: Digest Footer\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n> ------------------------------\n>\n> End of R-UG-Ottawa Digest, Vol 41, Issue 1\n> ******************************************\n>",
+      "body_snippet": "List still operational, but irregular. We've been hoping to get someone to coordinate the OGRUG group, as Paul and I are \naway a fair bit and not as active as before, at least not in meetings.\n\nBest, ",
+      "thread_id": "thread-c65910eacad3",
+      "thread_depth": 0,
+      "month": "2017-02"
+    },
+    {
+      "id": "msg-7e575d16ddce",
+      "message_id": "<80481ccc-9931-5b7c-ebb8-11bf714219d1@gmail.com>",
+      "from_name": "Ian E. Gorman",
+      "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
+      "date": "2017-02-15T10:47:45-05:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "in_reply_to": "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "The list of URLs given by Glen Newton is a pretty good guide to what is \nneeded to convert from SAS to R.\n\nIn particular:\n- conversion would be incremental, application by application, and some \napplications might not be worth converting\n- a lot of non-automated work is required\n\nBased on my own experience with large-scale conversion projects that did \nNOT require a major change of implementation language, I think the first \nURL (SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/) \ngives a very good summary of what a big conversion project would look like.\n\nConversion between SAS data sets and R data frames should be \nstraightforward and it might be possible to fully automate the conversions.\n\nNone of the URLs mention the value of tools for working with large \nnumbers of text and code files\n- Unix command-line utilities (built into Linux and easily available for \nMac OS X and Windows 10\n- A third-party file manager (such as ZTreeWin in Windows and Midnight \nCommander in Mac OS X or Linux).\nThese tools greatly reduce the cost of non-automated work and greatly \nincrease the reproducibility and auditability of the work.\n\n\n\nOn 2017-02-15 06:00, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n>\n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n>\n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n>\n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n>\n>\n> Today's Topics:\n>\n>    1. Fwd: [OTT-GOSLING] SAS to R migration (Joseph Potvin)\n>\n>\n> ----------------------------------------------------------------------\n>\n> Message: 1\n> Date: Tue, 14 Feb 2017 11:23:57 -0500\n> From: Joseph Potvin <jpotvin at opman.ca>\n> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n> Subject: [OGRUG] Fwd: [OTT-GOSLING] SAS to R migration\n> Message-ID:\n> \t<CAKcXiSpFaFr8ertHKt+k8jw=Suazw4Xsf8=0z70W=WatCVqZkA at mail.gmail.com>\n> Content-Type: text/plain; charset=\"UTF-8\"\n>\n> (Is this list still operational?)\n>\n> Forwarding a question from a fellow at a certain science-based federal dept.\n>\n> Joseph Potvin\n>\n> ---------- Forwarded message ----------\n> From: Glen Newton <glen.newton at gmail.com>\n> Date: Tue, Feb 14, 2017 at 11:16 AM\n> Subject: [OTT-GOSLING] SAS to R migration\n> To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\n>\n>\n> Does anyone on this list know of an example of any GoC or western\n> government organization migrating their users/base from SAS to R?\n>\n> More specifically, when the organization was a science-based organization\n> and the majority of the users being on the science side of things?\n>\n> Just a theoretical question of course...\n>\n> I found some useful resources but no concrete examples as per above:\n> - SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/\n> - A Saga Of Migrating From SAS To R\n> http://www.mbtmag.com/article/2015/03/saga-migrating-sas-r\n> - Helping Your Organization Migrate to R\n> http://r4stats.com/2015/03/16/migrating-to-r/\n> - SAS to R Migration - LondonR http://www.londonr.org/download/?id=87\n>\n> I am particularly interested where perhaps 90% of the use cases were\n> addressed by R, and perhaps 10% still had to be in SAS, but at least\n> reducing the SAS costs by 90%......\n>\n> Thanks,\n> Glen\n> _______________________________________________\n> Ottawa-gosling mailing list\n> Ottawa-gosling at list.goslingcommunity.org\n> http://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling\n>\n> \t[[alternative HTML version deleted]]\n>\n>\n>\n> ------------------------------\n>\n> Subject: Digest Footer\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n> ------------------------------\n>\n> End of R-UG-Ottawa Digest, Vol 41, Issue 1\n> ******************************************\n>\n\n-- \n______________________________________________________________________________\nIan Earl Gorman | http://www.gorman.ca/ |\nhttp://gxparse.sourceforge.net | http://www.linkedin.com/in/iegorman",
+      "body_snippet": "The list of URLs given by Glen Newton is a pretty good guide to what is \nneeded to convert from SAS to R.\n\nIn particular:\n- conversion would be incremental, application by application, and some \nappli",
+      "thread_id": "thread-7e575d16ddce",
+      "thread_depth": 0,
+      "month": "2017-02"
+    },
+    {
+      "id": "msg-b660eb3f99e9",
+      "message_id": "<a67f3017-1729-6598-75d4-aab69b459ba3@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2017-02-15T19:03:42-05:00",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
+      "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
+      "in_reply_to": "<80481ccc-9931-5b7c-ebb8-11bf714219d1@gmail.com>",
+      "references": [
+        "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>",
+        "<80481ccc-9931-5b7c-ebb8-11bf714219d1@gmail.com>"
+      ],
+      "body_plain": "Having once-upon-a-time done some conversions to R from languages other \nthan SAS, I would emphasize a few points:\n\n  1/ If this is not strictly automation, that is you have users that do \nad hoc analysis with the language, then be sure you have a user base \nthat is ready to embrace R. Not necessarily everyone, but enough to have \nmomentum for the conversion. If they have no programming experience \nother than SAS then you will need to worry a lot about the environment \nyou are going to drop them into. License fee savings may be a small part \nof the picture when you start considering training.\n\n2/ If you have a large amount of in-house data then you should probably \nbe thinking about R combined with some (SQL?) database. You are almost \nalready there if you are using SAS with SQL. But if users have their own \ndata in SAS specific rather than SQL format, then you not only have to \nconvert the data but you also have to convert the users' way of \nthinking. (The later being much more difficult.)\n\n3/ If you have a lot of automated tasks for which you have scripts that \nneed conversion, then my guess is you should be thinking about clean up \nand documentation rather than simply conversion. It is more work in the \nshort run, but probably not in the longer run. I would recommend using \nthe R package structure for as much of this as you can, because it helps \nyou put in reasonable documentation and testing and to think about using \nthe scripts in a more supportable/reusable way. Also related, you should \nbe using some version control like github, bitbucket, or other. Of \ncourse, that would be second nature for programmers, but may not be for \nSAS users.\n\n(Sorry I am not really answering your question about organizations that \nhave done this from SAS.)\n\nPaul\n\nOn 02/15/2017 10:47 AM, Ian E. Gorman wrote:\n> The list of URLs given by Glen Newton is a pretty good guide to what is\n> needed to convert from SAS to R.\n>\n> In particular:\n> - conversion would be incremental, application by application, and some\n> applications might not be worth converting\n> - a lot of non-automated work is required\n>\n> Based on my own experience with large-scale conversion projects that did\n> NOT require a major change of implementation language, I think the first\n> URL (SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/)\n> gives a very good summary of what a big conversion project would look like.\n>\n> Conversion between SAS data sets and R data frames should be\n> straightforward and it might be possible to fully automate the conversions.\n>\n> None of the URLs mention the value of tools for working with large\n> numbers of text and code files\n> - Unix command-line utilities (built into Linux and easily available for\n> Mac OS X and Windows 10\n> - A third-party file manager (such as ZTreeWin in Windows and Midnight\n> Commander in Mac OS X or Linux).\n> These tools greatly reduce the cost of non-automated work and greatly\n> increase the reproducibility and auditability of the work.\n>\n>\n>\n> On 2017-02-15 06:00, r-ug-ottawa-request at r-project.org wrote:\n>> Send R-UG-Ottawa mailing list submissions to\n>>     r-ug-ottawa at r-project.org\n>>\n>> To subscribe or unsubscribe via the World Wide Web, visit\n>>     https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>> or, via email, send a message with subject or body 'help' to\n>>     r-ug-ottawa-request at r-project.org\n>>\n>> You can reach the person managing the list at\n>>     r-ug-ottawa-owner at r-project.org\n>>\n>> When replying, please edit your Subject line so it is more specific\n>> than \"Re: Contents of R-UG-Ottawa digest...\"\n>>\n>>\n>> Today's Topics:\n>>\n>>    1. Fwd: [OTT-GOSLING] SAS to R migration (Joseph Potvin)\n>>\n>>\n>> ----------------------------------------------------------------------\n>>\n>> Message: 1\n>> Date: Tue, 14 Feb 2017 11:23:57 -0500\n>> From: Joseph Potvin <jpotvin at opman.ca>\n>> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n>> Subject: [OGRUG] Fwd: [OTT-GOSLING] SAS to R migration\n>> Message-ID:\n>>     <CAKcXiSpFaFr8ertHKt+k8jw=Suazw4Xsf8=0z70W=WatCVqZkA at mail.gmail.com>\n>> Content-Type: text/plain; charset=\"UTF-8\"\n>>\n>> (Is this list still operational?)\n>>\n>> Forwarding a question from a fellow at a certain science-based federal\n>> dept.\n>>\n>> Joseph Potvin\n>>\n>> ---------- Forwarded message ----------\n>> From: Glen Newton <glen.newton at gmail.com>\n>> Date: Tue, Feb 14, 2017 at 11:16 AM\n>> Subject: [OTT-GOSLING] SAS to R migration\n>> To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\n>>\n>>\n>> Does anyone on this list know of an example of any GoC or western\n>> government organization migrating their users/base from SAS to R?\n>>\n>> More specifically, when the organization was a science-based organization\n>> and the majority of the users being on the science side of things?\n>>\n>> Just a theoretical question of course...\n>>\n>> I found some useful resources but no concrete examples as per above:\n>> - SAS to R Migration https://www.r-bloggers.com/sas-to-r-migration/\n>> - A Saga Of Migrating From SAS To R\n>> http://www.mbtmag.com/article/2015/03/saga-migrating-sas-r\n>> - Helping Your Organization Migrate to R\n>> http://r4stats.com/2015/03/16/migrating-to-r/\n>> - SAS to R Migration - LondonR http://www.londonr.org/download/?id=87\n>>\n>> I am particularly interested where perhaps 90% of the use cases were\n>> addressed by R, and perhaps 10% still had to be in SAS, but at least\n>> reducing the SAS costs by 90%......\n>>\n>> Thanks,\n>> Glen\n>> _______________________________________________\n>> Ottawa-gosling mailing list\n>> Ottawa-gosling at list.goslingcommunity.org\n>> http://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling\n>>\n>>     [[alternative HTML version deleted]]\n>>\n>>\n>>\n>> ------------------------------\n>>\n>> Subject: Digest Footer\n>>\n>> _______________________________________________\n>> R-UG-Ottawa mailing list\n>> R-UG-Ottawa at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>\n>> ------------------------------\n>>\n>> End of R-UG-Ottawa Digest, Vol 41, Issue 1\n>> ******************************************\n>>\n>",
+      "body_snippet": "Having once-upon-a-time done some conversions to R from languages other \nthan SAS, I would emphasize a few points:\n\n  1/ If this is not strictly automation, that is you have users that do \nad hoc anal",
+      "thread_id": "thread-7e575d16ddce",
+      "thread_depth": 1,
+      "month": "2017-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-ee4c9995ddfd",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
+      "message_count": 1,
+      "participants": [
+        "Joseph Potvin"
+      ],
+      "started": "2017-02-14T11:23:57-05:00",
+      "last_reply": "2017-02-14T11:23:57-05:00",
+      "root_message_id": "msg-ee4c9995ddfd"
+    },
+    {
+      "id": "thread-c65910eacad3",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "J C Nash"
+      ],
+      "started": "2017-02-15T08:22:07-05:00",
+      "last_reply": "2017-02-15T08:22:07-05:00",
+      "root_message_id": "msg-c65910eacad3"
+    },
+    {
+      "id": "thread-7e575d16ddce",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
+      "message_count": 2,
+      "participants": [
+        "Ian E. Gorman",
+        "Paul Gilbert"
+      ],
+      "started": "2017-02-15T10:47:45-05:00",
+      "last_reply": "2017-02-15T19:03:42-05:00",
+      "root_message_id": "msg-7e575d16ddce"
+    }
+  ]
+}

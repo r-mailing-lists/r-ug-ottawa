@@ -1,0 +1,90 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2011-03",
+  "messages": [
+    {
+      "id": "msg-0c3fe5f985df",
+      "message_id": "<4D7266A1.6090303@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-03-05T11:36:49-05:00",
+      "subject": "[OGRUG] Google Summer of Code",
+      "subject_clean": "[OGRUG] Google Summer of Code",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "R will be applying again this year to participate in the Google Summer of Code activity.\nThis program by Google pays students quite handsome stipends to work on open-source\nprojects from different organizations. This year's ideas list is at\n\nhttp://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2011\n\nIf accepted, students may propose work plans i.e., revisions of the ideas, to the mentors.\nMentors then rank these work plan proposals and submit them to Google. R has had the\ndistinction of having all their approved students funded.\n\nThere is still time for developers/scientists to propose ideas or to offer to help as\nmentors or backup mentors. (Don't forget to tell likely students about he program!). And\nstudents are welcome to get in touch with mentors to find out more about the ideas listed.\n\nFor info, Claudia Beleites and I are co-admins for the R GSOC effort in 2011.\n\nBest,\n\nJohn Nash",
+      "body_snippet": "R will be applying again this year to participate in the Google Summer of Code activity.\nThis program by Google pays students quite handsome stipends to work on open-source\nprojects from different org",
+      "thread_id": "thread-0c3fe5f985df",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-30edb5ea8804",
+      "message_id": "<63F107BCC37AEA49A75FD94AA3E07CB006E24696@pacpbsex01.pac.dfo-mpo.ca>",
+      "from_name": "Schweigert, Jake",
+      "from_email_hash": "658ab6e06621e188ecaf63ebfa204d289b835d40b9a949caa7120cb2e77d60be",
+      "date": "2011-03-10T12:51:32-08:00",
+      "subject": "[OGRUG] Permissions and Access access with R",
+      "subject_clean": "[OGRUG] Permissions and Access access with R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110310/5703ad8c/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110310/5703ad8c/attachment.pl>",
+      "thread_id": "thread-30edb5ea8804",
+      "thread_depth": 0,
+      "month": "2011-03"
+    },
+    {
+      "id": "msg-388a9b2983dc",
+      "message_id": "<611E3B4082599347935E4043E14178F70E3C68B5@SXOM-301.fg.rbc.com>",
+      "from_name": "Guelman, Leo",
+      "from_email_hash": "6ce1a505d699752bfd21e27aa4b3db321d82efc8bd2578976621809d2830c57f",
+      "date": "2011-03-14T10:17:12-04:00",
+      "subject": "[OGRUG] Toronto R User's Group Meeting Announcement",
+      "subject_clean": "[OGRUG] Toronto R User's Group Meeting Announcement",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110314/b86fd2d9/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110314/b86fd2d9/attachment.pl>",
+      "thread_id": "thread-388a9b2983dc",
+      "thread_depth": 0,
+      "month": "2011-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0c3fe5f985df",
+      "subject": "[OGRUG] Google Summer of Code",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2011-03-05T11:36:49-05:00",
+      "last_reply": "2011-03-05T11:36:49-05:00",
+      "root_message_id": "msg-0c3fe5f985df"
+    },
+    {
+      "id": "thread-30edb5ea8804",
+      "subject": "[OGRUG] Permissions and Access access with R",
+      "message_count": 1,
+      "participants": [
+        "Schweigert, Jake"
+      ],
+      "started": "2011-03-10T12:51:32-08:00",
+      "last_reply": "2011-03-10T12:51:32-08:00",
+      "root_message_id": "msg-30edb5ea8804"
+    },
+    {
+      "id": "thread-388a9b2983dc",
+      "subject": "[OGRUG] Toronto R User's Group Meeting Announcement",
+      "message_count": 1,
+      "participants": [
+        "Guelman, Leo"
+      ],
+      "started": "2011-03-14T10:17:12-04:00",
+      "last_reply": "2011-03-14T10:17:12-04:00",
+      "root_message_id": "msg-388a9b2983dc"
+    }
+  ]
+}

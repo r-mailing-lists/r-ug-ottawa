@@ -1,0 +1,193 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-09",
+  "messages": [
+    {
+      "id": "msg-0c3556309728",
+      "message_id": "<877F12D6F0E6384BB2079D294ED14AE802E5BCC3@IZAR.london.campus.london.edu>",
+      "from_name": "Dan Goldstein",
+      "from_email_hash": "fee0f2749826b08ec10707554333ea16d147404671585b741d4104cda54fbadb",
+      "date": "2009-09-03T18:11:11+01:00",
+      "subject": "[OGRUG] R Flashmob",
+      "subject_clean": "[OGRUG] R Flashmob",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear Ottawa R Users,\n\nWe're organizing an \"R Flashmob\" to get students and researchers asking\nand answering R questions on the very useful questions site\n\"stackoverflow.com\" during one fun-filled hour. \n\nWe were wondering if you might help out in promoting this event by\nblogging something about it and/or emailing it to students or\nresearchers who would benefit by having a friendly, efficient resource\nfor asking and answering R questions. It would be great if you could! \n\nAn easily-forwarded invitation is below.\n\nThanks on behalf of the R Flashmob #2 organizers,\nDan Goldstein\nMichael E. Driscoll\nJD Long\n\n(Also at http://www.decisionsciencenews.com/?p=1042 )\n\n>From: The R Flashmob Project\n>Subject: R Flashmob #2\n>\n>You are invited to take part in R Flashmob, the project that makes the\n>world a better place by posting helpful questions and answers about the\n>R statistical language to the programmer's Q & A site stackoverflow.com\n>\n>Please forward this to other people you know who might like to join.\n>\n>FAQ\n>\n>Q. Why would I want to join an inexplicable R mob?\n>\n>A. Tons of other people are doing it.\n>\n>Q. Why else?\n>\n>A. Stackoverflow was built specifically for handling programming\nquestions.\n>It's a better mousetrap. It offers search (and is well indexed by\nsearch engines),\n>tagging, voting, the ability to choose the \"best\" answer to a question,\nand the ability to\n>edit questions and answers as technology progresses. It has a karma\nsystem to\n>reward people who are happy to help and discourage MLJs (mailing list\njerks).\n>\n>Q. Do the organizers of this MOB have any commercial interest in\nstackoverflow?\n>\nA. None at all. We're just convinced it is the best way to help and\npromote R. All\n>the content submitted to stackoverflow is protected by a Creative\nCommons\n>CC-Wiki License, meaning anyone is free to copy, distribute, transmit,\nand\n>remix the information on stackoverflow. All the content on\nstackoverflow is\n>regularly made available for download by the public.\n>\n>INSTRUCTIONS - R MOB #2\n>Location: stackoverflow.com\n>Start Date: Tuesday, September 8th, 2009\n>Start Time:\n>10:04 AM - US Pacific\n>11:04 AM - US Mountain\n>12:04 PM - US Central\n>1:04 PM - Ottawa, Canada \n>6:04 PM - UK\n>7:04 PM - Continental W. Europe\n>5:04 AM (Weds) - New Zealand (birthplace of R)\n>Duration: 50 minutes\n>\n>(1) At some point during the day on September 8th, synchronize your\nwatch to\n>\nhttp://timeanddate.com/worldclock/personal.html?cities=137,75,64,188,179\n,136,37,22 \n>\n>(2) The mob should form at precisely 4 minutes past the hour and not\nbeforehand.\n>\n>(3) At 4 minutes past the hour, you should arrive at stackoverflow.com,\nlog in,\n>and post 3 R questions. Be sure to tag the questions \"R\". See the\nposting\n>guidelines at http://stackoverflow.com/faq to understand what makes a\ngood\n>question.\n>\n>(4) Follow R Flashmob updates at http://twitter.com/rstatsmob\n>\n>(5) Post twitter messages tagged #rstats and #rstatsmob during the mob,\n>providing links to your questions.\n>\n>(6) During the R MOB, you can chat with other participants on the #R\nchannel\n>on IRC (freenode). To do this, install the Chatzilla extension on\nFirefox.\n>Click \"freenode\" on the main screen. Then type /join #R in the field at\nthe\n>bottom of the screen. Then chat.\n>\n>(7) If you finish posting your three questions within the 50 minutes,\nstick\n> around to answer questions and give \"up votes\" to good questions and\nanswers.\n>\n>(8) IMPORTANT: After posting, sign the R Flashmob guestbook at\n>http://bit.ly/6F8B2\n>\n>(9) Return to what you would otherwise have been doing. Await\n>instructions for R MOB #3.\n\n--\nDan Goldstein | Assistant Professor of Marketing\nLondon Business School S232 | Regent's Park \nLondon NW1 4SA | United Kingdom | +44 20 7000 8611\nwww.decisionsciencenews.com\n\n______________________________________________________________________\n\nThis email has been scanned by the MessageLabs Email Security System\non behalf of the London Business School community.\nFor more information please visit http://www.messagelabs.com/email",
+      "body_snippet": "Dear Ottawa R Users,\n\nWe're organizing an \"R Flashmob\" to get students and researchers asking\nand answering R questions on the very useful questions site\n\"stackoverflow.com\" during one fun-filled hour",
+      "thread_id": "thread-0c3556309728",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-04b239b641c7",
+      "message_id": "<8FA920D2-28E0-482F-9A11-3DFD3750BDEC@mcmaster.ca>",
+      "from_name": "Mark Podolsky",
+      "from_email_hash": "cf6daec39f503a8165ba18fc4fe2faf837f71b3c7cadd1ca1dd501ca5340557f",
+      "date": "2009-09-18T10:56:29-04:00",
+      "subject": "[OGRUG] Requesting help with recoding variables",
+      "subject_clean": "[OGRUG] Requesting help with recoding variables",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl>",
+      "thread_id": "thread-04b239b641c7",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-ae4bdd471c7c",
+      "message_id": "<4AB4D07B.4050804@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-09-19T08:37:15-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 5, Issue 2",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 5, Issue 2",
+      "in_reply_to": "<mailman.13.1253354403.17640.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.13.1253354403.17640.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Mark,\n\nYou would do better on R-help list. This one is mainly for announcing \nlocal Ottawa area activities related to R.\n\nHowever, when dealing with Excel files, I usually first get them into an \nR dataframe (read.table or read.csv, though there are some xls \nfunctions). Then I'd write a small script to create the new variable \nfrom the old (so I could reuse it later), containing something like\n\nmydata$newcode<-8-mydata$oldcode\n\nYou may want to think of\n\nmydata$newcode<-as.factor(8-mydata$oldcode)\n\ndepending on the use for the code.\n\nJN\n\n\n\nr-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n> \n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n> \n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n> \n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n> \n> \n> Today's Topics:\n> \n>    1. Requesting help with recoding variables (Mark Podolsky)\n> \n> \n> ----------------------------------------------------------------------\n> \n> Message: 1\n> Date: Fri, 18 Sep 2009 10:56:29 -0400\n> From: Mark Podolsky <podolsmg at mcmaster.ca>\n> Subject: [OGRUG] Requesting help with recoding variables\n> To: r-ug-ottawa at r-project.org\n> Message-ID: <8FA920D2-28E0-482F-9A11-3DFD3750BDEC at mcmaster.ca>\n> Content-Type: text/plain\n> \n> Hi - I am new to R, and am becoming increasingly comfortable with  \n> performing my analyses in R, but I am struggling a bit with  \n> manipulating my data.  I found this list on the CRAN website, and I  \n> hope that this post is in line with the purpose of the list.\n> \n> I have a data set in Excel that I move to the R environment, but I am  \n> stuck figuring out how to transform the items that must be reverse  \n> coded.  Specifically, I have a number of items that are on a scale  \n> from 1-8; I need to reverse all the numbers between 1 and 7, and  \n> recode 8 as 0 (i.e. 7-to-1, 1-to-7, 6-to-2, 2-to-6,etc. and 8-to-0).\n> \n> I would really appreciate some assistance in performing this action.\n> \n> Thanks all!\n> \n> Mark Podolsky\n> PhD Candidate\n> Human Resources and Organizational Behaviour\n> DeGroote School of Business\n> McMaster University\n> podolsmg at mcmaster.ca\n> \n> \n> \n> \n> \t[[alternative HTML version deleted]]\n> \n> \n> \n> ------------------------------\n> \n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> \n> \n> End of R-UG-Ottawa Digest, Vol 5, Issue 2\n> *****************************************",
+      "body_snippet": "Mark,\n\nYou would do better on R-help list. This one is mainly for announcing \nlocal Ottawa area activities related to R.\n\nHowever, when dealing with Excel files, I usually first get them into an \nR da",
+      "thread_id": "thread-ae4bdd471c7c",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-be12b3688426",
+      "message_id": "<3f539790909200641r4a8a52e7u180a0b270dcd2e7d@mail.gmail.com>",
+      "from_name": "N Aitken",
+      "from_email_hash": "59d05c28db1ba6c3269dc390b483c8055fa8f933913c6deddc7bfce126d7f9a7",
+      "date": "2009-09-20T09:41:40-04:00",
+      "subject": "[OGRUG] Ottawa or area workshop",
+      "subject_clean": "[OGRUG] Ottawa or area workshop",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "I am looking for an introduction to R workshop (i.e. recoding, setting\nfilters, data cleaning). I have been using R now for only a couple of\nyears, mostly for model testing. I have found wonderful documentation\non how to do various statistical analyses (log reg, sem). However what\nI am lacking is a good working knowledge of the basics of the program.\nThings that would be taught (I assume) in an introduction to R class.\nRight now I end up doing most of these things in a different program\n(SPSS, excel) and then resaving it to the R environment. I would like\nto be able to perform all functions within R and not have to go back\nand forth. Any suggestions for a class or workshop available in the\nnext year? Preferably close to Ottawa but I am willing to go farther\nif necessary. Thanks for your help.\n\nCheers\nN\n\n\n\n-- \nPlease consider the environment before printing this email.",
+      "body_snippet": "I am looking for an introduction to R workshop (i.e. recoding, setting\nfilters, data cleaning). I have been using R now for only a couple of\nyears, mostly for model testing. I have found wonderful doc",
+      "thread_id": "thread-be12b3688426",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-d94ffa67c991",
+      "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2009-09-21T09:59:30-04:00",
+      "subject": "[OGRUG] meet with Duncan Murdoch Friday",
+      "subject_clean": "[OGRUG] meet with Duncan Murdoch Friday",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl>",
+      "thread_id": "thread-d94ffa67c991",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-8aaa566170f4",
+      "message_id": "<4AB8C6C8.2000703@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-09-22T08:44:56-04:00",
+      "subject": "[OGRUG] Nov 6 meeting alert",
+      "subject_clean": "[OGRUG] Nov 6 meeting alert",
+      "in_reply_to": "<mailman.5.1253613602.20991.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.5.1253613602.20991.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Our next meeting is proposed for November 6 at 1330 with the tentative \ntitle \"High performance for R\". Bryan Lewis of Revolution Computing (who \noffer a 64 bit Windows binary and other services) is planning to come to \nOttawa from New Haven to provide some input. Timing may change a little \ndepending on flights etc.\n\nTentative location is uOttawa Desmarais 6160, 55 Laurier E. This is at \nthe Laurier Transitway stop. Unfortunately the room is only capacity 18 \ndue to busy times. If someone has an alternative venue, please email \nBOTH nashjc at uottawa.ca and pgilbert at bank-banque-canada.ca (I will be \naway and likely have poor or no email) with suggestions.\n\nCheers,\n\nJohn Nash",
+      "body_snippet": "Our next meeting is proposed for November 6 at 1330 with the tentative \ntitle \"High performance for R\". Bryan Lewis of Revolution Computing (who \noffer a 64 bit Windows binary and other services) is p",
+      "thread_id": "thread-8aaa566170f4",
+      "thread_depth": 0,
+      "month": "2009-09"
+    },
+    {
+      "id": "msg-e7036e171a02",
+      "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FD6B@EXMAIL2.bocad.bank-banque-canada.ca>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
+      "date": "2009-09-22T16:18:59-04:00",
+      "subject": "[OGRUG] meet with Duncan Murdoch Friday",
+      "subject_clean": "[OGRUG] meet with Duncan Murdoch Friday",
+      "in_reply_to": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>",
+      "references": [
+        "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl>",
+      "thread_id": "thread-d94ffa67c991",
+      "thread_depth": 1,
+      "month": "2009-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-0c3556309728",
+      "subject": "[OGRUG] R Flashmob",
+      "message_count": 1,
+      "participants": [
+        "Dan Goldstein"
+      ],
+      "started": "2009-09-03T18:11:11+01:00",
+      "last_reply": "2009-09-03T18:11:11+01:00",
+      "root_message_id": "msg-0c3556309728"
+    },
+    {
+      "id": "thread-04b239b641c7",
+      "subject": "[OGRUG] Requesting help with recoding variables",
+      "message_count": 1,
+      "participants": [
+        "Mark Podolsky"
+      ],
+      "started": "2009-09-18T10:56:29-04:00",
+      "last_reply": "2009-09-18T10:56:29-04:00",
+      "root_message_id": "msg-04b239b641c7"
+    },
+    {
+      "id": "thread-ae4bdd471c7c",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 5, Issue 2",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-09-19T08:37:15-04:00",
+      "last_reply": "2009-09-19T08:37:15-04:00",
+      "root_message_id": "msg-ae4bdd471c7c"
+    },
+    {
+      "id": "thread-be12b3688426",
+      "subject": "[OGRUG] Ottawa or area workshop",
+      "message_count": 1,
+      "participants": [
+        "N Aitken"
+      ],
+      "started": "2009-09-20T09:41:40-04:00",
+      "last_reply": "2009-09-20T09:41:40-04:00",
+      "root_message_id": "msg-be12b3688426"
+    },
+    {
+      "id": "thread-d94ffa67c991",
+      "subject": "[OGRUG] meet with Duncan Murdoch Friday",
+      "message_count": 2,
+      "participants": [
+        "Paul Gilbert"
+      ],
+      "started": "2009-09-21T09:59:30-04:00",
+      "last_reply": "2009-09-22T16:18:59-04:00",
+      "root_message_id": "msg-d94ffa67c991"
+    },
+    {
+      "id": "thread-8aaa566170f4",
+      "subject": "[OGRUG] Nov 6 meeting alert",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-09-22T08:44:56-04:00",
+      "last_reply": "2009-09-22T08:44:56-04:00",
+      "root_message_id": "msg-8aaa566170f4"
+    }
+  ]
+}

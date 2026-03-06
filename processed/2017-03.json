@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2017-03",
+  "messages": [
+    {
+      "id": "msg-c5263d6960b5",
+      "message_id": "<CAKcXiSqmzYDppxxoTKR2AEk1Qz3DLdhVnv0R4n4pHN323-StQQ@mail.gmail.com>",
+      "from_name": "Joseph Potvin",
+      "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
+      "date": "2017-03-22T17:24:54-04:00",
+      "subject": "[OGRUG] Looking for a R analyst who's also experienced with Protégé",
+      "subject_clean": "[OGRUG] Looking for a R analyst who's also experienced with Protégé",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n\nIs anyone on this R list also a user of the Prot?g? ontology manager?\n\nhttp://protege.stanford.edu/products.php\n\n...We also potentially have interest in:\n\n   -\n   https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw763/2843897/ontologyX-a-suite-of-R-packages-for-working-with\n   - http://protegewiki.stanford.edu/wiki/OntoBase\n   - http://protegewiki.stanford.edu/wiki/DataMaster\n\nJoseph Potvin\nExecutive Director, Xalgorithms Foundation\nMobile: 819-593-5983\njpotvin at xalgorithms.org\nhttps://www.xalgorithms.org\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi all,\n\nIs anyone on this R list also a user of the Prot?g? ontology manager?\n\nhttp://protege.stanford.edu/products.php\n\n...We also potentially have interest in:\n\n   -\n   https://academic.oup.com/bio",
+      "thread_id": "thread-c5263d6960b5",
+      "thread_depth": 0,
+      "month": "2017-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-c5263d6960b5",
+      "subject": "[OGRUG] Looking for a R analyst who's also experienced with Protégé",
+      "message_count": 1,
+      "participants": [
+        "Joseph Potvin"
+      ],
+      "started": "2017-03-22T17:24:54-04:00",
+      "last_reply": "2017-03-22T17:24:54-04:00",
+      "root_message_id": "msg-c5263d6960b5"
+    }
+  ]
+}

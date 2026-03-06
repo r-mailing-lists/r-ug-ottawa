@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-09",
+  "messages": [
+    {
+      "id": "msg-edbf45f98c5f",
+      "message_id": "<522F535F.1040606@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2013-09-10T13:14:07-04:00",
+      "subject": "[OGRUG] R meetup starting again",
+      "subject_clean": "[OGRUG] R meetup starting again",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "In the spring there was an invitation on this list for people to join an \nR meetup group, with occasional meetings at a local Ottawa bar, usually \nMonday evenings. If you did not join the meetup list at that time you \nprobably did not received the followup notices about meetings.\n\nAfter a summer recess the meetings seem to be starting again on Sept \n30th, with the nominal topic for the first meeting a discussion of Roger \nPeng's Computing for Data Analysis (coursera) online course which starts \nSept 23rd but, if the format follows the spring, the meetings will be \nvery informal and there will be lots of questions and good answers on \nanything R related.\n\nThere is more information about the meetup group at\n   http://www.meetup.com/R-Helpdesk/\n\nPaul",
+      "body_snippet": "In the spring there was an invitation on this list for people to join an \nR meetup group, with occasional meetings at a local Ottawa bar, usually \nMonday evenings. If you did not join the meetup list ",
+      "thread_id": "thread-edbf45f98c5f",
+      "thread_depth": 0,
+      "month": "2013-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-edbf45f98c5f",
+      "subject": "[OGRUG] R meetup starting again",
+      "message_count": 1,
+      "participants": [
+        "Paul Gilbert"
+      ],
+      "started": "2013-09-10T13:14:07-04:00",
+      "last_reply": "2013-09-10T13:14:07-04:00",
+      "root_message_id": "msg-edbf45f98c5f"
+    }
+  ]
+}

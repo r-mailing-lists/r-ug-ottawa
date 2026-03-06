@@ -1,0 +1,121 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2014-10",
+  "messages": [
+    {
+      "id": "msg-8769d60dbac5",
+      "message_id": "<CAOu7ywe2FqxOXRdHa5GGbq--OyAcvvSvH0PmnMGzxtq_mDVDiw@mail.gmail.com>",
+      "from_name": "ali eissa",
+      "from_email_hash": "0eefa5f9deefa726697c2451bf6d41ef00b8bfe3ac3b7351c6114ebc9fd86f03",
+      "date": "2014-10-05T23:29:31-04:00",
+      "subject": "[OGRUG] Ottawa Canopy Project",
+      "subject_clean": "[OGRUG] Ottawa Canopy Project",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello All,\n\nI just want to know what happened to the Ottawa Canopy Project. I am doing\nan M.A.  in economics with specialization in data science, so I would like\nto use that project as a vehicle to improve my R skills.\n\nMy professional experience is in the tech industry and I have used R before\nso I can be of help.\n\nCheers,\nAli Eissa\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello All,\n\nI just want to know what happened to the Ottawa Canopy Project. I am doing\nan M.A.  in economics with specialization in data science, so I would like\nto use that project as a vehicle to im",
+      "thread_id": "thread-8769d60dbac5",
+      "thread_depth": 0,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-780f49b48d05",
+      "message_id": "<CAFVA2r+ro0GN=rCqnkJ2UxJZ-CChTNMfRSR_-c9n5ofR5ZRVZw@mail.gmail.com>",
+      "from_name": "Daniel Buijs",
+      "from_email_hash": "6fdab638093526bc58c15bebe6af5c103ef3b1734ed6c80a455e0a7045d1e51b",
+      "date": "2014-10-27T11:11:53-04:00",
+      "subject": "[OGRUG] What R packages/vocabulary do I need to search for Spatial Distance ranking?",
+      "subject_clean": "[OGRUG] What R packages/vocabulary do I need to search for Spatial Distance ranking?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\nI'm trying to do something that I'm pretty sure can be done in R and\nprobably has been done in R, but I'm having trouble finding the right\nsearch vocabulary to find appropriate packages.\n\nBriefly, I'm working with various spatial datasets available from\ndata.ottawa.ca. I can import them into R with the rgdal package and I've\ngained some comfort with basic plotting and geometry operations with ggmap,\nsp and rgeos packages. What I'm after is the following:\n\n>From a set of Spatial features (including SpatialPoints, SpatialLines, and\nSpatialPolygons), I would like to assign arbitrary weights to features\nbased on categorical variables in the data (i.e. 1 for schools, 2 for\nparks, -1 for highways, etc.) and then estimate an intensity/density\nsurface at defined points (like road intersections). I think that this will\nlet me answer questions like \"what are the top 10 intersections that are\nclosest to schools, parks (weight 2 because I care more about parks than\nschools) and furthest form highways?\"\n\nI don't really care about the actual value, I'm just using it as a ranking\nscore.\n\nI think some flavour of 2D kernel density estimation will do this. This\nparticular problem seems to differ from the more simple examples given in\nthe various package vignettes in the following ways:\n\nTo deal with roads in the form of SpatialLines, I either need to sample\nthem into points with a fixed absolute frequently that results in a\nsteady-state maximum equivalent to the maximum of a weight=1 point source,\nor find a package that has some reasonable treatment of edge effects.\n\nSpatialPolygons (i.e. large areas like parks) should have a uniform\nweighting of 1 within the polygon and behave like a SpatialLine at the\nedges. Weighted points within the polygon should combine constructively\nwith the base weight of the polygon. If I have to do this with sampling, as\nwith the SpatialLines, ok. Using the centroid is a temporary solution for\nsmallish areas, but for bigger or irregular shapes, would prefer to deal\nwith the SpatialPolygon as is and/or with somewhat automatic sampling to\npoints.\n\nTo estimate the intensity/density function at arbitrary points (i.e.\nintersections), I probably need to estimate the whole surface function with\nregular spacing and then interpolate from the estimated surface (somewhat\nconcerned about double-sampling error in this case). Would prefer an\nalgorithm that could calculate estimates directly from the points I care\nabout for ranking.\n\nI haven't seen any packages yet that look like they would be comfortable\nwith negative weights (i.e. things I don't want to be close to).\n\nI need to have some global control/parameter that allows me to adjust\neither the bandwidth of the smoothing and/or the extinction coefficient of\nthe kernel function so I can empirically dictate and experiment with\ndistance effects (i.e. objects more than x km away shouldn't influence the\nvalue function at my point of interest).\n\nAny thoughts on recommended reading/R packages that either already provide\nthis functionality or could be extended to do this kind of thing?\n\nDan Buijs\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello,\n\nI'm trying to do something that I'm pretty sure can be done in R and\nprobably has been done in R, but I'm having trouble finding the right\nsearch vocabulary to find appropriate packages.\n\nBrie",
+      "thread_id": "thread-780f49b48d05",
+      "thread_depth": 0,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-52cf235572d0",
+      "message_id": "<CAPjrKxbMXNa72hyUjre+Z3QmVkOxOO3K6HCtWrkmD2TzMr5uFA@mail.gmail.com>",
+      "from_name": "John Lewis",
+      "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
+      "date": "2014-10-28T11:03:22-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2",
+      "in_reply_to": "<mailman.7.1414494002.30795.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.7.1414494002.30795.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Hi,\nAfter quickly reading your email it appears to me that you have three or\nfour separate problems to solve with the need in each  for different\nspatial algorithms. In some ways you might be better off looking at GRASS\nor Qgis to do this job.\nI am travelling now so when I get settled on Thursday I'll look at what you\nhave written more carefully and see if I can help.\nMaybe in the meantime someone else might come up with a workable solution\nfor you.\nCheers,\nJohn Lewis\n\nOn Tue, Oct 28, 2014 at 7:00 AM, <r-ug-ottawa-request at r-project.org> wrote:\n\n> Send R-UG-Ottawa mailing list submissions to\n>         r-ug-ottawa at r-project.org\n>\n> To subscribe or unsubscribe via the World Wide Web, visit\n>         https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n>         r-ug-ottawa-request at r-project.org\n>\n> You can reach the person managing the list at\n>         r-ug-ottawa-owner at r-project.org\n>\n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n>\n>\n> Today's Topics:\n>\n>    1. What R packages/vocabulary do I need to search for Spatial\n>       Distance ranking? (Daniel Buijs)\n>\n>\n> ----------------------------------------------------------------------\n>\n> Message: 1\n> Date: Mon, 27 Oct 2014 11:11:53 -0400\n> From: Daniel Buijs <dbuijs at gmail.com>\n> To: \"r-ug-ottawa at r-project.org\" <r-ug-ottawa at r-project.org>\n> Subject: [OGRUG] What R packages/vocabulary do I need to search for\n>         Spatial Distance ranking?\n> Message-ID:\n>         <CAFVA2r+ro0GN=\n> rCqnkJ2UxJZ-CChTNMfRSR_-c9n5ofR5ZRVZw at mail.gmail.com>\n> Content-Type: text/plain; charset=\"UTF-8\"\n>\n> Hello,\n>\n> I'm trying to do something that I'm pretty sure can be done in R and\n> probably has been done in R, but I'm having trouble finding the right\n> search vocabulary to find appropriate packages.\n>\n> Briefly, I'm working with various spatial datasets available from\n> data.ottawa.ca. I can import them into R with the rgdal package and I've\n> gained some comfort with basic plotting and geometry operations with ggmap,\n> sp and rgeos packages. What I'm after is the following:\n>\n> >From a set of Spatial features (including SpatialPoints, SpatialLines, and\n> SpatialPolygons), I would like to assign arbitrary weights to features\n> based on categorical variables in the data (i.e. 1 for schools, 2 for\n> parks, -1 for highways, etc.) and then estimate an intensity/density\n> surface at defined points (like road intersections). I think that this will\n> let me answer questions like \"what are the top 10 intersections that are\n> closest to schools, parks (weight 2 because I care more about parks than\n> schools) and furthest form highways?\"\n>\n> I don't really care about the actual value, I'm just using it as a ranking\n> score.\n>\n> I think some flavour of 2D kernel density estimation will do this. This\n> particular problem seems to differ from the more simple examples given in\n> the various package vignettes in the following ways:\n>\n> To deal with roads in the form of SpatialLines, I either need to sample\n> them into points with a fixed absolute frequently that results in a\n> steady-state maximum equivalent to the maximum of a weight=1 point source,\n> or find a package that has some reasonable treatment of edge effects.\n>\n> SpatialPolygons (i.e. large areas like parks) should have a uniform\n> weighting of 1 within the polygon and behave like a SpatialLine at the\n> edges. Weighted points within the polygon should combine constructively\n> with the base weight of the polygon. If I have to do this with sampling, as\n> with the SpatialLines, ok. Using the centroid is a temporary solution for\n> smallish areas, but for bigger or irregular shapes, would prefer to deal\n> with the SpatialPolygon as is and/or with somewhat automatic sampling to\n> points.\n>\n> To estimate the intensity/density function at arbitrary points (i.e.\n> intersections), I probably need to estimate the whole surface function with\n> regular spacing and then interpolate from the estimated surface (somewhat\n> concerned about double-sampling error in this case). Would prefer an\n> algorithm that could calculate estimates directly from the points I care\n> about for ranking.\n>\n> I haven't seen any packages yet that look like they would be comfortable\n> with negative weights (i.e. things I don't want to be close to).\n>\n> I need to have some global control/parameter that allows me to adjust\n> either the bandwidth of the smoothing and/or the extinction coefficient of\n> the kernel function so I can empirically dictate and experiment with\n> distance effects (i.e. objects more than x km away shouldn't influence the\n> value function at my point of interest).\n>\n> Any thoughts on recommended reading/R packages that either already provide\n> this functionality or could be extended to do this kind of thing?\n>\n> Dan Buijs\n>\n>         [[alternative HTML version deleted]]\n>\n>\n>\n> ------------------------------\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n>\n> End of R-UG-Ottawa Digest, Vol 35, Issue 2\n> ******************************************\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\nAfter quickly reading your email it appears to me that you have three or\nfour separate problems to solve with the need in each  for different\nspatial algorithms. In some ways you might be better o",
+      "thread_id": "thread-52cf235572d0",
+      "thread_depth": 0,
+      "month": "2014-10"
+    },
+    {
+      "id": "msg-ec475a616804",
+      "message_id": "<CAPnsgj48OjYVYjptOD4YCJOHF9jn_tBravHmJvjN6ut6GT6Umg@mail.gmail.com>",
+      "from_name": "Ramesh Fernando",
+      "from_email_hash": "052a132fb9ca1239aaffd030e5fcf2870f940cc1b0cd110d997f1906772471d2",
+      "date": "2014-10-29T11:29:02-04:00",
+      "subject": "[OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon",
+      "subject_clean": "[OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon",
+      "in_reply_to": "<1495c7e25e1.5b85.378404@ismtpd-001.sjc1.sendgrid.net>",
+      "references": [
+        "<1495c7e25e1.5b85.378404@ismtpd-001.sjc1.sendgrid.net>"
+      ],
+      "body_plain": "Though this might be of interest\n---------- Forwarded message ----------\nFrom: Koding, Inc. <announce at koding.com>\nDate: Wed, Oct 29, 2014 at 11:20 AM\nSubject: Announcing: The World's First Global Virtual Hackathon\nTo: rameshjfernando at gmail.com\n\n\n  To celebrate our 500,000 developer milestone...\nANNOUNCING THE WORLD?S FIRST GLOBAL VIRTUAL #HACKATHON\nLet's hack together, wherever we are!\nWin cash prizes worth $10,000 and much more.\n JOIN NOW\n\n<http://email.koding.com/wf/click?upn=DFUEbfIZdkgTCy3jlQaLlmVAe1okdTwht89Gn1qIPOlOSFi6MvqWjltq1ykZ9plipBug-2B02dNlytEvjIGcYRX-2FyXCCdGlEGFHAk6cH1ZZrVaKYRsrk-2FPFFu1nmFiX1p-2BBWXwWm42LSmYc-2FJyXCeh1oRPl-2BW8yuKJyGdhCc0c5edzbo2I3epOuuP927XGmqig_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDITjwEf-2FQuZQu6ol0XQFdIueJLlMDM32-2FxFe-2FHnS8ZaoOzwvczJaTdGRXQdSCK4Vyr01oLW7OUIj0DEx5Un1VnLmRUsXspddFvsXOWPdFCY-2Fkm0Rqakll-2FQSLAuFQmhKQCTDXKQzDjB1GKHj7izc06WdwCLDk5sKYyR81yNT5MsGW4zhhYNjt0ChDKbzw5sllxs0D-2FtrzpQOoohkBUKxObaXK5-2FBkMQyg-2FlvNl2dXjP14caAaWcaJjykXwdnXxiCbcs-2B265kuUVYaPmfS95abC8X13SBX3S1fpoZ71he5io8tUMEL-2BrZ39bhiNe7W-2FKL0bn95mhMJBwoAx4Z92YbwBgQ-3D>\nDEVELOPERS OF THE WORLD, LET'S HACK TOGETHER!\n\nToday we break the link between hackathons and their location requirements.\nThe new location for our Hackathon is your fav spot to code!\nAnnouncing the World's First Global Virtual #Hackathon. WIN AWESOME PRIZES\n\n   1. $10,000 cash prize from Koding, split amongst the top 3 teams ($5k,\n   $3k, $2k each).\n   2. Winners will be offered credits for services like DigitalOcean, Tutum\n   and many more!\n   3. Winners will be offered interviews with investors on our judging\n   panel.\n\nSpots are limited so apply today\n<http://email.koding.com/wf/click?upn=DFUEbfIZdkgTCy3jlQaLlmVAe1okdTwht89Gn1qIPOlOSFi6MvqWjltq1ykZ9plipBug-2B02dNlytEvjIGcYRX-2FyXCCdGlEGFHAk6cH1ZZrVaKYRsrk-2FPFFu1nmFiX1p-2BBWXwWm42LSmYc-2FJyXCeh1oRPl-2BW8yuKJyGdhCc0c5edzbo2I3epOuuP927XGmqig_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIT7zGYFstT1Hjy3NubClNilvNw3fiXy3x4D1WNThZinnCy83oyfhqrzIe8Emiw5WoRgbgJmuHwuyaNwJvjXe2GcaKxDGVwcQEg3M7cTOYZSKXseQ9n3XK3398YHnrbcoxeK4iJr5Vh4H59aAy-2BDvNsffuAU0qvwpVI1iZ7nzb9f5L6TMsLXdH05ZAkPZPts0y6VQkz7RM-2Fgx56jg0ytx2zke1AykViMtsGCMpdAxKmN79-2FxQQ-2FYlumgQINURj-2BtLBwu1BdXqlf9jvF-2F5k2m3EsqcTPkZJ3WnN-2Bpa7JtANVZqSq98dKi-2B59DFzUcNmRlDxx2dkyWxnKY0NdK1f6z39t4-3D>\nand also help us spread the word\n<http://email.koding.com/wf/click?upn=oakdn-2Fbm9i4TMl42MXduOESemZl6unv3vpGyCRBVo5Nu7r4D7IvA5J72erj3ChBRk4hRA5nkvNgNYIMUExZpnjq26WOF9-2F1KmgvW7TK-2Fm1dGHYwtAVeUoXYQHumE1aEGAA8B1X0cHTgWtZjS70mxvP8S4kJIsEEcWAxKI1fHPPhVtf95PpSjGKKcq16FJcnC-2Fxp6v2jdfGqFqFcMYeDGW7m0euj2k9DGA89Jw66oed1KlG9sk2Ej4robnHMAWwXnAkXt86yUIEwv7M2UVSCiJsZDvnmL7hM3dXBx6ioJzJUqmTeTZYSttPLenCscrYvBjpxGfvE7myRt0oMAGOMj6tRkOoPE-2BCjO6Fcgh-2FWvmyQ4FELr2I63QEDTN5u48S5W7-2BiFYtImgBN7-2BtBwAoGQOxYSv9wmNfApf6OvG-2B0F73U-3D_kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIUXWckO1bvAwnXXre3QE26FBa-2BwXI7mMvr4Q22k3zSOSaYHQGcmu89ORdE0xP-2BQXvtf-2BQ0a5qXkm6p0fgiU0-2Bo7qGfYAbqS9x90atuXsS90EbDIiYMeBwcW7fMxhVjEE7rjhQX2-2F1DJMFn4ez9DB8NeGpanvvH5FynoDgMDjGrtaQcArHabAJtJ5-2BgN050ev9C22Rq5tF4f3jxB94AzMP2Nhxfow3C-2B296NGRyX9ZjJPaXGeLyLry-2B-2Bm7plitrbCgM31ifg-2F5wh6El3r-2BQHI8Jg2Tiv7Zf1WdZov6XMqFAnbiLNpTNQK0vfcW0-2Fjm0GMbsFfM1U-2FUrJCC7dgeTTx4YU-3D>\n!\nJUDGES  Hadi Partovi Code.org - CEO/Co-Founder\nHiten Shah KISSMetrics - Co-Founder\nJermaine O'Neal NBA Player and Entrepreneur\nRobert Scoble Rackspace - Startup Liaison Officer\nBen Huh Cheezburger - CEO\nKirill Sheynkman RTP Ventures - General Partner\nCharlotte Genevier Socialengine / TheCotery - CEO\nEren Bali Udemy - Chairman/Co-Founder\nNikolaos Bonatsos General Catalyst - Early Stage VC\nSalil Deshpande Bain Capital - Managing Director\nMitch Wainer Digital Ocean - CMO/Co-Founder\nBradford Stephens Kloth - CTO\nJason Yeh Greycroft Partners - Investment Professional\nBrett Welch Facebook - Product Manager\nDaniel Brusilovsky Golden State Warriors - Digital Initiatives Lead\nMeagan Lopez Adaptly - Client Services Director\nNihal Mehta ENIAC Ventures - Founding General Partner\nAndrew McCann deviantART - CTO\nBorja Burgos Tutum - CEO\nDevrim Yasar Koding - CEO/Co-Founder\n   You are receiving this email because you are registered on koding.com.\nUnsubscribe\n<http://email.koding.com/wf/unsubscribe?upn=kQw01-2BcKeuVcv3PlHVNi09Mstxg-2BzImz-2FmX4wDjO4PDaBUL8XDm8A0Tcn5IwjMDlHT6Y23sSTSkZM2oyIm-2FDIVA3B0IwgEb0Pta6ql8viVRPamKsSFqKZYeIq3Ayq9K1AJOq0t-2BotVRKgDxgbb2UQJwjWPNdbQPHGj8a1c4FiRg60oUGvR4V932EL-2BZ-2F4DNpOgNIDsKv1MhtsH-2Ft22z-2BinP5S1-2F4-2BA1hvvgY7EIr0steGRd7F1lN5uFNsIds8nB4QY9sAjTop3TKQ0bt8dwbiU012SfhGoYasXzbMbHyYw5nBIVyhB0armd5RqPpqnGydp2WyYifbyPDzwupILh5fykgcUoODjUMY6Q9LRekw1XLrZbYxpU27Fc63TjozCnA0oRuv8aj-2B94WZojSQFPv1aiyjRn6wFR0JfetlIWP-2FzQ-3D>\nif you do not want to receive further announcements from us.\nKoding, Inc. 358 Brannan Street, San Francisco, CA 94107\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Though this might be of interest\n---------- Forwarded message ----------\nFrom: Koding, Inc. <announce at koding.com>\nDate: Wed, Oct 29, 2014 at 11:20 AM\nSubject: Announcing: The World's First Global V",
+      "thread_id": "thread-ec475a616804",
+      "thread_depth": 0,
+      "month": "2014-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8769d60dbac5",
+      "subject": "[OGRUG] Ottawa Canopy Project",
+      "message_count": 1,
+      "participants": [
+        "ali eissa"
+      ],
+      "started": "2014-10-05T23:29:31-04:00",
+      "last_reply": "2014-10-05T23:29:31-04:00",
+      "root_message_id": "msg-8769d60dbac5"
+    },
+    {
+      "id": "thread-780f49b48d05",
+      "subject": "[OGRUG] What R packages/vocabulary do I need to search for Spatial Distance ranking?",
+      "message_count": 1,
+      "participants": [
+        "Daniel Buijs"
+      ],
+      "started": "2014-10-27T11:11:53-04:00",
+      "last_reply": "2014-10-27T11:11:53-04:00",
+      "root_message_id": "msg-780f49b48d05"
+    },
+    {
+      "id": "thread-52cf235572d0",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2",
+      "message_count": 1,
+      "participants": [
+        "John Lewis"
+      ],
+      "started": "2014-10-28T11:03:22-04:00",
+      "last_reply": "2014-10-28T11:03:22-04:00",
+      "root_message_id": "msg-52cf235572d0"
+    },
+    {
+      "id": "thread-ec475a616804",
+      "subject": "[OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon",
+      "message_count": 1,
+      "participants": [
+        "Ramesh Fernando"
+      ],
+      "started": "2014-10-29T11:29:02-04:00",
+      "last_reply": "2014-10-29T11:29:02-04:00",
+      "root_message_id": "msg-ec475a616804"
+    }
+  ]
+}

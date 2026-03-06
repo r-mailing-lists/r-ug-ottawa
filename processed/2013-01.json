@@ -1,0 +1,132 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-01",
+  "messages": [
+    {
+      "id": "msg-e77a9a59a328",
+      "message_id": "<510199B2.30306@gmail.com>",
+      "from_name": "Ian E. Gorman",
+      "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
+      "date": "2013-01-24T15:29:38-05:00",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "There will be a free one-day \"User Group Connect\" conference \n(http://ugconnect.ca/) to bring together high-tech workers, user groups \nand software users.  Potential new users will be able to explore the \npossibilities for obtaining and using software, and for connecting to \nuser groups of people with similar interests.\n\nThe conference will be held in the Ottawa \"Market Area\" at Shopify \nHeadquarters, 126 Your Street (Second floor) on February 9, 2013 from \n10:00 to 16:00.  User groups and sponsors will have site access from \n09:00 to 17:00.\n\nThe conference is being organized by Ottawa Carleton Linux Users Group \n(OCLUG, http://oclug.on.ca/).   OCLUG would like to have an R User Group \ntable at the conference.\n\nWould any members of the Ottawa Gatineau R Users Group be willing to \nstaff a table and talk to potential users about R and the local R users \ngroup?   If so, please contact the organizers by email (ugc at oclug.on.ca)\n\nThanks\n\nIan\n\n-- \n______________________________________________________________________________\nIan Earl Gorman | http://www.gorman.ca/ | iegorman at gmail.com\nhttp://gxparse.sourceforge.net | http://www.linkedin.com/in/iegorman",
+      "body_snippet": "There will be a free one-day \"User Group Connect\" conference \n(http://ugconnect.ca/) to bring together high-tech workers, user groups \nand software users.  Potential new users will be able to explore ",
+      "thread_id": "thread-e77a9a59a328",
+      "thread_depth": 0,
+      "month": "2013-01"
+    },
+    {
+      "id": "msg-da11592e249b",
+      "message_id": "<5101A5C4.3010804@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2013-01-24T16:21:08-05:00",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "in_reply_to": "<510199B2.30306@gmail.com>",
+      "references": [
+        "<510199B2.30306@gmail.com>"
+      ],
+      "body_plain": "Regarding\n >an R User Group table at the conference.\n\nI can do this, so please sign us up for a table.\n\n(If any R User Group members are interested in joining me, or covering \npart of the day, please let me know and we can work out a timetable.)\n\nPaul Gilbert\n\n\nOn 13-01-24 03:29 PM, Ian E. Gorman wrote:\n> There will be a free one-day \"User Group Connect\" conference\n> (http://ugconnect.ca/) to bring together high-tech workers, user groups\n> and software users.  Potential new users will be able to explore the\n> possibilities for obtaining and using software, and for connecting to\n> user groups of people with similar interests.\n>\n> The conference will be held in the Ottawa \"Market Area\" at Shopify\n> Headquarters, 126 Your Street (Second floor) on February 9, 2013 from\n> 10:00 to 16:00.  User groups and sponsors will have site access from\n> 09:00 to 17:00.\n>\n> The conference is being organized by Ottawa Carleton Linux Users Group\n> (OCLUG, http://oclug.on.ca/).   OCLUG would like to have an R User Group\n> table at the conference.\n>\n> Would any members of the Ottawa Gatineau R Users Group be willing to\n> staff a table and talk to potential users about R and the local R users\n> group?   If so, please contact the organizers by email (ugc at oclug.on.ca)\n>\n> Thanks\n>\n> Ian\n>",
+      "body_snippet": "Regarding\n >an R User Group table at the conference.\n\nI can do this, so please sign us up for a table.\n\n(If any R User Group members are interested in joining me, or covering \npart of the day, please ",
+      "thread_id": "thread-e77a9a59a328",
+      "thread_depth": 1,
+      "month": "2013-01"
+    },
+    {
+      "id": "msg-9a8730c6c8b0",
+      "message_id": "<51028781.3090301@uottawa.ca>",
+      "from_name": "Prof J C Nash (U30A)",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2013-01-25T08:24:17-05:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 23, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 23, Issue 1",
+      "in_reply_to": "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Thanks Paul. I'll be away unfortunately. Indeed it would help if others \nin the group can offer to come for a while. It should be a good event \nfor sharing ideas.\n\nJN\n\n> Regarding\n>  >an R User Group table at the conference.\n>\n> I can do this, so please sign us up for a table.\n>\n> (If any R User Group members are interested in joining me, or covering\n> part of the day, please let me know and we can work out a timetable.)\n>\n> Paul Gilbert",
+      "body_snippet": "Thanks Paul. I'll be away unfortunately. Indeed it would help if others \nin the group can offer to come for a while. It should be a good event \nfor sharing ideas.\n\nJN\n\n> Regarding\n>  >an R User Group ",
+      "thread_id": "thread-9a8730c6c8b0",
+      "thread_depth": 0,
+      "month": "2013-01"
+    },
+    {
+      "id": "msg-3b85fc7842a2",
+      "message_id": "<3510E522-9583-4FD9-864E-E40FFF81E8B0@gmail.com>",
+      "from_name": "Mark St. John",
+      "from_email_hash": "422d6162aa810cd7005defa120e9660dca2757f39b68ee054d86d86f01f07be5",
+      "date": "2013-01-25T14:28:16-05:00",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ? (Paul Gilbert)",
+      "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ? (Paul Gilbert)",
+      "in_reply_to": "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "> \n> Message: 2\n> Date: Thu, 24 Jan 2013 16:21:08 -0500\n> From: Paul Gilbert <pgilbert902 at gmail.com>\n> To: ugc at oclug.on.ca\n> Cc: r-ug-ottawa at r-project.org, \"Ian E. Gorman\" <iegorman at gmail.com>\n> Subject: Re: [OGRUG] Does Ottawa Gatineau R User Group wish to\n> \tparticipate in \"User Group Connect\" ?\n> Message-ID: <5101A5C4.3010804 at gmail.com>\n> Content-Type: text/plain; charset=ISO-8859-1; format=flowed\n> \n> Regarding\n>> an R User Group table at the conference.\n> \n> I can do this, so please sign us up for a table.\n> \n> (If any R User Group members are interested in joining me, or covering \n> part of the day, please let me know and we can work out a timetable.)\n> \n> Paul Gilbert\n> \n\nHi Paul, Ian,\n\nI can put some time in. Please add me to the list and we'll work out times when we know more.\n\nCheers,\nMark\n\n+1 (613) 282-7056\nmark at msjsci.com",
+      "body_snippet": "> \n> Message: 2\n> Date: Thu, 24 Jan 2013 16:21:08 -0500\n> From: Paul Gilbert <pgilbert902 at gmail.com>\n> To: ugc at oclug.on.ca\n> Cc: r-ug-ottawa at r-project.org, \"Ian E. Gorman\" <iegorman at gmail.",
+      "thread_id": "thread-3b85fc7842a2",
+      "thread_depth": 0,
+      "month": "2013-01"
+    },
+    {
+      "id": "msg-9df418f72c32",
+      "message_id": "<5102EF7D.1090306@gmail.com>",
+      "from_name": "Ian E. Gorman",
+      "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
+      "date": "2013-01-25T15:47:57-05:00",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "in_reply_to": "<5101A5C4.3010804@gmail.com>",
+      "references": [
+        "<510199B2.30306@gmail.com>",
+        "<5101A5C4.3010804@gmail.com>"
+      ],
+      "body_plain": "Thanks\n\nIf several members can participate, \"on deck\" times would be short, and \neach member would get a chance to assess interest from potential new \nmembers.\n\nAlso, if you have a printed sheet of information to give out, people \ncould pick one up even at times when there might be no one at the table.\n\nWe are looking forward to having OGRUG at User Group Connect.\n\nIan\n\nOn 2013-01-24 4:21 PM, Paul Gilbert wrote:\n> Regarding\n>  >an R User Group table at the conference.\n>\n> I can do this, so please sign us up for a table.\n>\n> (If any R User Group members are interested in joining me, or covering\n> part of the day, please let me know and we can work out a timetable.)\n>\n> Paul Gilbert\n>\n>\n> On 13-01-24 03:29 PM, Ian E. Gorman wrote:\n>> There will be a free one-day \"User Group Connect\" conference\n>> (http://ugconnect.ca/) to bring together high-tech workers, user groups\n>> and software users.  Potential new users will be able to explore the\n>> possibilities for obtaining and using software, and for connecting to\n>> user groups of people with similar interests.\n>>\n>> The conference will be held in the Ottawa \"Market Area\" at Shopify\n>> Headquarters, 126 Your Street (Second floor) on February 9, 2013 from\n>> 10:00 to 16:00.  User groups and sponsors will have site access from\n>> 09:00 to 17:00.\n>>\n>> The conference is being organized by Ottawa Carleton Linux Users Group\n>> (OCLUG, http://oclug.on.ca/).   OCLUG would like to have an R User Group\n>> table at the conference.\n>>\n>> Would any members of the Ottawa Gatineau R Users Group be willing to\n>> staff a table and talk to potential users about R and the local R users\n>> group?   If so, please contact the organizers by email (ugc at oclug.on.ca)\n>>\n>> Thanks\n>>\n>> Ian\n>>\n\n-- \n______________________________________________________________________________\nIan Earl Gorman | http://www.gorman.ca/ | iegorman at gmail.com\nhttp://gxparse.sourceforge.net | http://www.linkedin.com/in/iegorman",
+      "body_snippet": "Thanks\n\nIf several members can participate, \"on deck\" times would be short, and \neach member would get a chance to assess interest from potential new \nmembers.\n\nAlso, if you have a printed sheet of in",
+      "thread_id": "thread-e77a9a59a328",
+      "thread_depth": 2,
+      "month": "2013-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-e77a9a59a328",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
+      "message_count": 3,
+      "participants": [
+        "Ian E. Gorman",
+        "Paul Gilbert"
+      ],
+      "started": "2013-01-24T15:29:38-05:00",
+      "last_reply": "2013-01-25T15:47:57-05:00",
+      "root_message_id": "msg-e77a9a59a328"
+    },
+    {
+      "id": "thread-9a8730c6c8b0",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 23, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "Prof J C Nash (U30A)"
+      ],
+      "started": "2013-01-25T08:24:17-05:00",
+      "last_reply": "2013-01-25T08:24:17-05:00",
+      "root_message_id": "msg-9a8730c6c8b0"
+    },
+    {
+      "id": "thread-3b85fc7842a2",
+      "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ? (Paul Gilbert)",
+      "message_count": 1,
+      "participants": [
+        "Mark St. John"
+      ],
+      "started": "2013-01-25T14:28:16-05:00",
+      "last_reply": "2013-01-25T14:28:16-05:00",
+      "root_message_id": "msg-3b85fc7842a2"
+    }
+  ]
+}

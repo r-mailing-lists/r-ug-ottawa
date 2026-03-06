@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-02",
+  "messages": [
+    {
+      "id": "msg-b1928c4d4ae8",
+      "message_id": "<51128AB5.6070601@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2013-02-06T11:54:13-05:00",
+      "subject": "[OGRUG] OGRUG table at Ottawa  \"User Group Connect\"",
+      "subject_clean": "[OGRUG] OGRUG table at Ottawa  \"User Group Connect\"",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "We have agreed to staff an OGRUG table Saturday at  \"User Group \nConnect\", details below. I am just putting together a timetable for \nvolunteers. Please let me know if you are willing to cover an hour or \ntwo (or more, or less). Even if you do not want to be on duty, please \nfeel to drop by on Saturday.\n\nPaul\n__________\n\nThere will be a free one-day \"User Group Connect\" conference\n(http://ugconnect.ca/) to bring together high-tech workers, user groups\nand software users.  Potential new users will be able to explore the\npossibilities for obtaining and using software, and for connecting to\nuser groups of people with similar interests.\n\nThe conference will be held in the Ottawa \"Market Area\" at Shopify\nHeadquarters, 126 York Street (Second floor) on February 9, 2013 from\n10:00 to 16:00.  User groups and sponsors will have site access from\n09:00 to 17:00.\n\nThe conference is being organized by Ottawa Carleton Linux Users Group\n(OCLUG, http://oclug.on.ca/).",
+      "body_snippet": "We have agreed to staff an OGRUG table Saturday at  \"User Group \nConnect\", details below. I am just putting together a timetable for \nvolunteers. Please let me know if you are willing to cover an hour",
+      "thread_id": "thread-b1928c4d4ae8",
+      "thread_depth": 0,
+      "month": "2013-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b1928c4d4ae8",
+      "subject": "[OGRUG] OGRUG table at Ottawa  \"User Group Connect\"",
+      "message_count": 1,
+      "participants": [
+        "Paul Gilbert"
+      ],
+      "started": "2013-02-06T11:54:13-05:00",
+      "last_reply": "2013-02-06T11:54:13-05:00",
+      "root_message_id": "msg-b1928c4d4ae8"
+    }
+  ]
+}

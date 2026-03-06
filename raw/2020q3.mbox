@@ -1,0 +1,142 @@
+From mpotter @end|ng |rom @torm@c@  Tue Sep 15 02:03:47 2020
+From: mpotter @end|ng |rom @torm@c@ (Martin Potter)
+Date: Mon, 14 Sep 2020 20:03:47 -0400
+Subject: [OGRUG] Newbie needs help with plot
+Message-ID: <da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>
+
+Hello,
+
+Newbie here with a newbie question.
+
+I have a time series of voltage measurements, two independent 
+variables (DoM and HoD) and one dependent (VAC) variable.? My csv file 
+was imported into R and now the 3-column table of values appears in 
+the upper left panel of RStudio.? Good so far.
+
+I succeeded in getting the expected matrix of plots using the 'pairs' 
+function :
+
+pairs(Voltage_202004, cex=1, pch=16, cex.labels = 2)
+
+so that works fine.
+
+But I have not been able to get any plots using 'plot', or variants of 
+it, and get only errors, usually of the "object 'HoD' not found" variety.
+
+I suspect I need to declare my variable names somehow so that R will 
+know what I am asking it to do, but have not been able to figure out 
+how to do that.? There might be other things I need to do as well!
+
+Could someone show me an example of (1) how to declare my variables 
+and (2) exactly what an xy plot command should look like, using my 
+variable names (DoM, HoD, and VAC), plotting VAC against either DoM or 
+HoD?
+
+Thanks for any help with this!? All of my Help material seems very 
+abstract at this point, and so far has not be of much help to me. Many 
+years ago I cut my teeth on FORTRAN and soon graduated to assembler 
+language on a DEC PDP-8 in a small data acquisition and processing 
+lab, before moving on to other jobs.? Since then the vocabulary seems 
+to have changed considerably and this now almost-80-year-old gets 
+easily confused.
+
+... Martin Potter
+
+
+From c|@rk@r|ch@rd@ @end|ng |rom gm@||@com  Tue Sep 15 02:19:38 2020
+From: c|@rk@r|ch@rd@ @end|ng |rom gm@||@com (clark richards)
+Date: Mon, 14 Sep 2020 21:19:38 -0300
+Subject: [OGRUG] Newbie needs help with plot
+In-Reply-To: <da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>
+References: <da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>
+Message-ID: <CAJx09AnNL4cQeG2Vy7MTnQLj54OdETfN_t4P0AszvBQ4sbxh4A@mail.gmail.com>
+
+Hi Martin,
+
+It helps if you show us what it was you tried to do, and exactly what
+your errors were. The closer you can make your code sample to being
+reproducible, the easier it is for others to see where you went wrong.
+You can even attach your data file if that might be related to your
+problem.
+
+>From reading your email however, it sounds like the issue you are
+having is how to reference the variables (i.e. columns) inside the
+data.frame object that you imported (I'm assuming you used
+`read.csv()` or something similar). If your columns were imported with
+the names from the file (here is where seeing your code and having
+your data file would help with the answer) you can reference the
+individual field use the "$" notation, like:
+
+> Voltage_202004$DoM
+
+and you could then make a plot by doing, e.g.
+
+> plot(Voltage_202004$DoM, Voltage_202004$VAC)
+
+The `with()` function can be handy if you are plotting columns all
+from the same data.frame object, and would be used like:
+
+> with(Voltage_202004, plot(DoM, VAC))
+
+If your columns aren't named, the best thing to do is name them in the
+object and then proceed as above. To name columns you can do
+
+> names(Voltage_202004) <- c('DoM', 'HoD', 'VAC')
+
+Otherwise you can use the "numeric" approach to specifying which
+columns you want to plot, e.g.
+
+> plot(Voltage_202004[[1]], Voltage_202004[[3]]) # plots the first and 3 columns against each other.
+
+Hope that helps!
+
+Cheers,
+Clark
+
+
+On Mon, Sep 14, 2020 at 9:04 PM Martin Potter <mpotter at storm.ca> wrote:
+>
+> Hello,
+>
+> Newbie here with a newbie question.
+>
+> I have a time series of voltage measurements, two independent
+> variables (DoM and HoD) and one dependent (VAC) variable.  My csv file
+> was imported into R and now the 3-column table of values appears in
+> the upper left panel of RStudio.  Good so far.
+>
+> I succeeded in getting the expected matrix of plots using the 'pairs'
+> function :
+>
+> pairs(Voltage_202004, cex=1, pch=16, cex.labels = 2)
+>
+> so that works fine.
+>
+> But I have not been able to get any plots using 'plot', or variants of
+> it, and get only errors, usually of the "object 'HoD' not found" variety.
+>
+> I suspect I need to declare my variable names somehow so that R will
+> know what I am asking it to do, but have not been able to figure out
+> how to do that.  There might be other things I need to do as well!
+>
+> Could someone show me an example of (1) how to declare my variables
+> and (2) exactly what an xy plot command should look like, using my
+> variable names (DoM, HoD, and VAC), plotting VAC against either DoM or
+> HoD?
+>
+> Thanks for any help with this!  All of my Help material seems very
+> abstract at this point, and so far has not be of much help to me. Many
+> years ago I cut my teeth on FORTRAN and soon graduated to assembler
+> language on a DEC PDP-8 in a small data acquisition and processing
+> lab, before moving on to other jobs.  Since then the vocabulary seems
+> to have changed considerably and this now almost-80-year-old gets
+> easily confused.
+>
+> ... Martin Potter
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+

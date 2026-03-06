@@ -1,0 +1,63 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2011-11",
+  "messages": [
+    {
+      "id": "msg-47f2b2b142ed",
+      "message_id": "<4EAFF917.9090603@uottawa.ca>",
+      "from_name": "John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-11-01T09:50:15-04:00",
+      "subject": "[OGRUG] Subject: R Users Group Meeting",
+      "subject_clean": "[OGRUG] Subject: R Users Group Meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Subject: R Users Group Meeting (first announcement)\n\nOttawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room\n4351 Herzberg Laboratories (see http://www1.carleton.ca/campus/) on November 30, 2011.\n\nAgenda:\n\n* Meet and greet -- Who are we? (10 mins)\n\n* Jason Nielsen: Using C and Fortran with R. (50-60 mins)\n\n* \"Problems I'm having\": If you have a particular issue or problem that can be shared and\nsolved, please send summary (preferably with R script)  John Nash (nashjc _at_ uottawa.ca)\n(20 mins)",
+      "body_snippet": "Subject: R Users Group Meeting (first announcement)\n\nOttawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room\n4351 Herzberg Laboratories (see http://www1.carleton.ca/camp",
+      "thread_id": "thread-47f2b2b142ed",
+      "thread_depth": 0,
+      "month": "2011-11"
+    },
+    {
+      "id": "msg-8b8a801cfd34",
+      "message_id": "<4ECF97B7.5020006@uottawa.ca>",
+      "from_name": "John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2011-11-25T08:27:19-05:00",
+      "subject": "[OGRUG] Reminder -- RUG meeting at Carleton Nov 30",
+      "subject_clean": "[OGRUG] Reminder -- RUG meeting at Carleton Nov 30",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Subject: R Users Group Meeting\n\nOttawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room\n4351 Herzberg Laboratories (see http://www1.carleton.ca/campus/) on November 30, 2011.\n\nAgenda:\n\n* Meet and greet -- Who are we? (10 mins)\n\n* Jason Nielsen: Using C and Fortran with R. (50-60 mins)\n\n* \"Problems I'm having\": If you have a particular issue or problem that can be shared and\nsolved, please send summary (preferably with R script)  John Nash (nashjc _at_ uottawa.ca)\n(20 mins)",
+      "body_snippet": "Subject: R Users Group Meeting\n\nOttawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room\n4351 Herzberg Laboratories (see http://www1.carleton.ca/campus/) on November 30, ",
+      "thread_id": "thread-8b8a801cfd34",
+      "thread_depth": 0,
+      "month": "2011-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-47f2b2b142ed",
+      "subject": "[OGRUG] Subject: R Users Group Meeting",
+      "message_count": 1,
+      "participants": [
+        "John C Nash"
+      ],
+      "started": "2011-11-01T09:50:15-04:00",
+      "last_reply": "2011-11-01T09:50:15-04:00",
+      "root_message_id": "msg-47f2b2b142ed"
+    },
+    {
+      "id": "thread-8b8a801cfd34",
+      "subject": "[OGRUG] Reminder -- RUG meeting at Carleton Nov 30",
+      "message_count": 1,
+      "participants": [
+        "John C Nash"
+      ],
+      "started": "2011-11-25T08:27:19-05:00",
+      "last_reply": "2011-11-25T08:27:19-05:00",
+      "root_message_id": "msg-8b8a801cfd34"
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+From tyler at plantarum.ca  Tue Oct 27 15:07:35 2015
+From: tyler at plantarum.ca (Tyler Smith)
+Date: Tue, 27 Oct 2015 10:07:35 -0400
+Subject: [OGRUG] software carpentry training in December
+Message-ID: <1445954855.2824201.421510401.751BF985@webmail.messagingengine.com>
+
+Hi folks,
+
+The Software Carpentry group has announced a new round of R instructor
+training. This is a two-day workshop this December, aimed at proficient
+R users who wish to learn to train others to use R. They also work with
+Bash, Python, Git, SQL, and other tools useful in data analysis. The
+details are here:
+
+http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+
+The training is free, but there is an expectation that instructors will
+host a 2-day training workshop for new R users at their own institution
+in the 6 months following the workshop. The training will actually be
+delivered via web conference, so we can 'attend' wherever we like, given
+we can get 6-8 people together with a reliable web connection. 
+
+Questions for the list:
+
+1. Is anyone interested (or know someone who might be) in joining me on
+an application to attend the instructor training?
+2. If so, are you interested in hosting an R training course sometime
+next spring? I'm happy to coordinate this, or help to do so, however is
+useful. I can host here at Ag Canada (Carling Avenue), but another venue
+would be preferable as we have really spotty internet connection in our
+conference rooms. 
+
+Best,
+
+Tyler
+
+-- 
+plantarum.ca
+
+
+From alexdemarsh at gmail.com  Tue Oct 27 19:47:31 2015
+From: alexdemarsh at gmail.com (Alex Demarsh)
+Date: Tue, 27 Oct 2015 18:47:31 +0000
+Subject: [OGRUG] software carpentry training in December
+In-Reply-To: <1445954855.2824201.421510401.751BF985@webmail.messagingengine.com>
+References: <1445954855.2824201.421510401.751BF985@webmail.messagingengine.com>
+Message-ID: <CAPJGrdeR37u+hMErAXGjCdWZhJjUkR35Uy2y9cc3785Tiy+3GQ@mail.gmail.com>
+
+1) Yes, I'll definitely join!
+2) Also yes. Unfortunately internet access is also terrible at my workplace
+(PHAC), otherwise I'd offer to host. I can reach out to some folks at
+uOttawa to see if we can use one of their seminar rooms.
+
+On Tue, Oct 27, 2015, 10:08 Tyler Smith <tyler at plantarum.ca> wrote:
+
+> Hi folks,
+>
+> The Software Carpentry group has announced a new round of R instructor
+> training. This is a two-day workshop this December, aimed at proficient
+> R users who wish to learn to train others to use R. They also work with
+> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+> details are here:
+>
+>
+> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>
+> The training is free, but there is an expectation that instructors will
+> host a 2-day training workshop for new R users at their own institution
+> in the 6 months following the workshop. The training will actually be
+> delivered via web conference, so we can 'attend' wherever we like, given
+> we can get 6-8 people together with a reliable web connection.
+>
+> Questions for the list:
+>
+> 1. Is anyone interested (or know someone who might be) in joining me on
+> an application to attend the instructor training?
+> 2. If so, are you interested in hosting an R training course sometime
+> next spring? I'm happy to coordinate this, or help to do so, however is
+> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+> would be preferable as we have really spotty internet connection in our
+> conference rooms.
+>
+> Best,
+>
+> Tyler
+>
+> --
+> plantarum.ca
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From profjcnash at gmail.com  Wed Oct 28 13:37:57 2015
+From: profjcnash at gmail.com (ProfJCNash)
+Date: Wed, 28 Oct 2015 08:37:57 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+In-Reply-To: <mailman.17.1446030003.30460.r-ug-ottawa@r-project.org>
+References: <mailman.17.1446030003.30460.r-ug-ottawa@r-project.org>
+Message-ID: <5630C1A5.4060201@gmail.com>
+
+uottawa is probably "easy" on a Saturday, less so (doors locked) on 
+Sunday, and essentially impossible to book rooms other times due to 
+regular needs.
+
+When are the dates envisaged?
+
+JN
+
+
+On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+>
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+>
+>
+> Today's Topics:
+>
+>     1. software carpentry training in December (Tyler Smith)
+>     2. Re: software carpentry training in December (Alex Demarsh)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Tue, 27 Oct 2015 10:07:35 -0400
+> From: Tyler Smith <tyler at plantarum.ca>
+> To: r-ug-ottawa at r-project.org
+> Subject: [OGRUG] software carpentry training in December
+> Message-ID:
+> 	<1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+> Content-Type: text/plain
+>
+> Hi folks,
+>
+> The Software Carpentry group has announced a new round of R instructor
+> training. This is a two-day workshop this December, aimed at proficient
+> R users who wish to learn to train others to use R. They also work with
+> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+> details are here:
+>
+> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>
+> The training is free, but there is an expectation that instructors will
+> host a 2-day training workshop for new R users at their own institution
+> in the 6 months following the workshop. The training will actually be
+> delivered via web conference, so we can 'attend' wherever we like, given
+> we can get 6-8 people together with a reliable web connection.
+>
+> Questions for the list:
+>
+> 1. Is anyone interested (or know someone who might be) in joining me on
+> an application to attend the instructor training?
+> 2. If so, are you interested in hosting an R training course sometime
+> next spring? I'm happy to coordinate this, or help to do so, however is
+> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+> would be preferable as we have really spotty internet connection in our
+> conference rooms.
+>
+> Best,
+>
+> Tyler
+>
+
+
+From chris.c.1221 at gmail.com  Wed Oct 28 14:44:42 2015
+From: chris.c.1221 at gmail.com (Chris Cole)
+Date: Wed, 28 Oct 2015 09:44:42 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+In-Reply-To: <5630C1A5.4060201@gmail.com>
+References: <mailman.17.1446030003.30460.r-ug-ottawa@r-project.org>
+	<5630C1A5.4060201@gmail.com>
+Message-ID: <CAFut0+_kD0Mb8e-h-kmyJ9ncx6WQL29EAjzK_6fcS12Q26767w@mail.gmail.com>
+
+I would be interested in joining the instructor training, though I can't
+guarantee teaching a course in the next 6 months.
+
+Chris
+
+On Wed, Oct 28, 2015 at 8:37 AM, ProfJCNash <profjcnash at gmail.com> wrote:
+
+> uottawa is probably "easy" on a Saturday, less so (doors locked) on
+> Sunday, and essentially impossible to book rooms other times due to regular
+> needs.
+>
+> When are the dates envisaged?
+>
+> JN
+>
+>
+> On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+>
+>> Send R-UG-Ottawa mailing list submissions to
+>>         r-ug-ottawa at r-project.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>         https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> or, via email, send a message with subject or body 'help' to
+>>         r-ug-ottawa-request at r-project.org
+>>
+>> You can reach the person managing the list at
+>>         r-ug-ottawa-owner at r-project.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of R-UG-Ottawa digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>     1. software carpentry training in December (Tyler Smith)
+>>     2. Re: software carpentry training in December (Alex Demarsh)
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Tue, 27 Oct 2015 10:07:35 -0400
+>> From: Tyler Smith <tyler at plantarum.ca>
+>> To: r-ug-ottawa at r-project.org
+>> Subject: [OGRUG] software carpentry training in December
+>> Message-ID:
+>>         <
+>> 1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+>> Content-Type: text/plain
+>>
+>> Hi folks,
+>>
+>> The Software Carpentry group has announced a new round of R instructor
+>> training. This is a two-day workshop this December, aimed at proficient
+>> R users who wish to learn to train others to use R. They also work with
+>> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+>> details are here:
+>>
+>>
+>> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>>
+>> The training is free, but there is an expectation that instructors will
+>> host a 2-day training workshop for new R users at their own institution
+>> in the 6 months following the workshop. The training will actually be
+>> delivered via web conference, so we can 'attend' wherever we like, given
+>> we can get 6-8 people together with a reliable web connection.
+>>
+>> Questions for the list:
+>>
+>> 1. Is anyone interested (or know someone who might be) in joining me on
+>> an application to attend the instructor training?
+>> 2. If so, are you interested in hosting an R training course sometime
+>> next spring? I'm happy to coordinate this, or help to do so, however is
+>> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+>> would be preferable as we have really spotty internet connection in our
+>> conference rooms.
+>>
+>> Best,
+>>
+>> Tyler
+>>
+>>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+	[[alternative HTML version deleted]]
+
+
+From tyler at plantarum.ca  Wed Oct 28 14:58:31 2015
+From: tyler at plantarum.ca (Tyler Smith)
+Date: Wed, 28 Oct 2015 09:58:31 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+In-Reply-To: <5630C1A5.4060201@gmail.com>
+References: <mailman.17.1446030003.30460.r-ug-ottawa@r-project.org>
+	<5630C1A5.4060201@gmail.com>
+Message-ID: <1446040711.136037.422584969.4604120F@webmail.messagingengine.com>
+
+The dates are already set, December 7 and 8 (Monday and Tuesday).
+
+Best,
+
+Tyler
+
+-- 
+plantarum.ca
+
+On Wed, Oct 28, 2015, at 08:37 AM, ProfJCNash wrote:
+> uottawa is probably "easy" on a Saturday, less so (doors locked) on 
+> Sunday, and essentially impossible to book rooms other times due to 
+> regular needs.
+> 
+> When are the dates envisaged?
+> 
+> JN
+> 
+> 
+> On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> > Send R-UG-Ottawa mailing list submissions to
+> > 	r-ug-ottawa at r-project.org
+> >
+> > To subscribe or unsubscribe via the World Wide Web, visit
+> > 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> > or, via email, send a message with subject or body 'help' to
+> > 	r-ug-ottawa-request at r-project.org
+> >
+> > You can reach the person managing the list at
+> > 	r-ug-ottawa-owner at r-project.org
+> >
+> > When replying, please edit your Subject line so it is more specific
+> > than "Re: Contents of R-UG-Ottawa digest..."
+> >
+> >
+> > Today's Topics:
+> >
+> >     1. software carpentry training in December (Tyler Smith)
+> >     2. Re: software carpentry training in December (Alex Demarsh)
+> >
+> >
+> > ----------------------------------------------------------------------
+> >
+> > Message: 1
+> > Date: Tue, 27 Oct 2015 10:07:35 -0400
+> > From: Tyler Smith <tyler at plantarum.ca>
+> > To: r-ug-ottawa at r-project.org
+> > Subject: [OGRUG] software carpentry training in December
+> > Message-ID:
+> > 	<1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+> > Content-Type: text/plain
+> >
+> > Hi folks,
+> >
+> > The Software Carpentry group has announced a new round of R instructor
+> > training. This is a two-day workshop this December, aimed at proficient
+> > R users who wish to learn to train others to use R. They also work with
+> > Bash, Python, Git, SQL, and other tools useful in data analysis. The
+> > details are here:
+> >
+> > http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+> >
+> > The training is free, but there is an expectation that instructors will
+> > host a 2-day training workshop for new R users at their own institution
+> > in the 6 months following the workshop. The training will actually be
+> > delivered via web conference, so we can 'attend' wherever we like, given
+> > we can get 6-8 people together with a reliable web connection.
+> >
+> > Questions for the list:
+> >
+> > 1. Is anyone interested (or know someone who might be) in joining me on
+> > an application to attend the instructor training?
+> > 2. If so, are you interested in hosting an R training course sometime
+> > next spring? I'm happy to coordinate this, or help to do so, however is
+> > useful. I can host here at Ag Canada (Carling Avenue), but another venue
+> > would be preferable as we have really spotty internet connection in our
+> > conference rooms.
+> >
+> > Best,
+> >
+> > Tyler
+> >
+> 
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+
+From dbuijs at gmail.com  Wed Nov  4 01:55:19 2015
+From: dbuijs at gmail.com (Daniel Buijs)
+Date: Tue, 3 Nov 2015 19:55:19 -0500
+Subject: [OGRUG] Software Carpentry
+In-Reply-To: <mailman.17.1446116403.25589.r-ug-ottawa@r-project.org>
+References: <mailman.17.1446116403.25589.r-ug-ottawa@r-project.org>
+Message-ID: <0AB18768-A165-49B4-823C-6DD99F76220F@gmail.com>
+
+I'd be interested in the Software Carpentry instructor training. Not sure if I can offer the group a space yet, but I"d be interested in giving a seminar at Health Canada in the next few months. 
+
+Daniel Buijs
+dbuijs at gmail.com
+
+
+On 2015-10-29, at 7:00 AM, r-ug-ottawa-request at r-project.org wrote:
+
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+> 
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. Re: R-UG-Ottawa Digest, Vol 38, Issue 1 (ProfJCNash)
+>   2. Re: R-UG-Ottawa Digest, Vol 38, Issue 1 (Chris Cole)
+>   3. Re: R-UG-Ottawa Digest, Vol 38, Issue 1 (Tyler Smith)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Wed, 28 Oct 2015 08:37:57 -0400
+> From: ProfJCNash <profjcnash at gmail.com>
+> To: r-ug-ottawa at r-project.org
+> Subject: Re: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+> Message-ID: <5630C1A5.4060201 at gmail.com>
+> Content-Type: text/plain; charset=windows-1252; format=flowed
+> 
+> uottawa is probably "easy" on a Saturday, less so (doors locked) on 
+> Sunday, and essentially impossible to book rooms other times due to 
+> regular needs.
+> 
+> When are the dates envisaged?
+> 
+> JN
+> 
+> 
+> On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+>> Send R-UG-Ottawa mailing list submissions to
+>> 	r-ug-ottawa at r-project.org
+>> 
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> or, via email, send a message with subject or body 'help' to
+>> 	r-ug-ottawa-request at r-project.org
+>> 
+>> You can reach the person managing the list at
+>> 	r-ug-ottawa-owner at r-project.org
+>> 
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of R-UG-Ottawa digest..."
+>> 
+>> 
+>> Today's Topics:
+>> 
+>>    1. software carpentry training in December (Tyler Smith)
+>>    2. Re: software carpentry training in December (Alex Demarsh)
+>> 
+>> 
+>> ----------------------------------------------------------------------
+>> 
+>> Message: 1
+>> Date: Tue, 27 Oct 2015 10:07:35 -0400
+>> From: Tyler Smith <tyler at plantarum.ca>
+>> To: r-ug-ottawa at r-project.org
+>> Subject: [OGRUG] software carpentry training in December
+>> Message-ID:
+>> 	<1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+>> Content-Type: text/plain
+>> 
+>> Hi folks,
+>> 
+>> The Software Carpentry group has announced a new round of R instructor
+>> training. This is a two-day workshop this December, aimed at proficient
+>> R users who wish to learn to train others to use R. They also work with
+>> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+>> details are here:
+>> 
+>> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>> 
+>> The training is free, but there is an expectation that instructors will
+>> host a 2-day training workshop for new R users at their own institution
+>> in the 6 months following the workshop. The training will actually be
+>> delivered via web conference, so we can 'attend' wherever we like, given
+>> we can get 6-8 people together with a reliable web connection.
+>> 
+>> Questions for the list:
+>> 
+>> 1. Is anyone interested (or know someone who might be) in joining me on
+>> an application to attend the instructor training?
+>> 2. If so, are you interested in hosting an R training course sometime
+>> next spring? I'm happy to coordinate this, or help to do so, however is
+>> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+>> would be preferable as we have really spotty internet connection in our
+>> conference rooms.
+>> 
+>> Best,
+>> 
+>> Tyler
+>> 
+> 
+> 
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Wed, 28 Oct 2015 09:44:42 -0400
+> From: Chris Cole <chris.c.1221 at gmail.com>
+> To: ProfJCNash <profjcnash at gmail.com>
+> Cc: r-ug-ottawa at r-project.org
+> Subject: Re: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+> Message-ID:
+> 	<CAFut0+_kD0Mb8e-h-kmyJ9ncx6WQL29EAjzK_6fcS12Q26767w at mail.gmail.com>
+> Content-Type: text/plain; charset="UTF-8"
+> 
+> I would be interested in joining the instructor training, though I can't
+> guarantee teaching a course in the next 6 months.
+> 
+> Chris
+> 
+> On Wed, Oct 28, 2015 at 8:37 AM, ProfJCNash <profjcnash at gmail.com> wrote:
+> 
+>> uottawa is probably "easy" on a Saturday, less so (doors locked) on
+>> Sunday, and essentially impossible to book rooms other times due to regular
+>> needs.
+>> 
+>> When are the dates envisaged?
+>> 
+>> JN
+>> 
+>> 
+>> On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+>> 
+>>> Send R-UG-Ottawa mailing list submissions to
+>>>        r-ug-ottawa at r-project.org
+>>> 
+>>> To subscribe or unsubscribe via the World Wide Web, visit
+>>>        https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> or, via email, send a message with subject or body 'help' to
+>>>        r-ug-ottawa-request at r-project.org
+>>> 
+>>> You can reach the person managing the list at
+>>>        r-ug-ottawa-owner at r-project.org
+>>> 
+>>> When replying, please edit your Subject line so it is more specific
+>>> than "Re: Contents of R-UG-Ottawa digest..."
+>>> 
+>>> 
+>>> Today's Topics:
+>>> 
+>>>    1. software carpentry training in December (Tyler Smith)
+>>>    2. Re: software carpentry training in December (Alex Demarsh)
+>>> 
+>>> 
+>>> ----------------------------------------------------------------------
+>>> 
+>>> Message: 1
+>>> Date: Tue, 27 Oct 2015 10:07:35 -0400
+>>> From: Tyler Smith <tyler at plantarum.ca>
+>>> To: r-ug-ottawa at r-project.org
+>>> Subject: [OGRUG] software carpentry training in December
+>>> Message-ID:
+>>>        <
+>>> 1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+>>> Content-Type: text/plain
+>>> 
+>>> Hi folks,
+>>> 
+>>> The Software Carpentry group has announced a new round of R instructor
+>>> training. This is a two-day workshop this December, aimed at proficient
+>>> R users who wish to learn to train others to use R. They also work with
+>>> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+>>> details are here:
+>>> 
+>>> 
+>>> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>>> 
+>>> The training is free, but there is an expectation that instructors will
+>>> host a 2-day training workshop for new R users at their own institution
+>>> in the 6 months following the workshop. The training will actually be
+>>> delivered via web conference, so we can 'attend' wherever we like, given
+>>> we can get 6-8 people together with a reliable web connection.
+>>> 
+>>> Questions for the list:
+>>> 
+>>> 1. Is anyone interested (or know someone who might be) in joining me on
+>>> an application to attend the instructor training?
+>>> 2. If so, are you interested in hosting an R training course sometime
+>>> next spring? I'm happy to coordinate this, or help to do so, however is
+>>> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+>>> would be preferable as we have really spotty internet connection in our
+>>> conference rooms.
+>>> 
+>>> Best,
+>>> 
+>>> Tyler
+>>> 
+>>> 
+>> _______________________________________________
+>> R-UG-Ottawa mailing list
+>> R-UG-Ottawa at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>> 
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> 
+> 
+> ------------------------------
+> 
+> Message: 3
+> Date: Wed, 28 Oct 2015 09:58:31 -0400
+> From: Tyler Smith <tyler at plantarum.ca>
+> To: r-ug-ottawa at r-project.org
+> Subject: Re: [OGRUG] R-UG-Ottawa Digest, Vol 38, Issue 1
+> Message-ID:
+> 	<1446040711.136037.422584969.4604120F at webmail.messagingengine.com>
+> Content-Type: text/plain
+> 
+> The dates are already set, December 7 and 8 (Monday and Tuesday).
+> 
+> Best,
+> 
+> Tyler
+> 
+> -- 
+> plantarum.ca
+> 
+> On Wed, Oct 28, 2015, at 08:37 AM, ProfJCNash wrote:
+>> uottawa is probably "easy" on a Saturday, less so (doors locked) on 
+>> Sunday, and essentially impossible to book rooms other times due to 
+>> regular needs.
+>> 
+>> When are the dates envisaged?
+>> 
+>> JN
+>> 
+>> 
+>> On 15-10-28 07:00 AM, r-ug-ottawa-request at r-project.org wrote:
+>>> Send R-UG-Ottawa mailing list submissions to
+>>> 	r-ug-ottawa at r-project.org
+>>> 
+>>> To subscribe or unsubscribe via the World Wide Web, visit
+>>> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>> or, via email, send a message with subject or body 'help' to
+>>> 	r-ug-ottawa-request at r-project.org
+>>> 
+>>> You can reach the person managing the list at
+>>> 	r-ug-ottawa-owner at r-project.org
+>>> 
+>>> When replying, please edit your Subject line so it is more specific
+>>> than "Re: Contents of R-UG-Ottawa digest..."
+>>> 
+>>> 
+>>> Today's Topics:
+>>> 
+>>>    1. software carpentry training in December (Tyler Smith)
+>>>    2. Re: software carpentry training in December (Alex Demarsh)
+>>> 
+>>> 
+>>> ----------------------------------------------------------------------
+>>> 
+>>> Message: 1
+>>> Date: Tue, 27 Oct 2015 10:07:35 -0400
+>>> From: Tyler Smith <tyler at plantarum.ca>
+>>> To: r-ug-ottawa at r-project.org
+>>> Subject: [OGRUG] software carpentry training in December
+>>> Message-ID:
+>>> 	<1445954855.2824201.421510401.751BF985 at webmail.messagingengine.com>
+>>> Content-Type: text/plain
+>>> 
+>>> Hi folks,
+>>> 
+>>> The Software Carpentry group has announced a new round of R instructor
+>>> training. This is a two-day workshop this December, aimed at proficient
+>>> R users who wish to learn to train others to use R. They also work with
+>>> Bash, Python, Git, SQL, and other tools useful in data analysis. The
+>>> details are here:
+>>> 
+>>> http://software-carpentry.org/blog/2015/10/call-for-instructor-training.html
+>>> 
+>>> The training is free, but there is an expectation that instructors will
+>>> host a 2-day training workshop for new R users at their own institution
+>>> in the 6 months following the workshop. The training will actually be
+>>> delivered via web conference, so we can 'attend' wherever we like, given
+>>> we can get 6-8 people together with a reliable web connection.
+>>> 
+>>> Questions for the list:
+>>> 
+>>> 1. Is anyone interested (or know someone who might be) in joining me on
+>>> an application to attend the instructor training?
+>>> 2. If so, are you interested in hosting an R training course sometime
+>>> next spring? I'm happy to coordinate this, or help to do so, however is
+>>> useful. I can host here at Ag Canada (Carling Avenue), but another venue
+>>> would be preferable as we have really spotty internet connection in our
+>>> conference rooms.
+>>> 
+>>> Best,
+>>> 
+>>> Tyler
+>>> 
+>> 
+>> _______________________________________________
+>> R-UG-Ottawa mailing list
+>> R-UG-Ottawa at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> 
+> 
+> 
+> ------------------------------
+> 
+> Subject: Digest Footer
+> 
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> 
+> ------------------------------
+> 
+> End of R-UG-Ottawa Digest, Vol 38, Issue 2
+> ******************************************
+
+

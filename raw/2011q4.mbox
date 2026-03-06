@@ -1,0 +1,184 @@
+From nashjc at uottawa.ca  Tue Nov  1 14:50:15 2011
+From: nashjc at uottawa.ca (John C Nash)
+Date: Tue, 01 Nov 2011 09:50:15 -0400
+Subject: [OGRUG] Subject: R Users Group Meeting
+Message-ID: <4EAFF917.9090603@uottawa.ca>
+
+Subject: R Users Group Meeting (first announcement)
+
+Ottawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room
+4351 Herzberg Laboratories (see http://www1.carleton.ca/campus/) on November 30, 2011.
+
+Agenda:
+
+* Meet and greet -- Who are we? (10 mins)
+
+* Jason Nielsen: Using C and Fortran with R. (50-60 mins)
+
+* "Problems I'm having": If you have a particular issue or problem that can be shared and
+solved, please send summary (preferably with R script)  John Nash (nashjc _at_ uottawa.ca)
+(20 mins)
+
+
+From nashjc at uottawa.ca  Fri Nov 25 14:27:19 2011
+From: nashjc at uottawa.ca (John C Nash)
+Date: Fri, 25 Nov 2011 08:27:19 -0500
+Subject: [OGRUG] Reminder -- RUG meeting at Carleton Nov 30
+Message-ID: <4ECF97B7.5020006@uottawa.ca>
+
+
+Subject: R Users Group Meeting
+
+Ottawa Gatineau R Users Group (OGRUG) a.k.a. R-UG-Ottawa will meet 15:30-17:00 in room
+4351 Herzberg Laboratories (see http://www1.carleton.ca/campus/) on November 30, 2011.
+
+Agenda:
+
+* Meet and greet -- Who are we? (10 mins)
+
+* Jason Nielsen: Using C and Fortran with R. (50-60 mins)
+
+* "Problems I'm having": If you have a particular issue or problem that can be shared and
+solved, please send summary (preferably with R script)  John Nash (nashjc _at_ uottawa.ca)
+(20 mins)
+
+
+From shyamabc2002 at yahoo.com  Fri Dec  2 12:44:37 2011
+From: shyamabc2002 at yahoo.com (shyam basnet)
+Date: Fri, 2 Dec 2011 03:44:37 -0800 (PST)
+Subject: [OGRUG] Problem in GenMatch
+Message-ID: <1322826277.25386.YahooMailNeo@web161701.mail.bf1.yahoo.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl>
+
+From shyamabc2002 at yahoo.com  Fri Dec  2 12:51:00 2011
+From: shyamabc2002 at yahoo.com (shyam basnet)
+Date: Fri, 2 Dec 2011 03:51:00 -0800 (PST)
+Subject: [OGRUG] Error in GenMatch
+Message-ID: <1322826660.68824.YahooMailNeo@web161702.mail.bf1.yahoo.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl>
+
+From nashjc at uottawa.ca  Sat Dec  3 14:43:37 2011
+From: nashjc at uottawa.ca (John C Nash)
+Date: Sat, 03 Dec 2011 08:43:37 -0500
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1
+In-Reply-To: <mailman.11.1322910002.6751.r-ug-ottawa@r-project.org>
+References: <mailman.11.1322910002.6751.r-ug-ottawa@r-project.org>
+Message-ID: <4EDA2789.9050004@uottawa.ca>
+
+The posts below are inappropriate to a local geographic list and as admin I have
+unsubscribed the poster.
+
+JN
+
+
+On 12/03/2011 06:00 AM, r-ug-ottawa-request at r-project.org wrote:
+> Send R-UG-Ottawa mailing list submissions to
+> 	r-ug-ottawa at r-project.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> or, via email, send a message with subject or body 'help' to
+> 	r-ug-ottawa-request at r-project.org
+> 
+> You can reach the person managing the list at
+> 	r-ug-ottawa-owner at r-project.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of R-UG-Ottawa digest..."
+> 
+> 
+> Today's Topics:
+> 
+>    1. Problem in GenMatch (shyam basnet)
+>    2. Error in GenMatch (shyam basnet)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Fri, 2 Dec 2011 03:44:37 -0800 (PST)
+> From: shyam basnet <shyamabc2002 at yahoo.com>
+> To: "r-ug-ottawa at r-project.org" <r-ug-ottawa at r-project.org>
+> Subject: [OGRUG] Problem in GenMatch
+> Message-ID:
+> 	<1322826277.25386.YahooMailNeo at web161701.mail.bf1.yahoo.com>
+> Content-Type: text/plain
+> 
+> Dear R Users,
+> 
+> I am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: 
+> 
+> Error in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : 
+>   GenMatch(): input includes NAs
+> 
+> Could you please suggest me correcting the above problem?
+> 
+> My GenMatch command is,
+> 
+>> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)
+> 
+> Thanking you,
+> 
+> Sincerely Yours,
+> 
+> Shyam Kumar Basnet
+> SLU, Uppsala
+> Sweden
+> 	[[alternative HTML version deleted]]
+> 
+> 
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Fri, 2 Dec 2011 03:51:00 -0800 (PST)
+> From: shyam basnet <shyamabc2002 at yahoo.com>
+> To: "r-ug-ottawa at r-project.org" <r-ug-ottawa at r-project.org>
+> Subject: [OGRUG] Error in GenMatch
+> Message-ID:
+> 	<1322826660.68824.YahooMailNeo at web161702.mail.bf1.yahoo.com>
+> Content-Type: text/plain
+> 
+> Dear R Users,
+> 
+> I am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: 
+> 
+> Error in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : 
+>   GenMatch(): input includes NAs
+> 
+> Could you please suggest me correcting the above problem?
+> 
+> My GenMatch command is,
+> 
+>> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)
+> 
+> Thanking you,
+> 
+> Sincerely Yours,
+> 
+> Shyam Kumar Basnet
+> SLU, Uppsala
+> Sweden 
+> 
+> 	[[alternative HTML version deleted]]
+> 
+> 
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+> 
+> 
+> End of R-UG-Ottawa Digest, Vol 18, Issue 1
+> ******************************************
+
+

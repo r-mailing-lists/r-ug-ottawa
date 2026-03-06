@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2020-11",
+  "messages": [
+    {
+      "id": "msg-6bd8bebac7bc",
+      "message_id": "<CAPtRidoNnHp__g02nQix+C6k3KjihsqW_1a1OfTFaqmbJhK4gw@mail.gmail.com>",
+      "from_name": "Amada Echeverria",
+      "from_email_hash": "2529d8f2a61eacc159ab77ab4f4022302b8efc198d74d28c19f86b75f646a06c",
+      "date": "2020-11-03T16:07:14-05:00",
+      "subject": "[OGRUG] R-UG-Ottawa @ The R Conference",
+      "subject_clean": "[OGRUG] R-UG-Ottawa @ The R Conference",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear R-UG-Ottawa,\n\nWe would like to invite you to R|Gov, The R Conference | Government &\nPublic Sector <http://rstats.ai/gov> taking place on December 3-4, with\nworkshops on the 2nd. The talks and panel will focus on the work done in\ngovernment, defense, NGOs, and the public sector. A great group of data\nscientists will be gathering from organizations like NASA, the The\nDepartment of National Defence, The U.S. Bureau of Labor Statistics, US\nArmy, Institute for Defense Analyses, US Census Bureau, Virginia Tech,\nInter-American Development Bank, Harvard Business School. Speakers and\npanelists include Andrew Gelman, Lucy D?Agostino McGowan, Tyler Morgan\nWall, Kimberly F. Sellers, and 27 others.\n\nTo see what the virtual R Conferences are like, you can check out the\nrecent NY Conference recap\n<https://www.landeranalytics.com/post/sixth-annual-new-york-r-conference-brings-together-r-community-even-remotely>.\nPlease use our code OTTAWAR20 for a 20% discount on conference & workshop\ntickets <https://rstats.ai/tickets/>. This conference will include 24\ntalks, a panel, whiskey and gin master classes with R?my Cointreau,\ncommunity and networking breaks, happy hours, prizes and giveaways, a\nTwitter Contest, Meet the Speaker series, Job Board access, and\nparticipation in the Art Auction.\n\n\nThe December 2nd workshops are as follows:\n\n-Using Mapping for Public Service with Kazuki Sakamoto\n\n-Causal Inference in R with Lucy D?Agostino McGowan and Malcolm Barrett\n(half-day)\n\n-Introduction to Machine Learning for Public Policy with Jonathan Hersh\n\nLearn more and register at rstats.gov !\n\n\nHope you can join us!\nAmada\n\n*Amada Echeverria*\n*Events and Marketing Coordinator*\nLander Analytics | New York, NY\nm: (201) 472-3934 | LinkedIn <https://www.linkedin.com/in/amada-echeverria/>\nwww.landeranalytics.com\n\n* <http://www.landeranalytics.com>*\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear R-UG-Ottawa,\n\nWe would like to invite you to R|Gov, The R Conference | Government &\nPublic Sector <http://rstats.ai/gov> taking place on December 3-4, with\nworkshops on the 2nd. The talks and pan",
+      "thread_id": "thread-6bd8bebac7bc",
+      "thread_depth": 0,
+      "month": "2020-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-6bd8bebac7bc",
+      "subject": "[OGRUG] R-UG-Ottawa @ The R Conference",
+      "message_count": 1,
+      "participants": [
+        "Amada Echeverria"
+      ],
+      "started": "2020-11-03T16:07:14-05:00",
+      "last_reply": "2020-11-03T16:07:14-05:00",
+      "root_message_id": "msg-6bd8bebac7bc"
+    }
+  ]
+}

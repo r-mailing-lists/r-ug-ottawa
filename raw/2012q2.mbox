@@ -1,0 +1,105 @@
+From hmendes.lx at gmail.com  Mon Apr 23 19:14:02 2012
+From: hmendes.lx at gmail.com (Helder Mendes)
+Date: Mon, 23 Apr 2012 18:14:02 +0100
+Subject: [OGRUG] R plot() Line numbers?
+Message-ID: <CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>
+
+Hi all,
+
+I'm new in R and in this list and I need help on the plot() function.
+
+Is there any way that in the following command in R:
+
+> plot(Matrix)
+
+(Matrix with dim = nx2)
+
+The graphic has the Matrix line number instead of the symbol "o"?
+Alternativelly how can I label, so that the line number appears next
+to the symbol?
+
+
+Thanks for any help.
+LX
+
+
+From david.gattrell at gmail.com  Tue Apr 24 03:14:23 2012
+From: david.gattrell at gmail.com (David Gattrell)
+Date: Mon, 23 Apr 2012 21:14:23 -0400
+Subject: [OGRUG] R plot() Line numbers?
+In-Reply-To: <CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>
+References: <CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>
+Message-ID: <CAM6svt6wWxB9MM-kV8ugax_Wfa8RQiy4qQBhXyPq4DbhpRmPKQ@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20120423/a6ba9fb7/attachment.pl>
+
+From tyler.smith at mail.mcgill.ca  Wed Apr 25 15:02:42 2012
+From: tyler.smith at mail.mcgill.ca (Tyler Smith)
+Date: Wed, 25 Apr 2012 09:02:42 -0400
+Subject: [OGRUG] R plot() Line numbers?
+In-Reply-To: <26381_1335230082_4F95FE82_26381_99_1_76e8d13d67e64629bc7fe7310b50990f@EXHUB2010-1.campus.MCGILL.CA>
+References: <CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>
+	<26381_1335230082_4F95FE82_26381_99_1_76e8d13d67e64629bc7fe7310b50990f@EXHUB2010-1.campus.MCGILL.CA>
+Message-ID: <CADkt+ZvQuF7NxnEzjh4_Y8RfmkKUx3TyvPixRGTt7yBYjAHzmQ@mail.gmail.com>
+
+To plot the row numbers instead of the symbols, you can also do this:
+
+plot(ick, type = 'n')
+text(ick, labels = 1:nrow(ick))
+
+On Mon, Apr 23, 2012 at 9:14 PM, David Gattrell
+<david.gattrell at gmail.com> wrote:
+> You can use the text() command to place labels next to each symbol...
+>
+> silly example:
+>> ick=c(1:5,2:6)
+>> ick=matrix(ick,5,2)
+>> ick
+> ? ? [,1] [,2]
+> [1,] ? ?1 ? ?2
+> [2,] ? ?2 ? ?3
+> [3,] ? ?3 ? ?4
+> [4,] ? ?4 ? ?5
+> [5,] ? ?5 ? ?6
+>> plot(ick)
+>> text(ick[,1],ick[,2],ick[,2],pos=4,col="blue",offset=0.45)
+>> text(ick[,1],ick[,2],ick[,1],pos=3,col="blue",offset=0.45)
+>>
+>
+>
+> On Mon, Apr 23, 2012 at 1:14 PM, Helder Mendes <hmendes.lx at gmail.com> wrote:
+>
+>> Hi all,
+>>
+>> I'm new in R and in this list and I need help on the plot() function.
+>>
+>> Is there any way that in the following command in R:
+>>
+>> > plot(Matrix)
+>>
+>> (Matrix with dim = nx2)
+>>
+>> The graphic has the Matrix line number instead of the symbol "o"?
+>> Alternativelly how can I label, so that the line number appears next
+>> to the symbol?
+>>
+>>
+>> Thanks for any help.
+>> LX
+>>
+>> _______________________________________________
+>> R-UG-Ottawa mailing list
+>> R-UG-Ottawa at r-project.org
+>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>>
+>
+> ? ? ? ?[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+
+

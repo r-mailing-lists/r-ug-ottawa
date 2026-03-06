@@ -1,0 +1,38 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2015-04",
+  "messages": [
+    {
+      "id": "msg-79f8a1f5525d",
+      "message_id": "<CAPnsgj4wragoyUp+b2p3VKqqXKxhO2bH+zVwPrkV+zuoMLvQkQ@mail.gmail.com>",
+      "from_name": "Ramesh Fernando",
+      "from_email_hash": "052a132fb9ca1239aaffd030e5fcf2870f940cc1b0cd110d997f1906772471d2",
+      "date": "2015-04-28T10:43:02-04:00",
+      "subject": "[OGRUG] Fwd: {SWB} Call for Volunteers: Analysis for Nepal Earthquake Response",
+      "subject_clean": "[OGRUG] Fwd: {SWB} Call for Volunteers: Analysis for Nepal Earthquake Response",
+      "in_reply_to": "<DM2PR10MB0012AA9C14C456FC87D18EC3FBE80@DM2PR10MB0012.namprd10.prod.outlook.com>",
+      "references": [
+        "<DM2PR10MB0012AA9C14C456FC87D18EC3FBE80@DM2PR10MB0012.namprd10.prod.outlook.com>"
+      ],
+      "body_plain": "FYI\n---------- Forwarded message ----------\nFrom: Michiko Wolcott <michiko.wolcott at msightanalytics.com>\nDate: Tue, Apr 28, 2015 at 9:58 AM\nSubject: {SWB} Call for Volunteers: Analysis for Nepal Earthquake Response\nTo: \"stat-wo-borders at googlegroups.com\" <stat-wo-borders at googlegroups.com>\nCc: gary shapiro <g.shapiro4 at live.com>\n\n\n UN Office for Coordination of Humanitarian Affairs (OCHA;\nhttp://www.unocha.org) is requesting analytical help for the Nepal\nearthquake response using the data being collected for the Humanitarian\nData Exchange (https://data.hdx.rwlabs.org/; see also the HDX Crisis page\nfor Nepal earthquake at https://data.hdx.rwlabs.org/nepal-earthquake). The\ndata set (\nhttps://data.hdx.rwlabs.org/dataset/nepal-earthquake-severity-index) is a\ndistrict-level aggregate data about housing structures along with some\npopulation information. The project consists of the following activities in\norder:\n\n\n\n(1)   Exploratory analysis of the data\n\n(2)   Uncovering important, actionable pattern in the data using\nmethodologies such as dimension reduction (PCA, common factor analysis,\netc.), clustering techniques, etc., among others\n\n(3)   Visualization of the district-level analysis results (Tableau\npreferred)\n\n\n\nIt is expected that the workload will be 5-10 hours a week. The project\nwill start early next week and is expected to last 5-6 weeks in total.\nThere could be one volunteer covering all three activities or multiple\nvolunteers sharing responsibilities. For (3), you do not have to have\nTableau, but if you do not, you will need to have admin privilege on your\ncomputer to install a free Tableau app. For the first two activities, there\nis no requirement to use a specific tool or software.\n\n\n\nIf you are interested, please respond to Michiko (\nmichiko.wolcott at msightanalytics.com) with cc to Gary Shapiro (\ng.shapiro4 at live.com) with the following:\n\n\n\n   - Whether you are available for the entire project or would like to take\n   on a particular activity (and if the latter, which one)\n   - Relevant skills and/or experience\n\n\n\n*Michiko I. Wolcott*\n\nMsight Analytics, LLC\n\n2472 Jett Ferry Road, Suite 400-189\n\nDunwoody, GA 30338 USA\n\nO: +1 (404) 348-4314\n\nF: +1 (404) 348-4315\n\nmichiko.wolcott at msightanalytics.com\n\nwww.msightanalytics.com\n\nFollow me on Twitter: @Michiko_wolcott\n\n\n\n*Discover. Understand. Execute.*\n\n\n\n-- \n\n---\nYou received this message because you are subscribed to the Google Groups\n\"Statistics Without Borders\" group.\nTo unsubscribe from this group and stop receiving emails from it, send an\nemail to stat-wo-borders+unsubscribe at googlegroups.com.\nFor more options, visit https://groups.google.com/d/optout.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "FYI\n---------- Forwarded message ----------\nFrom: Michiko Wolcott <michiko.wolcott at msightanalytics.com>\nDate: Tue, Apr 28, 2015 at 9:58 AM\nSubject: {SWB} Call for Volunteers: Analysis for Nepal Ear",
+      "thread_id": "thread-79f8a1f5525d",
+      "thread_depth": 0,
+      "month": "2015-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-79f8a1f5525d",
+      "subject": "[OGRUG] Fwd: {SWB} Call for Volunteers: Analysis for Nepal Earthquake Response",
+      "message_count": 1,
+      "participants": [
+        "Ramesh Fernando"
+      ],
+      "started": "2015-04-28T10:43:02-04:00",
+      "last_reply": "2015-04-28T10:43:02-04:00",
+      "root_message_id": "msg-79f8a1f5525d"
+    }
+  ]
+}

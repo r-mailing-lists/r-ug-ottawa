@@ -1,0 +1,94 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-11",
+  "messages": [
+    {
+      "id": "msg-d0da474baf29",
+      "message_id": "<4AF197CE.5030304@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-11-04T10:03:42-05:00",
+      "subject": "[OGRUG] Reminder of Friday get-together",
+      "subject_clean": "[OGRUG] Reminder of Friday get-together",
+      "in_reply_to": "<mailman.9.1256814002.5664.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.9.1256814002.5664.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Bryan Lewis has informed us he won't be here, but reason is flu! Sigh.\n\nWe do have some information from UseR 2009 and announcements of the 2010\nmeeting, which will be hosted by NIST near Washington DC next July.\n\nSome members of the group have said they are willing to tell a bit about\nR issues they are working on.\n\nAnd, of course, we'll be happy to take questions and learn about R\napplications in different areas.\n\nJN\n\n> Message: 1\n> Date: Wed, 28 Oct 2009 15:16:48 -0400\n> From: \"Prof. John C Nash\" <nashjc at uottawa.ca>\n> Subject: [OGRUG] Group meeting Nov 6\n> To: r-ug-ottawa at r-project.org\n> Message-ID: <4AE898A0.1020105 at uottawa.ca>\n> Content-Type: text/plain; charset=ISO-8859-1\n> \n> Ottawa Gatineau R User Group (OGRUG)\n> (mailing list R-UG-Ottawa)\n> \n> Date: November 6, 2009 (Friday)\n> Time: 15:00\n> Location: 601 Booth St. (Geological Survey of Canada building)\n>           Room 177 (Harrison Hall)\n> \n>           Note: You will need to sign in with building security. To\n>           make this easier, please let Bob Garrett\n>                  (Robert.Garrett at NRCan-RNCan.gc.ca)\n>           know you plan to come so he can provide a list to the desk.\n> \n>           Bus Service: Routes 101 and 102 along Booth Street (Daniel\n>           McCann stop), and routes 6 and 85 along Carling Avenue\n>           (Booth Street stop and walk towards the Queensway).\n> \n> Topic: Where are we going with R?\n> \n> This meeting is intended to bring together existing and new members of\n> OGRUG and to explore the types of work they are doing with R, such as,\n> - graphical tools, e.g., lattice\n> - high performance or parallel R\n> - specialized user interfaces\n> \n> We had hoped to have Bryan Lewis join us, but recent changes at\n> Revolution Computing have put this in doubt. These developments may also\n> serve to prompt discussion over support for R and specialized tools for R.\n> \n> UseR2010 has been announced. It will be in the Washington DC area late\n> July 2010. Some members of the group have been to UseR in the past and\n> can provide background information.\n> \n> Feel free to pass this to colleagues who might be interested. There is\n> no charge for this event.\n> \n> \n> \n> ------------------------------\n> \n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> \n> \n> End of R-UG-Ottawa Digest, Vol 6, Issue 1\n> *****************************************",
+      "body_snippet": "Bryan Lewis has informed us he won't be here, but reason is flu! Sigh.\n\nWe do have some information from UseR 2009 and announcements of the 2010\nmeeting, which will be hosted by NIST near Washington D",
+      "thread_id": "thread-d0da474baf29",
+      "thread_depth": 0,
+      "month": "2009-11"
+    },
+    {
+      "id": "msg-33b00be72987",
+      "message_id": "<4AF59312.5070806@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-11-07T10:32:34-05:00",
+      "subject": "[OGRUG] Slides / notes for Nov 6, 2009 meeting",
+      "subject_clean": "[OGRUG] Slides / notes for Nov 6, 2009 meeting",
+      "in_reply_to": "<mailman.13.1257418803.13787.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.13.1257418803.13787.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "I've put my slides for the meeting at\nhttp://macnash.telfer.uottawa.ca/~nashjc/ogrug/\n\nIf there are other notes, email them to nashjc _at_ uottawa.ca and I\nwill post them there. A number of folk were interested in the meeting\nbut could not make it.\n\nCheers, JN",
+      "body_snippet": "I've put my slides for the meeting at\nhttp://macnash.telfer.uottawa.ca/~nashjc/ogrug/\n\nIf there are other notes, email them to nashjc _at_ uottawa.ca and I\nwill post them there. A number of folk were ",
+      "thread_id": "thread-33b00be72987",
+      "thread_depth": 0,
+      "month": "2009-11"
+    },
+    {
+      "id": "msg-5d4bcf105cca",
+      "message_id": "<5B54C4682676CC4582D258951209A8ED01F90A32@exchsrv1.cheo.int>",
+      "from_name": "Barrowman, Nick",
+      "from_email_hash": "f7fad38004b6a32a6986a07c1baf0f6221291e6af6bee8512c25b52337b095c8",
+      "date": "2009-11-20T11:13:10-05:00",
+      "subject": "[OGRUG] SSO Fall Event on December 8th - Évennement d'automne de la SSO, le 8 décembre",
+      "subject_clean": "[OGRUG] SSO Fall Event on December 8th - Évennement d'automne de la SSO, le 8 décembre",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Please find attached all the information about the next event organized by the Statistical Society of Ottawa. A seminar and a course will be offered on Decembered 8, 2009 in Ottawa. Please confirm your presence by telling us at sso.ottawa.canada at gmail.com.\n \n---------------\n \nVous trouverez ci-joint tous les d?tails concernant le prochain ?v?nement organis? par la Soci?t? Statistique d'Ottawa. Un s?minaire et un cours seront offerts le 8 d?cembre 2009 ? Ottawa. Veuillez confirmer votre pr?sence en nous ?crivant ? sso.ottawa.canada at gmail.com.\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: SSO_Fall2009Seminar_EN.pdf\nType: application/pdf\nSize: 211115 bytes\nDesc: SSO_Fall2009Seminar_EN.pdf\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20091120/4b5d2f40/attachment-0002.pdf>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: SSO_SeminaireAutomne2009_FR.pdf\nType: application/pdf\nSize: 224250 bytes\nDesc: SSO_SeminaireAutomne2009_FR.pdf\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20091120/4b5d2f40/attachment-0003.pdf>",
+      "body_snippet": "Please find attached all the information about the next event organized by the Statistical Society of Ottawa. A seminar and a course will be offered on Decembered 8, 2009 in Ottawa. Please confirm you",
+      "thread_id": "thread-5d4bcf105cca",
+      "thread_depth": 0,
+      "month": "2009-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d0da474baf29",
+      "subject": "[OGRUG] Reminder of Friday get-together",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-11-04T10:03:42-05:00",
+      "last_reply": "2009-11-04T10:03:42-05:00",
+      "root_message_id": "msg-d0da474baf29"
+    },
+    {
+      "id": "thread-33b00be72987",
+      "subject": "[OGRUG] Slides / notes for Nov 6, 2009 meeting",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2009-11-07T10:32:34-05:00",
+      "last_reply": "2009-11-07T10:32:34-05:00",
+      "root_message_id": "msg-33b00be72987"
+    },
+    {
+      "id": "thread-5d4bcf105cca",
+      "subject": "[OGRUG] SSO Fall Event on December 8th - Évennement d'automne de la SSO, le 8 décembre",
+      "message_count": 1,
+      "participants": [
+        "Barrowman, Nick"
+      ],
+      "started": "2009-11-20T11:13:10-05:00",
+      "last_reply": "2009-11-20T11:13:10-05:00",
+      "root_message_id": "msg-5d4bcf105cca"
+    }
+  ]
+}

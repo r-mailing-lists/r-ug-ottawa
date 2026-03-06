@@ -1,0 +1,148 @@
+From nashjc at uottawa.ca  Fri Jun 18 17:06:08 2010
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 18 Jun 2010 11:06:08 -0400
+Subject: [OGRUG] UseR! 2010
+Message-ID: <4C1B8B60.1030308@uottawa.ca>
+
+Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is seeing what he can
+arrange.)
+
+JN
+
+
+From nashjc at uottawa.ca  Fri Jun 18 17:24:51 2010
+From: nashjc at uottawa.ca (Prof. John C Nash)
+Date: Fri, 18 Jun 2010 11:24:51 -0400
+Subject: [OGRUG] software@software-carpentry.org
+Message-ID: <4C1B8FC3.4070201@uottawa.ca>
+
+On reading Greg Wilson's SIAM News item, I looked at the software-carpentry.org site and
+particularly the survey report. I was quite surprised nobody responding identified as
+statistician (the categories are non-exclusive, of course).
+
+My own experience of nearly 45 years in scientific software has led me to an acute
+awareness that there are islands of important work with stormy waters between. Thus the
+SciPy etc. focus of software-carpentry is great for those choosing that route, but there
+is also a Matlab island and, where I'm currently working, the R island, plus others. Given
+the approximately 2500 add-in packages to R, it's an important focus of work, as are the
+others. The big issue is that one can have a very good tool on one platform, but using it
+easily on another can be very, very time-consuming and present all kinds of awkwardness.
+The interface and glue software is many times the length of the core computational stuff.
+I note, for example, that the course on s-c site doesn't have a graphics chapter (I see
+image processing), nor does it have documentation. R has done quite a bit on making both
+of these a lot easier, in particular, the Sweave tools for creating vignettes that build
+documentation with code in-line. Modify the code or the data and the documentation and
+graphics are updated automatically (direct to pdf). Examples and tests are part of the
+framework for package building, but there is still a lot of work to do to get true unit
+tests vs. test examples that are meant to show humans how to use the package.
+
+The consequence of the islands is that we've lots of duplication and near-duplication. In
+my own area of optimization (function minimization), even within R, perceived "failure" of
+one package on one problem will lead people to say "you ought to use XXXX instead", when
+XXXX will "fail" on many other problems. In these cases "failure" can be akin to using a
+chain-saw for neurosurgery -- that is, misapplication of tools. This is a human nature
+problem, and it takes a huge effort to keep the noise down to a tolerable level.
+
+The "carpentry" metaphor is a good one. It can and should be extended to include metaphors
+like the issues of interfacing different construction materials and methods and
+measurement standards (metric bolts vs Imperial vs SAE).
+
+Keep at it.
+
+Best,
+
+John Nash
+
+
+From pgilbert at bank-banque-canada.ca  Fri Jun 18 17:59:07 2010
+From: pgilbert at bank-banque-canada.ca (Paul Gilbert)
+Date: Fri, 18 Jun 2010 11:59:07 -0400
+Subject: [OGRUG] UseR! 2010
+In-Reply-To: <4C1B8B60.1030308@uottawa.ca>
+References: <4C1B8B60.1030308@uottawa.ca>
+Message-ID: <D611103AA7EE3B4DAE7F7D49C72B291A02A365B8@EXMAIL2.bocad.bank-banque-canada.ca>
+
+Reminder to all who leave things to the last minute like me: The last
+day to register is Sunday, and the form requires your passport number,
+which you might not have handy in your pocket.
+
+Paul
+
+>-----Original Message-----
+>From: r-ug-ottawa-bounces at r-project.org [mailto:r-ug-ottawa-bounces at r-
+>project.org] On Behalf Of Prof. John C Nash
+>Sent: June 18, 2010 11:06 AM
+>To: r-ug-ottawa at r-project.org
+>Subject: [OGRUG] UseR! 2010
+>
+>Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is
+>seeing what he can
+>arrange.)
+>
+>JN
+>
+>_______________________________________________
+>R-UG-Ottawa mailing list
+>R-UG-Ottawa at r-project.org
+>https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+====================================================================================
+
+La version fran?aise suit le texte anglais.
+
+------------------------------------------------------------------------------------
+
+This email may contain privileged and/or confidential information, and the Bank of
+Canada does not waive any related rights. Any distribution, use, or copying of this
+email or the information it contains by other than the intended recipient is
+unauthorized. If you received this email in error please delete it immediately from
+your system and notify the sender promptly by email that you have done so. 
+
+------------------------------------------------------------------------------------
+
+Le pr?sent courriel peut contenir de l'information privil?gi?e ou confidentielle.
+La Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,
+utilisation ou copie de ce courriel ou des renseignements qu'il contient par une
+personne autre que le ou les destinataires d?sign?s est interdite. Si vous recevez
+ce courriel par erreur, veuillez le supprimer imm?diatement et envoyer sans d?lai ?
+l'exp?diteur un message ?lectronique pour l'aviser que vous avez ?limin? de votre
+ordinateur toute copie du courriel re?u.
+
+From robtbiddle at gmail.com  Sat Jun 19 14:48:51 2010
+From: robtbiddle at gmail.com (Robert Biddle)
+Date: Sat, 19 Jun 2010 08:48:51 -0400
+Subject: [OGRUG] UseR! 2010
+In-Reply-To: <4C1B8B60.1030308@uottawa.ca>
+References: <4C1B8B60.1030308@uottawa.ca>
+Message-ID: <4C1CBCB3.3040704@gmail.com>
+
+I'm not going, but I'll be interested in hearing later from people who do.
+
+Although I use R in all my stats work and generally love it, I have 
+lately been finding the data scope model
+frustrating. So I  have been wondering whether the Python-R approach is 
+worth looking
+at more closely. I'd be interested in knowing how RPy (or RPy2 or 
+whatever) is regarded at UseR.
+Cheers
+Robert
+
+-- 
+Robert Biddle, PhD, Professor of Human Computer Interaction School of 
+Computer Science, Office of the Dean of Arts and Social Sciences, 
+Carleton University, Ottawa, ON K1S 5B6, CANADA; Tel. +1 613 520-2600 
+ext. 6317; Fax. +1 613 520-3667; Email. robert_biddle at carleton.ca
+
+On 10-06-18 11:06 AM, Prof. John C Nash wrote:
+> Just a note to ask who might be going to UseR! 2010. (I am. Paul G. is seeing what he can
+> arrange.)
+>
+> JN
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+>
+
+

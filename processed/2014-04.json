@@ -1,0 +1,93 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2014-04",
+  "messages": [
+    {
+      "id": "msg-fdb175cbde30",
+      "message_id": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
+      "from_name": "Amin Adatia",
+      "from_email_hash": "72c23d3c03c8f115c70262ffe713b310b8c86656c75692b70b1302dcdf4cbdc2",
+      "date": "2014-04-27T17:39:02-04:00",
+      "subject": "[OGRUG] Examples using Oracle",
+      "subject_clean": "[OGRUG] Examples using Oracle",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl>",
+      "thread_id": "thread-fdb175cbde30",
+      "thread_depth": 0,
+      "month": "2014-04"
+    },
+    {
+      "id": "msg-2002677b9322",
+      "message_id": "<CAFe6CgOLF-UvbnE8PaBaF-xoYd3GbuuzOP07G5zvshCgLEpAgg@mail.gmail.com>",
+      "from_name": "Helder Mendes",
+      "from_email_hash": "de0e694aecaf84544029bafeffd37622206b0111216cab91ee323b934077c210",
+      "date": "2014-04-28T07:40:43+01:00",
+      "subject": "[OGRUG] Examples using Oracle",
+      "subject_clean": "[OGRUG] Examples using Oracle",
+      "in_reply_to": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
+      "references": [
+        "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl>",
+      "thread_id": "thread-fdb175cbde30",
+      "thread_depth": 1,
+      "month": "2014-04"
+    },
+    {
+      "id": "msg-d181e527f436",
+      "message_id": "<535E8323.6060707@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2014-04-28T12:34:43-04:00",
+      "subject": "[OGRUG] Examples using Oracle",
+      "subject_clean": "[OGRUG] Examples using Oracle",
+      "in_reply_to": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
+      "references": [
+        "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>"
+      ],
+      "body_plain": "There are really two separate questions here: how to import data from \nOracle? and how to make a graph in R?\n\nFor the second, there are lots of examples ( eg \nhttp://rgraphgallery.blogspot.ca/ ).\n\nThe first is more difficult to find examples because one needs access to \nan Oracle database. If you have that and some standard SQL queries that \nextract the data you want then we can probably work out some examples. I \ndon't currently have Oracle, but standard SQL queries are not very \ndifferent from one engine to another. (It is the enhancements that are \ndifferent.)\n\nIt is the installation of the R packages that is likely to be most \ndifficult. The two options are packages ROracle and RODBC.  I would \ngenerally prefer ROracle unless your database administrators are \nenforcing use of ODBC only. Certainly I would not recommend RODBC unless \nit is supported on the database end.\n\nPaul\n\nOn 04/27/2014 05:39 PM, Amin Adatia wrote:\n> Hi!\n>\n>\n>\n> Does anyone have examples of using R to plot graphs from data tables in Oracle database?\n>\n>\n>\n>\n>\n> Regards\n>\n>\n>\n> Amin Adatia (amin at knowtech.ca)\n>\n> KnowTech Solutions Inc. (www.knowtech.ca)\n>\n> Mobile : +1-613-864-8378\n>\n>\n>\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "There are really two separate questions here: how to import data from \nOracle? and how to make a graph in R?\n\nFor the second, there are lots of examples ( eg \nhttp://rgraphgallery.blogspot.ca/ ).\n\nThe",
+      "thread_id": "thread-fdb175cbde30",
+      "thread_depth": 1,
+      "month": "2014-04"
+    },
+    {
+      "id": "msg-2ad2e50a639d",
+      "message_id": "<COL129-W86BA55521072FCFC4FEEC7E1470@phx.gbl>",
+      "from_name": "Amin Adatia",
+      "from_email_hash": "72c23d3c03c8f115c70262ffe713b310b8c86656c75692b70b1302dcdf4cbdc2",
+      "date": "2014-04-28T13:52:24-04:00",
+      "subject": "[OGRUG] Examples using Oracle",
+      "subject_clean": "[OGRUG] Examples using Oracle",
+      "in_reply_to": "<535E8323.6060707@gmail.com>",
+      "references": [
+        "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
+        "<535E8323.6060707@gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl>",
+      "thread_id": "thread-fdb175cbde30",
+      "thread_depth": 2,
+      "month": "2014-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-fdb175cbde30",
+      "subject": "[OGRUG] Examples using Oracle",
+      "message_count": 4,
+      "participants": [
+        "Amin Adatia",
+        "Helder Mendes",
+        "Paul Gilbert"
+      ],
+      "started": "2014-04-27T17:39:02-04:00",
+      "last_reply": "2014-04-28T13:52:24-04:00",
+      "root_message_id": "msg-fdb175cbde30"
+    }
+  ]
+}

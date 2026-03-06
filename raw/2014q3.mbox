@@ -1,0 +1,427 @@
+From david_bissessar at hotmail.com  Wed Jul  2 22:45:27 2014
+From: david_bissessar at hotmail.com (David Bissessar)
+Date: Wed, 2 Jul 2014 16:45:27 -0400
+Subject: [OGRUG] July 10th meeting: Revolution Analytics and Hortonworks
+In-Reply-To: <BAY178-W28278BFBF59ECFAE3DB0D593180@phx.gbl>
+References: <BAY178-W15E6C816AA561C1F62173C933F0@phx.gbl>, ,
+	<BAY178-W50BB7AA5AFD904D06CEF2993280@phx.gbl>,
+	<BAY178-W28278BFBF59ECFAE3DB0D593180@phx.gbl>
+Message-ID: <BAY178-W2965DB970EE5093270E83E93060@phx.gbl>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140702/3651cf79/attachment.pl>
+
+From schmtzway at yahoo.com  Tue Jul  8 17:20:56 2014
+From: schmtzway at yahoo.com (wayne schlemitz)
+Date: Tue, 8 Jul 2014 08:20:56 -0700
+Subject: [OGRUG] glm.fit() and png()
+Message-ID: <1404832856.93758.YahooMailNeo@web120901.mail.ne1.yahoo.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140708/bd49d917/attachment.pl>
+
+From schmtzway at yahoo.com  Tue Jul  8 17:24:53 2014
+From: schmtzway at yahoo.com (wayne schlemitz)
+Date: Tue, 8 Jul 2014 08:24:53 -0700
+Subject: [OGRUG] data and script
+Message-ID: <1404833093.91210.YahooMailNeo@web120902.mail.ne1.yahoo.com>
+
+Missed sending the script and data now attached.
+
+Wayne Schlemitz
+schmtzway at yahoo.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140708/34fc232a/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graphics.R
+Type: text/x-r-source
+Size: 1136 bytes
+Desc: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140708/34fc232a/attachment.bin>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Minr.csv
+Type: text/csv
+Size: 1079 bytes
+Desc: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140708/34fc232a/attachment-0001.bin>
+
+From thongle23 at hotmail.com  Thu Jul 10 15:50:07 2014
+From: thongle23 at hotmail.com (Anhthong Le)
+Date: Thu, 10 Jul 2014 09:50:07 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 32, Issue 4
+In-Reply-To: <mailman.7.1403863203.10470.r-ug-ottawa@r-project.org>
+References: <mailman.7.1403863203.10470.r-ug-ottawa@r-project.org>
+Message-ID: <BAY179-W810CCC51F46669A1801AD3BD0E0@phx.gbl>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140710/e632cea8/attachment.pl>
+
+From pgilbert902 at gmail.com  Thu Jul 10 16:11:09 2014
+From: pgilbert902 at gmail.com (Paul Gilbert)
+Date: Thu, 10 Jul 2014 10:11:09 -0400
+Subject: [OGRUG] July 10th meeting: Revolution Analytics and Hortonworks
+In-Reply-To: <BAY178-W2965DB970EE5093270E83E93060@phx.gbl>
+References: <BAY178-W15E6C816AA561C1F62173C933F0@phx.gbl>, ,
+	<BAY178-W50BB7AA5AFD904D06CEF2993280@phx.gbl>,
+	<BAY178-W28278BFBF59ECFAE3DB0D593180@phx.gbl>
+	<BAY178-W2965DB970EE5093270E83E93060@phx.gbl>
+Message-ID: <53BE9EFD.4010205@gmail.com>
+
+**** TONIGHT 7-9 pm ****
+
+For those who recently joined the list, or missed the announcement 
+awhile ago for the meeting tonight, the details are copied below with 
+the room information.
+
+Paul
+
+On 07/02/2014 04:45 PM, David Bissessar wrote:
+> Hi Everyone,
+>
+> Room information now available -- updated in announcement below.
+>
+> Cheers,
+>
+> David
+>
+> From: david_bissessar at hotmail.com
+> To: r-ug-ottawa at r-project.org; david.bissessar at cbsa-asfc.gc.ca
+> Date: Thu, 26 Jun 2014 15:20:22 -0400
+> Subject: [OGRUG] July 10th meeting: Revolution Analytics and Hortonworks
+>
+> Hi All,
+>
+> We are happy to announce this upcoming meeting of the Ottawa-Gatineau R User's Group.
+>
+> Subject: "R on Big Data: Integrated tools for data scientists"
+> Presenters: Revolution Analytics and Hortonworks
+> Location: Carleton University
+>            HP 5345 (Herzberg, fifth floor)
+> Date: Thursday, July 10th
+> Time: 7:00-9:00pm
+>
+> For this first meeting, representatives from both of these organizations will be visiting us in Ottawa.
+>
+> As a quick intro, both vendors are leaders in their areas: Revolution R focusing on developer environment and server platform for R developers, Hortonworks focusing on tools and services for hadoop.
+> These vendors have been collaborating to have their tools work together.
+> The integrated platform can provide a tool set allowing data scientists to work with very large datasets on disk storage using the simple R semantics which developers are accustomed to.
+>
+> Hoping you can join us for this meeting.
+>
+> For planning purposes, can you please respond directly to david_bissessar at hotmail.com to confirm your desire to participate?
+>
+> Please let me know, as well, if you'd like to invite friends or colleagues to attend with you.
+>
+> Best Regards,
+> David
+>
+>
+>
+>
+> From: david_bissessar at hotmail.com
+> To: r-ug-ottawa at r-project.org
+> Subject: RE: [OGRUG]  A Show of Hands -- Summary
+> Date: Tue, 10 Jun 2014 11:14:59 -0400
+>
+>
+>
+>
+> Hi All,
+>
+> An update --
+>
+> More people have expressed interest in presenting and attending the user's group. More people have discussed ideas to present and discuss, including:
+>
+> - vendor offerings and integrations: Oracle Endecea, and Hortonworks and Revolution Analytics
+> - topics of interest: data cleansing,  multi-agent modeling, GIS and geospatial data, Open Government of Canada data sets,  text mining, classifiers
+>
+> It really seems like we have enough interested people to start again with regular RUG meetings.
+>
+> I have been in contact with the School of Mathematics and Statistics at Carleton University. They  have expressed support for the idea and are looking into getting us a room for regular meetings. I think things will work out very nicely for us from that perspective. I will continue to work with the University on this. At this point, it is not so easy to predict timeline.
+>
+> I have also been in preliminary contact with Revolution Analytics. As many of you know, they provide support for user's groups. Also,  they have product offerings and competencies that can be very interesting for our community. Initial meetings have been very good. I  expect that a good relationship will evolve there. Would like to bring them out to present at a User's Group meeting at some point.
+>
+> I'll provide regular updates as things proceed.
+>
+> Regards,
+> David
+>
+> From: david_bissessar at hotmail.com
+> To: r-ug-ottawa at r-project.org
+> Date: Thu, 22 May 2014 16:50:30 -0400
+> Subject: [OGRUG]  A Show of Hands -- Summary
+>
+>
+> Hi All,
+>
+> Thanks for your feedback. A point form summary to capture input at this point:
+>
+> 1)      16 people have confirmed interest
+>
+> 2)      We have not yet reached outside of the OGRUG mailing list to the meetup, the Universities, and other Agencies/Corporations.
+>
+> 3)      Number of Possible Presenters: 7-9
+>
+> 4)      Subject Areas of interest:
+>
+>
+>
+> a.       The UG can be a forum for pre-presentations of conference papers or research
+>
+> b.      Contrast, Synergy R with other languages/environments
+>
+>
+>
+> (examples: SAS, Python, Hadoop, RDBMS, GIS )
+>
+>
+>
+> c.       Case Studies: R Techniques as applied to Statistic Problems
+>
+> d.      R Topics
+>
+>
+>
+> 1)      Packaging
+>
+> 2)      Data Mining
+>
+> 3)      Data Munging
+>
+> 4)      Etc?
+>
+>
+>
+> e.      Case Studies in Projects (Commercial, Academic, Volunteer, Open Source, ...)
+>
+>
+>
+> 1)      Trees Canopy Dataset
+>
+> 2)      CRAN Packages people maybe active in
+>
+>
+>
+>
+>
+> 5)        Choices of Venues:
+>
+>
+>
+> Many possible choices of locations:
+>
+>
+>
+> a.       Universities: Any one of Carleton, U of O, Universite du Quebec, possible also to cycle through all three in turn
+>
+> b.      Area Companies (caution regarding possible bias that slips into the users group in those cases)
+>
+> c.       Public locations (Pub, etc)
+>
+> (Preference going to Universities at this point)
+>
+>
+>
+>
+>     4.2 Possible sponsorship through Revolution Analytics.
+>
+>           ( This is one of the reasons we needed a show of hands)
+>
+>
+>
+>
+> Looks like we have a pretty good starting point?
+>
+> Please feel free to add items.
+>
+> Regards,
+>
+> David
+>
+> -----------------------------
+>
+>
+>
+>
+> On Thu, May 15, 2014 at 2:23 PM, Bissessar, David wrote:
+>
+> Hi All,
+>
+>   We are considering  re-starting regular events for the Ottawa-Gatineau R User's Group and we hoped to get your input --
+>
+> To help us get a feel for the level of interest, could you send a quick note if you would be interested in participating in regular User's Group meetings?
+>
+>   As well, if you have a special area of interest or if you'd be willing to make a brief presentation to the user's group, please do let me know.
+>
+>   Depending on the level of interest, we'd take next steps, which might involve finding a sponsor, a location to meet and organizing regular presentations.
+>
+>   As appropriate, I'll summarize the feedback received to the mailing list.
+>
+>   Thanks,
+>
+>   David
+>
+>
+>   		 	   		
+> 	[[alternative HTML version deleted]]
+>
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa 		 	   		   		 	   		
+> 	[[alternative HTML version deleted]]
+>
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa 		 	   		
+> 	[[alternative HTML version deleted]]
+>
+>
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+
+From rameshjfernando at gmail.com  Tue Jul 15 14:42:13 2014
+From: rameshjfernando at gmail.com (Ramesh Fernando)
+Date: Tue, 15 Jul 2014 08:42:13 -0400
+Subject: [OGRUG] Julia Meetup
+Message-ID: <CAPnsgj71G31Jhr5JSPuN7HJQGFOBzat5pAed_NkQqoBAYN1Cfg@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140715/70de24ed/attachment.pl>
+
+From claire.austin at gmail.com  Tue Jul 15 15:14:58 2014
+From: claire.austin at gmail.com (Claire Austin)
+Date: Tue, 15 Jul 2014 09:14:58 -0400
+Subject: [OGRUG] Julia Meetup
+In-Reply-To: <CAPnsgj71G31Jhr5JSPuN7HJQGFOBzat5pAed_NkQqoBAYN1Cfg@mail.gmail.com>
+References: <CAPnsgj71G31Jhr5JSPuN7HJQGFOBzat5pAed_NkQqoBAYN1Cfg@mail.gmail.com>
+Message-ID: <CADx5=5xSFbH6UJys_UxTPOhL2zVfb9LCYZYGg-EO28sCEiu2=A@mail.gmail.com>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140715/8be2cf7c/attachment.pl>
+
+From david_bissessar at hotmail.com  Wed Jul 16 20:07:51 2014
+From: david_bissessar at hotmail.com (David Bissessar)
+Date: Wed, 16 Jul 2014 14:07:51 -0400
+Subject: [OGRUG] July 10th meeting: Revolution Analytics and Hortonworks
+In-Reply-To: <BAY407-EAS66A97F7CDD2E56382C7BA2930E0@phx.gbl>
+References: <BAY407-EAS66A97F7CDD2E56382C7BA2930E0@phx.gbl>
+Message-ID: <BAY178-W18EB97AFF02B1F297433DE93F70@phx.gbl>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140716/7931899b/attachment.pl>
+
+From abdool.yasseen at gmail.com  Tue Jul 22 20:19:43 2014
+From: abdool.yasseen at gmail.com (Abdool S. Yasseen III)
+Date: Tue, 22 Jul 2014 18:19:43 +0000 (UTC)
+Subject: [OGRUG] Find out why I love LinkedIn
+Message-ID: <452739063.2683918.1406053183706.JavaMail.app@ela4-app7345.prod>
+
+An embedded and charset-unspecified text was scrubbed...
+Name: not available
+URL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140722/4e1241f6/attachment.pl>
+
+From jelewis02 at gmail.com  Wed Sep 10 22:04:22 2014
+From: jelewis02 at gmail.com (John Lewis)
+Date: Wed, 10 Sep 2014 16:04:22 -0400
+Subject: [OGRUG] meeting
+Message-ID: <CAPjrKxbC80hv6zioiFJeA6iLk74q2+KkbFnHJ89o--3=eRp4UA@mail.gmail.com>
+
+Is there any activity on the scheduling of meetings this fall?
+John Lewis
+
+	[[alternative HTML version deleted]]
+
+
+From piertou at gmail.com  Thu Sep 11 14:54:45 2014
+From: piertou at gmail.com (Pierre Tourigny)
+Date: Thu, 11 Sep 2014 08:54:45 -0400
+Subject: [OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1
+In-Reply-To: <mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>
+References: <mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>
+Message-ID: <54119B95.2060205@gmail.com>
+
+Hi
+I'm a new member of the Ottawa R User Group.
+
+I started  a course on R at EdX <https://www.edx.org/>. It's a free 
+5-week online course that started on September 9. It's not too late to 
+register because the deadline to turn in the first week's graded 
+questions is September 22. Check it out here: Explore Statistics With R 
+<https://www.edx.org/course/kix/kix-kiexplorx-explore-statistics-r-1524#.VBGaz5K3Kx4> 
+.
+
+I think R-UG-Ottawa should create a group in Meetup 
+<http://www.meetup.com/>. That's the first place I looked for other R 
+users in Ottawa.
+
+Thanks,
+Pierre Tourigny
+
+	[[alternative HTML version deleted]]
+
+
+From pgilbert902 at gmail.com  Fri Sep 12 21:03:13 2014
+From: pgilbert902 at gmail.com (Paul Gilbert)
+Date: Fri, 12 Sep 2014 15:03:13 -0400
+Subject: [OGRUG] R meetups and OCRUG
+In-Reply-To: <54119B95.2060205@gmail.com>
+References: <mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>
+	<54119B95.2060205@gmail.com>
+Message-ID: <54134371.4040107@gmail.com>
+
+
+
+On 09/11/2014 08:54 AM, Pierre Tourigny wrote:
+> Hi
+> I'm a new member of the Ottawa R User Group.
+>
+> I started  a course on R at EdX <https://www.edx.org/>. It's a free
+> 5-week online course that started on September 9. It's not too late to
+> register because the deadline to turn in the first week's graded
+> questions is September 22. Check it out here: Explore Statistics With R
+> <https://www.edx.org/course/kix/kix-kiexplorx-explore-statistics-r-1524#.VBGaz5K3Kx4>
+> .
+>
+> I think R-UG-Ottawa should create a group in Meetup
+> <http://www.meetup.com/>. That's the first place I looked for other R
+> users in Ottawa.
+
+There already is a Meetup group, although I think there haven't been any 
+meetings in awhile. It is always a bit difficult to decide whether the 
+OCRUG style meetings with a presentation work better, or the more casual 
+meetups. Probably a mix is useful. But if there are too many meetings 
+then none are well attended.
+
+Paul
+
+>
+> Thanks,
+> Pierre Tourigny
+>
+> 	[[alternative HTML version deleted]]
+>
+> _______________________________________________
+> R-UG-Ottawa mailing list
+> R-UG-Ottawa at r-project.org
+> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa
+>
+
+

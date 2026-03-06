@@ -1,0 +1,55 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-06",
+  "messages": [
+    {
+      "id": "msg-176b279c61f9",
+      "message_id": "<02475AD444DA074185C04228D8D02A1A07AF3360@KTVCAEX-MB-02.desire2learn.d2l>",
+      "from_name": "Derek Serianni",
+      "from_email_hash": "2b706f6622722ab8861dbdbbb41fcab37723e0d968b337ad9e5ef7db366275d4",
+      "date": "2013-06-12T20:59:26Z",
+      "subject": "[OGRUG] Need help with R Serve installing gplots",
+      "subject_clean": "[OGRUG] Need help with R Serve installing gplots",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi,\n\nI am trying to setup rserve on a CENTOS server.\n\nEverything so far seems to be going well...\n\nHowever, when I go to run:\n\nInstall.packages(\"gplots\")\n\nIt prompts me for a mirror, I choose one, then I get an error saying:\n\nPackage 'gplots' is not available (for R version 2.15.2)\n\nWhat can I do?\n\nThanks,\n\nD.\n\n\n\n[D2L logo]\nDerek J.P. Serianni\nSenior Technical Account Manager\nDesire2Learn Incorporated\n1-519-503-5139\nwww.Desire2Learn.com<http://www.desire2learn.com/>\n[fusion logo]<http://www.desire2learn.com/fusion?utm_source=inside&utm_medium=email&utm_term=fusion_registration&utm_campaign=email_signature>\nDesire2Learn's Global Users' Conference\nBoston, Massachusetts * July 15-17, 2013\nHands-on training, compelling speakers. Register today<http://www.desire2learn.com/fusion?utm_source=inside&utm_medium=email&utm_term=fusion_registration&utm_campaign=email_signature>!\n[revolutionize learning image_final2]\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/2340c5d6/attachment-0001.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: image001.png\nType: image/png\nSize: 1545 bytes\nDesc: image001.png\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/2340c5d6/attachment-0003.png>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: image002.png\nType: image/png\nSize: 3773 bytes\nDesc: image002.png\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/2340c5d6/attachment-0004.png>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: image003.png\nType: image/png\nSize: 6005 bytes\nDesc: image003.png\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/2340c5d6/attachment-0005.png>",
+      "body_snippet": "Hi,\n\nI am trying to setup rserve on a CENTOS server.\n\nEverything so far seems to be going well...\n\nHowever, when I go to run:\n\nInstall.packages(\"gplots\")\n\nIt prompts me for a mirror, I choose one, the",
+      "thread_id": "thread-176b279c61f9",
+      "thread_depth": 0,
+      "month": "2013-06"
+    },
+    {
+      "id": "msg-86e64b0edabe",
+      "message_id": "<CAKqEbXmE84O7VUV=wUV5oyE7X0NZZjnYQZFA7yxbqr1k=wUVCQ@mail.gmail.com>",
+      "from_name": "Oscar Cassetti",
+      "from_email_hash": "1510654ae0bce45138230d9d398a0fa3a3806cc9ca8e471cb4cf2c3a8c3b9e98",
+      "date": "2013-06-12T23:39:49+01:00",
+      "subject": "[OGRUG] Need help with R Serve installing gplots",
+      "subject_clean": "[OGRUG] Need help with R Serve installing gplots",
+      "in_reply_to": "<02475AD444DA074185C04228D8D02A1A07AF3360@KTVCAEX-MB-02.desire2learn.d2l>",
+      "references": [
+        "<02475AD444DA074185C04228D8D02A1A07AF3360@KTVCAEX-MB-02.desire2learn.d2l>"
+      ],
+      "body_plain": "Can you get a newer version of R either from packages or from sources?\nOtherwise try to compile an older version of gplots from sources the\narchives are here http://cran.r-project.org/src/contrib/Archive/gplots/\n\n--\nOscar Cassetti\nOn Jun 12, 2013 11:19 PM, \"Derek Serianni\" <Derek.Serianni at desire2learn.com>\nwrote:\n\n>  Hi,****\n>\n> ** **\n>\n> I am trying to setup rserve on a CENTOS server.****\n>\n> ** **\n>\n> Everything so far seems to be going well? ****\n>\n> ** **\n>\n> However, when I go to run:****\n>\n> ** **\n>\n> Install.packages(?gplots?)****\n>\n> ** **\n>\n> It prompts me for a mirror, I choose one, then I get an error saying:****\n>\n> ** **\n>\n> Package ?gplots? is not available (for R version 2.15.2)****\n>\n> ** **\n>\n> What can I do?****\n>\n> ** **\n>\n> Thanks,****\n>\n>\n> D.****\n>\n> ** **\n>\n> ** **\n>\n> ** **\n>\n> [image: D2L logo]*\n> Derek J.P. Serianni**\n> *Senior Technical Account Manager\n> *Desire2Learn Incorporated*\n> 1-519-503-5139\n> www.Desire2Learn.com <http://www.desire2learn.com/>**\n>\n> *[image: fusion logo]*<http://www.desire2learn.com/fusion?utm_source=inside&utm_medium=email&utm_term=fusion_registration&utm_campaign=email_signature>\n> *\n> *Desire2Learn?s Global Users? Conference\n> Boston, Massachusetts ? July 15?17, 2013\n> Hands-on training, compelling speakers. Register today<http://www.desire2learn.com/fusion?utm_source=inside&utm_medium=email&utm_term=fusion_registration&utm_campaign=email_signature>\n> !*\n> **[image: revolutionize learning image_final2]*****\n>\n> ** **\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n>\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/bf5d8114/attachment.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: image/png\nSize: 3773 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/bf5d8114/attachment.png>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: image/png\nSize: 6005 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/bf5d8114/attachment-0001.png>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: not available\nType: image/png\nSize: 1545 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130612/bf5d8114/attachment-0002.png>",
+      "body_snippet": "Can you get a newer version of R either from packages or from sources?\nOtherwise try to compile an older version of gplots from sources the\narchives are here http://cran.r-project.org/src/contrib/Arch",
+      "thread_id": "thread-176b279c61f9",
+      "thread_depth": 1,
+      "month": "2013-06"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-176b279c61f9",
+      "subject": "[OGRUG] Need help with R Serve installing gplots",
+      "message_count": 2,
+      "participants": [
+        "Derek Serianni",
+        "Oscar Cassetti"
+      ],
+      "started": "2013-06-12T20:59:26+00:00",
+      "last_reply": "2013-06-12T23:39:49+01:00",
+      "root_message_id": "msg-176b279c61f9"
+    }
+  ]
+}

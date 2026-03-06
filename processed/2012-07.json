@@ -1,0 +1,67 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2012-07",
+  "messages": [
+    {
+      "id": "msg-bdb78dce5ebb",
+      "message_id": "<50005C68.9060809@uottawa.ca>",
+      "from_name": "John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2012-07-13T13:35:36-04:00",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] \"Applications of R in Government\"",
+      "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] \"Applications of R in Government\"",
+      "in_reply_to": "<CANL2-4M_UzDmv14hUhvK2_svdk-5BoVUKyUEhm0Z64O0bKHfNw@mail.gmail.com>",
+      "references": [
+        "<CANL2-4M_UzDmv14hUhvK2_svdk-5BoVUKyUEhm0Z64O0bKHfNw@mail.gmail.com>"
+      ],
+      "body_plain": "This might interest the group.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] \"Applications of R in Government\"\nDate: Fri, 13 Jul 2012 10:07:27 -0400\nFrom: Glen Newton <glen.newton at gmail.com>\nReply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\nTo: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,\ncivicaccess discuss <civicaccess-discuss at civicaccess.ca>,        Paul Budkewitsch\n<paul.budkewitsch at gmail.com>\n\n>From the article:\nhttp://blog.revolutionanalytics.com/2012/06/applications-of-r-in-government.html\n- In the early days of the Deepwater Horizon disaster, NIST used\nuncertainty analysis in R to harmonize spill estimates from various\nsources, and to provide ranges of estimates to other agencies and the\nmedia.\n- Before new drugs are allowed on the market, the FDA works with\npharmaceutical companies to verify safety and efficacy through\nclinical trials. Despite a false perception that only commercial\nsoftware may be used, many pharmaceutical companies are now using\nopen-source R to analyze data from clinical trials.\n- The National Weather Service uses R for research and development of\nmodels to predict river flooding.\n- The newly-formed Consumer Financial Protection Bureau -- freed from\nthe restrictions of a legacy IT infrastructure -- is championing the\nuse of open-source technologies in government.\n- Local governments are also building data-based applications. The SF\nEstuary Institute uses R and Google Maps to provide a tool to track\npollution in the San Francisco Bay area.\n\nDerived from article:\nGovernment Security News: Open-Source R software driving Big Data\nanalytics in government\nhttp://www.gsnmagazine.com/node/26483?c=cyber_security\n\n-Glen\n\n-- \n-\nhttp://zzzoot.blogspot.com/\n-\n_______________________________________________\nOttawa-gosling mailing list\nOttawa-gosling at list.goslingcommunity.org\nhttp://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling",
+      "body_snippet": "This might interest the group.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] \"Applications of R in Government\"\nDate: Fri, 13 Jul 2012 10:07:27 -0400\nFrom: Glen Newton <glen.newton at",
+      "thread_id": "thread-bdb78dce5ebb",
+      "thread_depth": 0,
+      "month": "2012-07"
+    },
+    {
+      "id": "msg-1fc4ab601e17",
+      "message_id": "<5001F7C0.4050402@uottawa.ca>",
+      "from_name": "John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2012-07-14T18:50:40-04:00",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’ hourly ozone readings",
+      "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’ hourly ozone readings",
+      "in_reply_to": "<CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>",
+      "references": [
+        "<CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>"
+      ],
+      "body_plain": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment?\nhourly ozone readings\nDate: Sat, 14 Jul 2012 18:29:10 -0400\nFrom: Glen Newton <glen.newton at gmail.com>\nReply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\nTo: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,\ncivicaccess discuss <civicaccess-discuss at civicaccess.ca>\n\n\"The data I am interested in is available on the Ontario Ministry of\nEnvironment?s website. I have downloaded the hourly ozone readings\nfrom two weather stations (Grand Bend and Toronto West) for two years\n(2000 and 2011) which are available in several formats , including my\npreference, csv. According to the 2010 annual report from the\nMinistry, the two selected represent the extremes in readings for that\nyear\"\n    http://www.premiersoccerstats.com/wordpress/?p=925\n\nA good howto for importing, extracting, transforming and visualizing\nthis kind of data using R...\n\n-Glen\n\n-- \n-\nhttp://zzzoot.blogspot.com/\n-\n\n_______________________________________________\nOttawa-gosling mailing list\nOttawa-gosling at list.goslingcommunity.org\nhttp://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling",
+      "body_snippet": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment?\nhourly ozone readings\nDate: ",
+      "thread_id": "thread-1fc4ab601e17",
+      "thread_depth": 0,
+      "month": "2012-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-bdb78dce5ebb",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] \"Applications of R in Government\"",
+      "message_count": 1,
+      "participants": [
+        "John C Nash"
+      ],
+      "started": "2012-07-13T13:35:36-04:00",
+      "last_reply": "2012-07-13T13:35:36-04:00",
+      "root_message_id": "msg-bdb78dce5ebb"
+    },
+    {
+      "id": "thread-1fc4ab601e17",
+      "subject": "[OGRUG] Fwd: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’ hourly ozone readings",
+      "message_count": 1,
+      "participants": [
+        "John C Nash"
+      ],
+      "started": "2012-07-14T18:50:40-04:00",
+      "last_reply": "2012-07-14T18:50:40-04:00",
+      "root_message_id": "msg-1fc4ab601e17"
+    }
+  ]
+}

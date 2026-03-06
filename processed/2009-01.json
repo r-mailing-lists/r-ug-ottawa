@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-01",
+  "messages": [
+    {
+      "id": "msg-b43681e06b42",
+      "message_id": "<45220.97.124.28.229.1233334247.squirrel@webmail01.uottawa.ca>",
+      "from_name": "nashjc at uottawa.ca",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2009-01-30T11:50:47-05:00",
+      "subject": "[OGRUG] Thinking about next event",
+      "subject_clean": "[OGRUG] Thinking about next event",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "When we met in the Fall, it was suggested that our next event be a\nworkshop on building packages. This message is to start the thinking and\nplanning. For information, I am scheduled to have a cataract procedure Mar\n24, so might be a bit distracted then. With University activities and\ngov't end of year, possibly mid to late April might be better.\n\nAre there suggestions of who might be a good presenter? I can probably\ncome up with a room at U of O. Once we have time and place and speaker, we\nshould make sure folk outside the list are informed. I can suggest letting\nSSO folk know. Are there other lists or places where we can publicize?\n\nR users may also want to look at Patrick Burns' \"The R Inferno\".\nhttp://www.burns-stat.com/pages/Tutor/R_inferno.pdf  -- just published 100\npage R scripting guide, with classical references.\n\nJohn Nash",
+      "body_snippet": "When we met in the Fall, it was suggested that our next event be a\nworkshop on building packages. This message is to start the thinking and\nplanning. For information, I am scheduled to have a cataract",
+      "thread_id": "thread-b43681e06b42",
+      "thread_depth": 0,
+      "month": "2009-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b43681e06b42",
+      "subject": "[OGRUG] Thinking about next event",
+      "message_count": 1,
+      "participants": [
+        "nashjc at uottawa.ca"
+      ],
+      "started": "2009-01-30T11:50:47-05:00",
+      "last_reply": "2009-01-30T11:50:47-05:00",
+      "root_message_id": "msg-b43681e06b42"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2018-04",
+  "messages": [
+    {
+      "id": "msg-219e05bdc371",
+      "message_id": "<2363a999-983e-c586-5e5e-910d4d9a7345@uottawa.ca>",
+      "from_name": "John Nash",
+      "from_email_hash": "ab5442c9fb43afdbd10158c55cb629fa6a94671cfa7cb228e7238a30f6b807b8",
+      "date": "2018-04-13T16:13:31Z",
+      "subject": "[OGRUG] R Montreal 2018",
+      "subject_clean": "[OGRUG] R Montreal 2018",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "While R gets used a lot in Canada, we don't often have a chance to share ideas.\n\nEven if this won't work for you personally, please do pass it on.\n\nBest,\n\nJohn Nash\n\n\n\nhttp://rmontreal2018.ca/inscription-registration/\n\nEnglish follows.\n\nChers coll?gues,\n\nCeci est un rappel pour l'inscription ? prix r?duit pour le congr?s R ? Montr?al du 4 au 6 juillet. Nous avons d?j?\nvendu beaucoup d'inscriptions, mais il reste encore quelques places ? prix r?duit, et nous vous invitons d'en profiter.\nL'inscription ? prix r?duit est valable encore 2 semaines (jusqu'au 30 avril). Apr?s ?a les prix seront major?s de 30$\npour les ?tudiants et 50$ pour les non-?tudiants. Nous vous encourageons ?galement de soumettre un contribution/r?sum?\npour une presentation orale ou poster.\n\nMerci cordialement,\nToby Dylan Hocking\nPr?sident du comit? d'organisation\n\nDear colleagues,\n\nThis is a reminder to register at a reduced price for the R in Montreal conference, July 4-6. We have already sold many\nregistration tickets, but there are still a few reduced price tickets remaining. The reduced price is still available\nfor two weeks, until April 30. After that the prices will be increased by 30$ for students and 50$ for non-students. We\nalso encourage you to submit a contribution for a talk or poster.",
+      "body_snippet": "While R gets used a lot in Canada, we don't often have a chance to share ideas.\n\nEven if this won't work for you personally, please do pass it on.\n\nBest,\n\nJohn Nash\n\n\n\nhttp://rmontreal2018.ca/inscript",
+      "thread_id": "thread-219e05bdc371",
+      "thread_depth": 0,
+      "month": "2018-04"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-219e05bdc371",
+      "subject": "[OGRUG] R Montreal 2018",
+      "message_count": 1,
+      "participants": [
+        "John Nash"
+      ],
+      "started": "2018-04-13T16:13:31+00:00",
+      "last_reply": "2018-04-13T16:13:31+00:00",
+      "root_message_id": "msg-219e05bdc371"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+From nashjc at uottawa.ca  Fri Jul 13 19:35:36 2012
+From: nashjc at uottawa.ca (John C Nash)
+Date: Fri, 13 Jul 2012 13:35:36 -0400
+Subject: [OGRUG] Fwd: [OTT-GOSLING] "Applications of R in Government"
+In-Reply-To: <CANL2-4M_UzDmv14hUhvK2_svdk-5BoVUKyUEhm0Z64O0bKHfNw@mail.gmail.com>
+References: <CANL2-4M_UzDmv14hUhvK2_svdk-5BoVUKyUEhm0Z64O0bKHfNw@mail.gmail.com>
+Message-ID: <50005C68.9060809@uottawa.ca>
+
+This might interest the group.
+
+JN
+
+
+-------- Original Message --------
+Subject: [OTT-GOSLING] "Applications of R in Government"
+Date: Fri, 13 Jul 2012 10:07:27 -0400
+From: Glen Newton <glen.newton at gmail.com>
+Reply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>
+To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,
+civicaccess discuss <civicaccess-discuss at civicaccess.ca>,        Paul Budkewitsch
+<paul.budkewitsch at gmail.com>
+
+>From the article:
+http://blog.revolutionanalytics.com/2012/06/applications-of-r-in-government.html
+- In the early days of the Deepwater Horizon disaster, NIST used
+uncertainty analysis in R to harmonize spill estimates from various
+sources, and to provide ranges of estimates to other agencies and the
+media.
+- Before new drugs are allowed on the market, the FDA works with
+pharmaceutical companies to verify safety and efficacy through
+clinical trials. Despite a false perception that only commercial
+software may be used, many pharmaceutical companies are now using
+open-source R to analyze data from clinical trials.
+- The National Weather Service uses R for research and development of
+models to predict river flooding.
+- The newly-formed Consumer Financial Protection Bureau -- freed from
+the restrictions of a legacy IT infrastructure -- is championing the
+use of open-source technologies in government.
+- Local governments are also building data-based applications. The SF
+Estuary Institute uses R and Google Maps to provide a tool to track
+pollution in the San Francisco Bay area.
+
+Derived from article:
+Government Security News: Open-Source R software driving Big Data
+analytics in government
+http://www.gsnmagazine.com/node/26483?c=cyber_security
+
+-Glen
+
+-- 
+-
+http://zzzoot.blogspot.com/
+-
+_______________________________________________
+Ottawa-gosling mailing list
+Ottawa-gosling at list.goslingcommunity.org
+http://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling
+
+
+From nashjc at uottawa.ca  Sun Jul 15 00:50:40 2012
+From: nashjc at uottawa.ca (John C Nash)
+Date: Sat, 14 Jul 2012 18:50:40 -0400
+Subject: [OGRUG] =?utf-8?q?Fwd=3A_=5BOTT-GOSLING=5D_Processing_Public_Data?=
+ =?utf-8?q?_with_R=3A_Ontario_Ministry_of_Environment=E2=80=99_hourly_ozon?=
+ =?utf-8?q?e_readings?=
+In-Reply-To: <CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>
+References: <CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>
+Message-ID: <5001F7C0.4050402@uottawa.ca>
+
+Another worth tagging for future reference.
+
+JN
+
+
+-------- Original Message --------
+Subject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment?
+hourly ozone readings
+Date: Sat, 14 Jul 2012 18:29:10 -0400
+From: Glen Newton <glen.newton at gmail.com>
+Reply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>
+To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,
+civicaccess discuss <civicaccess-discuss at civicaccess.ca>
+
+"The data I am interested in is available on the Ontario Ministry of
+Environment?s website. I have downloaded the hourly ozone readings
+from two weather stations (Grand Bend and Toronto West) for two years
+(2000 and 2011) which are available in several formats , including my
+preference, csv. According to the 2010 annual report from the
+Ministry, the two selected represent the extremes in readings for that
+year"
+    http://www.premiersoccerstats.com/wordpress/?p=925
+
+A good howto for importing, extracting, transforming and visualizing
+this kind of data using R...
+
+-Glen
+
+-- 
+-
+http://zzzoot.blogspot.com/
+-
+
+_______________________________________________
+Ottawa-gosling mailing list
+Ottawa-gosling at list.goslingcommunity.org
+http://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling
+
+

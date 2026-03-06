@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2012-10",
+  "messages": [
+    {
+      "id": "msg-634ee30904eb",
+      "message_id": "<006101cdad47$b3078470$19168d50$@uqo.ca>",
+      "from_name": "Stephane Gagnon",
+      "from_email_hash": "94d9b673c932e80112e037ed5abb584e898c015426131c912cf24635e4d11e51",
+      "date": "2012-10-18T11:46:11-04:00",
+      "subject": "[OGRUG] GPU Acceleration in R",
+      "subject_clean": "[OGRUG] GPU Acceleration in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl>",
+      "thread_id": "thread-634ee30904eb",
+      "thread_depth": 0,
+      "month": "2012-10"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-634ee30904eb",
+      "subject": "[OGRUG] GPU Acceleration in R",
+      "message_count": 1,
+      "participants": [
+        "Stephane Gagnon"
+      ],
+      "started": "2012-10-18T11:46:11-04:00",
+      "last_reply": "2012-10-18T11:46:11-04:00",
+      "root_message_id": "msg-634ee30904eb"
+    }
+  ]
+}

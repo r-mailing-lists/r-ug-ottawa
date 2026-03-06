@@ -1,0 +1,138 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2010-08",
+  "messages": [
+    {
+      "id": "msg-b9abd55055d7",
+      "message_id": "<4C5C7728.2040900@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-08-06T16:57:12-04:00",
+      "subject": "[OGRUG] Proposal for September meeting of OGRUG",
+      "subject_clean": "[OGRUG] Proposal for September meeting of OGRUG",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "R-UG-Ottawa, also known as the Ottawa Gatineau R User Group, has not had a meeting for a \nwhile.\n\nWe have a proposal to have a joint meeting with the Ottawa Canada Linux User Group where R \nwill be discussed at the September meeting. At the moment OCLUG is waiting for room \nconfirmation from Algonquin College, who kindly give space. Due to start of term, we are \nwaiting to here if we will have a room on Thurs. Sept 2 or Tues Sept 7. Watch \nhttp://oclug.on.ca for time and place.\n\nI will be presenting an Intro to R. This may be of interest to students at local \nuniversities and they will be most welcome. OCLUG meetings are free (a hat is passed to \nhelp cover some of the equipment and promotional expenses of the group) and public.\n\nI'm hoping that Paul Gilbert can give some comments on ideas presented at UseR! 2010 that \ntook place in late July at NIST in Gaithersburg Md. I was there too, but should not wear \nout my welcome.\n\nWe also hope to get some lively exchange between two groups with strong interests in open \nsource software.\n\nCheers,\n\nJohn Nash",
+      "body_snippet": "R-UG-Ottawa, also known as the Ottawa Gatineau R User Group, has not had a meeting for a \nwhile.\n\nWe have a proposal to have a joint meeting with the Ottawa Canada Linux User Group where R \nwill be di",
+      "thread_id": "thread-b9abd55055d7",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-7ab4fd60842d",
+      "message_id": "<4C6BD895.90601@gmail.com>",
+      "from_name": "Etienne Bellemare Racine",
+      "from_email_hash": "43b2a5b474c9e620c2a0ea1a2ccc70c29d0c1c5133fe827016988c6bbef8a35d",
+      "date": "2010-08-18T08:56:53-04:00",
+      "subject": "[OGRUG] Inference for R",
+      "subject_clean": "[OGRUG] Inference for R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi Catherine,\n\nHave you taken a look at statconn [1] ? Maybe it could be a good (free) \ncompromise between Inference and Sweave especially, I think, if you want \nto treat R data, but not necessarily have an integrated process.\n\nCheers,\nEtienne\n\n[1] http://www.statconn.com/\n> Hello R users,\n>\n> I am currently taking \"Inference for R\" for a test drive. This is an\n> add-on for Excel that allows you to pull R code into an Excel\n> spreadsheet, treating Excel data tables as R dataframes. It then spits\n> out the results to an Excel worksheet.  Very slick, with a shorter\n> learning curve than Sweave or ODFweave.\n>\n> The only problem is that it markets itself through an annual license\n> fee. The fee itself is not high for what you get -- the ability to turn\n> a piece of office furniture into a stats package -- but before I pitch\n> this to my manager, I would like some reassurance that Blue Reference\n> (the company that writes the software) is likely to stick around for a\n> while.\n>\n> Does anyone have any experience with \"Inference for R\"?\n>\n> Thanks,\n>\n> Catherine Collins, PhD\n> CHEO",
+      "body_snippet": "Hi Catherine,\n\nHave you taken a look at statconn [1] ? Maybe it could be a good (free) \ncompromise between Inference and Sweave especially, I think, if you want \nto treat R data, but not necessarily h",
+      "thread_id": "thread-7ab4fd60842d",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-d3f8cb3cbf81",
+      "message_id": "<4C6F39FE.1030309@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-08-20T22:29:18-04:00",
+      "subject": "[OGRUG] Meeting September 7, 2010",
+      "subject_clean": "[OGRUG] Meeting September 7, 2010",
+      "in_reply_to": "<mailman.11.1282212004.1964.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.11.1282212004.1964.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "There will be a joint meeting with the Ottawa Canada Linux Users Group in DMS 7170 on \nSeptember 7 2010 (TUES) at 1900. For directions and more details go to http://oclug.on.ca.\n\nDMS 7170 is in 55 Laurier E, right by the transitway.\n\nPaul Gilbert and I will present a brief overview of R, mainly for non-users/beginners, and \na review of UseR! 2010 contributions. This should be a good chance to meet other R users \nas well as other open-source enthusiasts. The meeting is open to all, and would be a very \nuseful occasion for new statistics students to get an introduction to R, so pass the word.\n\nCheers,\n\nJohn Nash",
+      "body_snippet": "There will be a joint meeting with the Ottawa Canada Linux Users Group in DMS 7170 on \nSeptember 7 2010 (TUES) at 1900. For directions and more details go to http://oclug.on.ca.\n\nDMS 7170 is in 55 Lau",
+      "thread_id": "thread-d3f8cb3cbf81",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-c35b2acb7fde",
+      "message_id": "<AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>",
+      "from_name": "David Gattrell",
+      "from_email_hash": "74ee2a882ae6612a0cc150510e573aa5ed21edb4116717f4d70c02e74d9b9855",
+      "date": "2010-08-21T22:25:29-04:00",
+      "subject": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
+      "subject_clean": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl>",
+      "thread_id": "thread-c35b2acb7fde",
+      "thread_depth": 0,
+      "month": "2010-08"
+    },
+    {
+      "id": "msg-af71ae16662e",
+      "message_id": "<4C72653D.5000703@gmail.com>",
+      "from_name": "Robert Biddle",
+      "from_email_hash": "f3217d116df31a627a900e2c43d6a840947d733b78a80db1e82735880e5b17d6",
+      "date": "2010-08-23T08:10:37-04:00",
+      "subject": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
+      "subject_clean": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
+      "in_reply_to": "<AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>",
+      "references": [
+        "<AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>"
+      ],
+      "body_plain": "> Sys.info()[\"sysname\"]\n  sysname\n\"Darwin\"\n\nIs that what you need?\nRobert\n\nOn 10-08-21 10:25 PM, David Gattrell wrote:\n> I'm sending a command to open a PDF file from within an R script.  The\n> actual command\n> is system dependent, and I'm trying to figure out how I determine the script\n> is running on\n> a Mac, so that the correct command is used.  I don't have a Mac available to\n> verify this\n> section of the code.\n>\n>      help_button<- tkbutton(my_main_win,\n>                          text=\"PDF Manual\",\n>                          anchor=\"w\",\n>                          command=function() {\n>                              my_dir = getwd()\n>                              src_dir<-\n> paste(tclObj(Source_dir),sep=\"\",collapse=\" \")\n>                              setwd(src_dir)\n>                              # \"RADAR_documentation_0v6p5.pdf\"\n>                              if\n> (as.character(Sys.info()[\"sysname\"])==\"Windows\") {\n>                                  command_str = \"cmd /c start\n> RADAR_documentation_0v6p5.pdf\"\n>                              } else if\n> (as.character(Sys.info()[\"sysname\"])==\"Mac\") {\n>                                  command_str = \"open\n> RADAR_documentation_0v6p5.pdf\"\n>                              } else { # linux\n>                                  command_str = \"xdg-open\n> RADAR_documentation_0v6p5.pdf\"\n>                              }\n>                              system(command_str)\n>                              setwd(my_dir)\n>                          })\n>      tkpack(help_button,side=\"top\",padx=\"10m\",fill=\"x\")\n>\n>\n> Hopefully I'm sending this to the appropriate email address.\n>\n> Thanks,\n>\n> DaveG\n>\n>\n> PS\n>\n> If you are curious as to what RADAR is in the above code...\n> http://sites.google.com/site/stdfradar/\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "> Sys.info()[\"sysname\"]\n  sysname\n\"Darwin\"\n\nIs that what you need?\nRobert\n\nOn 10-08-21 10:25 PM, David Gattrell wrote:\n> I'm sending a command to open a PDF file from within an R script.  The\n> actual",
+      "thread_id": "thread-c35b2acb7fde",
+      "thread_depth": 1,
+      "month": "2010-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-b9abd55055d7",
+      "subject": "[OGRUG] Proposal for September meeting of OGRUG",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2010-08-06T16:57:12-04:00",
+      "last_reply": "2010-08-06T16:57:12-04:00",
+      "root_message_id": "msg-b9abd55055d7"
+    },
+    {
+      "id": "thread-7ab4fd60842d",
+      "subject": "[OGRUG] Inference for R",
+      "message_count": 1,
+      "participants": [
+        "Etienne Bellemare Racine"
+      ],
+      "started": "2010-08-18T08:56:53-04:00",
+      "last_reply": "2010-08-18T08:56:53-04:00",
+      "root_message_id": "msg-7ab4fd60842d"
+    },
+    {
+      "id": "thread-d3f8cb3cbf81",
+      "subject": "[OGRUG] Meeting September 7, 2010",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2010-08-20T22:29:18-04:00",
+      "last_reply": "2010-08-20T22:29:18-04:00",
+      "root_message_id": "msg-d3f8cb3cbf81"
+    },
+    {
+      "id": "thread-c35b2acb7fde",
+      "subject": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
+      "message_count": 2,
+      "participants": [
+        "David Gattrell",
+        "Robert Biddle"
+      ],
+      "started": "2010-08-21T22:25:29-04:00",
+      "last_reply": "2010-08-23T08:10:37-04:00",
+      "root_message_id": "msg-c35b2acb7fde"
+    }
+  ]
+}

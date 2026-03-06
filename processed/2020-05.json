@@ -1,0 +1,94 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2020-05",
+  "messages": [
+    {
+      "id": "msg-e94c484df9b4",
+      "message_id": "<mailman.185.10.1588337511.2263.r-ug-ottawa@r-project.org>",
+      "from_name": "Garrett, Robert (NRCan/RNCan)",
+      "from_email_hash": "8dccb4675b620c40321a02bffb50ff2b85101c34a38948a782c46b6044c2c24a",
+      "date": "2020-05-01T12:41:17Z",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "subject_clean": "[OGRUG] Accessing pdf files in inst/",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Good day,\n\nI trust all readers are well and coping with the Covid difficulties.\n\nI have a package that I have developed and maintained since 2002, 'rgr'.  When first built there were three pdf documents that were stored in inst/docs.  In earlier versions of R these could be accessed via the package index for the Help files, not so anymore.\n\nI understand that inst/docs is no longer an acceptable folder name, and I propose to place the files in a folder inst/pdf.  I am still faced with the problem of providing access to display these files.  My preferred solution would be access or instructions through the Help files so the user could read the files from within an R session.\n\nAny suggestions would be gratefully accepted.\n\nThank you,\n\nStay safe and well,\n\n          Bob\n\nRobert G. Garrett\n\nEmeritus Scientist, Geological Survey of Canada\nNatural Resources Canada / Government of Canada\nrobert.garrett at canada.ca / Tel: 613-995-4517\n\nscientique ?m?rite, commission g?ologique\nRessources naturelles Canada / Gouvernement du Canada\nrobert.garrett at canada.ca / T?l: 613-995-4517\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Good day,\n\nI trust all readers are well and coping with the Covid difficulties.\n\nI have a package that I have developed and maintained since 2002, 'rgr'.  When first built there were three pdf documen",
+      "thread_id": "thread-e94c484df9b4",
+      "thread_depth": 0,
+      "month": "2020-05"
+    },
+    {
+      "id": "msg-16f097b90685",
+      "message_id": "<87lfmb68i4.fsf@plantarum.ca>",
+      "from_name": "Tyler Smith",
+      "from_email_hash": "2690626ea63ac7d1240c6a796e43fa8126b69886662bed7b144411711352a7f1",
+      "date": "2020-05-01T10:21:39-04:00",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "subject_clean": "[OGRUG] Accessing pdf files in inst/",
+      "in_reply_to": "<20200501124151.DA0BE394@hypatia.math.ethz.ch>",
+      "references": [
+        "<20200501124151.DA0BE394@hypatia.math.ethz.ch>"
+      ],
+      "body_plain": "Hi Robert,\n\nAre you familiar with vignettes? I think this is exactly the \nuse-case they are designed for.\n\nhttps://cran.r-project.org/doc/manuals/R-exts.html#Writing-package-vignettes\n\n```\nVignettes are documents in PDF or HTML format obtained from \nplain-text literate source files from which R knows how to extract \nR code and create output (in PDF/HTML or intermediate LaTeX). \nVignette engines do this work, using ?tangle? and ?weave? \nfunctions respectively. [...]\n\nPackage vignettes have their sources in subdirectory vignettes of \nthe package sources. \n```\n\nI notice that the page I linked to indicates that `inst/doc` is \nstill the preferred location for additional documentation, though, \nhas that changed?\n\n\n`system.files` is a lower-level way to access files in your \npackage. With the latest version of your package installed from \nCRAN, I can retrieve the path to the files via:\n\nR 3.6.3:\nsystem.file(package = \"rgr\", \"rgr_Overview_1-1-15.pdf\")\n[1] \n\"/home/tws/R/x86_64-pc-linux-gnu-library/3.6/rgr/rgr_Overview_1-1-15.pdf\"\n\nR version 4.0.0 beta (2020-04-14 r78227) -- \"Arbor Day\"\nsystem.file(package = \"rgr\", \"rgr_Overview_1-1-15.pdf\")\n[1] \n\"/home/tws/hacking/r-devel/build40/library/rgr/rgr_Overview_1-1-15.pdf\"\n\nI'm not sure how best to open the files, I suspect that would be \nplatform-dependent?\n\nGood luck,\n\nTyler\n\nGarrett, Robert (NRCan/RNCan) writes:\n\n> Good day,\n>\n> I trust all readers are well and coping with the Covid \n> difficulties.\n>\n> I have a package that I have developed and maintained since \n> 2002, 'rgr'.  When first built there were three pdf documents \n> that were stored in inst/docs.  In earlier versions of R these \n> could be accessed via the package index for the Help files, not \n> so anymore.\n>\n> I understand that inst/docs is no longer an acceptable folder \n> name, and I propose to place the files in a folder inst/pdf.  I \n> am still faced with the problem of providing access to display \n> these files.  My preferred solution would be access or \n> instructions through the Help files so the user could read the \n> files from within an R session.\n>\n> Any suggestions would be gratefully accepted.\n>\n> Thank you,\n>\n> Stay safe and well,\n>\n>           Bob\n>\n> Robert G. Garrett\n>\n> Emeritus Scientist, Geological Survey of Canada\n> Natural Resources Canada / Government of Canada\n> robert.garrett at canada.ca / Tel: 613-995-4517\n>\n> scientique ?m?rite, commission g?ologique\n> Ressources naturelles Canada / Gouvernement du Canada\n> robert.garrett at canada.ca / T?l: 613-995-4517\n>\n>\n> \t[[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n\n\n-- \nTyler Smith\nplantarum.ca",
+      "body_snippet": "Hi Robert,\n\nAre you familiar with vignettes? I think this is exactly the \nuse-case they are designed for.\n\nhttps://cran.r-project.org/doc/manuals/R-exts.html#Writing-package-vignettes\n\n```\nVignettes a",
+      "thread_id": "thread-16f097b90685",
+      "thread_depth": 0,
+      "month": "2020-05"
+    },
+    {
+      "id": "msg-c117ae0cf79c",
+      "message_id": "<e7836b21-af53-efde-7ae5-55906da7c884@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "29fea860e182a01f3e4160bbdef3ad0b7144bad40faef12022989132ed8ec2b1",
+      "date": "2020-05-01T12:07:48-04:00",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "subject_clean": "[OGRUG] Accessing pdf files in inst/",
+      "in_reply_to": "<20200501124151.DFE8F2B86@hypatia.math.ethz.ch>",
+      "references": [
+        "<20200501124151.DFE8F2B86@hypatia.math.ethz.ch>"
+      ],
+      "body_plain": "Do you mean inst/docs or inst/doc? If inst/doc is no longer allowed then \nmany of us are going to have trouble. If you are actually using \ninst/docs then I suggest trying inst/doc.\n\nPaul\n\nOn 2020-05-01 8:41 a.m., Garrett, Robert (NRCan/RNCan) wrote:\n> Good day,\n> \n> I trust all readers are well and coping with the Covid difficulties.\n> \n> I have a package that I have developed and maintained since 2002, 'rgr'.  When first built there were three pdf documents that were stored in inst/docs.  In earlier versions of R these could be accessed via the package index for the Help files, not so anymore.\n> \n> I understand that inst/docs is no longer an acceptable folder name, and I propose to place the files in a folder inst/pdf.  I am still faced with the problem of providing access to display these files.  My preferred solution would be access or instructions through the Help files so the user could read the files from within an R session.\n> \n> Any suggestions would be gratefully accepted.\n> \n> Thank you,\n> \n> Stay safe and well,\n> \n>            Bob\n> \n> Robert G. Garrett\n> \n> Emeritus Scientist, Geological Survey of Canada\n> Natural Resources Canada / Government of Canada\n> robert.garrett at canada.ca / Tel: 613-995-4517\n> \n> scientique ?m?rite, commission g?ologique\n> Ressources naturelles Canada / Gouvernement du Canada\n> robert.garrett at canada.ca / T?l: 613-995-4517\n> \n> \n> \t[[alternative HTML version deleted]]\n> \n> \n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "Do you mean inst/docs or inst/doc? If inst/doc is no longer allowed then \nmany of us are going to have trouble. If you are actually using \ninst/docs then I suggest trying inst/doc.\n\nPaul\n\nOn 2020-05-0",
+      "thread_id": "thread-c117ae0cf79c",
+      "thread_depth": 0,
+      "month": "2020-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-16f097b90685",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "message_count": 1,
+      "participants": [
+        "Tyler Smith"
+      ],
+      "started": "2020-05-01T10:21:39-04:00",
+      "last_reply": "2020-05-01T10:21:39-04:00",
+      "root_message_id": "msg-16f097b90685"
+    },
+    {
+      "id": "thread-c117ae0cf79c",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "message_count": 1,
+      "participants": [
+        "Paul Gilbert"
+      ],
+      "started": "2020-05-01T12:07:48-04:00",
+      "last_reply": "2020-05-01T12:07:48-04:00",
+      "root_message_id": "msg-c117ae0cf79c"
+    },
+    {
+      "id": "thread-e94c484df9b4",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "message_count": 1,
+      "participants": [
+        "Garrett, Robert (NRCan/RNCan)"
+      ],
+      "started": "2020-05-01T12:41:17+00:00",
+      "last_reply": "2020-05-01T12:41:17+00:00",
+      "root_message_id": "msg-e94c484df9b4"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2010-07",
+  "messages": [
+    {
+      "id": "msg-1b4b90917e0b",
+      "message_id": "<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>",
+      "from_name": "Young Song",
+      "from_email_hash": "4a435c3e6a197fddf29a6485522039d3cfb525ab05bd150e140ec193f2581e6b",
+      "date": "2010-07-19T15:28:56-07:00",
+      "subject": "[OGRUG] Putting two figures together in R",
+      "subject_clean": "[OGRUG] Putting two figures together in R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hello,\n\n   I have two scripts that are used to generate heatmap and bar graph\n\n*A. Heatmap script:*\n\nlibrary(RColorBrewer)\nlibrary(gplots)\n\npar(mfrow=c(2,1))\n\nTotaltax<-read.table(\"heatmap_data.txt\",header=TRUE)\nTotaltax_log<-log(Totaltax+1)\nTotaltax_mat<-data.matrix(Totaltax_log)\nTotaltax_column<-t(Totaltax_mat)\ncdendro<-as.dendrogram(hclust(dist(Totaltax_column,\nmethod=\"manhattan\")),method=\"complete\")\nheatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,\ntrace=\"none\", margins=c(5,13), col=brewer.pal(9,\"BuPu\"))\n\n\n*B. Bar graph script:*\n\nhisto <- read.table(\"histo_data.txt\", header=T)\n\nbarplot(histo$Value)\n\n\nUsually, I would run each script separately, and put the two resulting\ndiagrams together using Adobe Illustrator.  I was wondering if there is a\nway to put these two diagrams together in R, instead of going through the\nmanual procedures.  I am currently using R version 2.11.1 on Mac OS X 10.6.\nThe actual data used to generate the diagrams are attached in this message.\nThank you very much in advance.\n\n Sincerely,\n\n   Young\n-- \nYoung C. Song\nMasters Student\nUniversity of British Columbia Graduate Program in Bioinformatics\nVancouver, BC V6T 1Z4, Canada\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100719/0f8150f9/attachment.html>\n-------------- next part --------------\n\tSP_1.8m\tSP_2.2m\tSP_2.9m\tSP_3.1m\tSP_3.4m\tSP_3.7m\nGSB_01\t22\t65\t3181\t3627\t4165\t3786\nGSB_02\t2\t13\t812\t1040\t1107\t991\nGSB_03\t0\t5\t347\t399\t392\t353\nGSB_04\t0\t1\t64\t73\t87\t92\nGSB_05\t0\t2\t48\t91\t60\t69\nGSB_06\t0\t0\t39\t52\t64\t63\nGSB_07\t2\t2\t39\t49\t61\t63\nGSB_08\t0\t0\t31\t50\t69\t55\nGSB_09\t1\t0\t20\t34\t37\t85\nGSB_10\t0\t1\t41\t46\t49\t34\nGSB_11\t0\t1\t26\t39\t31\t28\nGSB_12\t1\t0\t17\t27\t25\t27\nGSB_13\t0\t0\t16\t29\t24\t27\n-------------- next part --------------\nIndex\tValue\n1\t14846\n2\t3965\n3\t1496\n4\t317\n5\t270\n6\t218\n7\t216\n8\t205\n9\t177\n10\t171\n11\t125\n12\t97\n13\t96\n14\t47\n15\t42\n16\t33\n17\t30\n18\t29\n19\t28\n20\t28\n21\t25\n22\t22\n23\t22\n24\t21\n25\t18\n26\t17\n27\t17\n28\t17\n29\t16\n30\t16\n31\t15\n32\t15\n33\t14\n34\t13\n35\t13\n36\t13\n37\t13\n38\t12\n39\t12\n40\t12\n41\t11\n42\t11\n43\t10\n44\t10\n45\t10\n46\t10\n47\t8\n48\t8\n49\t8\n50\t8\n51\t8\n52\t8\n53\t7\n54\t7\n55\t7\n56\t7\n57\t7\n58\t7\n59\t6\n60\t6\n61\t6\n62\t6\n63\t6\n64\t6\n65\t6\n66\t6\n67\t5\n68\t5\n69\t5\n70\t5\n71\t5\n72\t5\n73\t5\n74\t5\n75\t5",
+      "body_snippet": "Hello,\n\n   I have two scripts that are used to generate heatmap and bar graph\n\n*A. Heatmap script:*\n\nlibrary(RColorBrewer)\nlibrary(gplots)\n\npar(mfrow=c(2,1))\n\nTotaltax<-read.table(\"heatmap_data.txt\",h",
+      "thread_id": "thread-1b4b90917e0b",
+      "thread_depth": 0,
+      "month": "2010-07"
+    },
+    {
+      "id": "msg-2ead86ab35ab",
+      "message_id": "<4C45A2AE.80408@uottawa.ca>",
+      "from_name": "Prof. John C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-07-20T09:20:46-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "in_reply_to": "<mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "Very quick (and possibly tangential) idea is to use Sweave. However, I can say right away \nthat the outcome may not be entirely what you need, but would be quick if you know how to \nuse Sweave.\n\nJN\n\nOn 07/20/2010 06:00 AM, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n>\n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n>\n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n>\n> When replying, please edit your Subject line so it is more specific\n> than \"Re: Contents of R-UG-Ottawa digest...\"\n>\n>\n> Today's Topics:\n>\n>     1. Putting two figures together in R (Young Song)\n>\n>\n> ----------------------------------------------------------------------\n>\n> Message: 1\n> Date: Mon, 19 Jul 2010 15:28:56 -0700\n> From: Young Song<youngcsong at gmail.com>\n> To: r-ug-ottawa at r-project.org\n> Subject: [OGRUG] Putting two figures together in R\n> Message-ID:\n> \t<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ at mail.gmail.com>\n> Content-Type: text/plain; charset=\"iso-8859-1\"\n>\n> Hello,\n>\n>     I have two scripts that are used to generate heatmap and bar graph\n>\n> *A. Heatmap script:*\n>\n> library(RColorBrewer)\n> library(gplots)\n>\n> par(mfrow=c(2,1))\n>\n> Totaltax<-read.table(\"heatmap_data.txt\",header=TRUE)\n> Totaltax_log<-log(Totaltax+1)\n> Totaltax_mat<-data.matrix(Totaltax_log)\n> Totaltax_column<-t(Totaltax_mat)\n> cdendro<-as.dendrogram(hclust(dist(Totaltax_column,\n> method=\"manhattan\")),method=\"complete\")\n> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,\n> trace=\"none\", margins=c(5,13), col=brewer.pal(9,\"BuPu\"))\n>\n>\n> *B. Bar graph script:*\n>\n> histo<- read.table(\"histo_data.txt\", header=T)\n>\n> barplot(histo$Value)\n>\n>\n> Usually, I would run each script separately, and put the two resulting\n> diagrams together using Adobe Illustrator.  I was wondering if there is a\n> way to put these two diagrams together in R, instead of going through the\n> manual procedures.  I am currently using R version 2.11.1 on Mac OS X 10.6.\n> The actual data used to generate the diagrams are attached in this message.\n> Thank you very much in advance.\n>\n>   Sincerely,\n>\n>     Young",
+      "body_snippet": "Very quick (and possibly tangential) idea is to use Sweave. However, I can say right away \nthat the outcome may not be entirely what you need, but would be quick if you know how to \nuse Sweave.\n\nJN\n\nO",
+      "thread_id": "thread-2ead86ab35ab",
+      "thread_depth": 0,
+      "month": "2010-07"
+    },
+    {
+      "id": "msg-46661ff42372",
+      "message_id": "<47011.129.6.253.2.1279632630.squirrel@webmail02.uottawa.ca>",
+      "from_name": "nashjc at uottawa.ca",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2010-07-20T09:30:30-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "in_reply_to": "<mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.13.1279620004.2171.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "I clicked SEND in Thunderbird and msg seemed to be transmitted, but I am\nnot at home so am resending from webmail (normally T'bird only sends\nthrough my home ISP). Ignore if duplicated.\nJN\n\nVery quick (and possibly tangential) idea is to use Sweave. However, I can\nsay right away\nthat the outcome may not be entirely what you need, but would be quick if\nyou know how to\nuse Sweave.\n\nJN\n\nOn 07/20/2010 06:00 AM, r-ug-ottawa-request at r-project.org wrote:\n> Send R-UG-Ottawa mailing list submissions to\n> \tr-ug-ottawa at r-project.org\n> To subscribe or unsubscribe via the World Wide Web, visit\n> \thttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> or, via email, send a message with subject or body 'help' to\n> \tr-ug-ottawa-request at r-project.org\n> You can reach the person managing the list at\n> \tr-ug-ottawa-owner at r-project.org\n> When replying, please edit your Subject line so it is more specific than\n\"Re: Contents of R-UG-Ottawa digest...\"\n> Today's Topics:\n>     1. Putting two figures together in R (Young Song)\n> ----------------------------------------------------------------------\nMessage: 1\n> Date: Mon, 19 Jul 2010 15:28:56 -0700\n> From: Young Song<youngcsong at gmail.com>\n> To: r-ug-ottawa at r-project.org\n> Subject: [OGRUG] Putting two figures together in R\n> Message-ID:\n> \t<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ at mail.gmail.com>\n> Content-Type: text/plain; charset=\"iso-8859-1\"\n> Hello,\n>     I have two scripts that are used to generate heatmap and bar graph\n> *A. Heatmap script:*\n> library(RColorBrewer)\n> library(gplots)\n> par(mfrow=c(2,1))\n> Totaltax<-read.table(\"heatmap_data.txt\",header=TRUE)\n> Totaltax_log<-log(Totaltax+1)\n> Totaltax_mat<-data.matrix(Totaltax_log)\n> Totaltax_column<-t(Totaltax_mat)\n> cdendro<-as.dendrogram(hclust(dist(Totaltax_column,\n> method=\"manhattan\")),method=\"complete\")\n> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, keysize=1,\ntrace=\"none\", margins=c(5,13), col=brewer.pal(9,\"BuPu\"))\n> *B. Bar graph script:*\n> histo<- read.table(\"histo_data.txt\", header=T)\n> barplot(histo$Value)\n> Usually, I would run each script separately, and put the two resulting\ndiagrams together using Adobe Illustrator.  I was wondering if there is\na\n> way to put these two diagrams together in R, instead of going through\nthe\n> manual procedures.  I am currently using R version 2.11.1 on Mac OS X\n10.6.\n> The actual data used to generate the diagrams are attached in this\nmessage.\n> Thank you very much in advance.\n>   Sincerely,\n>     Young",
+      "body_snippet": "I clicked SEND in Thunderbird and msg seemed to be transmitted, but I am\nnot at home so am resending from webmail (normally T'bird only sends\nthrough my home ISP). Ignore if duplicated.\nJN\n\nVery quick",
+      "thread_id": "thread-46661ff42372",
+      "thread_depth": 0,
+      "month": "2010-07"
+    },
+    {
+      "id": "msg-f3e5a3c3a403",
+      "message_id": "<4C45AB7A.1090004@gmail.com>",
+      "from_name": "Robert Biddle",
+      "from_email_hash": "f3217d116df31a627a900e2c43d6a840947d733b78a80db1e82735880e5b17d6",
+      "date": "2010-07-20T09:58:18-04:00",
+      "subject": "[OGRUG] Putting two figures together in R",
+      "subject_clean": "[OGRUG] Putting two figures together in R",
+      "in_reply_to": "<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>",
+      "references": [
+        "<AANLkTiksar-COjrdpywyVJA_3qrnQxCNahrhLizrI4YJ@mail.gmail.com>"
+      ],
+      "body_plain": "I'm not 100% sure I know what you want, but if it's just to have\ntwo plots in the same image side by side, I do this all the time using \npar and mfrow.\nA simple example would go like this:\n\n > par(mfrow=c(1,2))\n > hist(runif(100))\n > boxplot(runif(100))\n > par(mfrow=c(1,1))\n\nThat gives an image with a histogram on the left and a boxplot on the right.\nYou can vary the mfrow numbers as you wish to have them in a row, a \ncolumn, or a grid.\nThe c(1,1) setting at the end is just to change back to a single plot.\n\nAnyway, when it looks right, then you can just save the window to a file.\nFor data and graphs I tinker with a lot, I normally embed this kind of \nthing within a call to pdf or png to\nboth display the images and save them to a file.\n\nAnyway, I hope this helps.\nCheers\nRobert Biddle\n\nOn 10-07-19 6:28 PM, Young Song wrote:\n> Hello,\n>\n>    I have two scripts that are used to generate heatmap and bar graph\n>\n> *A. Heatmap script:*\n>\n> library(RColorBrewer)\n> library(gplots)\n>\n> par(mfrow=c(2,1))\n>\n> Totaltax<-read.table(\"heatmap_data.txt\",header=TRUE)\n> Totaltax_log<-log(Totaltax+1)\n> Totaltax_mat<-data.matrix(Totaltax_log)\n> Totaltax_column<-t(Totaltax_mat)\n> cdendro<-as.dendrogram(hclust(dist(Totaltax_column, \n> method=\"manhattan\")),method=\"complete\")\n> heatmap.2(Totaltax_mat, Colv=cdendro, distfun=dist, key=TRUE, \n> keysize=1, trace=\"none\", margins=c(5,13), col=brewer.pal(9,\"BuPu\"))\n>\n>\n> *B. Bar graph script:*\n>\n> histo <- read.table(\"histo_data.txt\", header=T)\n>\n> barplot(histo$Value)\n>\n>\n> Usually, I would run each script separately, and put the two resulting \n> diagrams together using Adobe Illustrator.  I was wondering if there \n> is a way to put these two diagrams together in R, instead of going \n> through the manual procedures.  I am currently using R version 2.11.1 \n> on Mac OS X 10.6.  The actual data used to generate the diagrams are \n> attached in this message.  Thank you very much in advance.\n>\n>  Sincerely,\n>\n>    Young\n> -- \n> Young C. Song\n> Masters Student\n> University of British Columbia Graduate Program in Bioinformatics\n> Vancouver, BC V6T 1Z4, Canada\n>\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "I'm not 100% sure I know what you want, but if it's just to have\ntwo plots in the same image side by side, I do this all the time using \npar and mfrow.\nA simple example would go like this:\n\n > par(mfr",
+      "thread_id": "thread-1b4b90917e0b",
+      "thread_depth": 1,
+      "month": "2010-07"
+    },
+    {
+      "id": "msg-636922f89176",
+      "message_id": "<BLU0-SMTP216C7D281194A8B7F10AA8ACA10@phx.gbl>",
+      "from_name": "Shameem Rahman",
+      "from_email_hash": "69db2bf9703b9ff4244391c7d7fd3003f08d2f270027912e10f6c688c2389347",
+      "date": "2010-07-21T12:07:23-04:00",
+      "subject": "[OGRUG] Job Post: Statistical Modeler/Data Mining Consultant (Immediate Hire)",
+      "subject_clean": "[OGRUG] Job Post: Statistical Modeler/Data Mining Consultant (Immediate Hire)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl>",
+      "thread_id": "thread-636922f89176",
+      "thread_depth": 0,
+      "month": "2010-07"
+    },
+    {
+      "id": "msg-9c5d85f5d57c",
+      "message_id": "<C4BAB6839AD1CB4DB328610AAD0A910F01E76AC7@exchsrv1.cheo.int>",
+      "from_name": "Collins, Catherine",
+      "from_email_hash": "109f5b7b6df279bd8a50dc8a56823e916cfed372dd974fcc0890fe1a06a2073d",
+      "date": "2010-07-29T15:35:26-04:00",
+      "subject": "[OGRUG] Inference for R",
+      "subject_clean": "[OGRUG] Inference for R",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl>",
+      "thread_id": "thread-9c5d85f5d57c",
+      "thread_depth": 0,
+      "month": "2010-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-1b4b90917e0b",
+      "subject": "[OGRUG] Putting two figures together in R",
+      "message_count": 2,
+      "participants": [
+        "Robert Biddle",
+        "Young Song"
+      ],
+      "started": "2010-07-19T15:28:56-07:00",
+      "last_reply": "2010-07-20T09:58:18-04:00",
+      "root_message_id": "msg-1b4b90917e0b"
+    },
+    {
+      "id": "thread-2ead86ab35ab",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "Prof. John C Nash"
+      ],
+      "started": "2010-07-20T09:20:46-04:00",
+      "last_reply": "2010-07-20T09:20:46-04:00",
+      "root_message_id": "msg-2ead86ab35ab"
+    },
+    {
+      "id": "thread-46661ff42372",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 10, Issue 1",
+      "message_count": 1,
+      "participants": [
+        "nashjc at uottawa.ca"
+      ],
+      "started": "2010-07-20T09:30:30-04:00",
+      "last_reply": "2010-07-20T09:30:30-04:00",
+      "root_message_id": "msg-46661ff42372"
+    },
+    {
+      "id": "thread-636922f89176",
+      "subject": "[OGRUG] Job Post: Statistical Modeler/Data Mining Consultant (Immediate Hire)",
+      "message_count": 1,
+      "participants": [
+        "Shameem Rahman"
+      ],
+      "started": "2010-07-21T12:07:23-04:00",
+      "last_reply": "2010-07-21T12:07:23-04:00",
+      "root_message_id": "msg-636922f89176"
+    },
+    {
+      "id": "thread-9c5d85f5d57c",
+      "subject": "[OGRUG] Inference for R",
+      "message_count": 1,
+      "participants": [
+        "Collins, Catherine"
+      ],
+      "started": "2010-07-29T15:35:26-04:00",
+      "last_reply": "2010-07-29T15:35:26-04:00",
+      "root_message_id": "msg-9c5d85f5d57c"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2012-11",
+  "messages": [
+    {
+      "id": "msg-f02d066fe865",
+      "message_id": "<5097C751.2040105@uottawa.ca>",
+      "from_name": "U30A J C Nash",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2012-11-05T09:04:01-05:00",
+      "subject": "[OGRUG] OGRUG meeting Nov 29",
+      "subject_clean": "[OGRUG] OGRUG meeting Nov 29",
+      "in_reply_to": "<5097C2ED.2060503@ncf.ca>",
+      "references": [
+        "<5097C2ED.2060503@ncf.ca>"
+      ],
+      "body_plain": "An Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up\nfor 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Ottawa:\n\n?cole de gestion TELFER / Telfer School of Management\nPavillon DESMARAIS Building\nDMS 4165\n55 Laurier Avenue E., Ottawa\n\nThe featured talk will be\n\n      Spatial Statistics and R\n\n            John Lewis\n        Professor (retired)\n         McGill University\n\nThe talk will be followed by an opportunity for discussion and questions \nabout other aspects of R as well.\n\nPlease pass this information along to anyone that you think may be\ninterested. For those who do not yet use R, but are interested in\nlearning about it, the group is happy to respond to general questions.\n\nAnyone interested in giving a presentation at a future meeting is\nencouraged to contact  John Nash (nashjc at uottawa.ca) or Paul Gilbert\n(pgilbert902 at gmail.com)\n\nNote: There is limited (and very expensive!) parking under the Desmarais \nbuilding. The entrance is on Nicholas Street NORTHBOUND only.\nWhile there is other paid parking on Campus, the Rideau Centre is likely \nmore convenient.\n\nThe Laurier Station of the Transitway is next to the building \n(South/East bound) or across the street (North/West bound).\n\nThere are bicycle racks around the building.",
+      "body_snippet": "An Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up\nfor 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Ottawa:\n\n?cole de gestion TELFER / Telfer School of Management\nPav",
+      "thread_id": "thread-f02d066fe865",
+      "thread_depth": 0,
+      "month": "2012-11"
+    },
+    {
+      "id": "msg-4d609ec067b4",
+      "message_id": "<50AA3EAE.4000809@uottawa.ca>",
+      "from_name": "Prof J C Nash (U30A)",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2012-11-19T09:14:06-05:00",
+      "subject": "[OGRUG] Fwd: INVITATION - Research Challenges Seminar Series presents John Nash on Friday, November 23, 2012",
+      "subject_clean": "[OGRUG] Fwd: INVITATION - Research Challenges Seminar Series presents John Nash on Friday, November 23, 2012",
+      "in_reply_to": "<c90fbe473afd45d893f60a116200c931@CMS-P02.uottawa.o.univ>",
+      "references": [
+        "<c90fbe473afd45d893f60a116200c931@CMS-P02.uottawa.o.univ>"
+      ],
+      "body_plain": "R-UG members may find this interesting, since it uses \nSweave/knitr/odfWeave. Email Caroline if you'd like to attend.\n\nJN\n\nINVITATION - Research Challenges Seminar Series presents John Nash on \nFriday, November 23, 2012\n\nLocation: DMS 6160\n\nWhen: Fri 23 Nov 2012 11:00 AM ? 12:00 PM\n\nOrganizer: Faucher, Caroline <Faucher at telfer.uottawa.ca>\n\n  The Research Challenges Seminar Series invites you to a presentation \ngiven by John Nash, Assistant Professor at the Telfer School of \nManagement. His presentation entitled Open-Source Tools for Sensible \nReport Updates will be held on: Friday, November 23, 2012 11:00 to 12:00 \nTelfer School of Management Desmarais Building DMS 6160 RSVP by \nThursday, November 22, 2012 to Caroline Faucher \n(faucher at telfer.uOttawa.ca<mailto:faucher at telfer.uOttawa.ca> or \n613-562-5800 extension 2986). Please note that there is limited seating \navailable. The objective of the Research Challenges Seminar Series is to \nassist researchers in dealing with obstacles and questions that have \narisen over the course of their research by offering a supportive, \nconstructive environment to discuss their ?work in progress?. These \npresentations will allow researchers to benefit from the input and \nexperience of their colleagues, while sharing their ongoing work with \nthe seminar participants.\n\nAbstract\n\nThis talk will introduce tools for automatically generating reports and \ngraphs that need updating, such as quarterly\nbudget/accounts, annual reports, or evolving graphs of measurements or \nstatistics. The need to reduce onerous mouse or\npointer operations and to avoid cut?and?past errors has been part of the \nmotivation of the Microsoft OLE framework and\nsimilar ventures, but these approaches are complex and only work on one \nplatform, so work is difficult to share. As a way\nto counter this, several tools have been developed, originally so \nimportant studies (clinical trials of drugs, for example)\ncould be sure the report contained exactly the results it should, and \ncould be revised properly as new patient data arrived.\nThese relatively new tools, which come out of the ?Reproducible \nResearch? effort of the R Project for Statistical\nComputing, are cross?platform, very powerful, and can be used \ncollaboratively. They have evolved to have utility far\nbeyond the scope of R. During the session, Dr. Nash will demonstrate how \nthese tools can be used to prepare\ncollaborative academic papers and books and show how they can do a \nbetter job of getting calculations and graphs\nupdated in a way that vastly reduces the ?busy work? leading to the \nfinal product.",
+      "body_snippet": "R-UG members may find this interesting, since it uses \nSweave/knitr/odfWeave. Email Caroline if you'd like to attend.\n\nJN\n\nINVITATION - Research Challenges Seminar Series presents John Nash on \nFriday",
+      "thread_id": "thread-4d609ec067b4",
+      "thread_depth": 0,
+      "month": "2012-11"
+    },
+    {
+      "id": "msg-b82eb80c084d",
+      "message_id": "<50B4CFB0.4020403@uottawa.ca>",
+      "from_name": "Prof J C Nash (U30A)",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2012-11-27T09:35:28-05:00",
+      "subject": "[OGRUG] Thursday Group meeting",
+      "subject_clean": "[OGRUG] Thursday Group meeting",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Just a reminder of our upcoming R-UG-Ottawa meeting Thursday\n\nAn Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up\nfor 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Ottawa:\n\n?cole de gestion TELFER / Telfer School of Management\nPavillon DESMARAIS Building\nDMS 4165\n55 Laurier Avenue E., Ottawa\n\nThe featured talk will be\n\n       Spatial Statistics and R\n\n             John Lewis\n         Professor (retired)\n          McGill University",
+      "body_snippet": "Just a reminder of our upcoming R-UG-Ottawa meeting Thursday\n\nAn Ottawa Gatineau R User Group (R-UG-Ottawa) meeting has been set up\nfor 1530-1730 (3:30-5:30pm) on Thursday November 29, 2012  at U Otta",
+      "thread_id": "thread-b82eb80c084d",
+      "thread_depth": 0,
+      "month": "2012-11"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-f02d066fe865",
+      "subject": "[OGRUG] OGRUG meeting Nov 29",
+      "message_count": 1,
+      "participants": [
+        "U30A J C Nash"
+      ],
+      "started": "2012-11-05T09:04:01-05:00",
+      "last_reply": "2012-11-05T09:04:01-05:00",
+      "root_message_id": "msg-f02d066fe865"
+    },
+    {
+      "id": "thread-4d609ec067b4",
+      "subject": "[OGRUG] Fwd: INVITATION - Research Challenges Seminar Series presents John Nash on Friday, November 23, 2012",
+      "message_count": 1,
+      "participants": [
+        "Prof J C Nash (U30A)"
+      ],
+      "started": "2012-11-19T09:14:06-05:00",
+      "last_reply": "2012-11-19T09:14:06-05:00",
+      "root_message_id": "msg-4d609ec067b4"
+    },
+    {
+      "id": "thread-b82eb80c084d",
+      "subject": "[OGRUG] Thursday Group meeting",
+      "message_count": 1,
+      "participants": [
+        "Prof J C Nash (U30A)"
+      ],
+      "started": "2012-11-27T09:35:28-05:00",
+      "last_reply": "2012-11-27T09:35:28-05:00",
+      "root_message_id": "msg-b82eb80c084d"
+    }
+  ]
+}

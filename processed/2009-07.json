@@ -1,0 +1,36 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2009-07",
+  "messages": [
+    {
+      "id": "msg-28a9665c36e6",
+      "message_id": "<5B54C4682676CC4582D258951209A8ED4DC8F6@exchsrv1.cheo.int>",
+      "from_name": "Barrowman, Nick",
+      "from_email_hash": "f7fad38004b6a32a6986a07c1baf0f6221291e6af6bee8512c25b52337b095c8",
+      "date": "2009-07-23T15:13:13-04:00",
+      "subject": "[OGRUG] Blog that may be of interest to R users",
+      "subject_clean": "[OGRUG] Blog that may be of interest to R users",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Check out\n\nhttp://blog.revolution-computing.com\n\nIt's from REvolution Computing, who make a commercial version of R. But the blog may be of general interest.\n\nNick\n\n_____________________________________________________________ \n\nNick Barrowman, PhD \nSenior Statistician, Clinical Research Unit \nChildren's Hospital of Eastern Ontario Research Institute \n401 Smyth Road, Ottawa, Ontario, K1H 8L1, Canada \nTel 613-737-7600 x 3971 - Fax 613-738-4250 \nnbarrowman at cheo.on.ca - http://www.cheori.org/cru \n_____________________________________________________________",
+      "body_snippet": "Check out\n\nhttp://blog.revolution-computing.com\n\nIt's from REvolution Computing, who make a commercial version of R. But the blog may be of general interest.\n\nNick\n\n___________________________________",
+      "thread_id": "thread-28a9665c36e6",
+      "thread_depth": 0,
+      "month": "2009-07"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-28a9665c36e6",
+      "subject": "[OGRUG] Blog that may be of interest to R users",
+      "message_count": 1,
+      "participants": [
+        "Barrowman, Nick"
+      ],
+      "started": "2009-07-23T15:13:13-04:00",
+      "last_reply": "2009-07-23T15:13:13-04:00",
+      "root_message_id": "msg-28a9665c36e6"
+    }
+  ]
+}

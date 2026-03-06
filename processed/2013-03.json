@@ -1,0 +1,174 @@
+{
+  "list": "r-ug-ottawa",
+  "description": "",
+  "month": "2013-03",
+  "messages": [
+    {
+      "id": "msg-8d2b0292c4a8",
+      "message_id": "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>",
+      "from_name": "Corey Yanofsky",
+      "from_email_hash": "f124aaa7e86afacb28a97b2e2f343c04ac93bccd0417df1b26dabb4319938b80",
+      "date": "2013-03-20T15:25:24-04:00",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "subject_clean": "[OGRUG] Ottawa R Helpdesk meetings",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130320/097a03ae/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130320/097a03ae/attachment.pl>",
+      "thread_id": "thread-8d2b0292c4a8",
+      "thread_depth": 0,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-fc3cf08df236",
+      "message_id": "<CANqO55gofW1Nk=2tQGkpc1bVxJ_gOY+StBY3xdYFBbdEYS8opg@mail.gmail.com>",
+      "from_name": "Corey Yanofsky",
+      "from_email_hash": "f124aaa7e86afacb28a97b2e2f343c04ac93bccd0417df1b26dabb4319938b80",
+      "date": "2013-03-20T15:29:19-04:00",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "subject_clean": "[OGRUG] Ottawa R Helpdesk meetings",
+      "in_reply_to": "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>",
+      "references": [
+        "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>"
+      ],
+      "body_plain": "(Let's try this again...)\n\nGreetings Ottawa/Gatineau R users,\n\nI'm a biostatistician with a fair bit of experience in R. A friend of\nmine asked me to help him with some code, and while we were talking it\nover, we decided to invite the general R-using public to come along.\nSo without further ado, I introduce the Ottawa R Helpdesk\nmeetup(http://www.meetup.com/R-Helpdesk/), an informal, semi-regular\ngathering of (at least two) local R users grappling with the wonders\nand vagaries of R.\n\nAll the best,\nCorey",
+      "body_snippet": "(Let's try this again...)\n\nGreetings Ottawa/Gatineau R users,\n\nI'm a biostatistician with a fair bit of experience in R. A friend of\nmine asked me to help him with some code, and while we were talking",
+      "thread_id": "thread-8d2b0292c4a8",
+      "thread_depth": 1,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-36b2e275f59d",
+      "message_id": "<5150595D.3000301@gmail.com>",
+      "from_name": "Paul Gilbert",
+      "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
+      "date": "2013-03-25T10:04:13-04:00",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "subject_clean": "[OGRUG] Ottawa R Helpdesk meetings",
+      "in_reply_to": "<CANqO55gofW1Nk=2tQGkpc1bVxJ_gOY+StBY3xdYFBbdEYS8opg@mail.gmail.com>",
+      "references": [
+        "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>",
+        "<CANqO55gofW1Nk=2tQGkpc1bVxJ_gOY+StBY3xdYFBbdEYS8opg@mail.gmail.com>"
+      ],
+      "body_plain": "Is this virtual, or can we meet somewhere where we can get a beer?\n\nPaul\n\nOn 13-03-20 03:29 PM, Corey Yanofsky wrote:\n> (Let's try this again...)\n>\n> Greetings Ottawa/Gatineau R users,\n>\n> I'm a biostatistician with a fair bit of experience in R. A friend of\n> mine asked me to help him with some code, and while we were talking it\n> over, we decided to invite the general R-using public to come along.\n> So without further ado, I introduce the Ottawa R Helpdesk\n> meetup(http://www.meetup.com/R-Helpdesk/), an informal, semi-regular\n> gathering of (at least two) local R users grappling with the wonders\n> and vagaries of R.\n>\n> All the best,\n> Corey\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "Is this virtual, or can we meet somewhere where we can get a beer?\n\nPaul\n\nOn 13-03-20 03:29 PM, Corey Yanofsky wrote:\n> (Let's try this again...)\n>\n> Greetings Ottawa/Gatineau R users,\n>\n> I'm a biost",
+      "thread_id": "thread-8d2b0292c4a8",
+      "thread_depth": 2,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-49e47ecd80d6",
+      "message_id": "<51505E88.4050400@rogers.com>",
+      "from_name": "Catherine Dalzell",
+      "from_email_hash": "f31c606b91e0e00ff8210464c26c4b948e69a1d5f4a55d4df6b9e73c2f05f645",
+      "date": "2013-03-25T10:26:16-04:00",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "subject_clean": "[OGRUG] Ottawa R Helpdesk meetings",
+      "in_reply_to": "<5150595D.3000301@gmail.com>",
+      "references": [
+        "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>",
+        "<CANqO55gofW1Nk=2tQGkpc1bVxJ_gOY+StBY3xdYFBbdEYS8opg@mail.gmail.com>",
+        "<5150595D.3000301@gmail.com>"
+      ],
+      "body_plain": "I second Paul's concern .... for beer.\n\nCatherine\n\nOn 25/03/2013 10:04 AM, Paul Gilbert wrote:\n> Is this virtual, or can we meet somewhere where we can get a beer?\n>\n> Paul\n>\n> On 13-03-20 03:29 PM, Corey Yanofsky wrote:\n>> (Let's try this again...)\n>>\n>> Greetings Ottawa/Gatineau R users,\n>>\n>> I'm a biostatistician with a fair bit of experience in R. A friend of\n>> mine asked me to help him with some code, and while we were talking it\n>> over, we decided to invite the general R-using public to come along.\n>> So without further ado, I introduce the Ottawa R Helpdesk\n>> meetup(http://www.meetup.com/R-Helpdesk/), an informal, semi-regular\n>> gathering of (at least two) local R users grappling with the wonders\n>> and vagaries of R.\n>>\n>> All the best,\n>> Corey\n>>\n>> _______________________________________________\n>> R-UG-Ottawa mailing list\n>> R-UG-Ottawa at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>",
+      "body_snippet": "I second Paul's concern .... for beer.\n\nCatherine\n\nOn 25/03/2013 10:04 AM, Paul Gilbert wrote:\n> Is this virtual, or can we meet somewhere where we can get a beer?\n>\n> Paul\n>\n> On 13-03-20 03:29 PM, C",
+      "thread_id": "thread-8d2b0292c4a8",
+      "thread_depth": 3,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-b6aa115271ae",
+      "message_id": "<CAJetHwx2Bvq7KGu16b5pWXmQ-GXFRYAh0z3ZGcbWHx3kbxjWhg@mail.gmail.com>",
+      "from_name": "Chris Hebbern",
+      "from_email_hash": "a67871fda19c4316adc55530f876d42df145eae9fc0e7898290800b558174201",
+      "date": "2013-03-25T10:26:23-04:00",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "subject_clean": "[OGRUG] Ottawa R Helpdesk meetings",
+      "in_reply_to": "<5150595D.3000301@gmail.com>",
+      "references": [
+        "<CANqO55j0R+vL2i-A9M+ohfTgKGf3kcueOBM+Tm7BmFwTvxvBww@mail.gmail.com>",
+        "<CANqO55gofW1Nk=2tQGkpc1bVxJ_gOY+StBY3xdYFBbdEYS8opg@mail.gmail.com>",
+        "<5150595D.3000301@gmail.com>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130325/30c622bc/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130325/30c622bc/attachment.pl>",
+      "thread_id": "thread-8d2b0292c4a8",
+      "thread_depth": 3,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-39830820df6f",
+      "message_id": "<51519E10.1050905@uottawa.ca>",
+      "from_name": "Prof J C Nash (U30A)",
+      "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
+      "date": "2013-03-26T09:09:36-04:00",
+      "subject": "[OGRUG] meetup",
+      "subject_clean": "[OGRUG] meetup",
+      "in_reply_to": "<mailman.5.1364295603.13732.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.5.1364295603.13732.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "I'd come -- but I'm calling a dance. Wed and Fri evenings bad for me.\n\nJN",
+      "body_snippet": "I'd come -- but I'm calling a dance. Wed and Fri evenings bad for me.\n\nJN",
+      "thread_id": "thread-39830820df6f",
+      "thread_depth": 0,
+      "month": "2013-03"
+    },
+    {
+      "id": "msg-ee4050a672c4",
+      "message_id": "<CAPjrKxafOx=aWRrqmBS_LaKEt0iUOvcpKzh9gcw0EMP7BUoD7w@mail.gmail.com>",
+      "from_name": "John Lewis",
+      "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
+      "date": "2013-03-26T18:24:59-04:00",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 25, Issue 2",
+      "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 25, Issue 2",
+      "in_reply_to": "<mailman.5.1364295603.13732.r-ug-ottawa@r-project.org>",
+      "references": [
+        "<mailman.5.1364295603.13732.r-ug-ottawa@r-project.org>"
+      ],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130326/c608b831/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130326/c608b831/attachment.pl>",
+      "thread_id": "thread-ee4050a672c4",
+      "thread_depth": 0,
+      "month": "2013-03"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-8d2b0292c4a8",
+      "subject": "[OGRUG] Ottawa R Helpdesk meetings",
+      "message_count": 5,
+      "participants": [
+        "Catherine Dalzell",
+        "Chris Hebbern",
+        "Corey Yanofsky",
+        "Paul Gilbert"
+      ],
+      "started": "2013-03-20T15:25:24-04:00",
+      "last_reply": "2013-03-25T10:26:23-04:00",
+      "root_message_id": "msg-8d2b0292c4a8"
+    },
+    {
+      "id": "thread-39830820df6f",
+      "subject": "[OGRUG] meetup",
+      "message_count": 1,
+      "participants": [
+        "Prof J C Nash (U30A)"
+      ],
+      "started": "2013-03-26T09:09:36-04:00",
+      "last_reply": "2013-03-26T09:09:36-04:00",
+      "root_message_id": "msg-39830820df6f"
+    },
+    {
+      "id": "thread-ee4050a672c4",
+      "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 25, Issue 2",
+      "message_count": 1,
+      "participants": [
+        "John Lewis"
+      ],
+      "started": "2013-03-26T18:24:59-04:00",
+      "last_reply": "2013-03-26T18:24:59-04:00",
+      "root_message_id": "msg-ee4050a672c4"
+    }
+  ]
+}
