@@ -8,7 +8,7 @@
       "message_id": "<510199B2.30306@gmail.com>",
       "from_name": "Ian E. Gorman",
       "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
-      "date": "2013-01-24T15:29:38-05:00",
+      "date": "2013-01-24T20:29:38Z",
       "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<5101A5C4.3010804@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2013-01-24T16:21:08-05:00",
+      "date": "2013-01-24T21:21:08Z",
       "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "in_reply_to": "<510199B2.30306@gmail.com>",
@@ -42,7 +42,7 @@
       "message_id": "<51028781.3090301@uottawa.ca>",
       "from_name": "Prof J C Nash (U30A)",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2013-01-25T08:24:17-05:00",
+      "date": "2013-01-25T13:24:17Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 23, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 23, Issue 1",
       "in_reply_to": "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>",
@@ -60,7 +60,7 @@
       "message_id": "<3510E522-9583-4FD9-864E-E40FFF81E8B0@gmail.com>",
       "from_name": "Mark St. John",
       "from_email_hash": "422d6162aa810cd7005defa120e9660dca2757f39b68ee054d86d86f01f07be5",
-      "date": "2013-01-25T14:28:16-05:00",
+      "date": "2013-01-25T19:28:16Z",
       "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ? (Paul Gilbert)",
       "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ? (Paul Gilbert)",
       "in_reply_to": "<mailman.5.1359111602.18518.r-ug-ottawa@r-project.org>",
@@ -78,7 +78,7 @@
       "message_id": "<5102EF7D.1090306@gmail.com>",
       "from_name": "Ian E. Gorman",
       "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
-      "date": "2013-01-25T15:47:57-05:00",
+      "date": "2013-01-25T20:47:57Z",
       "subject": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "subject_clean": "[OGRUG] Does Ottawa Gatineau R User Group wish to participate in \"User Group Connect\" ?",
       "in_reply_to": "<5101A5C4.3010804@gmail.com>",
@@ -102,8 +102,8 @@
         "Ian E. Gorman",
         "Paul Gilbert"
       ],
-      "started": "2013-01-24T15:29:38-05:00",
-      "last_reply": "2013-01-25T15:47:57-05:00",
+      "started": "2013-01-24T20:29:38Z",
+      "last_reply": "2013-01-25T20:47:57Z",
       "root_message_id": "msg-e77a9a59a328"
     },
     {
@@ -113,8 +113,8 @@
       "participants": [
         "Prof J C Nash (U30A)"
       ],
-      "started": "2013-01-25T08:24:17-05:00",
-      "last_reply": "2013-01-25T08:24:17-05:00",
+      "started": "2013-01-25T13:24:17Z",
+      "last_reply": "2013-01-25T13:24:17Z",
       "root_message_id": "msg-9a8730c6c8b0"
     },
     {
@@ -124,8 +124,8 @@
       "participants": [
         "Mark St. John"
       ],
-      "started": "2013-01-25T14:28:16-05:00",
-      "last_reply": "2013-01-25T14:28:16-05:00",
+      "started": "2013-01-25T19:28:16Z",
+      "last_reply": "2013-01-25T19:28:16Z",
       "root_message_id": "msg-3b85fc7842a2"
     }
   ]

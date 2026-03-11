@@ -8,7 +8,7 @@
       "message_id": "<2013051623360057228419@gmail.com>",
       "from_name": "Qiang Yue",
       "from_email_hash": "843341d24d610999ae3cb296b9641a5fd056394a6a5078a0495f649a043598a0",
-      "date": "2013-05-16T23:36:01-05:00",
+      "date": "2013-05-17T04:36:01Z",
       "subject": "[OGRUG] using metafor to do meta-analysis for pre-post study",
       "subject_clean": "[OGRUG] using metafor to do meta-analysis for pre-post study",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<201305171014365628730@gmail.com>",
       "from_name": "Qiang Yue",
       "from_email_hash": "843341d24d610999ae3cb296b9641a5fd056394a6a5078a0495f649a043598a0",
-      "date": "2013-05-17T10:14:37-04:00",
+      "date": "2013-05-17T14:14:37Z",
       "subject": "[OGRUG] using metafor for meta-analysis of before-after studies (escalc, SMCC)",
       "subject_clean": "[OGRUG] using metafor for meta-analysis of before-after studies (escalc, SMCC)",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Qiang Yue"
       ],
-      "started": "2013-05-16T23:36:01-05:00",
-      "last_reply": "2013-05-16T23:36:01-05:00",
+      "started": "2013-05-17T04:36:01Z",
+      "last_reply": "2013-05-17T04:36:01Z",
       "root_message_id": "msg-42a24aa5cdd0"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Qiang Yue"
       ],
-      "started": "2013-05-17T10:14:37-04:00",
-      "last_reply": "2013-05-17T10:14:37-04:00",
+      "started": "2013-05-17T14:14:37Z",
+      "last_reply": "2013-05-17T14:14:37Z",
       "root_message_id": "msg-71297561d848"
     }
   ]

@@ -8,7 +8,7 @@
       "message_id": "<5097C751.2040105@uottawa.ca>",
       "from_name": "U30A J C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2012-11-05T09:04:01-05:00",
+      "date": "2012-11-05T14:04:01Z",
       "subject": "[OGRUG] OGRUG meeting Nov 29",
       "subject_clean": "[OGRUG] OGRUG meeting Nov 29",
       "in_reply_to": "<5097C2ED.2060503@ncf.ca>",
@@ -26,7 +26,7 @@
       "message_id": "<50AA3EAE.4000809@uottawa.ca>",
       "from_name": "Prof J C Nash (U30A)",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2012-11-19T09:14:06-05:00",
+      "date": "2012-11-19T14:14:06Z",
       "subject": "[OGRUG] Fwd: INVITATION - Research Challenges Seminar Series presents John Nash on Friday, November 23, 2012",
       "subject_clean": "[OGRUG] Fwd: INVITATION - Research Challenges Seminar Series presents John Nash on Friday, November 23, 2012",
       "in_reply_to": "<c90fbe473afd45d893f60a116200c931@CMS-P02.uottawa.o.univ>",
@@ -44,7 +44,7 @@
       "message_id": "<50B4CFB0.4020403@uottawa.ca>",
       "from_name": "Prof J C Nash (U30A)",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2012-11-27T09:35:28-05:00",
+      "date": "2012-11-27T14:35:28Z",
       "subject": "[OGRUG] Thursday Group meeting",
       "subject_clean": "[OGRUG] Thursday Group meeting",
       "in_reply_to": null,
@@ -64,8 +64,8 @@
       "participants": [
         "U30A J C Nash"
       ],
-      "started": "2012-11-05T09:04:01-05:00",
-      "last_reply": "2012-11-05T09:04:01-05:00",
+      "started": "2012-11-05T14:04:01Z",
+      "last_reply": "2012-11-05T14:04:01Z",
       "root_message_id": "msg-f02d066fe865"
     },
     {
@@ -75,8 +75,8 @@
       "participants": [
         "Prof J C Nash (U30A)"
       ],
-      "started": "2012-11-19T09:14:06-05:00",
-      "last_reply": "2012-11-19T09:14:06-05:00",
+      "started": "2012-11-19T14:14:06Z",
+      "last_reply": "2012-11-19T14:14:06Z",
       "root_message_id": "msg-4d609ec067b4"
     },
     {
@@ -86,8 +86,8 @@
       "participants": [
         "Prof J C Nash (U30A)"
       ],
-      "started": "2012-11-27T09:35:28-05:00",
-      "last_reply": "2012-11-27T09:35:28-05:00",
+      "started": "2012-11-27T14:35:28Z",
+      "last_reply": "2012-11-27T14:35:28Z",
       "root_message_id": "msg-b82eb80c084d"
     }
   ]

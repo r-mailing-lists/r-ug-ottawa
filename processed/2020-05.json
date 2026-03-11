@@ -24,7 +24,7 @@
       "message_id": "<87lfmb68i4.fsf@plantarum.ca>",
       "from_name": "Tyler Smith",
       "from_email_hash": "2690626ea63ac7d1240c6a796e43fa8126b69886662bed7b144411711352a7f1",
-      "date": "2020-05-01T10:21:39-04:00",
+      "date": "2020-05-01T14:21:39Z",
       "subject": "[OGRUG] Accessing pdf files in inst/",
       "subject_clean": "[OGRUG] Accessing pdf files in inst/",
       "in_reply_to": "<20200501124151.DA0BE394@hypatia.math.ethz.ch>",
@@ -42,7 +42,7 @@
       "message_id": "<e7836b21-af53-efde-7ae5-55906da7c884@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "29fea860e182a01f3e4160bbdef3ad0b7144bad40faef12022989132ed8ec2b1",
-      "date": "2020-05-01T12:07:48-04:00",
+      "date": "2020-05-01T16:07:48Z",
       "subject": "[OGRUG] Accessing pdf files in inst/",
       "subject_clean": "[OGRUG] Accessing pdf files in inst/",
       "in_reply_to": "<20200501124151.DFE8F2B86@hypatia.math.ethz.ch>",
@@ -58,14 +58,25 @@
   ],
   "threads": [
     {
+      "id": "thread-e94c484df9b4",
+      "subject": "[OGRUG] Accessing pdf files in inst/",
+      "message_count": 1,
+      "participants": [
+        "Garrett, Robert (NRCan/RNCan)"
+      ],
+      "started": "2020-05-01T12:41:17Z",
+      "last_reply": "2020-05-01T12:41:17Z",
+      "root_message_id": "msg-e94c484df9b4"
+    },
+    {
       "id": "thread-16f097b90685",
       "subject": "[OGRUG] Accessing pdf files in inst/",
       "message_count": 1,
       "participants": [
         "Tyler Smith"
       ],
-      "started": "2020-05-01T10:21:39-04:00",
-      "last_reply": "2020-05-01T10:21:39-04:00",
+      "started": "2020-05-01T14:21:39Z",
+      "last_reply": "2020-05-01T14:21:39Z",
       "root_message_id": "msg-16f097b90685"
     },
     {
@@ -75,20 +86,9 @@
       "participants": [
         "Paul Gilbert"
       ],
-      "started": "2020-05-01T12:07:48-04:00",
-      "last_reply": "2020-05-01T12:07:48-04:00",
+      "started": "2020-05-01T16:07:48Z",
+      "last_reply": "2020-05-01T16:07:48Z",
       "root_message_id": "msg-c117ae0cf79c"
-    },
-    {
-      "id": "thread-e94c484df9b4",
-      "subject": "[OGRUG] Accessing pdf files in inst/",
-      "message_count": 1,
-      "participants": [
-        "Garrett, Robert (NRCan/RNCan)"
-      ],
-      "started": "2020-05-01T12:41:17+00:00",
-      "last_reply": "2020-05-01T12:41:17+00:00",
-      "root_message_id": "msg-e94c484df9b4"
     }
   ]
 }

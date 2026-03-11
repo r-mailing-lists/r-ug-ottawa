@@ -8,7 +8,7 @@
       "message_id": "<1317218629.80777.YahooMailNeo@web65802.mail.ac4.yahoo.com>",
       "from_name": "Lea Olsen",
       "from_email_hash": "867dcb07444a777143610c250b434be2a89d60371d54adf956664d4dbb4f12c9",
-      "date": "2011-09-28T07:03:49-07:00",
+      "date": "2011-09-28T14:03:49Z",
       "subject": "[OGRUG] Looking for tutor to teach me R",
       "subject_clean": "[OGRUG] Looking for tutor to teach me R",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAPF70yjqKKLc=OkAdtz9_G3NNP=SZYi=-NivAxkHhLrLxQdVWw@mail.gmail.com>",
       "from_name": "Azad AK",
       "from_email_hash": "b5eca3206799ec473577912e622805ed9ac00604637ddfc4193261990a5c11dc",
-      "date": "2011-09-29T16:04:55-06:00",
+      "date": "2011-09-29T22:04:55Z",
       "subject": "[OGRUG] spatial analysis in R",
       "subject_clean": "[OGRUG] spatial analysis in R",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "Lea Olsen"
       ],
-      "started": "2011-09-28T07:03:49-07:00",
-      "last_reply": "2011-09-28T07:03:49-07:00",
+      "started": "2011-09-28T14:03:49Z",
+      "last_reply": "2011-09-28T14:03:49Z",
       "root_message_id": "msg-6c390d2593ba"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "Azad AK"
       ],
-      "started": "2011-09-29T16:04:55-06:00",
-      "last_reply": "2011-09-29T16:04:55-06:00",
+      "started": "2011-09-29T22:04:55Z",
+      "last_reply": "2011-09-29T22:04:55Z",
       "root_message_id": "msg-3879b7484b5f"
     }
   ]

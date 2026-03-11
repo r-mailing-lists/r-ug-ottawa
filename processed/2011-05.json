@@ -8,7 +8,7 @@
       "message_id": "<4DCD8AD5.3060107@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-05-13T15:47:33-04:00",
+      "date": "2011-05-13T19:47:33Z",
       "subject": "[OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting",
       "subject_clean": "[OGRUG] Ottawa Gatineau R User Group (R-UG-Ottawa) meeting",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4DD675CE.5080304@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-05-20T10:08:14-04:00",
+      "date": "2011-05-20T14:08:14Z",
       "subject": "[OGRUG] Two R queries for Tuesday's meeting",
       "subject_clean": "[OGRUG] Two R queries for Tuesday's meeting",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4DDD8171.8050007@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-05-25T18:23:45-04:00",
+      "date": "2011-05-25T22:23:45Z",
       "subject": "[OGRUG] Report on May 24 meeting",
       "subject_clean": "[OGRUG] Report on May 24 meeting",
       "in_reply_to": null,
@@ -56,7 +56,7 @@
       "message_id": "<BANLkTimWr5YZ+xFF4mv7Qiap5PBgNjyG0w@mail.gmail.com>",
       "from_name": "john lewis",
       "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
-      "date": "2011-05-27T13:02:41-04:00",
+      "date": "2011-05-27T17:02:41Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 15, Issue 3",
       "in_reply_to": "<mailman.7.1306404003.8686.r-ug-ottawa@r-project.org>",
@@ -78,8 +78,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2011-05-13T15:47:33-04:00",
-      "last_reply": "2011-05-13T15:47:33-04:00",
+      "started": "2011-05-13T19:47:33Z",
+      "last_reply": "2011-05-13T19:47:33Z",
       "root_message_id": "msg-a7694761e456"
     },
     {
@@ -89,8 +89,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2011-05-20T10:08:14-04:00",
-      "last_reply": "2011-05-20T10:08:14-04:00",
+      "started": "2011-05-20T14:08:14Z",
+      "last_reply": "2011-05-20T14:08:14Z",
       "root_message_id": "msg-5c2f1e69d925"
     },
     {
@@ -100,8 +100,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2011-05-25T18:23:45-04:00",
-      "last_reply": "2011-05-25T18:23:45-04:00",
+      "started": "2011-05-25T22:23:45Z",
+      "last_reply": "2011-05-25T22:23:45Z",
       "root_message_id": "msg-15b4508fb322"
     },
     {
@@ -111,8 +111,8 @@
       "participants": [
         "john lewis"
       ],
-      "started": "2011-05-27T13:02:41-04:00",
-      "last_reply": "2011-05-27T13:02:41-04:00",
+      "started": "2011-05-27T17:02:41Z",
+      "last_reply": "2011-05-27T17:02:41Z",
       "root_message_id": "msg-94159867fe87"
     }
   ]

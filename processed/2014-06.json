@@ -8,7 +8,7 @@
       "message_id": "<538C64EF.1040805@uottawa.ca>",
       "from_name": "Prof J C Nash (U30A)",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2014-06-02T07:50:07-04:00",
+      "date": "2014-06-02T11:50:07Z",
       "subject": "[OGRUG] Note about Meetup msgs",
       "subject_clean": "[OGRUG] Note about Meetup msgs",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<BAY178-W50BB7AA5AFD904D06CEF2993280@phx.gbl>",
       "from_name": "David Bissessar",
       "from_email_hash": "64c6d3e40b6934ddbcc607414fbe2bc1b200c221354ac812b6c9bafc7f94dcb4",
-      "date": "2014-06-10T11:14:59-04:00",
+      "date": "2014-06-10T15:14:59Z",
       "subject": "[OGRUG] A Show of Hands -- Summary",
       "subject_clean": "[OGRUG] A Show of Hands -- Summary",
       "in_reply_to": "<BAY178-W15E6C816AA561C1F62173C933F0@phx.gbl>",
@@ -42,7 +42,7 @@
       "message_id": "<CACqiH_VVOvMuXk5eN-p3xgy8pck-_RKu01e2-tRXeTZ5pAyzoA@mail.gmail.com>",
       "from_name": "Stephane Gagnon",
       "from_email_hash": "c49f5c86f9caf0becfe5cfedbf0c0a509cae1ea1601bcf927830687b8016a029",
-      "date": "2014-06-13T13:39:01-04:00",
+      "date": "2014-06-13T17:39:01Z",
       "subject": "[OGRUG] A Show of Hands -- Summary",
       "subject_clean": "[OGRUG] A Show of Hands -- Summary",
       "in_reply_to": "<BAY178-W15E6C816AA561C1F62173C933F0@phx.gbl>",
@@ -60,7 +60,7 @@
       "message_id": "<BAY407-EAS166EF1313C63E954D1081893150@phx.gbl>",
       "from_name": "David Bissessar",
       "from_email_hash": "64c6d3e40b6934ddbcc607414fbe2bc1b200c221354ac812b6c9bafc7f94dcb4",
-      "date": "2014-06-13T14:10:12-04:00",
+      "date": "2014-06-13T18:10:12Z",
       "subject": "[OGRUG] A Show of Hands -- Summary",
       "subject_clean": "[OGRUG] A Show of Hands -- Summary",
       "in_reply_to": null,
@@ -76,7 +76,7 @@
       "message_id": "<BAY178-W28278BFBF59ECFAE3DB0D593180@phx.gbl>",
       "from_name": "David Bissessar",
       "from_email_hash": "64c6d3e40b6934ddbcc607414fbe2bc1b200c221354ac812b6c9bafc7f94dcb4",
-      "date": "2014-06-26T15:20:22-04:00",
+      "date": "2014-06-26T19:20:22Z",
       "subject": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "subject_clean": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "in_reply_to": "<BAY178-W50BB7AA5AFD904D06CEF2993280@phx.gbl>",
@@ -99,8 +99,8 @@
       "participants": [
         "Prof J C Nash (U30A)"
       ],
-      "started": "2014-06-02T07:50:07-04:00",
-      "last_reply": "2014-06-02T07:50:07-04:00",
+      "started": "2014-06-02T11:50:07Z",
+      "last_reply": "2014-06-02T11:50:07Z",
       "root_message_id": "msg-741ce4eedfb5"
     },
     {
@@ -110,8 +110,8 @@
       "participants": [
         "David Bissessar"
       ],
-      "started": "2014-06-10T11:14:59-04:00",
-      "last_reply": "2014-06-26T15:20:22-04:00",
+      "started": "2014-06-10T15:14:59Z",
+      "last_reply": "2014-06-26T19:20:22Z",
       "root_message_id": "msg-860f2ec9707b"
     },
     {
@@ -121,8 +121,8 @@
       "participants": [
         "Stephane Gagnon"
       ],
-      "started": "2014-06-13T13:39:01-04:00",
-      "last_reply": "2014-06-13T13:39:01-04:00",
+      "started": "2014-06-13T17:39:01Z",
+      "last_reply": "2014-06-13T17:39:01Z",
       "root_message_id": "msg-6911ed3d034f"
     },
     {
@@ -132,8 +132,8 @@
       "participants": [
         "David Bissessar"
       ],
-      "started": "2014-06-13T14:10:12-04:00",
-      "last_reply": "2014-06-13T14:10:12-04:00",
+      "started": "2014-06-13T18:10:12Z",
+      "last_reply": "2014-06-13T18:10:12Z",
       "root_message_id": "msg-64c07c7ba77e"
     }
   ]

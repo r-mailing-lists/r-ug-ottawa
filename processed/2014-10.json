@@ -8,7 +8,7 @@
       "message_id": "<CAOu7ywe2FqxOXRdHa5GGbq--OyAcvvSvH0PmnMGzxtq_mDVDiw@mail.gmail.com>",
       "from_name": "ali eissa",
       "from_email_hash": "0eefa5f9deefa726697c2451bf6d41ef00b8bfe3ac3b7351c6114ebc9fd86f03",
-      "date": "2014-10-05T23:29:31-04:00",
+      "date": "2014-10-06T03:29:31Z",
       "subject": "[OGRUG] Ottawa Canopy Project",
       "subject_clean": "[OGRUG] Ottawa Canopy Project",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAFVA2r+ro0GN=rCqnkJ2UxJZ-CChTNMfRSR_-c9n5ofR5ZRVZw@mail.gmail.com>",
       "from_name": "Daniel Buijs",
       "from_email_hash": "6fdab638093526bc58c15bebe6af5c103ef3b1734ed6c80a455e0a7045d1e51b",
-      "date": "2014-10-27T11:11:53-04:00",
+      "date": "2014-10-27T15:11:53Z",
       "subject": "[OGRUG] What R packages/vocabulary do I need to search for Spatial Distance ranking?",
       "subject_clean": "[OGRUG] What R packages/vocabulary do I need to search for Spatial Distance ranking?",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<CAPjrKxbMXNa72hyUjre+Z3QmVkOxOO3K6HCtWrkmD2TzMr5uFA@mail.gmail.com>",
       "from_name": "John Lewis",
       "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
-      "date": "2014-10-28T11:03:22-04:00",
+      "date": "2014-10-28T15:03:22Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 35, Issue 2",
       "in_reply_to": "<mailman.7.1414494002.30795.r-ug-ottawa@r-project.org>",
@@ -58,7 +58,7 @@
       "message_id": "<CAPnsgj48OjYVYjptOD4YCJOHF9jn_tBravHmJvjN6ut6GT6Umg@mail.gmail.com>",
       "from_name": "Ramesh Fernando",
       "from_email_hash": "052a132fb9ca1239aaffd030e5fcf2870f940cc1b0cd110d997f1906772471d2",
-      "date": "2014-10-29T11:29:02-04:00",
+      "date": "2014-10-29T15:29:02Z",
       "subject": "[OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon",
       "subject_clean": "[OGRUG] Fwd: Announcing: The World's First Global Virtual Hackathon",
       "in_reply_to": "<1495c7e25e1.5b85.378404@ismtpd-001.sjc1.sendgrid.net>",
@@ -80,8 +80,8 @@
       "participants": [
         "ali eissa"
       ],
-      "started": "2014-10-05T23:29:31-04:00",
-      "last_reply": "2014-10-05T23:29:31-04:00",
+      "started": "2014-10-06T03:29:31Z",
+      "last_reply": "2014-10-06T03:29:31Z",
       "root_message_id": "msg-8769d60dbac5"
     },
     {
@@ -91,8 +91,8 @@
       "participants": [
         "Daniel Buijs"
       ],
-      "started": "2014-10-27T11:11:53-04:00",
-      "last_reply": "2014-10-27T11:11:53-04:00",
+      "started": "2014-10-27T15:11:53Z",
+      "last_reply": "2014-10-27T15:11:53Z",
       "root_message_id": "msg-780f49b48d05"
     },
     {
@@ -102,8 +102,8 @@
       "participants": [
         "John Lewis"
       ],
-      "started": "2014-10-28T11:03:22-04:00",
-      "last_reply": "2014-10-28T11:03:22-04:00",
+      "started": "2014-10-28T15:03:22Z",
+      "last_reply": "2014-10-28T15:03:22Z",
       "root_message_id": "msg-52cf235572d0"
     },
     {
@@ -113,8 +113,8 @@
       "participants": [
         "Ramesh Fernando"
       ],
-      "started": "2014-10-29T11:29:02-04:00",
-      "last_reply": "2014-10-29T11:29:02-04:00",
+      "started": "2014-10-29T15:29:02Z",
+      "last_reply": "2014-10-29T15:29:02Z",
       "root_message_id": "msg-ec475a616804"
     }
   ]

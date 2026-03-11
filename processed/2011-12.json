@@ -8,7 +8,7 @@
       "message_id": "<1322826277.25386.YahooMailNeo@web161701.mail.bf1.yahoo.com>",
       "from_name": "shyam basnet",
       "from_email_hash": "2397a9dcb715c266981e885e70fe262e15ec79f59a2d590f89db594282f55b31",
-      "date": "2011-12-02T03:44:37-08:00",
+      "date": "2011-12-02T11:44:37Z",
       "subject": "[OGRUG] Problem in GenMatch",
       "subject_clean": "[OGRUG] Problem in GenMatch",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<1322826660.68824.YahooMailNeo@web161702.mail.bf1.yahoo.com>",
       "from_name": "shyam basnet",
       "from_email_hash": "2397a9dcb715c266981e885e70fe262e15ec79f59a2d590f89db594282f55b31",
-      "date": "2011-12-02T03:51:00-08:00",
+      "date": "2011-12-02T11:51:00Z",
       "subject": "[OGRUG] Error in GenMatch",
       "subject_clean": "[OGRUG] Error in GenMatch",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4EDA2789.9050004@uottawa.ca>",
       "from_name": "John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-12-03T08:43:37-05:00",
+      "date": "2011-12-03T13:43:37Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 18, Issue 1",
       "in_reply_to": "<mailman.11.1322910002.6751.r-ug-ottawa@r-project.org>",
@@ -62,8 +62,8 @@
       "participants": [
         "shyam basnet"
       ],
-      "started": "2011-12-02T03:44:37-08:00",
-      "last_reply": "2011-12-02T03:44:37-08:00",
+      "started": "2011-12-02T11:44:37Z",
+      "last_reply": "2011-12-02T11:44:37Z",
       "root_message_id": "msg-160c5fbb84d2"
     },
     {
@@ -73,8 +73,8 @@
       "participants": [
         "shyam basnet"
       ],
-      "started": "2011-12-02T03:51:00-08:00",
-      "last_reply": "2011-12-02T03:51:00-08:00",
+      "started": "2011-12-02T11:51:00Z",
+      "last_reply": "2011-12-02T11:51:00Z",
       "root_message_id": "msg-4a537ca2f087"
     },
     {
@@ -84,8 +84,8 @@
       "participants": [
         "John C Nash"
       ],
-      "started": "2011-12-03T08:43:37-05:00",
-      "last_reply": "2011-12-03T08:43:37-05:00",
+      "started": "2011-12-03T13:43:37Z",
+      "last_reply": "2011-12-03T13:43:37Z",
       "root_message_id": "msg-5d25543c8d48"
     }
   ]

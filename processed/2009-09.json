@@ -8,7 +8,7 @@
       "message_id": "<877F12D6F0E6384BB2079D294ED14AE802E5BCC3@IZAR.london.campus.london.edu>",
       "from_name": "Dan Goldstein",
       "from_email_hash": "fee0f2749826b08ec10707554333ea16d147404671585b741d4104cda54fbadb",
-      "date": "2009-09-03T18:11:11+01:00",
+      "date": "2009-09-03T17:11:11Z",
       "subject": "[OGRUG] R Flashmob",
       "subject_clean": "[OGRUG] R Flashmob",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<8FA920D2-28E0-482F-9A11-3DFD3750BDEC@mcmaster.ca>",
       "from_name": "Mark Podolsky",
       "from_email_hash": "cf6daec39f503a8165ba18fc4fe2faf837f71b3c7cadd1ca1dd501ca5340557f",
-      "date": "2009-09-18T10:56:29-04:00",
+      "date": "2009-09-18T14:56:29Z",
       "subject": "[OGRUG] Requesting help with recoding variables",
       "subject_clean": "[OGRUG] Requesting help with recoding variables",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4AB4D07B.4050804@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2009-09-19T08:37:15-04:00",
+      "date": "2009-09-19T12:37:15Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 5, Issue 2",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 5, Issue 2",
       "in_reply_to": "<mailman.13.1253354403.17640.r-ug-ottawa@r-project.org>",
@@ -58,7 +58,7 @@
       "message_id": "<3f539790909200641r4a8a52e7u180a0b270dcd2e7d@mail.gmail.com>",
       "from_name": "N Aitken",
       "from_email_hash": "59d05c28db1ba6c3269dc390b483c8055fa8f933913c6deddc7bfce126d7f9a7",
-      "date": "2009-09-20T09:41:40-04:00",
+      "date": "2009-09-20T13:41:40Z",
       "subject": "[OGRUG] Ottawa or area workshop",
       "subject_clean": "[OGRUG] Ottawa or area workshop",
       "in_reply_to": null,
@@ -74,7 +74,7 @@
       "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2009-09-21T09:59:30-04:00",
+      "date": "2009-09-21T13:59:30Z",
       "subject": "[OGRUG] meet with Duncan Murdoch Friday",
       "subject_clean": "[OGRUG] meet with Duncan Murdoch Friday",
       "in_reply_to": null,
@@ -90,7 +90,7 @@
       "message_id": "<4AB8C6C8.2000703@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2009-09-22T08:44:56-04:00",
+      "date": "2009-09-22T12:44:56Z",
       "subject": "[OGRUG] Nov 6 meeting alert",
       "subject_clean": "[OGRUG] Nov 6 meeting alert",
       "in_reply_to": "<mailman.5.1253613602.20991.r-ug-ottawa@r-project.org>",
@@ -108,7 +108,7 @@
       "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FD6B@EXMAIL2.bocad.bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2009-09-22T16:18:59-04:00",
+      "date": "2009-09-22T20:18:59Z",
       "subject": "[OGRUG] meet with Duncan Murdoch Friday",
       "subject_clean": "[OGRUG] meet with Duncan Murdoch Friday",
       "in_reply_to": "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>",
@@ -130,8 +130,8 @@
       "participants": [
         "Dan Goldstein"
       ],
-      "started": "2009-09-03T18:11:11+01:00",
-      "last_reply": "2009-09-03T18:11:11+01:00",
+      "started": "2009-09-03T17:11:11Z",
+      "last_reply": "2009-09-03T17:11:11Z",
       "root_message_id": "msg-0c3556309728"
     },
     {
@@ -141,8 +141,8 @@
       "participants": [
         "Mark Podolsky"
       ],
-      "started": "2009-09-18T10:56:29-04:00",
-      "last_reply": "2009-09-18T10:56:29-04:00",
+      "started": "2009-09-18T14:56:29Z",
+      "last_reply": "2009-09-18T14:56:29Z",
       "root_message_id": "msg-04b239b641c7"
     },
     {
@@ -152,8 +152,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2009-09-19T08:37:15-04:00",
-      "last_reply": "2009-09-19T08:37:15-04:00",
+      "started": "2009-09-19T12:37:15Z",
+      "last_reply": "2009-09-19T12:37:15Z",
       "root_message_id": "msg-ae4bdd471c7c"
     },
     {
@@ -163,8 +163,8 @@
       "participants": [
         "N Aitken"
       ],
-      "started": "2009-09-20T09:41:40-04:00",
-      "last_reply": "2009-09-20T09:41:40-04:00",
+      "started": "2009-09-20T13:41:40Z",
+      "last_reply": "2009-09-20T13:41:40Z",
       "root_message_id": "msg-be12b3688426"
     },
     {
@@ -174,8 +174,8 @@
       "participants": [
         "Paul Gilbert"
       ],
-      "started": "2009-09-21T09:59:30-04:00",
-      "last_reply": "2009-09-22T16:18:59-04:00",
+      "started": "2009-09-21T13:59:30Z",
+      "last_reply": "2009-09-22T20:18:59Z",
       "root_message_id": "msg-d94ffa67c991"
     },
     {
@@ -185,8 +185,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2009-09-22T08:44:56-04:00",
-      "last_reply": "2009-09-22T08:44:56-04:00",
+      "started": "2009-09-22T12:44:56Z",
+      "last_reply": "2009-09-22T12:44:56Z",
       "root_message_id": "msg-8aaa566170f4"
     }
   ]

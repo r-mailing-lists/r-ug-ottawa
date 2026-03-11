@@ -8,7 +8,7 @@
       "message_id": "<CAPjrKxbC80hv6zioiFJeA6iLk74q2+KkbFnHJ89o--3=eRp4UA@mail.gmail.com>",
       "from_name": "John Lewis",
       "from_email_hash": "b920097965d63de16bc155ccce048dd5af994ff8011d920d30038785a24f6e6a",
-      "date": "2014-09-10T16:04:22-04:00",
+      "date": "2014-09-10T20:04:22Z",
       "subject": "[OGRUG] meeting",
       "subject_clean": "[OGRUG] meeting",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<54119B95.2060205@gmail.com>",
       "from_name": "Pierre Tourigny",
       "from_email_hash": "68305feb34eb9459fbc609c5002924a6ad65a05b8bcf28fcd95ed15206749bc0",
-      "date": "2014-09-11T08:54:45-04:00",
+      "date": "2014-09-11T12:54:45Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 34, Issue 1",
       "in_reply_to": "<mailman.13.1410429605.14036.r-ug-ottawa@r-project.org>",
@@ -42,7 +42,7 @@
       "message_id": "<54134371.4040107@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2014-09-12T15:03:13-04:00",
+      "date": "2014-09-12T19:03:13Z",
       "subject": "[OGRUG] R meetups and OCRUG",
       "subject_clean": "[OGRUG] R meetups and OCRUG",
       "in_reply_to": "<54119B95.2060205@gmail.com>",
@@ -65,8 +65,8 @@
       "participants": [
         "John Lewis"
       ],
-      "started": "2014-09-10T16:04:22-04:00",
-      "last_reply": "2014-09-10T16:04:22-04:00",
+      "started": "2014-09-10T20:04:22Z",
+      "last_reply": "2014-09-10T20:04:22Z",
       "root_message_id": "msg-12563b181b94"
     },
     {
@@ -77,8 +77,8 @@
         "Paul Gilbert",
         "Pierre Tourigny"
       ],
-      "started": "2014-09-11T08:54:45-04:00",
-      "last_reply": "2014-09-12T15:03:13-04:00",
+      "started": "2014-09-11T12:54:45Z",
+      "last_reply": "2014-09-12T19:03:13Z",
       "root_message_id": "msg-11c0db485833"
     }
   ]

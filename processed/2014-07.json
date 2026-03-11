@@ -8,7 +8,7 @@
       "message_id": "<BAY178-W2965DB970EE5093270E83E93060@phx.gbl>",
       "from_name": "David Bissessar",
       "from_email_hash": "64c6d3e40b6934ddbcc607414fbe2bc1b200c221354ac812b6c9bafc7f94dcb4",
-      "date": "2014-07-02T16:45:27-04:00",
+      "date": "2014-07-02T20:45:27Z",
       "subject": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "subject_clean": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "in_reply_to": "<BAY178-W28278BFBF59ECFAE3DB0D593180@phx.gbl>",
@@ -28,7 +28,7 @@
       "message_id": "<1404832856.93758.YahooMailNeo@web120901.mail.ne1.yahoo.com>",
       "from_name": "wayne schlemitz",
       "from_email_hash": "d0b02af8baf126e43a30c76b5e06751b8354b5517eeca12b360293e87b464023",
-      "date": "2014-07-08T08:20:56-07:00",
+      "date": "2014-07-08T15:20:56Z",
       "subject": "[OGRUG] glm.fit() and png()",
       "subject_clean": "[OGRUG] glm.fit() and png()",
       "in_reply_to": null,
@@ -44,7 +44,7 @@
       "message_id": "<1404833093.91210.YahooMailNeo@web120902.mail.ne1.yahoo.com>",
       "from_name": "wayne schlemitz",
       "from_email_hash": "d0b02af8baf126e43a30c76b5e06751b8354b5517eeca12b360293e87b464023",
-      "date": "2014-07-08T08:24:53-07:00",
+      "date": "2014-07-08T15:24:53Z",
       "subject": "[OGRUG] data and script",
       "subject_clean": "[OGRUG] data and script",
       "in_reply_to": null,
@@ -60,7 +60,7 @@
       "message_id": "<BAY179-W810CCC51F46669A1801AD3BD0E0@phx.gbl>",
       "from_name": "Anhthong Le",
       "from_email_hash": "e5a2a0869175a0e4e323e66c3620ce44bbcb0a5bde7dd78bc107044468685f75",
-      "date": "2014-07-10T09:50:07-04:00",
+      "date": "2014-07-10T13:50:07Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 32, Issue 4",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 32, Issue 4",
       "in_reply_to": "<mailman.7.1403863203.10470.r-ug-ottawa@r-project.org>",
@@ -78,7 +78,7 @@
       "message_id": "<53BE9EFD.4010205@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2014-07-10T10:11:09-04:00",
+      "date": "2014-07-10T14:11:09Z",
       "subject": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "subject_clean": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "in_reply_to": "<BAY178-W2965DB970EE5093270E83E93060@phx.gbl>",
@@ -99,7 +99,7 @@
       "message_id": "<CAPnsgj71G31Jhr5JSPuN7HJQGFOBzat5pAed_NkQqoBAYN1Cfg@mail.gmail.com>",
       "from_name": "Ramesh Fernando",
       "from_email_hash": "052a132fb9ca1239aaffd030e5fcf2870f940cc1b0cd110d997f1906772471d2",
-      "date": "2014-07-15T08:42:13-04:00",
+      "date": "2014-07-15T12:42:13Z",
       "subject": "[OGRUG] Julia Meetup",
       "subject_clean": "[OGRUG] Julia Meetup",
       "in_reply_to": null,
@@ -115,7 +115,7 @@
       "message_id": "<CADx5=5xSFbH6UJys_UxTPOhL2zVfb9LCYZYGg-EO28sCEiu2=A@mail.gmail.com>",
       "from_name": "Claire Austin",
       "from_email_hash": "69d9f375eb664d50fa6e4bdb988fe1d6ca67ca9e69961abe5da153758182b2e4",
-      "date": "2014-07-15T09:14:58-04:00",
+      "date": "2014-07-15T13:14:58Z",
       "subject": "[OGRUG] Julia Meetup",
       "subject_clean": "[OGRUG] Julia Meetup",
       "in_reply_to": "<CAPnsgj71G31Jhr5JSPuN7HJQGFOBzat5pAed_NkQqoBAYN1Cfg@mail.gmail.com>",
@@ -133,7 +133,7 @@
       "message_id": "<BAY178-W18EB97AFF02B1F297433DE93F70@phx.gbl>",
       "from_name": "David Bissessar",
       "from_email_hash": "64c6d3e40b6934ddbcc607414fbe2bc1b200c221354ac812b6c9bafc7f94dcb4",
-      "date": "2014-07-16T14:07:51-04:00",
+      "date": "2014-07-16T18:07:51Z",
       "subject": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "subject_clean": "[OGRUG] July 10th meeting: Revolution Analytics and Hortonworks",
       "in_reply_to": "<BAY407-EAS66A97F7CDD2E56382C7BA2930E0@phx.gbl>",
@@ -172,8 +172,8 @@
         "David Bissessar",
         "Paul Gilbert"
       ],
-      "started": "2014-07-02T16:45:27-04:00",
-      "last_reply": "2014-07-10T10:11:09-04:00",
+      "started": "2014-07-02T20:45:27Z",
+      "last_reply": "2014-07-10T14:11:09Z",
       "root_message_id": "msg-7ab8eb9550e2"
     },
     {
@@ -183,8 +183,8 @@
       "participants": [
         "wayne schlemitz"
       ],
-      "started": "2014-07-08T08:20:56-07:00",
-      "last_reply": "2014-07-08T08:20:56-07:00",
+      "started": "2014-07-08T15:20:56Z",
+      "last_reply": "2014-07-08T15:20:56Z",
       "root_message_id": "msg-cf72bda28551"
     },
     {
@@ -194,8 +194,8 @@
       "participants": [
         "wayne schlemitz"
       ],
-      "started": "2014-07-08T08:24:53-07:00",
-      "last_reply": "2014-07-08T08:24:53-07:00",
+      "started": "2014-07-08T15:24:53Z",
+      "last_reply": "2014-07-08T15:24:53Z",
       "root_message_id": "msg-eb381bc380c8"
     },
     {
@@ -205,8 +205,8 @@
       "participants": [
         "Anhthong Le"
       ],
-      "started": "2014-07-10T09:50:07-04:00",
-      "last_reply": "2014-07-10T09:50:07-04:00",
+      "started": "2014-07-10T13:50:07Z",
+      "last_reply": "2014-07-10T13:50:07Z",
       "root_message_id": "msg-f4238c6ad55e"
     },
     {
@@ -217,8 +217,8 @@
         "Claire Austin",
         "Ramesh Fernando"
       ],
-      "started": "2014-07-15T08:42:13-04:00",
-      "last_reply": "2014-07-15T09:14:58-04:00",
+      "started": "2014-07-15T12:42:13Z",
+      "last_reply": "2014-07-15T13:14:58Z",
       "root_message_id": "msg-9d7c1528bcae"
     },
     {
@@ -228,8 +228,8 @@
       "participants": [
         "David Bissessar"
       ],
-      "started": "2014-07-16T14:07:51-04:00",
-      "last_reply": "2014-07-16T14:07:51-04:00",
+      "started": "2014-07-16T18:07:51Z",
+      "last_reply": "2014-07-16T18:07:51Z",
       "root_message_id": "msg-ebb9db545d7e"
     },
     {
@@ -239,8 +239,8 @@
       "participants": [
         "Abdool S. Yasseen III"
       ],
-      "started": "2014-07-22T18:19:43+00:00",
-      "last_reply": "2014-07-22T18:19:43+00:00",
+      "started": "2014-07-22T18:19:43Z",
+      "last_reply": "2014-07-22T18:19:43Z",
       "root_message_id": "msg-1839e8669ceb"
     }
   ]

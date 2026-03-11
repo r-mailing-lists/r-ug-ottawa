@@ -8,7 +8,7 @@
       "message_id": "<4C5C7728.2040900@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2010-08-06T16:57:12-04:00",
+      "date": "2010-08-06T20:57:12Z",
       "subject": "[OGRUG] Proposal for September meeting of OGRUG",
       "subject_clean": "[OGRUG] Proposal for September meeting of OGRUG",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4C6BD895.90601@gmail.com>",
       "from_name": "Etienne Bellemare Racine",
       "from_email_hash": "43b2a5b474c9e620c2a0ea1a2ccc70c29d0c1c5133fe827016988c6bbef8a35d",
-      "date": "2010-08-18T08:56:53-04:00",
+      "date": "2010-08-18T12:56:53Z",
       "subject": "[OGRUG] Inference for R",
       "subject_clean": "[OGRUG] Inference for R",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<4C6F39FE.1030309@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2010-08-20T22:29:18-04:00",
+      "date": "2010-08-21T02:29:18Z",
       "subject": "[OGRUG] Meeting September 7, 2010",
       "subject_clean": "[OGRUG] Meeting September 7, 2010",
       "in_reply_to": "<mailman.11.1282212004.1964.r-ug-ottawa@r-project.org>",
@@ -58,7 +58,7 @@
       "message_id": "<AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>",
       "from_name": "David Gattrell",
       "from_email_hash": "74ee2a882ae6612a0cc150510e573aa5ed21edb4116717f4d70c02e74d9b9855",
-      "date": "2010-08-21T22:25:29-04:00",
+      "date": "2010-08-22T02:25:29Z",
       "subject": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
       "subject_clean": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
       "in_reply_to": null,
@@ -74,7 +74,7 @@
       "message_id": "<4C72653D.5000703@gmail.com>",
       "from_name": "Robert Biddle",
       "from_email_hash": "f3217d116df31a627a900e2c43d6a840947d733b78a80db1e82735880e5b17d6",
-      "date": "2010-08-23T08:10:37-04:00",
+      "date": "2010-08-23T12:10:37Z",
       "subject": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
       "subject_clean": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
       "in_reply_to": "<AANLkTimrdQp7gfnXa47scW9m56GUMo0Au-39L6vMZTgR@mail.gmail.com>",
@@ -96,8 +96,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2010-08-06T16:57:12-04:00",
-      "last_reply": "2010-08-06T16:57:12-04:00",
+      "started": "2010-08-06T20:57:12Z",
+      "last_reply": "2010-08-06T20:57:12Z",
       "root_message_id": "msg-b9abd55055d7"
     },
     {
@@ -107,8 +107,8 @@
       "participants": [
         "Etienne Bellemare Racine"
       ],
-      "started": "2010-08-18T08:56:53-04:00",
-      "last_reply": "2010-08-18T08:56:53-04:00",
+      "started": "2010-08-18T12:56:53Z",
+      "last_reply": "2010-08-18T12:56:53Z",
       "root_message_id": "msg-7ab4fd60842d"
     },
     {
@@ -118,8 +118,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2010-08-20T22:29:18-04:00",
-      "last_reply": "2010-08-20T22:29:18-04:00",
+      "started": "2010-08-21T02:29:18Z",
+      "last_reply": "2010-08-21T02:29:18Z",
       "root_message_id": "msg-d3f8cb3cbf81"
     },
     {
@@ -130,8 +130,8 @@
         "David Gattrell",
         "Robert Biddle"
       ],
-      "started": "2010-08-21T22:25:29-04:00",
-      "last_reply": "2010-08-23T08:10:37-04:00",
+      "started": "2010-08-22T02:25:29Z",
+      "last_reply": "2010-08-23T12:10:37Z",
       "root_message_id": "msg-c35b2acb7fde"
     }
   ]

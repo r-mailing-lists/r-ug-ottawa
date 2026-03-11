@@ -8,7 +8,7 @@
       "message_id": "<4C1B8B60.1030308@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2010-06-18T11:06:08-04:00",
+      "date": "2010-06-18T15:06:08Z",
       "subject": "[OGRUG] UseR! 2010",
       "subject_clean": "[OGRUG] UseR! 2010",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4C1B8FC3.4070201@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2010-06-18T11:24:51-04:00",
+      "date": "2010-06-18T15:24:51Z",
       "subject": "[OGRUG] software@software-carpentry.org",
       "subject_clean": "[OGRUG] software@software-carpentry.org",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<D611103AA7EE3B4DAE7F7D49C72B291A02A365B8@EXMAIL2.bocad.bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2010-06-18T11:59:07-04:00",
+      "date": "2010-06-18T15:59:07Z",
       "subject": "[OGRUG] UseR! 2010",
       "subject_clean": "[OGRUG] UseR! 2010",
       "in_reply_to": "<4C1B8B60.1030308@uottawa.ca>",
@@ -58,7 +58,7 @@
       "message_id": "<4C1CBCB3.3040704@gmail.com>",
       "from_name": "Robert Biddle",
       "from_email_hash": "f3217d116df31a627a900e2c43d6a840947d733b78a80db1e82735880e5b17d6",
-      "date": "2010-06-19T08:48:51-04:00",
+      "date": "2010-06-19T12:48:51Z",
       "subject": "[OGRUG] UseR! 2010",
       "subject_clean": "[OGRUG] UseR! 2010",
       "in_reply_to": "<4C1B8B60.1030308@uottawa.ca>",
@@ -82,8 +82,8 @@
         "Prof. John C Nash",
         "Robert Biddle"
       ],
-      "started": "2010-06-18T11:06:08-04:00",
-      "last_reply": "2010-06-19T08:48:51-04:00",
+      "started": "2010-06-18T15:06:08Z",
+      "last_reply": "2010-06-19T12:48:51Z",
       "root_message_id": "msg-c65f9015a60c"
     },
     {
@@ -93,8 +93,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2010-06-18T11:24:51-04:00",
-      "last_reply": "2010-06-18T11:24:51-04:00",
+      "started": "2010-06-18T15:24:51Z",
+      "last_reply": "2010-06-18T15:24:51Z",
       "root_message_id": "msg-9073a5e9c62f"
     }
   ]

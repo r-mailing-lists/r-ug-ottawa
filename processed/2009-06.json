@@ -8,7 +8,7 @@
       "message_id": "<4A40DF5F.5000706@bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2009-06-23T09:57:51-04:00",
+      "date": "2009-06-23T13:57:51Z",
       "subject": "[OGRUG] [Fwd: [R-sig-hpc] R user survey]",
       "subject_clean": "[OGRUG] [Fwd: [R-sig-hpc] R user survey]",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Paul Gilbert"
       ],
-      "started": "2009-06-23T09:57:51-04:00",
-      "last_reply": "2009-06-23T09:57:51-04:00",
+      "started": "2009-06-23T13:57:51Z",
+      "last_reply": "2009-06-23T13:57:51Z",
       "root_message_id": "msg-ee1b5fb0164a"
     }
   ]

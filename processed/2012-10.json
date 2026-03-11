@@ -8,7 +8,7 @@
       "message_id": "<006101cdad47$b3078470$19168d50$@uqo.ca>",
       "from_name": "Stephane Gagnon",
       "from_email_hash": "94d9b673c932e80112e037ed5abb584e898c015426131c912cf24635e4d11e51",
-      "date": "2012-10-18T11:46:11-04:00",
+      "date": "2012-10-18T15:46:11Z",
       "subject": "[OGRUG] GPU Acceleration in R",
       "subject_clean": "[OGRUG] GPU Acceleration in R",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Stephane Gagnon"
       ],
-      "started": "2012-10-18T11:46:11-04:00",
-      "last_reply": "2012-10-18T11:46:11-04:00",
+      "started": "2012-10-18T15:46:11Z",
+      "last_reply": "2012-10-18T15:46:11Z",
       "root_message_id": "msg-634ee30904eb"
     }
   ]

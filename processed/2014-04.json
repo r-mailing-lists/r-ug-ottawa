@@ -8,7 +8,7 @@
       "message_id": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
       "from_name": "Amin Adatia",
       "from_email_hash": "72c23d3c03c8f115c70262ffe713b310b8c86656c75692b70b1302dcdf4cbdc2",
-      "date": "2014-04-27T17:39:02-04:00",
+      "date": "2014-04-27T21:39:02Z",
       "subject": "[OGRUG] Examples using Oracle",
       "subject_clean": "[OGRUG] Examples using Oracle",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAFe6CgOLF-UvbnE8PaBaF-xoYd3GbuuzOP07G5zvshCgLEpAgg@mail.gmail.com>",
       "from_name": "Helder Mendes",
       "from_email_hash": "de0e694aecaf84544029bafeffd37622206b0111216cab91ee323b934077c210",
-      "date": "2014-04-28T07:40:43+01:00",
+      "date": "2014-04-28T06:40:43Z",
       "subject": "[OGRUG] Examples using Oracle",
       "subject_clean": "[OGRUG] Examples using Oracle",
       "in_reply_to": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
@@ -42,7 +42,7 @@
       "message_id": "<535E8323.6060707@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2014-04-28T12:34:43-04:00",
+      "date": "2014-04-28T16:34:43Z",
       "subject": "[OGRUG] Examples using Oracle",
       "subject_clean": "[OGRUG] Examples using Oracle",
       "in_reply_to": "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
@@ -60,7 +60,7 @@
       "message_id": "<COL129-W86BA55521072FCFC4FEEC7E1470@phx.gbl>",
       "from_name": "Amin Adatia",
       "from_email_hash": "72c23d3c03c8f115c70262ffe713b310b8c86656c75692b70b1302dcdf4cbdc2",
-      "date": "2014-04-28T13:52:24-04:00",
+      "date": "2014-04-28T17:52:24Z",
       "subject": "[OGRUG] Examples using Oracle",
       "subject_clean": "[OGRUG] Examples using Oracle",
       "in_reply_to": "<535E8323.6060707@gmail.com>",
@@ -85,8 +85,8 @@
         "Helder Mendes",
         "Paul Gilbert"
       ],
-      "started": "2014-04-27T17:39:02-04:00",
-      "last_reply": "2014-04-28T13:52:24-04:00",
+      "started": "2014-04-27T21:39:02Z",
+      "last_reply": "2014-04-28T17:52:24Z",
       "root_message_id": "msg-fdb175cbde30"
     }
   ]

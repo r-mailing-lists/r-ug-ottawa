@@ -8,7 +8,7 @@
       "message_id": "<50005C68.9060809@uottawa.ca>",
       "from_name": "John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2012-07-13T13:35:36-04:00",
+      "date": "2012-07-13T17:35:36Z",
       "subject": "[OGRUG] Fwd: [OTT-GOSLING] \"Applications of R in Government\"",
       "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] \"Applications of R in Government\"",
       "in_reply_to": "<CANL2-4M_UzDmv14hUhvK2_svdk-5BoVUKyUEhm0Z64O0bKHfNw@mail.gmail.com>",
@@ -26,7 +26,7 @@
       "message_id": "<5001F7C0.4050402@uottawa.ca>",
       "from_name": "John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2012-07-14T18:50:40-04:00",
+      "date": "2012-07-14T22:50:40Z",
       "subject": "[OGRUG] Fwd: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’ hourly ozone readings",
       "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’ hourly ozone readings",
       "in_reply_to": "<CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>",
@@ -48,8 +48,8 @@
       "participants": [
         "John C Nash"
       ],
-      "started": "2012-07-13T13:35:36-04:00",
-      "last_reply": "2012-07-13T13:35:36-04:00",
+      "started": "2012-07-13T17:35:36Z",
+      "last_reply": "2012-07-13T17:35:36Z",
       "root_message_id": "msg-bdb78dce5ebb"
     },
     {
@@ -59,8 +59,8 @@
       "participants": [
         "John C Nash"
       ],
-      "started": "2012-07-14T18:50:40-04:00",
-      "last_reply": "2012-07-14T18:50:40-04:00",
+      "started": "2012-07-14T22:50:40Z",
+      "last_reply": "2012-07-14T22:50:40Z",
       "root_message_id": "msg-1fc4ab601e17"
     }
   ]

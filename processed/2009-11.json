@@ -8,7 +8,7 @@
       "message_id": "<4AF197CE.5030304@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2009-11-04T10:03:42-05:00",
+      "date": "2009-11-04T15:03:42Z",
       "subject": "[OGRUG] Reminder of Friday get-together",
       "subject_clean": "[OGRUG] Reminder of Friday get-together",
       "in_reply_to": "<mailman.9.1256814002.5664.r-ug-ottawa@r-project.org>",
@@ -26,7 +26,7 @@
       "message_id": "<4AF59312.5070806@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2009-11-07T10:32:34-05:00",
+      "date": "2009-11-07T15:32:34Z",
       "subject": "[OGRUG] Slides / notes for Nov 6, 2009 meeting",
       "subject_clean": "[OGRUG] Slides / notes for Nov 6, 2009 meeting",
       "in_reply_to": "<mailman.13.1257418803.13787.r-ug-ottawa@r-project.org>",
@@ -44,7 +44,7 @@
       "message_id": "<5B54C4682676CC4582D258951209A8ED01F90A32@exchsrv1.cheo.int>",
       "from_name": "Barrowman, Nick",
       "from_email_hash": "f7fad38004b6a32a6986a07c1baf0f6221291e6af6bee8512c25b52337b095c8",
-      "date": "2009-11-20T11:13:10-05:00",
+      "date": "2009-11-20T16:13:10Z",
       "subject": "[OGRUG] SSO Fall Event on December 8th - Évennement d'automne de la SSO, le 8 décembre",
       "subject_clean": "[OGRUG] SSO Fall Event on December 8th - Évennement d'automne de la SSO, le 8 décembre",
       "in_reply_to": null,
@@ -64,8 +64,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2009-11-04T10:03:42-05:00",
-      "last_reply": "2009-11-04T10:03:42-05:00",
+      "started": "2009-11-04T15:03:42Z",
+      "last_reply": "2009-11-04T15:03:42Z",
       "root_message_id": "msg-d0da474baf29"
     },
     {
@@ -75,8 +75,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2009-11-07T10:32:34-05:00",
-      "last_reply": "2009-11-07T10:32:34-05:00",
+      "started": "2009-11-07T15:32:34Z",
+      "last_reply": "2009-11-07T15:32:34Z",
       "root_message_id": "msg-33b00be72987"
     },
     {
@@ -86,8 +86,8 @@
       "participants": [
         "Barrowman, Nick"
       ],
-      "started": "2009-11-20T11:13:10-05:00",
-      "last_reply": "2009-11-20T11:13:10-05:00",
+      "started": "2009-11-20T16:13:10Z",
+      "last_reply": "2009-11-20T16:13:10Z",
       "root_message_id": "msg-5d4bcf105cca"
     }
   ]

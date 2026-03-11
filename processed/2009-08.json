@@ -8,7 +8,7 @@
       "message_id": "<69E8946004ED8243A9E1554F7401424F0257B408@ices10.ices.on.ca>",
       "from_name": "Lam, Kelvin",
       "from_email_hash": "2197fa12cdc305d60143d7ba2558a0d3ace98fe6508c5e8d9502cc55eaf994c5",
-      "date": "2009-08-13T12:57:49-04:00",
+      "date": "2009-08-13T16:57:49Z",
       "subject": "[OGRUG] Thinking of starting a useR group in Toronto",
       "subject_clean": "[OGRUG] Thinking of starting a useR group in Toronto",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4A84897F.2090601@bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2009-08-13T17:45:35-04:00",
+      "date": "2009-08-13T21:45:35Z",
       "subject": "[OGRUG] Thinking of starting a useR group in Toronto",
       "subject_clean": "[OGRUG] Thinking of starting a useR group in Toronto",
       "in_reply_to": "<69E8946004ED8243A9E1554F7401424F0257B408@ices10.ices.on.ca>",
@@ -42,7 +42,7 @@
       "message_id": "<4A855652.5040404@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2009-08-14T08:19:30-04:00",
+      "date": "2009-08-14T12:19:30Z",
       "subject": "[OGRUG] Starting a RUG",
       "subject_clean": "[OGRUG] Starting a RUG",
       "in_reply_to": "<mailman.7.1250244003.721.r-ug-ottawa@r-project.org>",
@@ -60,7 +60,7 @@
       "message_id": "<BAY108-W468A3DA218D4E6CCE0A09BBFC0@phx.gbl>",
       "from_name": "Fischer _  Chen Ji Zheng",
       "from_email_hash": "ed6f8c4707b09e79d187b2be89196d1a3c8b80252a89eb17f360682d4294d97f",
-      "date": "2009-08-20T22:48:59-04:00",
+      "date": "2009-08-21T02:48:59Z",
       "subject": "[OGRUG] extra .",
       "subject_clean": "[OGRUG] extra .",
       "in_reply_to": null,
@@ -76,7 +76,7 @@
       "message_id": "<4A8EA5C1.8020704@bank-banque-canada.ca>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "51f348dc0febec9b32e9d9dcb86f6de731958e1295e818209b4c127bffef5569",
-      "date": "2009-08-21T09:48:49-04:00",
+      "date": "2009-08-21T13:48:49Z",
       "subject": "[OGRUG] extra .",
       "subject_clean": "[OGRUG] extra .",
       "in_reply_to": "<BAY108-W468A3DA218D4E6CCE0A09BBFC0@phx.gbl>",
@@ -99,8 +99,8 @@
         "Lam, Kelvin",
         "Paul Gilbert"
       ],
-      "started": "2009-08-13T12:57:49-04:00",
-      "last_reply": "2009-08-13T17:45:35-04:00",
+      "started": "2009-08-13T16:57:49Z",
+      "last_reply": "2009-08-13T21:45:35Z",
       "root_message_id": "msg-0feb470f9949"
     },
     {
@@ -110,8 +110,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2009-08-14T08:19:30-04:00",
-      "last_reply": "2009-08-14T08:19:30-04:00",
+      "started": "2009-08-14T12:19:30Z",
+      "last_reply": "2009-08-14T12:19:30Z",
       "root_message_id": "msg-9c5500d69c47"
     },
     {
@@ -122,8 +122,8 @@
         "Fischer _  Chen Ji Zheng",
         "Paul Gilbert"
       ],
-      "started": "2009-08-20T22:48:59-04:00",
-      "last_reply": "2009-08-21T09:48:49-04:00",
+      "started": "2009-08-21T02:48:59Z",
+      "last_reply": "2009-08-21T13:48:49Z",
       "root_message_id": "msg-c710419d8498"
     }
   ]

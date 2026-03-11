@@ -8,7 +8,7 @@
       "message_id": "<4D7266A1.6090303@uottawa.ca>",
       "from_name": "Prof. John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-03-05T11:36:49-05:00",
+      "date": "2011-03-05T16:36:49Z",
       "subject": "[OGRUG] Google Summer of Code",
       "subject_clean": "[OGRUG] Google Summer of Code",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<63F107BCC37AEA49A75FD94AA3E07CB006E24696@pacpbsex01.pac.dfo-mpo.ca>",
       "from_name": "Schweigert, Jake",
       "from_email_hash": "658ab6e06621e188ecaf63ebfa204d289b835d40b9a949caa7120cb2e77d60be",
-      "date": "2011-03-10T12:51:32-08:00",
+      "date": "2011-03-10T20:51:32Z",
       "subject": "[OGRUG] Permissions and Access access with R",
       "subject_clean": "[OGRUG] Permissions and Access access with R",
       "in_reply_to": null,
@@ -40,7 +40,7 @@
       "message_id": "<611E3B4082599347935E4043E14178F70E3C68B5@SXOM-301.fg.rbc.com>",
       "from_name": "Guelman, Leo",
       "from_email_hash": "6ce1a505d699752bfd21e27aa4b3db321d82efc8bd2578976621809d2830c57f",
-      "date": "2011-03-14T10:17:12-04:00",
+      "date": "2011-03-14T14:17:12Z",
       "subject": "[OGRUG] Toronto R User's Group Meeting Announcement",
       "subject_clean": "[OGRUG] Toronto R User's Group Meeting Announcement",
       "in_reply_to": null,
@@ -60,8 +60,8 @@
       "participants": [
         "Prof. John C Nash"
       ],
-      "started": "2011-03-05T11:36:49-05:00",
-      "last_reply": "2011-03-05T11:36:49-05:00",
+      "started": "2011-03-05T16:36:49Z",
+      "last_reply": "2011-03-05T16:36:49Z",
       "root_message_id": "msg-0c3fe5f985df"
     },
     {
@@ -71,8 +71,8 @@
       "participants": [
         "Schweigert, Jake"
       ],
-      "started": "2011-03-10T12:51:32-08:00",
-      "last_reply": "2011-03-10T12:51:32-08:00",
+      "started": "2011-03-10T20:51:32Z",
+      "last_reply": "2011-03-10T20:51:32Z",
       "root_message_id": "msg-30edb5ea8804"
     },
     {
@@ -82,8 +82,8 @@
       "participants": [
         "Guelman, Leo"
       ],
-      "started": "2011-03-14T10:17:12-04:00",
-      "last_reply": "2011-03-14T10:17:12-04:00",
+      "started": "2011-03-14T14:17:12Z",
+      "last_reply": "2011-03-14T14:17:12Z",
       "root_message_id": "msg-388a9b2983dc"
     }
   ]

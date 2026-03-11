@@ -8,7 +8,7 @@
       "message_id": "<da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>",
       "from_name": "Martin Potter",
       "from_email_hash": "6635fe8e895fc19058b80a967a38cd86b4f57bb99a8119bb1b4fb7a7570e98e7",
-      "date": "2020-09-14T20:03:47-04:00",
+      "date": "2020-09-15T00:03:47Z",
       "subject": "[OGRUG] Newbie needs help with plot",
       "subject_clean": "[OGRUG] Newbie needs help with plot",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAJx09AnNL4cQeG2Vy7MTnQLj54OdETfN_t4P0AszvBQ4sbxh4A@mail.gmail.com>",
       "from_name": "clark richards",
       "from_email_hash": "3a31536235be1a099759c01372e337a048f05846b0dd12d4673b609f9ac5dbe2",
-      "date": "2020-09-14T21:19:38-03:00",
+      "date": "2020-09-15T00:19:38Z",
       "subject": "[OGRUG] Newbie needs help with plot",
       "subject_clean": "[OGRUG] Newbie needs help with plot",
       "in_reply_to": "<da7d91b2-ab29-10e6-7db0-f8cc5ce590b7@storm.ca>",
@@ -47,8 +47,8 @@
         "Martin Potter",
         "clark richards"
       ],
-      "started": "2020-09-14T20:03:47-04:00",
-      "last_reply": "2020-09-14T21:19:38-03:00",
+      "started": "2020-09-15T00:03:47Z",
+      "last_reply": "2020-09-15T00:19:38Z",
       "root_message_id": "msg-2b29910a60d0"
     }
   ]

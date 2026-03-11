@@ -8,7 +8,7 @@
       "message_id": "<522F535F.1040606@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2013-09-10T13:14:07-04:00",
+      "date": "2013-09-10T17:14:07Z",
       "subject": "[OGRUG] R meetup starting again",
       "subject_clean": "[OGRUG] R meetup starting again",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Paul Gilbert"
       ],
-      "started": "2013-09-10T13:14:07-04:00",
-      "last_reply": "2013-09-10T13:14:07-04:00",
+      "started": "2013-09-10T17:14:07Z",
+      "last_reply": "2013-09-10T17:14:07Z",
       "root_message_id": "msg-edbf45f98c5f"
     }
   ]

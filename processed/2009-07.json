@@ -8,7 +8,7 @@
       "message_id": "<5B54C4682676CC4582D258951209A8ED4DC8F6@exchsrv1.cheo.int>",
       "from_name": "Barrowman, Nick",
       "from_email_hash": "f7fad38004b6a32a6986a07c1baf0f6221291e6af6bee8512c25b52337b095c8",
-      "date": "2009-07-23T15:13:13-04:00",
+      "date": "2009-07-23T19:13:13Z",
       "subject": "[OGRUG] Blog that may be of interest to R users",
       "subject_clean": "[OGRUG] Blog that may be of interest to R users",
       "in_reply_to": null,
@@ -28,8 +28,8 @@
       "participants": [
         "Barrowman, Nick"
       ],
-      "started": "2009-07-23T15:13:13-04:00",
-      "last_reply": "2009-07-23T15:13:13-04:00",
+      "started": "2009-07-23T19:13:13Z",
+      "last_reply": "2009-07-23T19:13:13Z",
       "root_message_id": "msg-28a9665c36e6"
     }
   ]

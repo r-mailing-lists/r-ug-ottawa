@@ -8,7 +8,7 @@
       "message_id": "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>",
       "from_name": "Helder Mendes",
       "from_email_hash": "de0e694aecaf84544029bafeffd37622206b0111216cab91ee323b934077c210",
-      "date": "2012-04-23T18:14:02+01:00",
+      "date": "2012-04-23T17:14:02Z",
       "subject": "[OGRUG] R plot() Line numbers?",
       "subject_clean": "[OGRUG] R plot() Line numbers?",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<CAM6svt6wWxB9MM-kV8ugax_Wfa8RQiy4qQBhXyPq4DbhpRmPKQ@mail.gmail.com>",
       "from_name": "David Gattrell",
       "from_email_hash": "74ee2a882ae6612a0cc150510e573aa5ed21edb4116717f4d70c02e74d9b9855",
-      "date": "2012-04-23T21:14:23-04:00",
+      "date": "2012-04-24T01:14:23Z",
       "subject": "[OGRUG] R plot() Line numbers?",
       "subject_clean": "[OGRUG] R plot() Line numbers?",
       "in_reply_to": "<CAFe6CgM9iKCdUeAKgX6F8Kp-GMzQmYb25iaML5VGvEDmXZ+SRA@mail.gmail.com>",
@@ -42,7 +42,7 @@
       "message_id": "<CADkt+ZvQuF7NxnEzjh4_Y8RfmkKUx3TyvPixRGTt7yBYjAHzmQ@mail.gmail.com>",
       "from_name": "Tyler Smith",
       "from_email_hash": "5175000895736522a94b46846e1b695cdc12921b61083ab626f75efaaf595f24",
-      "date": "2012-04-25T09:02:42-04:00",
+      "date": "2012-04-25T13:02:42Z",
       "subject": "[OGRUG] R plot() Line numbers?",
       "subject_clean": "[OGRUG] R plot() Line numbers?",
       "in_reply_to": "<26381_1335230082_4F95FE82_26381_99_1_76e8d13d67e64629bc7fe7310b50990f@EXHUB2010-1.campus.MCGILL.CA>",
@@ -66,8 +66,8 @@
         "David Gattrell",
         "Helder Mendes"
       ],
-      "started": "2012-04-23T18:14:02+01:00",
-      "last_reply": "2012-04-23T21:14:23-04:00",
+      "started": "2012-04-23T17:14:02Z",
+      "last_reply": "2012-04-24T01:14:23Z",
       "root_message_id": "msg-7bde570725c5"
     },
     {
@@ -77,8 +77,8 @@
       "participants": [
         "Tyler Smith"
       ],
-      "started": "2012-04-25T09:02:42-04:00",
-      "last_reply": "2012-04-25T09:02:42-04:00",
+      "started": "2012-04-25T13:02:42Z",
+      "last_reply": "2012-04-25T13:02:42Z",
       "root_message_id": "msg-5a94764c4f9f"
     }
   ]

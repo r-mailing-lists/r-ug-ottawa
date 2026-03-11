@@ -8,7 +8,7 @@
       "message_id": "<CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg@mail.gmail.com>",
       "from_name": "Chunyun Ma",
       "from_email_hash": "cf5687ee2374860b1624ae239c6295f21f466ea079818970d35edcbba1e7dd05",
-      "date": "2018-10-05T16:02:58-04:00",
+      "date": "2018-10-05T20:02:58Z",
       "subject": "[OGRUG] seek advice/collaboration on how to promote R in our city",
       "subject_clean": "[OGRUG] seek advice/collaboration on how to promote R in our city",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<9d225a2f-0709-9cc2-808b-66a11f8ab469@gmail.com>",
       "from_name": "J C Nash",
       "from_email_hash": "cb1e1ad5faa281e458b671afe0fe007fe9411a1936256eea41a78d09be213609",
-      "date": "2018-10-06T08:53:36-04:00",
+      "date": "2018-10-06T12:53:36Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1",
       "in_reply_to": "<mailman.180.3.1538820002.52939.r-ug-ottawa@r-project.org>",
@@ -42,7 +42,7 @@
       "message_id": "<CAKcXiSoU_8h91JrZ_p_OJCTywtoo3snWpsnyEF46GvbMqHoptg@mail.gmail.com>",
       "from_name": "Joseph Potvin",
       "from_email_hash": "aa92d0e696aa82d1148eba586b10863d451d82525744c9465776b3164dd65cbb",
-      "date": "2018-10-06T09:03:07-04:00",
+      "date": "2018-10-06T13:03:07Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 44, Issue 1",
       "in_reply_to": "<9d225a2f-0709-9cc2-808b-66a11f8ab469@gmail.com>",
@@ -61,7 +61,7 @@
       "message_id": "<CAFS3taSiWYevrfw6GkS4FHDif95cxpHzyP77FSu=pbzD3_H8KQ@mail.gmail.com>",
       "from_name": "Chunyun Ma",
       "from_email_hash": "cf5687ee2374860b1624ae239c6295f21f466ea079818970d35edcbba1e7dd05",
-      "date": "2018-10-06T16:25:53-04:00",
+      "date": "2018-10-06T20:25:53Z",
       "subject": "[OGRUG]  seek advice/collaboration on how to promote R in our city",
       "subject_clean": "[OGRUG]  seek advice/collaboration on how to promote R in our city",
       "in_reply_to": "<CAFS3taQgQ+EThemJ9Q3M3NOa+XO58BYzX5x2MuSos-7F9c43fg@mail.gmail.com>",
@@ -99,8 +99,8 @@
       "participants": [
         "Chunyun Ma"
       ],
-      "started": "2018-10-05T16:02:58-04:00",
-      "last_reply": "2018-10-06T16:25:53-04:00",
+      "started": "2018-10-05T20:02:58Z",
+      "last_reply": "2018-10-06T20:25:53Z",
       "root_message_id": "msg-df1b32884013"
     },
     {
@@ -111,8 +111,8 @@
         "J C Nash",
         "Joseph Potvin"
       ],
-      "started": "2018-10-06T08:53:36-04:00",
-      "last_reply": "2018-10-06T09:03:07-04:00",
+      "started": "2018-10-06T12:53:36Z",
+      "last_reply": "2018-10-06T13:03:07Z",
       "root_message_id": "msg-b548f180b0fd"
     },
     {
@@ -122,8 +122,8 @@
       "participants": [
         "Chunyun Ma"
       ],
-      "started": "2018-10-24T00:50:50+00:00",
-      "last_reply": "2018-10-24T00:50:50+00:00",
+      "started": "2018-10-24T00:50:50Z",
+      "last_reply": "2018-10-24T00:50:50Z",
       "root_message_id": "msg-efc158dcad3f"
     }
   ]

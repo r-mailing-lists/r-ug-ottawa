@@ -8,7 +8,7 @@
       "message_id": "<CAKcXiSpFaFr8ertHKt+k8jw=Suazw4Xsf8=0z70W=WatCVqZkA@mail.gmail.com>",
       "from_name": "Joseph Potvin",
       "from_email_hash": "0f42e05cca1c1f64fcff4493adf6498197e528f9810eeaf6f0237eff7f75be82",
-      "date": "2017-02-14T11:23:57-05:00",
+      "date": "2017-02-14T16:23:57Z",
       "subject": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
       "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
       "in_reply_to": "<CANL2-4N7g8YHXw_qJ-WZeNciGkAU5He6mRDgn7EoFzXh5m8PYQ@mail.gmail.com>",
@@ -26,7 +26,7 @@
       "message_id": "<c28307b2-aa0f-6e7f-d219-3cf66329fb5e@gmail.com>",
       "from_name": "J C Nash",
       "from_email_hash": "b69dc597287b01916fb57d8dc5f5adaf4198f715a2781a3ac147feb2511e85bd",
-      "date": "2017-02-15T08:22:07-05:00",
+      "date": "2017-02-15T13:22:07Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
       "in_reply_to": "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>",
@@ -44,7 +44,7 @@
       "message_id": "<80481ccc-9931-5b7c-ebb8-11bf714219d1@gmail.com>",
       "from_name": "Ian E. Gorman",
       "from_email_hash": "08787edafd0c12baa9a76adabd7d2d938f2e3785c7abff14e735800d88853cc5",
-      "date": "2017-02-15T10:47:45-05:00",
+      "date": "2017-02-15T15:47:45Z",
       "subject": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
       "subject_clean": "[OGRUG] R-UG-Ottawa Digest, Vol 41, Issue 1",
       "in_reply_to": "<mailman.15.1487156403.31632.r-ug-ottawa@r-project.org>",
@@ -62,7 +62,7 @@
       "message_id": "<a67f3017-1729-6598-75d4-aab69b459ba3@gmail.com>",
       "from_name": "Paul Gilbert",
       "from_email_hash": "aa7dbc26c3f15087b2ccda228b01f598ecfa2ae9d7fa19309941c01a2c4f0d2f",
-      "date": "2017-02-15T19:03:42-05:00",
+      "date": "2017-02-16T00:03:42Z",
       "subject": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
       "subject_clean": "[OGRUG] Fwd: [OTT-GOSLING] SAS to R migration",
       "in_reply_to": "<80481ccc-9931-5b7c-ebb8-11bf714219d1@gmail.com>",
@@ -85,8 +85,8 @@
       "participants": [
         "Joseph Potvin"
       ],
-      "started": "2017-02-14T11:23:57-05:00",
-      "last_reply": "2017-02-14T11:23:57-05:00",
+      "started": "2017-02-14T16:23:57Z",
+      "last_reply": "2017-02-14T16:23:57Z",
       "root_message_id": "msg-ee4c9995ddfd"
     },
     {
@@ -96,8 +96,8 @@
       "participants": [
         "J C Nash"
       ],
-      "started": "2017-02-15T08:22:07-05:00",
-      "last_reply": "2017-02-15T08:22:07-05:00",
+      "started": "2017-02-15T13:22:07Z",
+      "last_reply": "2017-02-15T13:22:07Z",
       "root_message_id": "msg-c65910eacad3"
     },
     {
@@ -108,8 +108,8 @@
         "Ian E. Gorman",
         "Paul Gilbert"
       ],
-      "started": "2017-02-15T10:47:45-05:00",
-      "last_reply": "2017-02-15T19:03:42-05:00",
+      "started": "2017-02-15T15:47:45Z",
+      "last_reply": "2017-02-16T00:03:42Z",
       "root_message_id": "msg-7e575d16ddce"
     }
   ]

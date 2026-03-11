@@ -8,7 +8,7 @@
       "message_id": "<4EAFF917.9090603@uottawa.ca>",
       "from_name": "John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-11-01T09:50:15-04:00",
+      "date": "2011-11-01T13:50:15Z",
       "subject": "[OGRUG] Subject: R Users Group Meeting",
       "subject_clean": "[OGRUG] Subject: R Users Group Meeting",
       "in_reply_to": null,
@@ -24,7 +24,7 @@
       "message_id": "<4ECF97B7.5020006@uottawa.ca>",
       "from_name": "John C Nash",
       "from_email_hash": "3bf13e4030d6ccfb8b926ecacccb28843cbf6d33b7b988bdff965495e66e883c",
-      "date": "2011-11-25T08:27:19-05:00",
+      "date": "2011-11-25T13:27:19Z",
       "subject": "[OGRUG] Reminder -- RUG meeting at Carleton Nov 30",
       "subject_clean": "[OGRUG] Reminder -- RUG meeting at Carleton Nov 30",
       "in_reply_to": null,
@@ -44,8 +44,8 @@
       "participants": [
         "John C Nash"
       ],
-      "started": "2011-11-01T09:50:15-04:00",
-      "last_reply": "2011-11-01T09:50:15-04:00",
+      "started": "2011-11-01T13:50:15Z",
+      "last_reply": "2011-11-01T13:50:15Z",
       "root_message_id": "msg-47f2b2b142ed"
     },
     {
@@ -55,8 +55,8 @@
       "participants": [
         "John C Nash"
       ],
-      "started": "2011-11-25T08:27:19-05:00",
-      "last_reply": "2011-11-25T08:27:19-05:00",
+      "started": "2011-11-25T13:27:19Z",
+      "last_reply": "2011-11-25T13:27:19Z",
       "root_message_id": "msg-8b8a801cfd34"
     }
   ]
