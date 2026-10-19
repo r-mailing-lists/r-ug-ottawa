@@ -29,11 +29,14 @@
       "subject_clean": "[OGRUG] Permissions and Access access with R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110310/5703ad8c/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110310/5703ad8c/attachment.pl>",
+      "body_plain": "Hello:\n\nI've been trying to extract some data records from a security enabled Access database using R. Although I seem to have permissions to access the database, R does not appear to be able to read any records. Does anyone have a suggestion or possible solution. Here is the error message:\n\n> source(\"C:\\\\stass\\\\Martell Data\\\\Dimport.r\")\nLoading required package: RODBC\n> objects()\n[1] \"Biodata\" \"channel\"\n> Biodata\n[1] \"42000 -1907 [Microsoft][ODBC Microsoft Access Driver] Record(s) cannot be read; no read permission on 'agecomp'.\"\n[2] \"[RODBC] ERROR: Could not SQLExecDirect 'SELECT * FROM \\\"agecomp\\\"'\"                                              \n> \n\nJake\n\nJake Schweigert,\nSection Head, Conservation Biology\nFisheries and Oceans | Pêches et Océans\nMarine Ecosystems and Aquaculture Division | Division des \nécosystèmes marins et de l'aquaculture\nPacific Biological Station | Station de recherché biologique du Pacifique\n3190 Hammond Bay Road | 3190 chemin Hammond Bay\nNanaimo, BC   V9T 6N7 | Nanaimo (C.-B.)  V9T 6N7\nTelephone | Téléphone   250-756-7203\nFacsimile | Télécopieur  250-756-7138\n\n\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello:\n\nI've been trying to extract some data records from a security enabled Access database using R. Although I seem to have permissions to access the database, R does not appear to be able to read ",
       "thread_id": "thread-30edb5ea8804",
       "thread_depth": 0,
-      "month": "2011-03"
+      "month": "2011-03",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110310/5703ad8c/attachment.pl"
+      ]
     },
     {
       "id": "msg-388a9b2983dc",
@@ -45,11 +48,14 @@
       "subject_clean": "[OGRUG] Toronto R User's Group Meeting Announcement",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110314/b86fd2d9/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110314/b86fd2d9/attachment.pl>",
+      "body_plain": "Dear Ottawa R Users,\n\nI'm glad to announce the next Toronto R user's group meeting on Friday,\nMarch 25, 2011 3:00-5:00 pm. We have a very special speaker for this\nevent: John Fox will be presenting topics in Programming in R. John is\nthe Senator William McMaster Professor of Social Statistics in the\nSociology Department at McMaster University. He is an active contributor\nto R and he is a member of the R Foundation. He is author of many\narticles and books, including his most recent publication R Companion to\nApplied Regression, Second Edition <http://tinyurl.com/carbook> . \n\nI'd like to especially thank Professor Murtaza Haider for providing a\nfully equipped meeting room for this event in the Ted Rogers School of\nManagement at Ryerson University. The address is:\n\n55 Dundas Street West\nLecture Hall, 9th Floor, Room 3-109.\nToronto, ON \n\nThe building is connected to the Yonge Subway station. There will be\nsigns available on the 9th floor to guide the visitors to the lecture\nhall. \n\nThe capacity for the room is 40, so we'll have to prioritize in order of\nsign-up for the meeting. \n\nPlease RSVP to this meeting here:\n\nhttp://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group/events/1687\n6298/http://www.meetup.com/Greater-Toronto-Area-GTA-R-Users-Group/events\n/16876298/\n\nI think this is a very special opportunity not to be missed. Hope to see\nyou there!\n\nRegards, \nLeo.\n\n\n\n_______________________________________________________________________\n\nThis e-mail may be privileged and/or confidential, and the sender does not waive\nany related rights and obligations. Any distribution, use or copying of this e-mail or the information\nit contains by other than an intended recipient is unauthorized.\nIf you received this e-mail in error, please advise me (by return e-mail or otherwise) immediately.\n\nCe courriel peut contenir des renseignements protégés et confidentiels.\nLexpéditeur ne renonce pas aux droits et obligations qui sy rapportent.\nToute diffusion, utilisation ou copie de ce courriel ou des renseignements quil contient\npar une personne autre que le destinataire désigné est interdite.\nSi vous recevez ce courriel par erreur, veuillez men aviser immédiatement, \npar retour de courriel ou par un autre moyen.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear Ottawa R Users,\n\nI'm glad to announce the next Toronto R user's group meeting on Friday,\nMarch 25, 2011 3:00-5:00 pm. We have a very special speaker for this\nevent: John Fox will be presenting to",
       "thread_id": "thread-388a9b2983dc",
       "thread_depth": 0,
-      "month": "2011-03"
+      "month": "2011-03",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110314/b86fd2d9/attachment.pl"
+      ]
     }
   ],
   "threads": [

@@ -13,11 +13,14 @@
       "subject_clean": "[OGRUG] Examples using Oracle",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl>",
+      "body_plain": "Hi!\n\n \n\nDoes anyone have examples of using R to plot graphs from data tables in Oracle database?\n\n \n\n \n\nRegards\n\n \n\nAmin Adatia (amin at knowtech.ca)\n\nKnowTech Solutions Inc. (www.knowtech.ca)\n\nMobile : +1-613-864-8378\n\n \n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi!\n\n \n\nDoes anyone have examples of using R to plot graphs from data tables in Oracle database?\n\n \n\n \n\nRegards\n\n \n\nAmin Adatia (amin at knowtech.ca)\n\nKnowTech Solutions Inc. (www.knowtech.ca)\n\nMobile",
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 0,
-      "month": "2014-04"
+      "month": "2014-04",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl"
+      ]
     },
     {
       "id": "msg-2002677b9322",
@@ -31,11 +34,14 @@
       "references": [
         "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>"
       ],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl>",
+      "body_plain": "Hi,\n\nYou can use RODBC package to interface with any database. Just need to have\nODBC.\nBR\nHM\n\n\nOn Sun, Apr 27, 2014 at 10:39 PM, Amin Adatia <amin at knowtech.ca> wrote:\n\n> Hi!\n>\n>\n>\n> Does anyone have examples of using R to plot graphs from data tables in\n> Oracle database?\n>\n>\n>\n>\n>\n> Regards\n>\n>\n>\n> Amin Adatia (amin at knowtech.ca)\n>\n> KnowTech Solutions Inc. (www.knowtech.ca)\n>\n> Mobile : +1-613-864-8378\n>\n>\n>\n>\n>         [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi,\n\nYou can use RODBC package to interface with any database. Just need to have\nODBC.\nBR\nHM\n\n\nOn Sun, Apr 27, 2014 at 10:39 PM, Amin Adatia <amin at knowtech.ca> wrote:\n\n> Hi!\n>\n>\n>\n> Does anyone hav",
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 1,
-      "month": "2014-04"
+      "month": "2014-04",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl"
+      ]
     },
     {
       "id": "msg-d181e527f436",
@@ -68,11 +74,14 @@
         "<004a01cf6261$1ecd6240$5c6826c0$@knowtech.ca>",
         "<535E8323.6060707@gmail.com>"
       ],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl>",
+      "body_plain": "I am working out the Query Part and will have enough of those soon enough. The Graphing I will check in/at the link you have given.\n\nI am using ROracle to connect\n\nRegards \nAmin Adatia \nKnowTech Solutions Inc ( http://knowtech.ca )\nMobile +1-613-864-8378\n \n> Date: Mon, 28 Apr 2014 12:34:43 -0400\n> From: pgilbert902 at gmail.com\n> To: amin at knowtech.ca\n> CC: r-ug-ottawa at r-project.org\n> Subject: Re: [OGRUG] Examples using Oracle\n> \n> There are really two separate questions here: how to import data from \n> Oracle? and how to make a graph in R?\n> \n> For the second, there are lots of examples ( eg \n> http://rgraphgallery.blogspot.ca/ ).\n> \n> The first is more difficult to find examples because one needs access to \n> an Oracle database. If you have that and some standard SQL queries that \n> extract the data you want then we can probably work out some examples. I \n> don't currently have Oracle, but standard SQL queries are not very \n> different from one engine to another. (It is the enhancements that are \n> different.)\n> \n> It is the installation of the R packages that is likely to be most \n> difficult. The two options are packages ROracle and RODBC.  I would \n> generally prefer ROracle unless your database administrators are \n> enforcing use of ODBC only. Certainly I would not recommend RODBC unless \n> it is supported on the database end.\n> \n> Paul\n> \n> On 04/27/2014 05:39 PM, Amin Adatia wrote:\n> > Hi!\n> >\n> >\n> >\n> > Does anyone have examples of using R to plot graphs from data tables in Oracle database?\n> >\n> >\n> >\n> >\n> >\n> > Regards\n> >\n> >\n> >\n> > Amin Adatia (amin at knowtech.ca)\n> >\n> > KnowTech Solutions Inc. (www.knowtech.ca)\n> >\n> > Mobile : +1-613-864-8378\n> >\n> >\n> >\n> >\n> > \t[[alternative HTML version deleted]]\n> >\n> > _______________________________________________\n> > R-UG-Ottawa mailing list\n> > R-UG-Ottawa at r-project.org\n> > https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n> >\n \t\t \t   \t\t  \n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I am working out the Query Part and will have enough of those soon enough. The Graphing I will check in/at the link you have given.\n\nI am using ROracle to connect\n\nRegards \nAmin Adatia \nKnowTech Solut",
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 2,
-      "month": "2014-04"
+      "month": "2014-04",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl"
+      ]
     }
   ],
   "threads": [

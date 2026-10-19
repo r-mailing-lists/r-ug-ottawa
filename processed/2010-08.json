@@ -63,11 +63,14 @@
       "subject_clean": "[OGRUG] Is anyone running R on a Mac, and if so, can they let me know what the Sys.info() command returns?",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl>",
+      "body_plain": "I'm sending a command to open a PDF file from within an R script.  The\nactual command\nis system dependent, and I'm trying to figure out how I determine the script\nis running on\na Mac, so that the correct command is used.  I don't have a Mac available to\nverify this\nsection of the code.\n\n    help_button <- tkbutton(my_main_win,\n                        text=\"PDF Manual\",\n                        anchor=\"w\",\n                        command=function() {\n                            my_dir = getwd()\n                            src_dir <-\npaste(tclObj(Source_dir),sep=\"\",collapse=\" \")\n                            setwd(src_dir)\n                            # \"RADAR_documentation_0v6p5.pdf\"\n                            if\n(as.character(Sys.info()[\"sysname\"])==\"Windows\") {\n                                command_str = \"cmd /c start\nRADAR_documentation_0v6p5.pdf\"\n                            } else if\n(as.character(Sys.info()[\"sysname\"])==\"Mac\") {\n                                command_str = \"open\nRADAR_documentation_0v6p5.pdf\"\n                            } else { # linux\n                                command_str = \"xdg-open\nRADAR_documentation_0v6p5.pdf\"\n                            }\n                            system(command_str)\n                            setwd(my_dir)\n                        })\n    tkpack(help_button,side=\"top\",padx=\"10m\",fill=\"x\")\n\n\nHopefully I'm sending this to the appropriate email address.\n\nThanks,\n\nDaveG\n\n\nPS\n\nIf you are curious as to what RADAR is in the above code...\nhttp://sites.google.com/site/stdfradar/\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I'm sending a command to open a PDF file from within an R script.  The\nactual command\nis system dependent, and I'm trying to figure out how I determine the script\nis running on\na Mac, so that the corr",
       "thread_id": "thread-c35b2acb7fde",
       "thread_depth": 0,
-      "month": "2010-08"
+      "month": "2010-08",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl"
+      ]
     },
     {
       "id": "msg-af71ae16662e",

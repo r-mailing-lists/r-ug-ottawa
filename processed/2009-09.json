@@ -29,11 +29,14 @@
       "subject_clean": "[OGRUG] Requesting help with recoding variables",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl>",
+      "body_plain": "Hi - I am new to R, and am becoming increasingly comfortable with  \nperforming my analyses in R, but I am struggling a bit with  \nmanipulating my data.  I found this list on the CRAN website, and I  \nhope that this post is in line with the purpose of the list.\n\nI have a data set in Excel that I move to the R environment, but I am  \nstuck figuring out how to transform the items that must be reverse  \ncoded.  Specifically, I have a number of items that are on a scale  \nfrom 1-8; I need to reverse all the numbers between 1 and 7, and  \nrecode 8 as 0 (i.e. 7-to-1, 1-to-7, 6-to-2, 2-to-6,etc. and 8-to-0).\n\nI would really appreciate some assistance in performing this action.\n\nThanks all!\n\nMark Podolsky\nPhD Candidate\nHuman Resources and Organizational Behaviour\nDeGroote School of Business\nMcMaster University\npodolsmg at mcmaster.ca\n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hi - I am new to R, and am becoming increasingly comfortable with  \nperforming my analyses in R, but I am struggling a bit with  \nmanipulating my data.  I found this list on the CRAN website, and I  \n",
       "thread_id": "thread-04b239b641c7",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl"
+      ]
     },
     {
       "id": "msg-ae4bdd471c7c",
@@ -79,11 +82,14 @@
       "subject_clean": "[OGRUG] meet with Duncan Murdoch Friday",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl>",
+      "body_plain": "Duncan Murdoch, a member of the R core team among other claims to fame,\nwill be visiting Ottawa this Friday Sept 25.  Duncan has volunteered to\nmeet Friday morning with OGRUG members if there is interest.  He can\nchat about what's coming in R 2.10.0, give advice on particular\nproblems, or whatever comes up.\n\n \n\nTentatively I suggest a meeting around 9:30 in a coffee shop on Bank\nstreet in Old Ottawa South (between the river and the canal), as this is\nfairly convenient to the universities and some of the hospitals, which\ncovers a fair part of our membership.  We can adjust this based on\npreferences of people that might come.\n\n \n\nPlease let me know if you are interested.\n\n \n\nPaul Gilbert\n\n====================================================================================\n\nLa version française suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential information, and the Bank of\nCanada does not waive any related rights. Any distribution, use, or copying of this\nemail or the information it contains by other than the intended recipient is\nunauthorized. If you received this email in error please delete it immediately from\nyour system and notify the sender promptly by email that you have done so. \n\n------------------------------------------------------------------------------------\n\nLe présent courriel peut contenir de l'information privilégiée ou confidentielle.\nLa Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,\nutilisation ou copie de ce courriel ou des renseignements qu'il contient par une\npersonne autre que le ou les destinataires désignés est interdite. Si vous recevez\nce courriel par erreur, veuillez le supprimer immédiatement et envoyer sans délai à\nl'expéditeur un message électronique pour l'aviser que vous avez éliminé de votre\nordinateur toute copie du courriel reçu.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Duncan Murdoch, a member of the R core team among other claims to fame,\nwill be visiting Ottawa this Friday Sept 25.  Duncan has volunteered to\nmeet Friday morning with OGRUG members if there is inter",
       "thread_id": "thread-d94ffa67c991",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl"
+      ]
     },
     {
       "id": "msg-8aaa566170f4",
@@ -115,11 +121,14 @@
       "references": [
         "<D611103AA7EE3B4DAE7F7D49C72B291A01D2FA1A@EXMAIL2.bocad.bank-banque-canada.ca>"
       ],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl>",
+      "body_plain": "I think we have now settled the location as the Bridgehead coffee shop\nat 1172 Bank St,  between Grove and Ossington (613) 731-3434, at 9:30am\nthis Friday. (Between  the canal and the river.)\n\n \n\nFeel free to drop by,  no need to commit.\n\n \n\nPaul \n\n \n\nFrom: Paul Gilbert \nSent: September 21, 2009 10:00 AM\nTo: r-ug-ottawa at r-project.org\nSubject: meet with Duncan Murdoch Friday\n\n \n\nDuncan Murdoch, a member of the R core team among other claims to fame,\nwill be visiting Ottawa this Friday Sept 25.  Duncan has volunteered to\nmeet Friday morning with OGRUG members if there is interest.  He can\nchat about what's coming in R 2.10.0, give advice on particular\nproblems, or whatever comes up.\n\n \n\nTentatively I suggest a meeting around 9:30 in a coffee shop on Bank\nstreet in Old Ottawa South (between the river and the canal), as this is\nfairly convenient to the universities and some of the hospitals, which\ncovers a fair part of our membership.  We can adjust this based on\npreferences of people that might come.\n\n \n\nPlease let me know if you are interested.\n\n \n\nPaul Gilbert\n\n====================================================================================\n\nLa version française suit le texte anglais.\n\n------------------------------------------------------------------------------------\n\nThis email may contain privileged and/or confidential information, and the Bank of\nCanada does not waive any related rights. Any distribution, use, or copying of this\nemail or the information it contains by other than the intended recipient is\nunauthorized. If you received this email in error please delete it immediately from\nyour system and notify the sender promptly by email that you have done so. \n\n------------------------------------------------------------------------------------\n\nLe présent courriel peut contenir de l'information privilégiée ou confidentielle.\nLa Banque du Canada ne renonce pas aux droits qui s'y rapportent. Toute diffusion,\nutilisation ou copie de ce courriel ou des renseignements qu'il contient par une\npersonne autre que le ou les destinataires désignés est interdite. Si vous recevez\nce courriel par erreur, veuillez le supprimer immédiatement et envoyer sans délai à\nl'expéditeur un message électronique pour l'aviser que vous avez éliminé de votre\nordinateur toute copie du courriel reçu.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "I think we have now settled the location as the Bridgehead coffee shop\nat 1172 Bank St,  between Grove and Ossington (613) 731-3434, at 9:30am\nthis Friday. (Between  the canal and the river.)\n\n \n\nFeel",
       "thread_id": "thread-d94ffa67c991",
       "thread_depth": 1,
-      "month": "2009-09"
+      "month": "2009-09",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl"
+      ]
     }
   ],
   "threads": [

@@ -13,11 +13,14 @@
       "subject_clean": "[OGRUG] GPU Acceleration in R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl>",
+      "body_plain": "Dear John,\n\nDear OGRUG members,\n\n \n\nJohn - As promised, I invite OGRUP to host a session at U of Quebec. Please\nlet me know if you have room in your calendar for mid-January.\n\n \n\nAll - I’m looking for R users to briefly present some projects that may have\nimplemented (or even just tried or considered) GPU Acceleration in R.\n\n \n\nIn any case, my research team is planning to test GPU acceleration in R,\nusing CULA on Nvidia Tesla K20.\n\n \n\nhttp://brainarray.mbni.med.umich.edu/brainarray/rgpgpu/\n\n \n\nIf your organization has some funds available, we need partners to help us\nfinance this research. Tesla K20 cards are $3000, and I have a couple of PhD\nstudents available to work with us on this.\n\n \n\nThanks and looking forward to your reply.\n\n \n\nBest Regards,\n\n \n\nStephane \n\n \n\n_________________________________________\n\nStéphane Gagnon, Ph.D.\n\nProfesseur\n\nDépartement des sciences administratives\n\nUniversité du Québec en Outaouais\n\nPavillon Lucien-Brault\n\n101, rue St-Jean-Bosco, Local B2082\n\nC.P. 1250, succursale Hull \n\nGatineau, Québec, Canada, J8X 3X7\n\nTéléphone: +1-819-595-3900, poste 1942\n\nFax: +1-819-773-1747\n\nEmail: stephane.gagnon at uqo.ca  \n\nWeb: http://www.gagnontech.org <http://www.gagnontech.org/>  \n\n\n\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear John,\n\nDear OGRUG members,\n\n \n\nJohn - As promised, I invite OGRUP to host a session at U of Quebec. Please\nlet me know if you have room in your calendar for mid-January.\n\n \n\nAll - I’m looking for",
       "thread_id": "thread-634ee30904eb",
       "thread_depth": 0,
-      "month": "2012-10"
+      "month": "2012-10",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20121018/203fdc0f/attachment.pl"
+      ]
     }
   ],
   "threads": [

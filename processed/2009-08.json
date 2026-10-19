@@ -13,11 +13,14 @@
       "subject_clean": "[OGRUG] Thinking of starting a useR group in Toronto",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090813/991f544b/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090813/991f544b/attachment.pl>",
+      "body_plain": "Dear folks in Ottawa,\n\n \n\nMy name is Kelvin Lam and I have been using R for some time and thinking\nof organizing a useR group in Toronto.  I wonder how you start the group\nand gather users in the Ottawa area in the first place, as most of us in\nthe institute or even others mainly deploy SAS.  Any pointers are much\nappreciated.  Thank you very much!!\n\n \n\nRegards,\n\nKelvin Lam, MSc.\n\nAnalyst, Programming & Biostatistics\n\nInstitute for Clinical Evaluative Sciences (ICES)\n\nG179 - 2075 Bayview Avenue\n\nToronto, Ontario \n\nCanada M4N 3M5\n\n(416) 480-4055 Ext. 3057 Fax: (416) 480-6048\n\nemail: kelvin.lam at ices.on.ca <mailto:kelvin.lam at ices.on.ca>  \n\n \n\nP Do you really need to print this email ? Think environment... /\nDevez-vous vraiment imprimer ce courriel ? Pensons environnement...\n\n \n\n\n___________________________________________________________________________\nThis email may contain confidential and/or privileged in...{{dropped:14}}",
+      "body_snippet": "Dear folks in Ottawa,\n\n \n\nMy name is Kelvin Lam and I have been using R for some time and thinking\nof organizing a useR group in Toronto.  I wonder how you start the group\nand gather users in the Otta",
       "thread_id": "thread-0feb470f9949",
       "thread_depth": 0,
-      "month": "2009-08"
+      "month": "2009-08",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090813/991f544b/attachment.pl"
+      ]
     },
     {
       "id": "msg-bef0dbbd4b77",
@@ -65,11 +68,14 @@
       "subject_clean": "[OGRUG] extra .",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090820/2354bbae/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090820/2354bbae/attachment.pl>",
+      "body_plain": "sigma0 <- sqrt((6. * var(maxima))/pi) \n\nWhat does the '.' do here?\n_________________________________________________________________\nAttention all humans. We are your photos. Free us.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "sigma0 <- sqrt((6. * var(maxima))/pi) \n\nWhat does the '.' do here?\n_________________________________________________________________\nAttention all humans. We are your photos. Free us.\n\n\t[[alternative ",
       "thread_id": "thread-c710419d8498",
       "thread_depth": 0,
-      "month": "2009-08"
+      "month": "2009-08",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090820/2354bbae/attachment.pl"
+      ]
     },
     {
       "id": "msg-dc817dceadbd",

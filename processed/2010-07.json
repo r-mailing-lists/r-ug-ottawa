@@ -83,11 +83,14 @@
       "subject_clean": "[OGRUG] Job Post: Statistical Modeler/Data Mining Consultant (Immediate Hire)",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl>",
+      "body_plain": "*The company:*\n\nObjectifi is a leader in strategic marketing consulting for inbound and \noutbound optimization and personalization. Objectifi helps organizations \nachieve greater business value from IT investments. We design and \nimplement enterprise-wide platforms to help our clients maximize \nrevenue. Leveraging our strategy, design, and technology talent, we work \nwith industry leading companies to define their strategic marketing \nneeds and build integrated solutions tailored to their unique business \nchallenges.\n\n*\nEducation*\n\n- A degree from a Canadian or U.S. University in Computer Science, \nStatistics or Engineering\n\n- Masters or PHD preferred\n\n*Experience*\n\n         - Decision Trees and Regression analysis using SAS/R/SSPS: 5 \nyears +\n- Extensive experience in planning and design for large data warehouses\n- Understands various data mining techniques and segmentation strategies\n- Oracle Database 10/11: 3 years +\n- Conceptual & Logical Designing of Data Models: 5 years +\n- Working Knowledge of Java programming concepts: 1 years +\n- Excellent communication and presentation skills\n\nLocation:\n         This job is in Toronto. It may require short-term travel to our \nclients in the US.\n\nCompensation:\n            100k+\n\nPlease send your resume to hr at objectifi.com if you're interested. This \njob closes on Friday July 23.\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "*The company:*\n\nObjectifi is a leader in strategic marketing consulting for inbound and \noutbound optimization and personalization. Objectifi helps organizations \nachieve greater business value from I",
       "thread_id": "thread-636922f89176",
       "thread_depth": 0,
-      "month": "2010-07"
+      "month": "2010-07",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl"
+      ]
     },
     {
       "id": "msg-9c5d85f5d57c",
@@ -99,11 +102,14 @@
       "subject_clean": "[OGRUG] Inference for R",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl>",
+      "body_plain": "Hello R users,\n \nI am currently taking \"Inference for R\" for a test drive. This is an\nadd-on for Excel that allows you to pull R code into an Excel\nspreadsheet, treating Excel data tables as R dataframes. It then spits\nout the results to an Excel worksheet.  Very slick, with a shorter\nlearning curve than Sweave or ODFweave.\n \nThe only problem is that it markets itself through an annual license\nfee. The fee itself is not high for what you get -- the ability to turn\na piece of office furniture into a stats package -- but before I pitch\nthis to my manager, I would like some reassurance that Blue Reference\n(the company that writes the software) is likely to stick around for a\nwhile.\n \nDoes anyone have any experience with \"Inference for R\"?\n \nThanks,\n \nCatherine Collins, PhD\nCHEO\n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Hello R users,\n \nI am currently taking \"Inference for R\" for a test drive. This is an\nadd-on for Excel that allows you to pull R code into an Excel\nspreadsheet, treating Excel data tables as R datafra",
       "thread_id": "thread-9c5d85f5d57c",
       "thread_depth": 0,
-      "month": "2010-07"
+      "month": "2010-07",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl"
+      ]
     }
   ],
   "threads": [

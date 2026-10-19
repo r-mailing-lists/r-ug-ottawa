@@ -13,11 +13,14 @@
       "subject_clean": "[OGRUG] Problem in GenMatch",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl>",
+      "body_plain": "Dear R Users,\n\nI am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n\nError in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : \n  GenMatch(): input includes NAs\n\nCould you please suggest me correcting the above problem?\n\nMy GenMatch command is,\n\n> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)\n\nThanking you,\n\nSincerely Yours,\n\nShyam Kumar Basnet\nSLU, Uppsala\nSweden\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear R Users,\n\nI am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n\nError in GenMatch(Tr = Tr, X = X.binarynp, BalanceM",
       "thread_id": "thread-160c5fbb84d2",
       "thread_depth": 0,
-      "month": "2011-12"
+      "month": "2011-12",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/7037d61d/attachment.pl"
+      ]
     },
     {
       "id": "msg-4a537ca2f087",
@@ -29,11 +32,14 @@
       "subject_clean": "[OGRUG] Error in GenMatch",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl>",
-      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl>",
+      "body_plain": "Dear R Users,\n\nI am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n\nError in GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp,  : \n  GenMatch(): input includes NAs\n\nCould you please suggest me correcting the above problem?\n\nMy GenMatch command is,\n\n> gen1 <- GenMatch(Tr = Tr, X = X.binarynp, BalanceMatrix = BalanceMatrix.binarynp, popsize = 1000)\n\nThanking you,\n\nSincerely Yours,\n\nShyam Kumar Basnet\nSLU, Uppsala\nSweden \n\n\t[[alternative HTML version deleted]]",
+      "body_snippet": "Dear R Users,\n\nI am a novice learner of R software. I am working with Genetic Matching - GenMatch(), but I am getting an Error message as follows: \n\nError in GenMatch(Tr = Tr, X = X.binarynp, BalanceM",
       "thread_id": "thread-4a537ca2f087",
       "thread_depth": 0,
-      "month": "2011-12"
+      "month": "2011-12",
+      "restored_from": [
+        "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20111202/e42461f9/attachment.pl"
+      ]
     },
     {
       "id": "msg-5d25543c8d48",
