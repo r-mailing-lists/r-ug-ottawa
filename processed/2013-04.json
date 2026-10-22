@@ -18,6 +18,7 @@
       "thread_id": "thread-ad4afa8fbf63",
       "thread_depth": 0,
       "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000073.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130409/01810815/attachment.pl"
       ]
@@ -38,7 +39,8 @@
       "body_snippet": "Hello, My previous email might have had *asterisks* inadvertently\ninserted around the URL of the survey, about which I was not aware of.\nPlease use this link for the survey if sharing with anyone else",
       "thread_id": "thread-ad4afa8fbf63",
       "thread_depth": 1,
-      "month": "2013-04"
+      "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000074.html"
     },
     {
       "id": "msg-20f05488b606",
@@ -54,7 +56,8 @@
       "body_snippet": "At the meetup there was some interest in some work I'd done to present \nSweave, KnitR and odfWeave, as well as Latex -> Epub.\n\nI've put the slides on my server at\n\nhttp://macnash.telfer.uottawa.ca/~na",
       "thread_id": "thread-20f05488b606",
       "thread_depth": 0,
-      "month": "2013-04"
+      "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000075.html"
     },
     {
       "id": "msg-af80bed90289",
@@ -73,6 +76,7 @@
       "thread_id": "thread-ad4afa8fbf63",
       "thread_depth": 1,
       "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000076.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130414/62e918a4/attachment.pl"
       ]
@@ -92,6 +96,7 @@
       "thread_id": "thread-97a44c752bc0",
       "thread_depth": 0,
       "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000077.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/600979c6/attachment.pl"
       ]
@@ -113,6 +118,7 @@
       "thread_id": "thread-97a44c752bc0",
       "thread_depth": 1,
       "month": "2013-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000078.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130418/84b0f957/attachment.pl"
       ]

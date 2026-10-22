@@ -17,7 +17,8 @@
       "body_snippet": "Hello,\n\nNewbie here with a newbie question.\n\nI have a time series of voltage measurements, two independent \nvariables (DoM and HoD) and one dependent (VAC) variable.? My csv file \nwas imported into R ",
       "thread_id": "thread-2b29910a60d0",
       "thread_depth": 0,
-      "month": "2020-09"
+      "month": "2020-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2020q3/000187.html"
     },
     {
       "id": "msg-850defd4aee6",
@@ -35,7 +36,8 @@
       "body_snippet": "Hi Martin,\n\nIt helps if you show us what it was you tried to do, and exactly what\nyour errors were. The closer you can make your code sample to being\nreproducible, the easier it is for others to see w",
       "thread_id": "thread-2b29910a60d0",
       "thread_depth": 1,
-      "month": "2020-09"
+      "month": "2020-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2020q3/000188.html"
     }
   ],
   "threads": [

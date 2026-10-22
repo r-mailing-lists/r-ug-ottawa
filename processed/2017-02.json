@@ -19,7 +19,8 @@
       "body_snippet": "(Is this list still operational?)\n\nForwarding a question from a fellow at a certain science-based federal dept.\n\nJoseph Potvin\n\n---------- Forwarded message ----------\nFrom: Glen Newton <glen.newton a",
       "thread_id": "thread-ee4c9995ddfd",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2017q1/000173.html"
     },
     {
       "id": "msg-c65910eacad3",
@@ -37,7 +38,8 @@
       "body_snippet": "List still operational, but irregular. We've been hoping to get someone to coordinate the OGRUG group, as Paul and I are \naway a fair bit and not as active as before, at least not in meetings.\n\nBest, ",
       "thread_id": "thread-c65910eacad3",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2017q1/000174.html"
     },
     {
       "id": "msg-7e575d16ddce",
@@ -55,7 +57,8 @@
       "body_snippet": "The list of URLs given by Glen Newton is a pretty good guide to what is \nneeded to convert from SAS to R.\n\nIn particular:\n- conversion would be incremental, application by application, and some \nappli",
       "thread_id": "thread-7e575d16ddce",
       "thread_depth": 0,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2017q1/000175.html"
     },
     {
       "id": "msg-b660eb3f99e9",
@@ -74,7 +77,8 @@
       "body_snippet": "Having once-upon-a-time done some conversions to R from languages other \nthan SAS, I would emphasize a few points:\n\n  1/ If this is not strictly automation, that is you have users that do \nad hoc anal",
       "thread_id": "thread-7e575d16ddce",
       "thread_depth": 1,
-      "month": "2017-02"
+      "month": "2017-02",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2017q1/000176.html"
     }
   ],
   "threads": [

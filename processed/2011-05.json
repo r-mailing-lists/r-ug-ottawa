@@ -17,7 +17,8 @@
       "body_snippet": "WHERE: FTX 135,  University of Ottawa\n\nhttp://www.uottawa.ca/maps/\n\nwill show you where this is.\n\nWHEN: 3:30-5:30, Tuesda May 24, 2011\n\nWHY: To allow R users in Ottawa/Gatineau to get reacquainted. Pl",
       "thread_id": "thread-a7694761e456",
       "thread_depth": 0,
-      "month": "2011-05"
+      "month": "2011-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2011q2/000040.html"
     },
     {
       "id": "msg-5c2f1e69d925",
@@ -33,7 +34,8 @@
       "body_snippet": "A reminder of time and place below.\n\nQuery 1: to create a frequency matrix of 32 cells (5 binary variables), and then export\nthat matrix into a text file that can be read by a package e.g. as a .dat f",
       "thread_id": "thread-5c2f1e69d925",
       "thread_depth": 0,
-      "month": "2011-05"
+      "month": "2011-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2011q2/000041.html"
     },
     {
       "id": "msg-15b4508fb322",
@@ -49,7 +51,8 @@
       "body_snippet": "While we had only a small group (8) at the meeting, discussion was lively and some minor\nproblems were resolved.\n\nThere was quite a lot of interest in the projects R is mentoring for the Google Summer",
       "thread_id": "thread-15b4508fb322",
       "thread_depth": 0,
-      "month": "2011-05"
+      "month": "2011-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2011q2/000042.html"
     },
     {
       "id": "msg-94159867fe87",
@@ -68,6 +71,7 @@
       "thread_id": "thread-94159867fe87",
       "thread_depth": 0,
       "month": "2011-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2011q2/000043.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20110527/7bd7aa92/attachment.pl"
       ]

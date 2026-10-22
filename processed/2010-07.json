@@ -17,7 +17,8 @@
       "body_snippet": "Hello,\n\n   I have two scripts that are used to generate heatmap and bar graph\n\n*A. Heatmap script:*\n\nlibrary(RColorBrewer)\nlibrary(gplots)\n\npar(mfrow=c(2,1))\n\nTotaltax<-read.table(\"heatmap_data.txt\",h",
       "thread_id": "thread-1b4b90917e0b",
       "thread_depth": 0,
-      "month": "2010-07"
+      "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000024.html"
     },
     {
       "id": "msg-2ead86ab35ab",
@@ -35,7 +36,8 @@
       "body_snippet": "Very quick (and possibly tangential) idea is to use Sweave. However, I can say right away \nthat the outcome may not be entirely what you need, but would be quick if you know how to \nuse Sweave.\n\nJN\n\nO",
       "thread_id": "thread-2ead86ab35ab",
       "thread_depth": 0,
-      "month": "2010-07"
+      "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000025.html"
     },
     {
       "id": "msg-46661ff42372",
@@ -53,7 +55,8 @@
       "body_snippet": "I clicked SEND in Thunderbird and msg seemed to be transmitted, but I am\nnot at home so am resending from webmail (normally T'bird only sends\nthrough my home ISP). Ignore if duplicated.\nJN\n\nVery quick",
       "thread_id": "thread-46661ff42372",
       "thread_depth": 0,
-      "month": "2010-07"
+      "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000026.html"
     },
     {
       "id": "msg-f3e5a3c3a403",
@@ -71,7 +74,8 @@
       "body_snippet": "I'm not 100% sure I know what you want, but if it's just to have\ntwo plots in the same image side by side, I do this all the time using \npar and mfrow.\nA simple example would go like this:\n\n > par(mfr",
       "thread_id": "thread-1b4b90917e0b",
       "thread_depth": 1,
-      "month": "2010-07"
+      "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000027.html"
     },
     {
       "id": "msg-636922f89176",
@@ -88,6 +92,7 @@
       "thread_id": "thread-636922f89176",
       "thread_depth": 0,
       "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000028.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100721/8be2fa20/attachment.pl"
       ]
@@ -107,6 +112,7 @@
       "thread_id": "thread-9c5d85f5d57c",
       "thread_depth": 0,
       "month": "2010-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000029.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100729/884f0c1f/attachment.pl"
       ]

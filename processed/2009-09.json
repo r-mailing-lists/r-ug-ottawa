@@ -17,7 +17,8 @@
       "body_snippet": "Dear Ottawa R Users,\n\nWe're organizing an \"R Flashmob\" to get students and researchers asking\nand answering R questions on the very useful questions site\n\"stackoverflow.com\" during one fun-filled hour",
       "thread_id": "thread-0c3556309728",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000008.html"
     },
     {
       "id": "msg-04b239b641c7",
@@ -34,6 +35,7 @@
       "thread_id": "thread-04b239b641c7",
       "thread_depth": 0,
       "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000009.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090918/1edea3a4/attachment.pl"
       ]
@@ -54,7 +56,8 @@
       "body_snippet": "Mark,\n\nYou would do better on R-help list. This one is mainly for announcing \nlocal Ottawa area activities related to R.\n\nHowever, when dealing with Excel files, I usually first get them into an \nR da",
       "thread_id": "thread-ae4bdd471c7c",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000010.html"
     },
     {
       "id": "msg-be12b3688426",
@@ -70,7 +73,8 @@
       "body_snippet": "I am looking for an introduction to R workshop (i.e. recoding, setting\nfilters, data cleaning). I have been using R now for only a couple of\nyears, mostly for model testing. I have found wonderful doc",
       "thread_id": "thread-be12b3688426",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000011.html"
     },
     {
       "id": "msg-d94ffa67c991",
@@ -87,6 +91,7 @@
       "thread_id": "thread-d94ffa67c991",
       "thread_depth": 0,
       "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000012.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090921/40e011cf/attachment.pl"
       ]
@@ -107,7 +112,8 @@
       "body_snippet": "Our next meeting is proposed for November 6 at 1330 with the tentative \ntitle \"High performance for R\". Bryan Lewis of Revolution Computing (who \noffer a 64 bit Windows binary and other services) is p",
       "thread_id": "thread-8aaa566170f4",
       "thread_depth": 0,
-      "month": "2009-09"
+      "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000013.html"
     },
     {
       "id": "msg-e7036e171a02",
@@ -126,6 +132,7 @@
       "thread_id": "thread-d94ffa67c991",
       "thread_depth": 1,
       "month": "2009-09",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2009q3/000014.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20090922/9ff38acb/attachment.pl"
       ]

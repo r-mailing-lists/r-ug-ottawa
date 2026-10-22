@@ -18,6 +18,7 @@
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 0,
       "month": "2014-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000084.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140427/4ad2d8f1/attachment.pl"
       ]
@@ -39,6 +40,7 @@
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 1,
       "month": "2014-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000085.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/0938c915/attachment.pl"
       ]
@@ -59,7 +61,8 @@
       "body_snippet": "There are really two separate questions here: how to import data from \nOracle? and how to make a graph in R?\n\nFor the second, there are lots of examples ( eg \nhttp://rgraphgallery.blogspot.ca/ ).\n\nThe",
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 1,
-      "month": "2014-04"
+      "month": "2014-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000086.html"
     },
     {
       "id": "msg-2ad2e50a639d",
@@ -79,6 +82,7 @@
       "thread_id": "thread-fdb175cbde30",
       "thread_depth": 2,
       "month": "2014-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000087.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140428/ee8fee21/attachment.pl"
       ]

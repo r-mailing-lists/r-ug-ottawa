@@ -18,6 +18,7 @@
       "thread_id": "thread-42a24aa5cdd0",
       "thread_depth": 0,
       "month": "2013-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000079.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20130516/b04abb52/attachment.pl"
       ]
@@ -36,7 +37,8 @@
       "body_snippet": "Hello.\nI am trying to perform meta-analysis on some before-after studies. These studies are designed to clarify if there is any significant metabolic change before and after an intervention. There is ",
       "thread_id": "thread-71297561d848",
       "thread_depth": 0,
-      "month": "2013-05"
+      "month": "2013-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2013q2/000080.html"
     }
   ],
   "threads": [

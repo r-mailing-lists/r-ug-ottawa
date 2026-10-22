@@ -17,7 +17,8 @@
       "body_snippet": "Hey folks -\n\nNot sure if this is on-topic for this list, but I've become curious about\nthe prevalence of R use in the Government of Canada (GOC) - particularly\nhow many analytic teams are using R as t",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000160.html"
     },
     {
       "id": "msg-d46d6f77be2c",
@@ -29,11 +30,12 @@
       "subject_clean": "[OGRUG] Likelihood Ratio Test",
       "in_reply_to": null,
       "references": [],
-      "body_plain": "Hi dear R users!\n\nI have a dubt about how to calculate the Likelihood Ratio Test:\n\nI have below a density function:\n\n\n##### Density Gompertz\ndG <- function(x,a,b, log=FALSE){\nd2 <- numeric(length(x))\nd2 <- b*exp(a*x)*exp(-b/a*(exp(a*x) - 1))\ndens <- if(log) log(d2) else d2\nreturn (dens)\n}\n\n#### log-likelihood\nldG <- function(par, x)\n{\nsum( dG(x, a = par[1], b = par[2], log = TRUE))\n}\n\nemv.dG <- optim(par = c(.15, .01), fn = ldG, x = d1, hessian=TRUE\n,control=list(\"fnscale\"=-1))\n\nemv.dG$value # likelihood\n\nHow do I calculate the Likelihood Ratio Test without a some package.\nLRT = -2*(emv.dG$value - ?????)\n\n-- \nAtenciosamente\nFelipe E. Barletta Mendes\nEstat?stico(UFPR) - Conre3 9766-A\nMestrando em Bioestat?stica(UEM)\n+55 (41)-92077191\n+55 (41)-33287216",
+      "body_plain": "Hi dear R users!\n\nI have a dubt about how to calculate the Likelihood Ratio Test:\n\nI have below a density function:\n\n\n##### Density Gompertz\ndG <- function(x,a,b, log=FALSE){\nd2 <- numeric(length(x))\nd2 <- b*exp(a*x)*exp(-b/a*(exp(a*x) - 1))\ndens <- if(log) log(d2) else d2\nreturn (dens)\n}\n\n#### log-likelihood\nldG <- function(par, x)\n{\nsum( dG(x, a = par[1], b = par[2], log = TRUE))\n}\n\nemv.dG <- optim(par = c(.15, .01), fn = ldG, x = d1, hessian=TRUE\n,control=list(\"fnscale\"=-1))\n\nemv.dG$value # likelihood\n\nHow do I calculate the Likelihood Ratio Test without a some package.\nLRT = -2*(emv.dG$value - ?????)\n\n-- \nAtenciosamente\nFelipe E. Barletta Mendes\nEstatístico(UFPR) - Conre3 9766-A\nMestrando em Bioestatística(UEM)\n+55 (41)-92077191\n+55 (41)-33287216",
       "body_snippet": "Hi dear R users!\n\nI have a dubt about how to calculate the Likelihood Ratio Test:\n\nI have below a density function:\n\n\n##### Density Gompertz\ndG <- function(x,a,b, log=FALSE){\nd2 <- numeric(length(x))\n",
       "thread_id": "thread-d46d6f77be2c",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000161.html"
     },
     {
       "id": "msg-2bfdc5c47a38",
@@ -51,7 +53,8 @@
       "body_snippet": "Hi Alex,\n\nNot sure if this is useful for you or not, but I'm a physical oceanographer\nthat uses R for data analysis. Maybe not the kind of analytics you're\nreferring to?\n\nWhile I'm not currently a GOC",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 1,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000162.html"
     },
     {
       "id": "msg-02cc44c24284",
@@ -70,7 +73,8 @@
       "body_snippet": "Hi Alex,\n\nAt AAFC we use R extensively, at least in the biodiversity group. Tasks\nwe use it for include:\n\n- univariate and bivariate statistical analysis\n- multivariate analysis of ecological and morp",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 2,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000163.html"
     },
     {
       "id": "msg-d3b1c913c84d",
@@ -88,7 +92,8 @@
       "body_snippet": "Dear Alex:\n\nAt Duan Pharmaceutical Consulting Inc., we use R for biostatistical\nanalysis, PK/PD data analysis and power tests etc.\n\nBest regards,\n\nJianmin\n\nOn Mon, Aug 8, 2016 at 2:05 PM, Alex Demarsh",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 1,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000164.html"
     },
     {
       "id": "msg-2ec060b11e4e",
@@ -106,7 +111,8 @@
       "body_snippet": "Alex:\n\nI work with R here at Health Canada. Still building expertise, but here's\nsome initial stuff:\n\nhttp://github.com/dbuijs/HealthCanadaOpenData/\n\nWould love to hear what you're up to.\n\nDan Buijs\n\n",
       "thread_id": "thread-2ec060b11e4e",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000165.html"
     },
     {
       "id": "msg-180d6b91aa02",
@@ -125,7 +131,8 @@
       "body_snippet": "Hay Alex,\n\nRe: the use of R in government.\n\nI know some departments are concerned about security, and are hesitant to\nmake the shift. Also, the current knowledge base for R varies from place to\nplace,",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 2,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000166.html"
     },
     {
       "id": "msg-13ac3495a409",
@@ -141,7 +148,8 @@
       "body_snippet": "Abdool,\n\nSee: http://c2.com/cgi/wiki?OpenSourceSecurityStrategy\n\n(Co-authors of that summary are listed at the bottom of the entry.)\n\nJoseph Potvin\nExecutive Director, Xalgorithms Foundation\nMobile: 8",
       "thread_id": "thread-13ac3495a409",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000167.html"
     },
     {
       "id": "msg-daa6f4971a79",
@@ -159,7 +167,8 @@
       "body_snippet": "Good to know, and glad others have looked into this further, and developed\ndocumentation.\nStill, I can imagine how this issue may make a few directors nervous.\n\n\nAbdool\n\nOn 9 August 2016 at 16:19, Jos",
       "thread_id": "thread-13ac3495a409",
       "thread_depth": 1,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000168.html"
     },
     {
       "id": "msg-27ccb2cb5a98",
@@ -178,7 +187,8 @@
       "body_snippet": "RE: \"this issue may make a few directors nervous\"\n\nYup. And they should be much more nervous when they are not allowed to\nindependently validate the integrity of software that GC and Canadians\ndepend ",
       "thread_id": "thread-13ac3495a409",
       "thread_depth": 2,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000169.html"
     },
     {
       "id": "msg-6bfef55fc8c4",
@@ -197,7 +207,8 @@
       "body_snippet": "On Tue, Aug 9, 2016, Abdool Yasseen wrote:\n> >> Just a point to note when thinking about applying freeware in institution\n> >> settings,\n>\n> Still, I can imagine how this issue may make a few director",
       "thread_id": "thread-13ac3495a409",
       "thread_depth": 2,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000170.html"
     },
     {
       "id": "msg-37be79fb287d",
@@ -221,7 +232,8 @@
       "body_snippet": "Abdool,\n\nI would be very happy to chat a bit more about some of the security\nconsiderations we went through in getting set up directly if you are\ninterested in discussing further.\n\nWith respect to the",
       "thread_id": "thread-37be79fb287d",
       "thread_depth": 0,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000171.html"
     },
     {
       "id": "msg-3e24eac20fda",
@@ -239,7 +251,8 @@
       "body_snippet": "Alex\n\nI'm retired now but am pretty sure R is still used at the Bank of \nCanada, and has been since circa 1997. (I find it hard to believe that \nsome of the arguments against open source still seem to",
       "thread_id": "thread-907a044fa6b2",
       "thread_depth": 1,
-      "month": "2016-08"
+      "month": "2016-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2016q3/000172.html"
     }
   ],
   "threads": [

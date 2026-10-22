@@ -19,7 +19,8 @@
       "body_snippet": "This might interest the group.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] \"Applications of R in Government\"\nDate: Fri, 13 Jul 2012 10:07:27 -0400\nFrom: Glen Newton <glen.newton at",
       "thread_id": "thread-bdb78dce5ebb",
       "thread_depth": 0,
-      "month": "2012-07"
+      "month": "2012-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2012q3/000054.html"
     },
     {
       "id": "msg-1fc4ab601e17",
@@ -33,11 +34,12 @@
       "references": [
         "<CANL2-4Mafork2xj2F-iDRD3X1w1gRtGYbeznzjjHAA_ZADODGQ@mail.gmail.com>"
       ],
-      "body_plain": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment?\nhourly ozone readings\nDate: Sat, 14 Jul 2012 18:29:10 -0400\nFrom: Glen Newton <glen.newton at gmail.com>\nReply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\nTo: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,\ncivicaccess discuss <civicaccess-discuss at civicaccess.ca>\n\n\"The data I am interested in is available on the Ontario Ministry of\nEnvironment?s website. I have downloaded the hourly ozone readings\nfrom two weather stations (Grand Bend and Toronto West) for two years\n(2000 and 2011) which are available in several formats , including my\npreference, csv. According to the 2010 annual report from the\nMinistry, the two selected represent the extremes in readings for that\nyear\"\n    http://www.premiersoccerstats.com/wordpress/?p=925\n\nA good howto for importing, extracting, transforming and visualizing\nthis kind of data using R...\n\n-Glen\n\n-- \n-\nhttp://zzzoot.blogspot.com/\n-\n\n_______________________________________________\nOttawa-gosling mailing list\nOttawa-gosling at list.goslingcommunity.org\nhttp://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling",
-      "body_snippet": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment?\nhourly ozone readings\nDate: ",
+      "body_plain": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’\nhourly ozone readings\nDate: Sat, 14 Jul 2012 18:29:10 -0400\nFrom: Glen Newton <glen.newton at gmail.com>\nReply-To: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>\nTo: GOSLING members in Ottawa <ottawa-gosling at list.goslingcommunity.org>,\ncivicaccess discuss <civicaccess-discuss at civicaccess.ca>\n\n\"The data I am interested in is available on the Ontario Ministry of\nEnvironment’s website. I have downloaded the hourly ozone readings\nfrom two weather stations (Grand Bend and Toronto West) for two years\n(2000 and 2011) which are available in several formats , including my\npreference, csv. According to the 2010 annual report from the\nMinistry, the two selected represent the extremes in readings for that\nyear\"\n    http://www.premiersoccerstats.com/wordpress/?p=925\n\nA good howto for importing, extracting, transforming and visualizing\nthis kind of data using R...\n\n-Glen\n\n-- \n-\nhttp://zzzoot.blogspot.com/\n-\n\n_______________________________________________\nOttawa-gosling mailing list\nOttawa-gosling at list.goslingcommunity.org\nhttp://list.goslingcommunity.org/mailman/listinfo/ottawa-gosling",
+      "body_snippet": "Another worth tagging for future reference.\n\nJN\n\n\n-------- Original Message --------\nSubject: [OTT-GOSLING] Processing Public Data with R: Ontario Ministry of Environment’\nhourly ozone readings\nDate: ",
       "thread_id": "thread-1fc4ab601e17",
       "thread_depth": 0,
-      "month": "2012-07"
+      "month": "2012-07",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2012q3/000055.html"
     }
   ],
   "threads": [

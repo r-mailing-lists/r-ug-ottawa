@@ -17,7 +17,8 @@
       "body_snippet": "Hi all,\n\nI'm new in R and in this list and I need help on the plot() function.\n\nIs there any way that in the following command in R:\n\n> plot(Matrix)\n\n(Matrix with dim = nx2)\n\nThe graphic has the Matri",
       "thread_id": "thread-7bde570725c5",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2012q2/000051.html"
     },
     {
       "id": "msg-d933e071cbc5",
@@ -36,6 +37,7 @@
       "thread_id": "thread-7bde570725c5",
       "thread_depth": 1,
       "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2012q2/000052.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20120423/a6ba9fb7/attachment.pl"
       ]
@@ -57,7 +59,8 @@
       "body_snippet": "To plot the row numbers instead of the symbols, you can also do this:\n\nplot(ick, type = 'n')\ntext(ick, labels = 1:nrow(ick))\n\nOn Mon, Apr 23, 2012 at 9:14 PM, David Gattrell\n<david.gattrell at gmail.c",
       "thread_id": "thread-5a94764c4f9f",
       "thread_depth": 0,
-      "month": "2012-04"
+      "month": "2012-04",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2012q2/000053.html"
     }
   ],
   "threads": [

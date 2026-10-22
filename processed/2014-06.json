@@ -17,7 +17,8 @@
       "body_snippet": "For some reason in the last few weeks Meetup announcements (I was\nsubscribed to the R Helpdesk meetup) showed up as blank messages. I\nsaved the message and pushed it through a file viewer and found it",
       "thread_id": "thread-741ce4eedfb5",
       "thread_depth": 0,
-      "month": "2014-06"
+      "month": "2014-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000131.html"
     },
     {
       "id": "msg-860f2ec9707b",
@@ -36,6 +37,7 @@
       "thread_id": "thread-860f2ec9707b",
       "thread_depth": 0,
       "month": "2014-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000132.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140610/e1ca014f/attachment.pl"
       ]
@@ -57,6 +59,7 @@
       "thread_id": "thread-6911ed3d034f",
       "thread_depth": 0,
       "month": "2014-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000133.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140613/39875c5a/attachment.pl"
       ]
@@ -76,6 +79,7 @@
       "thread_id": "thread-64c07c7ba77e",
       "thread_depth": 0,
       "month": "2014-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000134.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140613/9098c8cd/attachment.pl"
       ]
@@ -98,6 +102,7 @@
       "thread_id": "thread-860f2ec9707b",
       "thread_depth": 1,
       "month": "2014-06",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000135.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140626/63232e25/attachment.pl"
       ]

@@ -17,7 +17,8 @@
       "body_snippet": "R-UG-Ottawa, also known as the Ottawa Gatineau R User Group, has not had a meeting for a \nwhile.\n\nWe have a proposal to have a joint meeting with the Ottawa Canada Linux User Group where R \nwill be di",
       "thread_id": "thread-b9abd55055d7",
       "thread_depth": 0,
-      "month": "2010-08"
+      "month": "2010-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000030.html"
     },
     {
       "id": "msg-7ab4fd60842d",
@@ -33,7 +34,8 @@
       "body_snippet": "Hi Catherine,\n\nHave you taken a look at statconn [1] ? Maybe it could be a good (free) \ncompromise between Inference and Sweave especially, I think, if you want \nto treat R data, but not necessarily h",
       "thread_id": "thread-7ab4fd60842d",
       "thread_depth": 0,
-      "month": "2010-08"
+      "month": "2010-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000031.html"
     },
     {
       "id": "msg-d3f8cb3cbf81",
@@ -51,7 +53,8 @@
       "body_snippet": "There will be a joint meeting with the Ottawa Canada Linux Users Group in DMS 7170 on \nSeptember 7 2010 (TUES) at 1900. For directions and more details go to http://oclug.on.ca.\n\nDMS 7170 is in 55 Lau",
       "thread_id": "thread-d3f8cb3cbf81",
       "thread_depth": 0,
-      "month": "2010-08"
+      "month": "2010-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000032.html"
     },
     {
       "id": "msg-c35b2acb7fde",
@@ -68,6 +71,7 @@
       "thread_id": "thread-c35b2acb7fde",
       "thread_depth": 0,
       "month": "2010-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000033.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20100821/b6c907d1/attachment.pl"
       ]
@@ -88,7 +92,8 @@
       "body_snippet": "> Sys.info()[\"sysname\"]\n  sysname\n\"Darwin\"\n\nIs that what you need?\nRobert\n\nOn 10-08-21 10:25 PM, David Gattrell wrote:\n> I'm sending a command to open a PDF file from within an R script.  The\n> actual",
       "thread_id": "thread-c35b2acb7fde",
       "thread_depth": 1,
-      "month": "2010-08"
+      "month": "2010-08",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2010q3/000034.html"
     }
   ],
   "threads": [

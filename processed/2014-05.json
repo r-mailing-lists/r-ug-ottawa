@@ -18,6 +18,7 @@
       "thread_id": "thread-5569bdd305c8",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000088.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140514/a09199de/attachment.pl"
       ]
@@ -38,7 +39,8 @@
       "body_snippet": "Try the Data Science courses from John Hopkins for Free on this Massive Open Online Course (MOOC) web site www.coursera.org. I started their R Programming course last week and they promise to run it e",
       "thread_id": "thread-5569bdd305c8",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000089.html"
     },
     {
       "id": "msg-02ef1918c0b6",
@@ -53,11 +55,12 @@
         "<03B519ED78C09A4889DDDBFD831CC2B1016838DB41A3@ACCFCR-EX1.ACCFCR.LOCAL>",
         "<BLU0-SMTP63C9A0F7CAC9F8243A3F7DC370@phx.gbl>"
       ],
-      "body_plain": "www.statistics.com also offers online R courses.  The classes have fewer students but are more expensive.  You will need to check the catalogue but I think each course costs somewhere between US$500 and US$600.\n\nWarren Chrusciel\n\n\n\n-----Original Message-----\nFrom: r-ug-ottawa-bounces at r-project.org [mailto:r-ug-ottawa-bounces at r-project.org] On Behalf Of Peter Timusk\nSent: Wednesday, May 14, 2014 3:59 PM\nTo: Ozlem Cankaya\nCc: r-ug-ottawa at r-project.org\nSubject: Re: [OGRUG] R Training info needed\n\nTry the Data Science courses from John Hopkins for Free on this Massive Open Online Course (MOOC) web site www.coursera.org. I started their R Programming course last week and they promise to run it every month .\n\nPeter Timusk\n\n\n\n> On May 14, 2014, at 2:37 PM, Ozlem Cankaya <OCankaya at research4children.com> wrote:\n>\n> Hello,\n> Are there any individuals or organizations doing training for R (preferably in Alberta)?\n> I am also open to suggestions for online training alternatives or good websites.\n>\n> Thank you very much in advance!\n>\n> Ozlem Cankaya\n> http://www.research4children.com/\n>\n>    [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n\n_______________________________________________\nR-UG-Ottawa mailing list\nR-UG-Ottawa at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\nNOTICE: This e-mail message and any attachments are confidential, subject to copyright and may be privileged. Any unauthorized use, copying or disclosure is prohibited. If you are not the intended recipient, please delete and contact the sender immediately. Please consider the environment before printing this e-mail. AVIS : le pr?sent courriel et toute pi?ce jointe qui l'accompagne sont confidentiels, prot?g?s par le droit d'auteur et peuvent ?tre couverts par le secret professionnel. Toute utilisation, copie ou divulgation non autoris?e est interdite. Si vous n'?tes pas le destinataire pr?vu de ce courriel, supprimez-le et contactez imm?diatement l'exp?diteur. Veuillez penser ? l'environnement avant d'imprimer le pr?sent courriel",
+      "body_plain": "www.statistics.com also offers online R courses.  The classes have fewer students but are more expensive.  You will need to check the catalogue but I think each course costs somewhere between US$500 and US$600.\n\nWarren Chrusciel\n\n\n\n-----Original Message-----\nFrom: r-ug-ottawa-bounces at r-project.org [mailto:r-ug-ottawa-bounces at r-project.org] On Behalf Of Peter Timusk\nSent: Wednesday, May 14, 2014 3:59 PM\nTo: Ozlem Cankaya\nCc: r-ug-ottawa at r-project.org\nSubject: Re: [OGRUG] R Training info needed\n\nTry the Data Science courses from John Hopkins for Free on this Massive Open Online Course (MOOC) web site www.coursera.org. I started their R Programming course last week and they promise to run it every month .\n\nPeter Timusk\n\n\n\n> On May 14, 2014, at 2:37 PM, Ozlem Cankaya <OCankaya at research4children.com> wrote:\n>\n> Hello,\n> Are there any individuals or organizations doing training for R (preferably in Alberta)?\n> I am also open to suggestions for online training alternatives or good websites.\n>\n> Thank you very much in advance!\n>\n> Ozlem Cankaya\n> http://www.research4children.com/\n>\n>    [[alternative HTML version deleted]]\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>\n\n_______________________________________________\nR-UG-Ottawa mailing list\nR-UG-Ottawa at r-project.org\nhttps://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\nNOTICE: This e-mail message and any attachments are confidential, subject to copyright and may be privileged. Any unauthorized use, copying or disclosure is prohibited. If you are not the intended recipient, please delete and contact the sender immediately. Please consider the environment before printing this e-mail. AVIS : le présent courriel et toute pièce jointe qui l'accompagne sont confidentiels, protégés par le droit d'auteur et peuvent être couverts par le secret professionnel. Toute utilisation, copie ou divulgation non autorisée est interdite. Si vous n'êtes pas le destinataire prévu de ce courriel, supprimez-le et contactez immédiatement l'expéditeur. Veuillez penser à l'environnement avant d'imprimer le présent courriel",
       "body_snippet": "www.statistics.com also offers online R courses.  The classes have fewer students but are more expensive.  You will need to check the catalogue but I think each course costs somewhere between US$500 a",
       "thread_id": "thread-5569bdd305c8",
       "thread_depth": 2,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000090.html"
     },
     {
       "id": "msg-7dd92d7c050c",
@@ -75,7 +78,8 @@
       "body_snippet": "For what it's worth, I tried the coursera site but experienced a couple\nof problems in Firefox, but not Chromium (though see below).\n\nI use NoScript in Firefox, and coursera is wildly script-happy. I\n",
       "thread_id": "thread-7dd92d7c050c",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000091.html"
     },
     {
       "id": "msg-e926714f343e",
@@ -95,6 +99,7 @@
       "thread_id": "thread-7dd92d7c050c",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000092.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140515/a4e9671f/attachment.pl"
       ]
@@ -117,7 +122,8 @@
       "body_snippet": "I learned  in a statistics course by Shirley Mills where her team provided\na lot of code to do data mining then got myself some basic intro books to R\nand if you learn by books or even the free pdf's ",
       "thread_id": "thread-7dd92d7c050c",
       "thread_depth": 2,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000093.html"
     },
     {
       "id": "msg-e43d5b59e809",
@@ -133,7 +139,8 @@
       "body_snippet": "Hi All,\n\nWe are considering  re-starting regular events for the Ottawa-Gatineau R User's Group and we hoped to get your input -- \n\nTo help us get a feel for the level of interest, could you send a qui",
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000094.html"
     },
     {
       "id": "msg-b5850b143f98",
@@ -147,11 +154,12 @@
       "references": [
         "<746D4F9579D6B14C952BF6C7C4E8A266559EC5D7@SD01CFMM0202.OMEGA.DCE-EIR.NET>"
       ],
-      "body_plain": "I'd attend.\n\nOn a topic of interes, I've been thinking through R vs Python since\ntalking with a fellow at Bloomberg who tells me they mostly use\nPython, and only some R. The two are optimized for different contexts.\nIt would be useful to discuss that, I reckon.\nhttp://www.activeanalytics.co.uk/blog/rvspythonwhyrisstillthekingofstatisticalcomputing\nhttp://www.reddit.com/r/MachineLearning/comments/1rg8o4/r_vs_python/\n\nJoseph Potvin\n\nOn Thu, May 15, 2014 at 2:23 PM, Bissessar, David\n<David.Bissessar at cbsa-asfc.gc.ca> wrote:\n> Hi All,\n>\n> We are considering  re-starting regular events for the Ottawa-Gatineau R User's Group and we hoped to get your input --\n>\n> To help us get a feel for the level of interest, could you send a quick note if you would be interested in participating in regular User's Group meetings?\n> As well, if you have a special area of interest or if you'd be willing to make a brief presentation to the user's group, please do let me know.\n>\n> Depending on the level of interest, we'd take next steps, which might involve finding a sponsor, a location to meet and organizing regular presentations.\n> As appropriate, I'll summarize the feedback received to the mailing list.\n>\n> Thanks,\n> David\n>\n>\n>\n> David Bissessar\n> Research Scientist,  Advanced Analytics Section\n> Science and Engineering Directorate\n> Information, Science and Technology Branch\n> Canada Border Services Agency\n> Government of Canada\n> 14 Colonnade Rd, Suite #210, Room 207.\n> Ottawa, ON, K2E 7M6\n> Tel: (613) 952-3163  Fax: (613) 960-5184\n> David.Bissessar at cbsa-asfc.gc.ca\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des op?rations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
+      "body_plain": "I'd attend.\n\nOn a topic of interes, I've been thinking through R vs Python since\ntalking with a fellow at Bloomberg who tells me they mostly use\nPython, and only some R. The two are optimized for different contexts.\nIt would be useful to discuss that, I reckon.\nhttp://www.activeanalytics.co.uk/blog/rvspythonwhyrisstillthekingofstatisticalcomputing\nhttp://www.reddit.com/r/MachineLearning/comments/1rg8o4/r_vs_python/\n\nJoseph Potvin\n\nOn Thu, May 15, 2014 at 2:23 PM, Bissessar, David\n<David.Bissessar at cbsa-asfc.gc.ca> wrote:\n> Hi All,\n>\n> We are considering  re-starting regular events for the Ottawa-Gatineau R User's Group and we hoped to get your input --\n>\n> To help us get a feel for the level of interest, could you send a quick note if you would be interested in participating in regular User's Group meetings?\n> As well, if you have a special area of interest or if you'd be willing to make a brief presentation to the user's group, please do let me know.\n>\n> Depending on the level of interest, we'd take next steps, which might involve finding a sponsor, a location to meet and organizing regular presentations.\n> As appropriate, I'll summarize the feedback received to the mailing list.\n>\n> Thanks,\n> David\n>\n>\n>\n> David Bissessar\n> Research Scientist,  Advanced Analytics Section\n> Science and Engineering Directorate\n> Information, Science and Technology Branch\n> Canada Border Services Agency\n> Government of Canada\n> 14 Colonnade Rd, Suite #210, Room 207.\n> Ottawa, ON, K2E 7M6\n> Tel: (613) 952-3163  Fax: (613) 960-5184\n> David.Bissessar at cbsa-asfc.gc.ca\n>\n> _______________________________________________\n> R-UG-Ottawa mailing list\n> R-UG-Ottawa at r-project.org\n> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des opérations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
       "body_snippet": "I'd attend.\n\nOn a topic of interes, I've been thinking through R vs Python since\ntalking with a fellow at Bloomberg who tells me they mostly use\nPython, and only some R. The two are optimized for diff",
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000095.html"
     },
     {
       "id": "msg-28c9461a2a16",
@@ -167,7 +175,8 @@
       "body_snippet": "I'm interested -- and have been slow in organizing.\n\nJN",
       "thread_id": "thread-28c9461a2a16",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000096.html"
     },
     {
       "id": "msg-9c22825e3178",
@@ -185,7 +194,8 @@
       "body_snippet": "I am also taking the John Hopkins Data Science courses through Coursera (https://www.coursera.org/specialization/jhudatascience/1/overview). Four courses in now.\n\nAll the courses are 'R courses', more",
       "thread_id": "thread-9c22825e3178",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000097.html"
     },
     {
       "id": "msg-3f47ae6384e3",
@@ -204,6 +214,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000098.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140515/4b095f2a/attachment.pl"
       ]
@@ -226,6 +237,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 2,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000099.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140515/7eed7d53/attachment.pl"
       ]
@@ -246,7 +258,8 @@
       "body_snippet": "I would attend, and would consider presenting something sometime.\n\nPaul Gilbert\n\n\nOn 05/15/2014 02:23 PM, Bissessar, David wrote:\n> Hi All,\n>\n> We are considering  re-starting regular events for the\n>",
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000100.html"
     },
     {
       "id": "msg-05720f6d4a97",
@@ -265,6 +278,7 @@
       "thread_id": "thread-05720f6d4a97",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000115.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/7dc3a82a/attachment.pl"
       ]
@@ -288,6 +302,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 3,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000101.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/bdebb199/attachment.pl"
       ]
@@ -312,6 +327,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 4,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000102.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/e4e8c39a/attachment.pl"
       ]
@@ -333,6 +349,7 @@
       "thread_id": "thread-0e07a1c140e9",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000103.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/7d4f5e60/attachment.pl"
       ]
@@ -354,7 +371,8 @@
       "body_snippet": "I am interested and able to write presentations in computing and statistics.\nI would love a chance to do warm up presentations locally and then enter\nthem in some sort of International R convention an",
       "thread_id": "thread-0e07a1c140e9",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000104.html"
     },
     {
       "id": "msg-b6cac12903c7",
@@ -372,7 +390,8 @@
       "body_snippet": "I would want to go to monthly meetings or an R user grooup if that \nbecomes possible\n\nOn 2014-05-16, 6:00, r-ug-ottawa-request at r-project.org wrote:\n\n> Today's Topics:\n>\n>     1. group activities (P",
       "thread_id": "thread-b6cac12903c7",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000105.html"
     },
     {
       "id": "msg-da0eae91b366",
@@ -394,6 +413,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 4,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000106.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/c826e55e/attachment.pl"
       ]
@@ -413,6 +433,7 @@
       "thread_id": "thread-ab67c603eff4",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000107.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/de225de6/attachment.pl"
       ]
@@ -434,6 +455,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000108.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/0173ac30/attachment.pl"
       ]
@@ -455,6 +477,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000109.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/2b37121a/attachment.pl"
       ]
@@ -477,6 +500,7 @@
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 2,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000110.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140516/5b44fc37/attachment.pl"
       ]
@@ -496,6 +520,7 @@
       "thread_id": "thread-d0f4cdfcec29",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000111.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140517/a0b5f040/attachment.pl"
       ]
@@ -517,6 +542,7 @@
       "thread_id": "thread-d0f4cdfcec29",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000112.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140517/f3958cb8/attachment.pl"
       ]
@@ -535,7 +561,8 @@
       "body_snippet": "Anyone in the OGRUG community have a bit of time & expertise to share\ntowards advancing data-driven analysis of Ottawa's trees using R?\nSome current discussion is forwarded below.\n\nNote to Daniel and ",
       "thread_id": "thread-b4cb98b0e371",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000113.html"
     },
     {
       "id": "msg-4481f69a0684",
@@ -554,6 +581,7 @@
       "thread_id": "thread-b4cb98b0e371",
       "thread_depth": 1,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000116.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140517/d5358cfd/attachment.pl"
       ]
@@ -573,6 +601,7 @@
       "thread_id": "thread-e6d4d8de3ac5",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000114.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140519/5605d280/attachment.pl"
       ]
@@ -592,6 +621,7 @@
       "thread_id": "thread-552a8e6073a3",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000117.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/07f079e1/attachment.pl"
       ]
@@ -612,7 +642,8 @@
       "body_snippet": "Hi Joseph,\n\nI am a botanist at Agriculture Canada, and also a reasonably experienced \nR user. I am very interested in this project, and would be happy to \ncontribute a either a plant biologist, an R c",
       "thread_id": "thread-b4cb98b0e371",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000118.html"
     },
     {
       "id": "msg-fe370780836d",
@@ -630,7 +661,8 @@
       "body_snippet": "Hi David,\n\nI would be interested in attending. I can present on a number of topics \n- R Markdown reports, Emacs/ESS, ordination and clustering. I can \nprobably also round up other interested users at ",
       "thread_id": "thread-e43d5b59e809",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000119.html"
     },
     {
       "id": "msg-71990be2c42b",
@@ -645,11 +677,12 @@
         "<CAKcXiSpP3c2=nXDo_LSMGEOvU5oj3geRgtW-ANSYZTVzKKu_8w@mail.gmail.com>",
         "<537BED44.90105@plantarum.ca>"
       ],
-      "body_plain": "Thanks Tyler. Sounds like a great agenda item for the OGRUG meeting\nthat David Bissessar is talking about organizing.\n\nJoseph Potvin\n\nOn Tue, May 20, 2014 at 8:03 PM, Tyler Smith <tyler at plantarum.ca> wrote:\n> Hi Joseph,\n>\n> I am a botanist at Agriculture Canada, and also a reasonably experienced R\n> user. I am very interested in this project, and would be happy to contribute\n> a either a plant biologist, an R coder or both.\n>\n> At present I am in the field, and won't be back to Ottawa until the\n> beginning of June.\n>\n> Best,\n>\n> Tyler\n>\n> On 17/05/14 06:39 PM, Joseph Potvin wrote:\n>>\n>> Anyone in the OGRUG community have a bit of time & expertise to share\n>> towards advancing data-driven analysis of Ottawa's trees using R?\n>> Some current discussion is forwarded below.\n>>\n>> Note to Daniel and Erwin: OGRUG is the Ottawa-Gatineau R Users Group.\n>>\n>> Joseph Potvin\n>>\n>> ---------- Forwarded message ----------\n>> From: Daniel Buijs <dbuijs at gmail.com>\n>> Date: Sat, May 17, 2014 at 5:48 PM\n>> Subject: Re: CIty of Ottawa Trees dataset\n>> To: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>> Cc: \"J. P. Unger\" <ungerjp at yahoo.com>, Amy Kempster\n>> <Amykempster at bell.net>, \"Nicole Desroches (home)\"\n>> <nicolepdesroches at gmail.com>, Sol Shuster <sshuster at magma.ca>,\n>> elina.here at hotmail.com, Jason Kania <jason.kania at ymail.com>, Joseph\n>> Potvin <jpotvin at opman.ca>\n>>\n>>\n>> Hi Erwin,\n>>\n>> It would take a bit of work to turn this into an app, and I'm afraid\n>> that's a skill set that I don't have at the moment ;) I would be very\n>> happy to chat with someone technically inclined who would be\n>> interested in turning it into an app, and I could perhaps suggest some\n>> more or less straightforward ways to do that.\n>>\n>> The file that the city published is in a format that can be opened by\n>> Google Earth, but it was just so massive that I stopped waiting for it\n>> after an hour or so on my little laptop, so I figured out how to slice\n>> it up into smaller pieces with the free software package RStudio\n>> (www.rstudio.org). On the most basic level, I can take the 200 MB kml\n>> file that's on the City's website and turn it into a simple\n>> spreadsheet table that should be fairly straightforward to use in\n>> things like Google Maps. The bells and whistles, in terms of\n>> colour-coding by species, making the dot size represent tree diameter,\n>> and overlaying Xs on the ones that are being treated for Emerald Ash\n>> borer are things I figured out how to do in R for static PDF\n>> documents. I'm sure you could do things like this in a web app, I just\n>> don't know how.\n>>\n>> As far as the data itself, my understanding of what the City published\n>> is that it's an extract of their internal database that the forestry\n>> department uses anyway, so I don't think they have any dedicated\n>> resources to publishing it or have committed to any particular update\n>> frequency. The date on the dataset is April 2013. I would certainly\n>> like to see them update it on some sort of predictable schedule, but\n>> my experience with open data at the moment is that you take what you\n>> can get and don't ask too many questions. :)\n>>\n>> The City indicates that the dataset includes only city-owned street\n>> trees, so no private trees, and none of the city trees in parks or\n>> other greenspace. The data they have included is the GPS co-ordinates\n>> (which seem to line up with Google maps without any further\n>> adjustment, at least in my neighbourhood), the species of tree,\n>> diameter at breast height (no units given, but I'm guessing in cm),\n>> Ward, Street Number and Name, location of the tree in relation to the\n>> property, location of street trees that aren't associated with a civic\n>> address (i.e. medians, etc.), whether the tree is being treated for\n>> dutch elm disease or emerald ash borer, and the tree tag number for\n>> trees that are being treated.\n>>\n>> No, I'm not working with Kevin. I've only just seen his website, with\n>> your note below. I'm certainly happy to share what I've learned with\n>> anyone who's interested. I'm afraid I have no particular intent or\n>> agenda with this, I really just wanted to find out what kind of tree\n>> was kitty-corner to my house and whether the City was going to treat\n>> it for Emerald Ash Borer. In retrospect, there were perhaps less\n>> onerous ways to do this ;).\n>>\n>> Cheers,\n>>\n>> Dan\n>>\n>>\n>> On 2014-05-17, at 3:15 PM, Erwin Dreessen wrote:\n>>\n>> Hello Daniel Buijs,\n>>\n>> Thanks for this.  I knew the City was brewing up various data about\n>> the city-owned trees.  You're way ahead of me on the technology, but\n>> the example you gave, adapting the City's raw data, looks terrific.\n>> If this app could be made available via our web site, that would be\n>> excellent.  Jason Kania is your contact if this requires anything\n>> special.\n>>\n>> Do you believe the City is committed to keeping the data current?  Any\n>> idea what percent of its resources is going to this?\n>>\n>> The Tree Canopy project, as I understand it, makes no distinction\n>> between public and private trees, nor does it distinguish species.  It\n>> is only concerned with tree canopy cover.\n>>\n>> Are you working with Kevin O'Donnell?  (http://ottwatch.ca/)  It would\n>> be good to find your app there.\n>>\n>> Regards,\n>>\n>> Erwin\n>> cc: Board, Joseph\n>>\n>> From: J. P. Unger [mailto:ungerjp at yahoo.com]\n>> Sent: Friday, May 16, 2014 10:59 PM\n>> To: Erwin Dreessen; Amy Kempster; Nicole Desroches (home); Sol\n>> Shuster; elina.here at hotmail.com; 'Jason Kania'\n>> Subject: Fw: CIty of Ottawa Trees dataset\n>>\n>> Hi!\n>> This came in...\n>> I sent a quick reply with thanks, saying I'd forward it to the chair &\n>> directors (cc'ing Joseph Potvin).\n>> JP\n>>\n>> ----- Forwarded Message -----\n>> From: Daniel Buijs <dbuijs at gmail.com>\n>> To: contact at greenspace-alliance.ca\n>> Cc: jpotvin at opman.ca\n>> Sent: Friday, May 16, 2014 9:43:15 PM\n>> Subject: CIty of Ottawa Trees dataset\n>>\n>>\n>> Hi,\n>>\n>> Joseph Potvin forwarded a note about your upcoming meeting where you\n>> will discuss the Ottawa Tree Canopy project. I thought you might find\n>> it helpful to know (if you didn't already) that the City of Ottawa has\n>> published a dataset of City-Owned street trees, available here:\n>>\n>> data.ottawa.ca\n>>\n>> It's available as a kml file. I found the kml file a bit too unwieldy,\n>> so I wrote an R script that can extract the data into a more useful\n>> format and intelligible plot. The plot below shows the trees of the\n>> Glebe, colour coded by species, with dot sizes representing diameter.\n>> Trees marked with an X have been treated for Emerald Ash Borer.\n>>\n>> If this is useful and/or of interest to you or your group, I can share\n>> the scripts I used to extract the data and to produce the plot below.\n>>\n>> Daniel Buijs\n>>\n>>\n>>\n>> ---------- Forwarded message ----------\n>> From: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>> Date: Thu, May 15, 2014 at 5:50 PM\n>> Subject: Greenspace Alliance AGM - Thursday, May 29, 7 p.m.\n>> To: green-news at greenspace-alliance.ca,\n>>\n>>\n>> Hello Members and Friends,\n>>\n>> You are heartily invited to the Greenspace Alliance's Annual General\n>> Meeting on Thursday, May 29, 2014, starting at 7 p.m. at the\n>> Hintonburg Community Centre, 1064 Wellington Street West (Laurel\n>> Room).\n>>\n>> Our feature presentation will be on Phase 1 of the Ottawa Tree Canopy\n>> project.  Unfortunately, Regie Alam had to cancel but the project's\n>> co-leader, Eric Jones, will present in his stead, assisted by Iola\n>> Price.  This is a citizen science project that is estimating the tree\n>> canopy within the urban boundary on a ward basis, using open data and\n>> open source tools.\n>>\n>> The agenda is below.  Come early (6:45 p.m.) to renew your membership or\n>> apply!\n>>\n>> A brief General Meeting will follow the AGM.\n>>\n>> Hope to see many of you there.\n>>\n>> Erwin\n>>\n>> _______________________________________________\n>> R-UG-Ottawa mailing list\n>> R-UG-Ottawa at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>\n>\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des op?rations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
+      "body_plain": "Thanks Tyler. Sounds like a great agenda item for the OGRUG meeting\nthat David Bissessar is talking about organizing.\n\nJoseph Potvin\n\nOn Tue, May 20, 2014 at 8:03 PM, Tyler Smith <tyler at plantarum.ca> wrote:\n> Hi Joseph,\n>\n> I am a botanist at Agriculture Canada, and also a reasonably experienced R\n> user. I am very interested in this project, and would be happy to contribute\n> a either a plant biologist, an R coder or both.\n>\n> At present I am in the field, and won't be back to Ottawa until the\n> beginning of June.\n>\n> Best,\n>\n> Tyler\n>\n> On 17/05/14 06:39 PM, Joseph Potvin wrote:\n>>\n>> Anyone in the OGRUG community have a bit of time & expertise to share\n>> towards advancing data-driven analysis of Ottawa's trees using R?\n>> Some current discussion is forwarded below.\n>>\n>> Note to Daniel and Erwin: OGRUG is the Ottawa-Gatineau R Users Group.\n>>\n>> Joseph Potvin\n>>\n>> ---------- Forwarded message ----------\n>> From: Daniel Buijs <dbuijs at gmail.com>\n>> Date: Sat, May 17, 2014 at 5:48 PM\n>> Subject: Re: CIty of Ottawa Trees dataset\n>> To: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>> Cc: \"J. P. Unger\" <ungerjp at yahoo.com>, Amy Kempster\n>> <Amykempster at bell.net>, \"Nicole Desroches (home)\"\n>> <nicolepdesroches at gmail.com>, Sol Shuster <sshuster at magma.ca>,\n>> elina.here at hotmail.com, Jason Kania <jason.kania at ymail.com>, Joseph\n>> Potvin <jpotvin at opman.ca>\n>>\n>>\n>> Hi Erwin,\n>>\n>> It would take a bit of work to turn this into an app, and I'm afraid\n>> that's a skill set that I don't have at the moment ;) I would be very\n>> happy to chat with someone technically inclined who would be\n>> interested in turning it into an app, and I could perhaps suggest some\n>> more or less straightforward ways to do that.\n>>\n>> The file that the city published is in a format that can be opened by\n>> Google Earth, but it was just so massive that I stopped waiting for it\n>> after an hour or so on my little laptop, so I figured out how to slice\n>> it up into smaller pieces with the free software package RStudio\n>> (www.rstudio.org). On the most basic level, I can take the 200 MB kml\n>> file that's on the City's website and turn it into a simple\n>> spreadsheet table that should be fairly straightforward to use in\n>> things like Google Maps. The bells and whistles, in terms of\n>> colour-coding by species, making the dot size represent tree diameter,\n>> and overlaying Xs on the ones that are being treated for Emerald Ash\n>> borer are things I figured out how to do in R for static PDF\n>> documents. I'm sure you could do things like this in a web app, I just\n>> don't know how.\n>>\n>> As far as the data itself, my understanding of what the City published\n>> is that it's an extract of their internal database that the forestry\n>> department uses anyway, so I don't think they have any dedicated\n>> resources to publishing it or have committed to any particular update\n>> frequency. The date on the dataset is April 2013. I would certainly\n>> like to see them update it on some sort of predictable schedule, but\n>> my experience with open data at the moment is that you take what you\n>> can get and don't ask too many questions. :)\n>>\n>> The City indicates that the dataset includes only city-owned street\n>> trees, so no private trees, and none of the city trees in parks or\n>> other greenspace. The data they have included is the GPS co-ordinates\n>> (which seem to line up with Google maps without any further\n>> adjustment, at least in my neighbourhood), the species of tree,\n>> diameter at breast height (no units given, but I'm guessing in cm),\n>> Ward, Street Number and Name, location of the tree in relation to the\n>> property, location of street trees that aren't associated with a civic\n>> address (i.e. medians, etc.), whether the tree is being treated for\n>> dutch elm disease or emerald ash borer, and the tree tag number for\n>> trees that are being treated.\n>>\n>> No, I'm not working with Kevin. I've only just seen his website, with\n>> your note below. I'm certainly happy to share what I've learned with\n>> anyone who's interested. I'm afraid I have no particular intent or\n>> agenda with this, I really just wanted to find out what kind of tree\n>> was kitty-corner to my house and whether the City was going to treat\n>> it for Emerald Ash Borer. In retrospect, there were perhaps less\n>> onerous ways to do this ;).\n>>\n>> Cheers,\n>>\n>> Dan\n>>\n>>\n>> On 2014-05-17, at 3:15 PM, Erwin Dreessen wrote:\n>>\n>> Hello Daniel Buijs,\n>>\n>> Thanks for this.  I knew the City was brewing up various data about\n>> the city-owned trees.  You're way ahead of me on the technology, but\n>> the example you gave, adapting the City's raw data, looks terrific.\n>> If this app could be made available via our web site, that would be\n>> excellent.  Jason Kania is your contact if this requires anything\n>> special.\n>>\n>> Do you believe the City is committed to keeping the data current?  Any\n>> idea what percent of its resources is going to this?\n>>\n>> The Tree Canopy project, as I understand it, makes no distinction\n>> between public and private trees, nor does it distinguish species.  It\n>> is only concerned with tree canopy cover.\n>>\n>> Are you working with Kevin O'Donnell?  (http://ottwatch.ca/)  It would\n>> be good to find your app there.\n>>\n>> Regards,\n>>\n>> Erwin\n>> cc: Board, Joseph\n>>\n>> From: J. P. Unger [mailto:ungerjp at yahoo.com]\n>> Sent: Friday, May 16, 2014 10:59 PM\n>> To: Erwin Dreessen; Amy Kempster; Nicole Desroches (home); Sol\n>> Shuster; elina.here at hotmail.com; 'Jason Kania'\n>> Subject: Fw: CIty of Ottawa Trees dataset\n>>\n>> Hi!\n>> This came in...\n>> I sent a quick reply with thanks, saying I'd forward it to the chair &\n>> directors (cc'ing Joseph Potvin).\n>> JP\n>>\n>> ----- Forwarded Message -----\n>> From: Daniel Buijs <dbuijs at gmail.com>\n>> To: contact at greenspace-alliance.ca\n>> Cc: jpotvin at opman.ca\n>> Sent: Friday, May 16, 2014 9:43:15 PM\n>> Subject: CIty of Ottawa Trees dataset\n>>\n>>\n>> Hi,\n>>\n>> Joseph Potvin forwarded a note about your upcoming meeting where you\n>> will discuss the Ottawa Tree Canopy project. I thought you might find\n>> it helpful to know (if you didn't already) that the City of Ottawa has\n>> published a dataset of City-Owned street trees, available here:\n>>\n>> data.ottawa.ca\n>>\n>> It's available as a kml file. I found the kml file a bit too unwieldy,\n>> so I wrote an R script that can extract the data into a more useful\n>> format and intelligible plot. The plot below shows the trees of the\n>> Glebe, colour coded by species, with dot sizes representing diameter.\n>> Trees marked with an X have been treated for Emerald Ash Borer.\n>>\n>> If this is useful and/or of interest to you or your group, I can share\n>> the scripts I used to extract the data and to produce the plot below.\n>>\n>> Daniel Buijs\n>>\n>>\n>>\n>> ---------- Forwarded message ----------\n>> From: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>> Date: Thu, May 15, 2014 at 5:50 PM\n>> Subject: Greenspace Alliance AGM - Thursday, May 29, 7 p.m.\n>> To: green-news at greenspace-alliance.ca,\n>>\n>>\n>> Hello Members and Friends,\n>>\n>> You are heartily invited to the Greenspace Alliance's Annual General\n>> Meeting on Thursday, May 29, 2014, starting at 7 p.m. at the\n>> Hintonburg Community Centre, 1064 Wellington Street West (Laurel\n>> Room).\n>>\n>> Our feature presentation will be on Phase 1 of the Ottawa Tree Canopy\n>> project.  Unfortunately, Regie Alam had to cancel but the project's\n>> co-leader, Eric Jones, will present in his stead, assisted by Iola\n>> Price.  This is a citizen science project that is estimating the tree\n>> canopy within the urban boundary on a ward basis, using open data and\n>> open source tools.\n>>\n>> The agenda is below.  Come early (6:45 p.m.) to renew your membership or\n>> apply!\n>>\n>> A brief General Meeting will follow the AGM.\n>>\n>> Hope to see many of you there.\n>>\n>> Erwin\n>>\n>> _______________________________________________\n>> R-UG-Ottawa mailing list\n>> R-UG-Ottawa at r-project.org\n>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>\n>\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des opérations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
       "body_snippet": "Thanks Tyler. Sounds like a great agenda item for the OGRUG meeting\nthat David Bissessar is talking about organizing.\n\nJoseph Potvin\n\nOn Tue, May 20, 2014 at 8:03 PM, Tyler Smith <tyler at plantarum.c",
       "thread_id": "thread-b4cb98b0e371",
       "thread_depth": 2,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000120.html"
     },
     {
       "id": "msg-2c517e323fdc",
@@ -665,11 +698,12 @@
         "<537BED44.90105@plantarum.ca>",
         "<CAKcXiSr-BaEG8PEpMwkqVPLv=7jDu35uLEg_Qpm=PDukLB1wMQ@mail.gmail.com>"
       ],
-      "body_plain": "Hi Everyone,\n\nSince there seems to be some interest in exploring this a bit more, here's the more technical explanation of what I've done so far. I'm an R novice at best, so I would be very happy to learn of better or more efficient or more elegant ways to accomplish this. As far as a webapp, the possibility of Shiny comes to mind, but I have no idea whether that's something you could bundle up and embed on a webpage and/or whether your Shiny server and R implementation necessarily need to be on the same machine. \n\nThe dataset is here: http://data.ottawa.ca/dataset/tree-inventory-street-trees\n\nThe KML file is basically just a flavour of XML. I spent probably too much time messing around with the R XML stuff before finding the sp and rgdal packages (both at CRAN). The readOGR function from rgdal gave me a SpatialPointsDataframe object, that took just over half the size of the KML file in RAM. This gets you the coordinates in an array, and metadata still stored in blobs of XML. At first I just used perl regular expressions to go fishing for the fields I wanted but later I used readHTMLTable and laply to grab everything. \n\nThen to get it all into a pretty plot, I used ggmap to put a map down and ggplot to put the trees on top. At the end you get something like the linked PDF from the R script I included below:\n\n\n\nhttps://dl.dropboxusercontent.com/u/4647535/GlebeTrees.pdf\n\nCheers,\n\nDan Buijs\n\n\nOn 2014-05-20, at 8:55 PM, Joseph Potvin wrote:\n\n> Thanks Tyler. Sounds like a great agenda item for the OGRUG meeting\n> that David Bissessar is talking about organizing.\n> \n> Joseph Potvin\n> \n> On Tue, May 20, 2014 at 8:03 PM, Tyler Smith <tyler at plantarum.ca> wrote:\n>> Hi Joseph,\n>> \n>> I am a botanist at Agriculture Canada, and also a reasonably experienced R\n>> user. I am very interested in this project, and would be happy to contribute\n>> a either a plant biologist, an R coder or both.\n>> \n>> At present I am in the field, and won't be back to Ottawa until the\n>> beginning of June.\n>> \n>> Best,\n>> \n>> Tyler\n>> \n>> On 17/05/14 06:39 PM, Joseph Potvin wrote:\n>>> \n>>> Anyone in the OGRUG community have a bit of time & expertise to share\n>>> towards advancing data-driven analysis of Ottawa's trees using R?\n>>> Some current discussion is forwarded below.\n>>> \n>>> Note to Daniel and Erwin: OGRUG is the Ottawa-Gatineau R Users Group.\n>>> \n>>> Joseph Potvin\n>>> \n>>> ---------- Forwarded message ----------\n>>> From: Daniel Buijs <dbuijs at gmail.com>\n>>> Date: Sat, May 17, 2014 at 5:48 PM\n>>> Subject: Re: CIty of Ottawa Trees dataset\n>>> To: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>>> Cc: \"J. P. Unger\" <ungerjp at yahoo.com>, Amy Kempster\n>>> <Amykempster at bell.net>, \"Nicole Desroches (home)\"\n>>> <nicolepdesroches at gmail.com>, Sol Shuster <sshuster at magma.ca>,\n>>> elina.here at hotmail.com, Jason Kania <jason.kania at ymail.com>, Joseph\n>>> Potvin <jpotvin at opman.ca>\n>>> \n>>> \n>>> Hi Erwin,\n>>> \n>>> It would take a bit of work to turn this into an app, and I'm afraid\n>>> that's a skill set that I don't have at the moment ;) I would be very\n>>> happy to chat with someone technically inclined who would be\n>>> interested in turning it into an app, and I could perhaps suggest some\n>>> more or less straightforward ways to do that.\n>>> \n>>> The file that the city published is in a format that can be opened by\n>>> Google Earth, but it was just so massive that I stopped waiting for it\n>>> after an hour or so on my little laptop, so I figured out how to slice\n>>> it up into smaller pieces with the free software package RStudio\n>>> (www.rstudio.org). On the most basic level, I can take the 200 MB kml\n>>> file that's on the City's website and turn it into a simple\n>>> spreadsheet table that should be fairly straightforward to use in\n>>> things like Google Maps. The bells and whistles, in terms of\n>>> colour-coding by species, making the dot size represent tree diameter,\n>>> and overlaying Xs on the ones that are being treated for Emerald Ash\n>>> borer are things I figured out how to do in R for static PDF\n>>> documents. I'm sure you could do things like this in a web app, I just\n>>> don't know how.\n>>> \n>>> As far as the data itself, my understanding of what the City published\n>>> is that it's an extract of their internal database that the forestry\n>>> department uses anyway, so I don't think they have any dedicated\n>>> resources to publishing it or have committed to any particular update\n>>> frequency. The date on the dataset is April 2013. I would certainly\n>>> like to see them update it on some sort of predictable schedule, but\n>>> my experience with open data at the moment is that you take what you\n>>> can get and don't ask too many questions. :)\n>>> \n>>> The City indicates that the dataset includes only city-owned street\n>>> trees, so no private trees, and none of the city trees in parks or\n>>> other greenspace. The data they have included is the GPS co-ordinates\n>>> (which seem to line up with Google maps without any further\n>>> adjustment, at least in my neighbourhood), the species of tree,\n>>> diameter at breast height (no units given, but I'm guessing in cm),\n>>> Ward, Street Number and Name, location of the tree in relation to the\n>>> property, location of street trees that aren't associated with a civic\n>>> address (i.e. medians, etc.), whether the tree is being treated for\n>>> dutch elm disease or emerald ash borer, and the tree tag number for\n>>> trees that are being treated.\n>>> \n>>> No, I'm not working with Kevin. I've only just seen his website, with\n>>> your note below. I'm certainly happy to share what I've learned with\n>>> anyone who's interested. I'm afraid I have no particular intent or\n>>> agenda with this, I really just wanted to find out what kind of tree\n>>> was kitty-corner to my house and whether the City was going to treat\n>>> it for Emerald Ash Borer. In retrospect, there were perhaps less\n>>> onerous ways to do this ;).\n>>> \n>>> Cheers,\n>>> \n>>> Dan\n>>> \n>>> \n>>> On 2014-05-17, at 3:15 PM, Erwin Dreessen wrote:\n>>> \n>>> Hello Daniel Buijs,\n>>> \n>>> Thanks for this.  I knew the City was brewing up various data about\n>>> the city-owned trees.  You're way ahead of me on the technology, but\n>>> the example you gave, adapting the City's raw data, looks terrific.\n>>> If this app could be made available via our web site, that would be\n>>> excellent.  Jason Kania is your contact if this requires anything\n>>> special.\n>>> \n>>> Do you believe the City is committed to keeping the data current?  Any\n>>> idea what percent of its resources is going to this?\n>>> \n>>> The Tree Canopy project, as I understand it, makes no distinction\n>>> between public and private trees, nor does it distinguish species.  It\n>>> is only concerned with tree canopy cover.\n>>> \n>>> Are you working with Kevin O'Donnell?  (http://ottwatch.ca/)  It would\n>>> be good to find your app there.\n>>> \n>>> Regards,\n>>> \n>>> Erwin\n>>> cc: Board, Joseph\n>>> \n>>> From: J. P. Unger [mailto:ungerjp at yahoo.com]\n>>> Sent: Friday, May 16, 2014 10:59 PM\n>>> To: Erwin Dreessen; Amy Kempster; Nicole Desroches (home); Sol\n>>> Shuster; elina.here at hotmail.com; 'Jason Kania'\n>>> Subject: Fw: CIty of Ottawa Trees dataset\n>>> \n>>> Hi!\n>>> This came in...\n>>> I sent a quick reply with thanks, saying I'd forward it to the chair &\n>>> directors (cc'ing Joseph Potvin).\n>>> JP\n>>> \n>>> ----- Forwarded Message -----\n>>> From: Daniel Buijs <dbuijs at gmail.com>\n>>> To: contact at greenspace-alliance.ca\n>>> Cc: jpotvin at opman.ca\n>>> Sent: Friday, May 16, 2014 9:43:15 PM\n>>> Subject: CIty of Ottawa Trees dataset\n>>> \n>>> \n>>> Hi,\n>>> \n>>> Joseph Potvin forwarded a note about your upcoming meeting where you\n>>> will discuss the Ottawa Tree Canopy project. I thought you might find\n>>> it helpful to know (if you didn't already) that the City of Ottawa has\n>>> published a dataset of City-Owned street trees, available here:\n>>> \n>>> data.ottawa.ca\n>>> \n>>> It's available as a kml file. I found the kml file a bit too unwieldy,\n>>> so I wrote an R script that can extract the data into a more useful\n>>> format and intelligible plot. The plot below shows the trees of the\n>>> Glebe, colour coded by species, with dot sizes representing diameter.\n>>> Trees marked with an X have been treated for Emerald Ash Borer.\n>>> \n>>> If this is useful and/or of interest to you or your group, I can share\n>>> the scripts I used to extract the data and to produce the plot below.\n>>> \n>>> Daniel Buijs\n>>> \n>>> \n>>> \n>>> ---------- Forwarded message ----------\n>>> From: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>>> Date: Thu, May 15, 2014 at 5:50 PM\n>>> Subject: Greenspace Alliance AGM - Thursday, May 29, 7 p.m.\n>>> To: green-news at greenspace-alliance.ca,\n>>> \n>>> \n>>> Hello Members and Friends,\n>>> \n>>> You are heartily invited to the Greenspace Alliance's Annual General\n>>> Meeting on Thursday, May 29, 2014, starting at 7 p.m. at the\n>>> Hintonburg Community Centre, 1064 Wellington Street West (Laurel\n>>> Room).\n>>> \n>>> Our feature presentation will be on Phase 1 of the Ottawa Tree Canopy\n>>> project.  Unfortunately, Regie Alam had to cancel but the project's\n>>> co-leader, Eric Jones, will present in his stead, assisted by Iola\n>>> Price.  This is a citizen science project that is estimating the tree\n>>> canopy within the urban boundary on a ward basis, using open data and\n>>> open source tools.\n>>> \n>>> The agenda is below.  Come early (6:45 p.m.) to renew your membership or\n>>> apply!\n>>> \n>>> A brief General Meeting will follow the AGM.\n>>> \n>>> Hope to see many of you there.\n>>> \n>>> Erwin\n>>> \n>>> _______________________________________________\n>>> R-UG-Ottawa mailing list\n>>> R-UG-Ottawa at r-project.org\n>>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>> \n>> \n> \n> \n> \n> -- \n> Joseph Potvin\n> Operations Manager | Gestionnaire des op?rations\n> The Opman Company | La compagnie Opman\n> jpotvin at opman.ca\n> Mobile: 819-593-5983\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0002.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: OttawaTrees.R\nType: application/octet-stream\nSize: 1724 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0001.obj>\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0003.html>",
+      "body_plain": "Hi Everyone,\n\nSince there seems to be some interest in exploring this a bit more, here's the more technical explanation of what I've done so far. I'm an R novice at best, so I would be very happy to learn of better or more efficient or more elegant ways to accomplish this. As far as a webapp, the possibility of Shiny comes to mind, but I have no idea whether that's something you could bundle up and embed on a webpage and/or whether your Shiny server and R implementation necessarily need to be on the same machine. \n\nThe dataset is here: http://data.ottawa.ca/dataset/tree-inventory-street-trees\n\nThe KML file is basically just a flavour of XML. I spent probably too much time messing around with the R XML stuff before finding the sp and rgdal packages (both at CRAN). The readOGR function from rgdal gave me a SpatialPointsDataframe object, that took just over half the size of the KML file in RAM. This gets you the coordinates in an array, and metadata still stored in blobs of XML. At first I just used perl regular expressions to go fishing for the fields I wanted but later I used readHTMLTable and laply to grab everything. \n\nThen to get it all into a pretty plot, I used ggmap to put a map down and ggplot to put the trees on top. At the end you get something like the linked PDF from the R script I included below:\n\n\n\nhttps://dl.dropboxusercontent.com/u/4647535/GlebeTrees.pdf\n\nCheers,\n\nDan Buijs\n\n\nOn 2014-05-20, at 8:55 PM, Joseph Potvin wrote:\n\n> Thanks Tyler. Sounds like a great agenda item for the OGRUG meeting\n> that David Bissessar is talking about organizing.\n> \n> Joseph Potvin\n> \n> On Tue, May 20, 2014 at 8:03 PM, Tyler Smith <tyler at plantarum.ca> wrote:\n>> Hi Joseph,\n>> \n>> I am a botanist at Agriculture Canada, and also a reasonably experienced R\n>> user. I am very interested in this project, and would be happy to contribute\n>> a either a plant biologist, an R coder or both.\n>> \n>> At present I am in the field, and won't be back to Ottawa until the\n>> beginning of June.\n>> \n>> Best,\n>> \n>> Tyler\n>> \n>> On 17/05/14 06:39 PM, Joseph Potvin wrote:\n>>> \n>>> Anyone in the OGRUG community have a bit of time & expertise to share\n>>> towards advancing data-driven analysis of Ottawa's trees using R?\n>>> Some current discussion is forwarded below.\n>>> \n>>> Note to Daniel and Erwin: OGRUG is the Ottawa-Gatineau R Users Group.\n>>> \n>>> Joseph Potvin\n>>> \n>>> ---------- Forwarded message ----------\n>>> From: Daniel Buijs <dbuijs at gmail.com>\n>>> Date: Sat, May 17, 2014 at 5:48 PM\n>>> Subject: Re: CIty of Ottawa Trees dataset\n>>> To: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>>> Cc: \"J. P. Unger\" <ungerjp at yahoo.com>, Amy Kempster\n>>> <Amykempster at bell.net>, \"Nicole Desroches (home)\"\n>>> <nicolepdesroches at gmail.com>, Sol Shuster <sshuster at magma.ca>,\n>>> elina.here at hotmail.com, Jason Kania <jason.kania at ymail.com>, Joseph\n>>> Potvin <jpotvin at opman.ca>\n>>> \n>>> \n>>> Hi Erwin,\n>>> \n>>> It would take a bit of work to turn this into an app, and I'm afraid\n>>> that's a skill set that I don't have at the moment ;) I would be very\n>>> happy to chat with someone technically inclined who would be\n>>> interested in turning it into an app, and I could perhaps suggest some\n>>> more or less straightforward ways to do that.\n>>> \n>>> The file that the city published is in a format that can be opened by\n>>> Google Earth, but it was just so massive that I stopped waiting for it\n>>> after an hour or so on my little laptop, so I figured out how to slice\n>>> it up into smaller pieces with the free software package RStudio\n>>> (www.rstudio.org). On the most basic level, I can take the 200 MB kml\n>>> file that's on the City's website and turn it into a simple\n>>> spreadsheet table that should be fairly straightforward to use in\n>>> things like Google Maps. The bells and whistles, in terms of\n>>> colour-coding by species, making the dot size represent tree diameter,\n>>> and overlaying Xs on the ones that are being treated for Emerald Ash\n>>> borer are things I figured out how to do in R for static PDF\n>>> documents. I'm sure you could do things like this in a web app, I just\n>>> don't know how.\n>>> \n>>> As far as the data itself, my understanding of what the City published\n>>> is that it's an extract of their internal database that the forestry\n>>> department uses anyway, so I don't think they have any dedicated\n>>> resources to publishing it or have committed to any particular update\n>>> frequency. The date on the dataset is April 2013. I would certainly\n>>> like to see them update it on some sort of predictable schedule, but\n>>> my experience with open data at the moment is that you take what you\n>>> can get and don't ask too many questions. :)\n>>> \n>>> The City indicates that the dataset includes only city-owned street\n>>> trees, so no private trees, and none of the city trees in parks or\n>>> other greenspace. The data they have included is the GPS co-ordinates\n>>> (which seem to line up with Google maps without any further\n>>> adjustment, at least in my neighbourhood), the species of tree,\n>>> diameter at breast height (no units given, but I'm guessing in cm),\n>>> Ward, Street Number and Name, location of the tree in relation to the\n>>> property, location of street trees that aren't associated with a civic\n>>> address (i.e. medians, etc.), whether the tree is being treated for\n>>> dutch elm disease or emerald ash borer, and the tree tag number for\n>>> trees that are being treated.\n>>> \n>>> No, I'm not working with Kevin. I've only just seen his website, with\n>>> your note below. I'm certainly happy to share what I've learned with\n>>> anyone who's interested. I'm afraid I have no particular intent or\n>>> agenda with this, I really just wanted to find out what kind of tree\n>>> was kitty-corner to my house and whether the City was going to treat\n>>> it for Emerald Ash Borer. In retrospect, there were perhaps less\n>>> onerous ways to do this ;).\n>>> \n>>> Cheers,\n>>> \n>>> Dan\n>>> \n>>> \n>>> On 2014-05-17, at 3:15 PM, Erwin Dreessen wrote:\n>>> \n>>> Hello Daniel Buijs,\n>>> \n>>> Thanks for this.  I knew the City was brewing up various data about\n>>> the city-owned trees.  You're way ahead of me on the technology, but\n>>> the example you gave, adapting the City's raw data, looks terrific.\n>>> If this app could be made available via our web site, that would be\n>>> excellent.  Jason Kania is your contact if this requires anything\n>>> special.\n>>> \n>>> Do you believe the City is committed to keeping the data current?  Any\n>>> idea what percent of its resources is going to this?\n>>> \n>>> The Tree Canopy project, as I understand it, makes no distinction\n>>> between public and private trees, nor does it distinguish species.  It\n>>> is only concerned with tree canopy cover.\n>>> \n>>> Are you working with Kevin O'Donnell?  (http://ottwatch.ca/)  It would\n>>> be good to find your app there.\n>>> \n>>> Regards,\n>>> \n>>> Erwin\n>>> cc: Board, Joseph\n>>> \n>>> From: J. P. Unger [mailto:ungerjp at yahoo.com]\n>>> Sent: Friday, May 16, 2014 10:59 PM\n>>> To: Erwin Dreessen; Amy Kempster; Nicole Desroches (home); Sol\n>>> Shuster; elina.here at hotmail.com; 'Jason Kania'\n>>> Subject: Fw: CIty of Ottawa Trees dataset\n>>> \n>>> Hi!\n>>> This came in...\n>>> I sent a quick reply with thanks, saying I'd forward it to the chair &\n>>> directors (cc'ing Joseph Potvin).\n>>> JP\n>>> \n>>> ----- Forwarded Message -----\n>>> From: Daniel Buijs <dbuijs at gmail.com>\n>>> To: contact at greenspace-alliance.ca\n>>> Cc: jpotvin at opman.ca\n>>> Sent: Friday, May 16, 2014 9:43:15 PM\n>>> Subject: CIty of Ottawa Trees dataset\n>>> \n>>> \n>>> Hi,\n>>> \n>>> Joseph Potvin forwarded a note about your upcoming meeting where you\n>>> will discuss the Ottawa Tree Canopy project. I thought you might find\n>>> it helpful to know (if you didn't already) that the City of Ottawa has\n>>> published a dataset of City-Owned street trees, available here:\n>>> \n>>> data.ottawa.ca\n>>> \n>>> It's available as a kml file. I found the kml file a bit too unwieldy,\n>>> so I wrote an R script that can extract the data into a more useful\n>>> format and intelligible plot. The plot below shows the trees of the\n>>> Glebe, colour coded by species, with dot sizes representing diameter.\n>>> Trees marked with an X have been treated for Emerald Ash Borer.\n>>> \n>>> If this is useful and/or of interest to you or your group, I can share\n>>> the scripts I used to extract the data and to produce the plot below.\n>>> \n>>> Daniel Buijs\n>>> \n>>> \n>>> \n>>> ---------- Forwarded message ----------\n>>> From: Erwin Dreessen <erwin_dreessen at ncf.ca>\n>>> Date: Thu, May 15, 2014 at 5:50 PM\n>>> Subject: Greenspace Alliance AGM - Thursday, May 29, 7 p.m.\n>>> To: green-news at greenspace-alliance.ca,\n>>> \n>>> \n>>> Hello Members and Friends,\n>>> \n>>> You are heartily invited to the Greenspace Alliance's Annual General\n>>> Meeting on Thursday, May 29, 2014, starting at 7 p.m. at the\n>>> Hintonburg Community Centre, 1064 Wellington Street West (Laurel\n>>> Room).\n>>> \n>>> Our feature presentation will be on Phase 1 of the Ottawa Tree Canopy\n>>> project.  Unfortunately, Regie Alam had to cancel but the project's\n>>> co-leader, Eric Jones, will present in his stead, assisted by Iola\n>>> Price.  This is a citizen science project that is estimating the tree\n>>> canopy within the urban boundary on a ward basis, using open data and\n>>> open source tools.\n>>> \n>>> The agenda is below.  Come early (6:45 p.m.) to renew your membership or\n>>> apply!\n>>> \n>>> A brief General Meeting will follow the AGM.\n>>> \n>>> Hope to see many of you there.\n>>> \n>>> Erwin\n>>> \n>>> _______________________________________________\n>>> R-UG-Ottawa mailing list\n>>> R-UG-Ottawa at r-project.org\n>>> https://stat.ethz.ch/mailman/listinfo/r-ug-ottawa\n>>> \n>> \n> \n> \n> \n> -- \n> Joseph Potvin\n> Operations Manager | Gestionnaire des opérations\n> The Opman Company | La compagnie Opman\n> jpotvin at opman.ca\n> Mobile: 819-593-5983\n\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0002.html>\n-------------- next part --------------\nA non-text attachment was scrubbed...\nName: OttawaTrees.R\nType: application/octet-stream\nSize: 1724 bytes\nDesc: not available\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0001.obj>\n-------------- next part --------------\nAn HTML attachment was scrubbed...\nURL: <https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140520/0c47cf4b/attachment-0003.html>",
       "body_snippet": "Hi Everyone,\n\nSince there seems to be some interest in exploring this a bit more, here's the more technical explanation of what I've done so far. I'm an R novice at best, so I would be very happy to l",
       "thread_id": "thread-b4cb98b0e371",
       "thread_depth": 3,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000121.html"
     },
     {
       "id": "msg-d1ffc551d51f",
@@ -686,6 +720,7 @@
       "thread_id": "thread-d1ffc551d51f",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000122.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140522/ab1756ee/attachment.pl"
       ]
@@ -706,7 +741,8 @@
       "body_snippet": "Hi David,\n\nI've only just joined the list. I would be very interested in attending the meeting. \n\nI'm not sure I could give a whole talk, but I can certainly participate in discussion about using R to",
       "thread_id": "thread-f5f5cf4c9f3c",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000123.html"
     },
     {
       "id": "msg-813d6565b7e5",
@@ -725,6 +761,7 @@
       "thread_id": "thread-813d6565b7e5",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000124.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140523/6f23044e/attachment.pl"
       ]
@@ -743,7 +780,8 @@
       "body_snippet": "I am currently planning a multi-agent model that will include\ngeospatial input and output data. I have not done this before and\nwould be interested in some orientation from someone who is\nexperienced ",
       "thread_id": "thread-084bc574245a",
       "thread_depth": 0,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000125.html"
     },
     {
       "id": "msg-11a55c5f18d8",
@@ -762,6 +800,7 @@
       "thread_id": "thread-11a55c5f18d8",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000126.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140527/4adbf280/attachment.pl"
       ]
@@ -783,6 +822,7 @@
       "thread_id": "thread-22c86152596d",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000127.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140528/c8bdd388/attachment.pl"
       ]
@@ -804,7 +844,8 @@
       "body_snippet": "R has several useful tools for dealing with and plotting geospatial \ndata. There may be speed considerations around data extraction, local \ncalculation or server, network speed, etc, as been discussed",
       "thread_id": "thread-11a55c5f18d8",
       "thread_depth": 1,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000128.html"
     },
     {
       "id": "msg-def63652ed9d",
@@ -820,11 +861,12 @@
         "<COL129-W13686D4A7372FEB704C88CE13A0@phx.gbl>",
         "<5387520E.5070904@gmail.com>"
       ],
-      "body_plain": "Thanks Paul,\n\nCertainly there's been a lot of progress in Netlogo + R (Netlogo is\nGPL licensed)\nhttp://cran.at.r-project.org/web/packages/RNetLogo/index.html\nhttp://finzi.psych.upenn.edu/R/library/RNetLogo/tutorial/Thiele_jss.pdf\n\nI'd hoped there was also R integration with Breve or RepastPy but I've\nnot been able to locate any particular integration with those two as I\nhave see so far with RNetlogo.  I'd prefer to do my work with\nR&Python, not R&Netlogo since I have later application extensibility\nI'd like to leave as straightforward work in Python.\n\nJoseph\n\n\nOn Thu, May 29, 2014 at 11:28 AM, Paul Gilbert <pgilbert902 at gmail.com> wrote:\n> R has several useful tools for dealing with and plotting geospatial data.\n> There may be speed considerations around data extraction, local calculation\n> or server, network speed, etc, as been discussed in the \"Interactive\n> geospatial data with Leaflet ...\" thread. Specific code examples can make it\n> a bit easier to focus on speed issues.\n>\n> On the other part of Joseph's question, regarding multi-agent modelling, I\n> am not aware of good solutions in R. (That does not mean they don't exist\n> and I would be interested to hear if anyone knows of something.) Multi-agent\n> modelling covers a lot of things and this is not my field, but in the\n> examples I have seen there are two sorts of problems that make R less than\n> ideal. The first is that the problems do not easily \"vectorize\", which means\n> speed is a problem. Typically, even with compiled languages, speed is an\n> issue for these models and people are looking toward multi-core, cluster, or\n> GPU processing. The second is the need for a \"language\" to define the model.\n> These languages tend to be somewhat specialized to the problem domain. Once\n> you decide on a language to define the model, the underlying computer\n> language for doing the computation is largely hidden.\n>\n> My approach to this would be to first consider the many already defined\n> languages for multi-agent modelling (see e.g.\n> http://en.wikipedia.org/wiki/Comparison_of_agent-based_modeling_software),\n> and then look at whether an interface from R to one of these would be useful\n> for doing plotting, summary statistics, etc, with the existing modelling\n> software handling the main computation. I have done this sort of thing with\n> some econometric modelling software and it can be relatively simple. R is\n> fairly good at interfacing to other things.\n>\n> Paul\n>\n> On 05/27/2014 07:00 AM, Amin Adatia wrote:\n>>\n>> I am interested in this as well. The kind of plot I looking to build\n>> is for distribution of Health Effects (Disease, Mortality, etc) at\n>> Locations and with a Time spread so we can see the progress or lack\n>> thereof in the application of Health Services; For example, Cancer\n>> Incidences over time and at various locations. This to perhaps\n>> identify the effect of the environment and/or Treatments.\n>>\n>>\n>> Regards Amin Adatia KnowTech Solutions Inc ( http://knowtech.ca )\n>> Mobile +1-613-864-8378\n>>\n>>> --Forwarded Message Attachment-- From: jpotvin at opman.ca To:\n>>> r-ug-ottawa at r-project.org Date: Mon, 26 May 2014 10:36:49 -0400\n>>> Subject: [OGRUG] Multi-agent modeling including geospatial data\n>>>\n>>> I am currently planning a multi-agent model that will include\n>>> geospatial input and output data. I have not done this before and\n>>> would be interested in some orientation from someone who is\n>>> experienced with the appropriate R packages.\n>>>\n>>> -- Joseph Potvin\n>>> jpotvin at opman.ca\n>>>\n>\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des op?rations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
+      "body_plain": "Thanks Paul,\n\nCertainly there's been a lot of progress in Netlogo + R (Netlogo is\nGPL licensed)\nhttp://cran.at.r-project.org/web/packages/RNetLogo/index.html\nhttp://finzi.psych.upenn.edu/R/library/RNetLogo/tutorial/Thiele_jss.pdf\n\nI'd hoped there was also R integration with Breve or RepastPy but I've\nnot been able to locate any particular integration with those two as I\nhave see so far with RNetlogo.  I'd prefer to do my work with\nR&Python, not R&Netlogo since I have later application extensibility\nI'd like to leave as straightforward work in Python.\n\nJoseph\n\n\nOn Thu, May 29, 2014 at 11:28 AM, Paul Gilbert <pgilbert902 at gmail.com> wrote:\n> R has several useful tools for dealing with and plotting geospatial data.\n> There may be speed considerations around data extraction, local calculation\n> or server, network speed, etc, as been discussed in the \"Interactive\n> geospatial data with Leaflet ...\" thread. Specific code examples can make it\n> a bit easier to focus on speed issues.\n>\n> On the other part of Joseph's question, regarding multi-agent modelling, I\n> am not aware of good solutions in R. (That does not mean they don't exist\n> and I would be interested to hear if anyone knows of something.) Multi-agent\n> modelling covers a lot of things and this is not my field, but in the\n> examples I have seen there are two sorts of problems that make R less than\n> ideal. The first is that the problems do not easily \"vectorize\", which means\n> speed is a problem. Typically, even with compiled languages, speed is an\n> issue for these models and people are looking toward multi-core, cluster, or\n> GPU processing. The second is the need for a \"language\" to define the model.\n> These languages tend to be somewhat specialized to the problem domain. Once\n> you decide on a language to define the model, the underlying computer\n> language for doing the computation is largely hidden.\n>\n> My approach to this would be to first consider the many already defined\n> languages for multi-agent modelling (see e.g.\n> http://en.wikipedia.org/wiki/Comparison_of_agent-based_modeling_software),\n> and then look at whether an interface from R to one of these would be useful\n> for doing plotting, summary statistics, etc, with the existing modelling\n> software handling the main computation. I have done this sort of thing with\n> some econometric modelling software and it can be relatively simple. R is\n> fairly good at interfacing to other things.\n>\n> Paul\n>\n> On 05/27/2014 07:00 AM, Amin Adatia wrote:\n>>\n>> I am interested in this as well. The kind of plot I looking to build\n>> is for distribution of Health Effects (Disease, Mortality, etc) at\n>> Locations and with a Time spread so we can see the progress or lack\n>> thereof in the application of Health Services; For example, Cancer\n>> Incidences over time and at various locations. This to perhaps\n>> identify the effect of the environment and/or Treatments.\n>>\n>>\n>> Regards Amin Adatia KnowTech Solutions Inc ( http://knowtech.ca )\n>> Mobile +1-613-864-8378\n>>\n>>> --Forwarded Message Attachment-- From: jpotvin at opman.ca To:\n>>> r-ug-ottawa at r-project.org Date: Mon, 26 May 2014 10:36:49 -0400\n>>> Subject: [OGRUG] Multi-agent modeling including geospatial data\n>>>\n>>> I am currently planning a multi-agent model that will include\n>>> geospatial input and output data. I have not done this before and\n>>> would be interested in some orientation from someone who is\n>>> experienced with the appropriate R packages.\n>>>\n>>> -- Joseph Potvin\n>>> jpotvin at opman.ca\n>>>\n>\n\n\n\n-- \nJoseph Potvin\nOperations Manager | Gestionnaire des opérations\nThe Opman Company | La compagnie Opman\njpotvin at opman.ca\nMobile: 819-593-5983",
       "body_snippet": "Thanks Paul,\n\nCertainly there's been a lot of progress in Netlogo + R (Netlogo is\nGPL licensed)\nhttp://cran.at.r-project.org/web/packages/RNetLogo/index.html\nhttp://finzi.psych.upenn.edu/R/library/RNe",
       "thread_id": "thread-11a55c5f18d8",
       "thread_depth": 2,
-      "month": "2014-05"
+      "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000129.html"
     },
     {
       "id": "msg-953dc13f76bd",
@@ -843,6 +885,7 @@
       "thread_id": "thread-953dc13f76bd",
       "thread_depth": 0,
       "month": "2014-05",
+      "source_url": "https://stat.ethz.ch/pipermail/r-ug-ottawa/2014q2/000130.html",
       "restored_from": [
         "https://stat.ethz.ch/pipermail/r-ug-ottawa/attachments/20140530/d092a69f/attachment.pl"
       ]
