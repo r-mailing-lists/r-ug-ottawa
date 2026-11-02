@@ -12,4 +12,4 @@ Automated mbox archive. Updated daily via GitHub Actions.
 
 ## Viewer
 
-Browse these archives at [r-mailing-lists.thecoatlessprofessor.com](https://r-mailing-lists.thecoatlessprofessor.com/lists/r-ug-ottawa/)
+Browse these archives at [archives.rstats.dev](https://archives.rstats.dev/lists/r-ug-ottawa/)
